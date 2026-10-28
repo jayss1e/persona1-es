@@ -1,0 +1,2552 @@
+[
+ {
+  "id": "talk_zmbityan_00001",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 8306,
+  "offset_fin": 8802,
+  "longitud_original_bytes": 496,
+  "limite_chars": 248,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Pero es, o sea, súper genial!<FFF5>  ¡Que sea zombi no significa que<FF03>puedas, tipo, invitarme contigo!<FF03>¡O sea, qué asco, perdedor!<FFF5>¡Guau! ¡Estoy, o sea, súper impactada<FF03>de que necesites a alguien como yo!<FFF5>Estás, tipo, súper seguro de ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00002",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 8808,
+  "offset_fin": 9196,
+  "longitud_original_bytes": 388,
+  "limite_chars": 194,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero, o sea, puro cuento, viejo!<FFF5> ¡O sea, Dios mío, qué fastidio! ¡No<FF03>sabes divertirme, viejo!<FFF5>   ¿O sea, qué tiene de divertido provocar a una<FF03>zombi?<FFF5>   No entiendo bien lo que dices,<FF03>viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00003",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 9202,
+  "offset_fin": 9558,
+  "longitud_original_bytes": 356,
+  "limite_chars": 178,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero, o sea, ¿me están invitando?<FFF5>¡Que sea zombi no significa que<FF03>puedas, tipo, invitarme contigo!<FF03>¡Llegas, tipo, tarde al show de perdedores!<FFF5> Esteee, ando, o sea, con prisa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00005",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 9592,
+  "offset_fin": 10030,
+  "longitud_original_bytes": 438,
+  "limite_chars": 219,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Tienes que, o sea, presumir que eres<FF03>tan buen cantante? ¡Eres, tipo,<FF03>un pesado al cuadrado!<FFF5>¡Estoy, o sea, alucinando! ¡Haces que<FF03>los cantantes de cuando vivía<FF03>suenen bien!<FFF5>  ¡Eres, o sea, súper malo! ¡Soy, tipo,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00006",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 10036,
+  "offset_fin": 10262,
+  "longitud_original_bytes": 226,
+  "limite_chars": 113,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " a<FF03>zombi, y soy más genial que tú!<FFF5>  Oye, chica, no te entiendo, o sea,<FF03>bien, pero tampoco me das miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00007",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 10268,
+  "offset_fin": 10692,
+  "longitud_original_bytes": 424,
+  "limite_chars": 212,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Soy, o sea, zombi! ¿Necesitas ayuda de<FF03>los muertos vivientes? ¡Ni de chiste!<FFF5>  ¡Estoy, tipo, súper sorprendida de que<FF03>alguien quiera mi ayuda!<FFF5>  ¡Oye! ¡Es, o sea, súper obvio que<FF03>lo estás fingiendo!<FFF5>   Me estás, tipo, halagando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00008",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 10700,
+  "offset_fin": 10742,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Seguro hay truco",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00009",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 10748,
+  "offset_fin": 10846,
+  "longitud_original_bytes": 98,
+  "limite_chars": 49,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Estoy, o sea, súper feliz de haberme<FF03>vuelto zombi!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00010",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 10852,
+  "offset_fin": 10984,
+  "longitud_original_bytes": 132,
+  "limite_chars": 66,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Eres, o sea, chistosísima, chica!<FF03>Ojalá nos hubiéramos conocido en vida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00011",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 10990,
+  "offset_fin": 11422,
+  "longitud_original_bytes": 432,
+  "limite_chars": 216,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Oye, hermana, o sea, no está<FF03>nada bien mentir!<FFF5>¡Eso fue, tipo, súper malo, pero<FF03>igual me reí!<FFF5> ¡Claro que sí! ¡Entiendes súper bien lo<FF03>fuerte que soy!<FFF5>   ¡Oye! Es, o sea, súper obvio que<FF03>no lo dices en serio",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00012",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 11428,
+  "offset_fin": 11526,
+  "longitud_original_bytes": 98,
+  "limite_chars": 49,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Estoy, o sea, súper feliz de haberme<FF03>vuelto zombi!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00013",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 11532,
+  "offset_fin": 11768,
+  "longitud_original_bytes": 236,
+  "limite_chars": 118,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Estás, tipo, súper torcido! ¡Pero estás<FF03>guapo, así que lo dejo pasar!<FFF5> ¿Te parezco tan fácil? Eso es, o sea,<FF03>súper feo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00014",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 11774,
+  "offset_fin": 11834,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Estoy, tipo, temblando de miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00015",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 11840,
+  "offset_fin": 12020,
+  "longitud_original_bytes": 180,
+  "limite_chars": 90,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Increíble! ¿¡Me estás, o sea, coqueteando!?<FF03>¡Estoy, o sea, súper feliz de haberme<FF03>vuelto zombi!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00016",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 12026,
+  "offset_fin": 12224,
+  "longitud_original_bytes": 198,
+  "limite_chars": 99,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Eso es chistosísimo, viejo!<FF03>¡Eres súper escandaloso!<FFF5>  ¡AbuuuUUUUUuuurrido!<FFF5>Ya basta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00017",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 12230,
+  "offset_fin": 12312,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me vas a, o sea, contagiar<FF03>tu gripe de tontería",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00018",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 12318,
+  "offset_fin": 12552,
+  "longitud_original_bytes": 234,
+  "limite_chars": 117,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Ajajajaja! ¡Súper fantabuloso!<FF03>¡Me va a dar un ataque de risa!<FFF5> ¿Vas a hablar conmigo? Qué súper<FF03>amable, viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00019",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 12558,
+  "offset_fin": 12778,
+  "longitud_original_bytes": 220,
+  "limite_chars": 110,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Esto, o sea, no es momento!<FF03>¡Soy, o sea, zombi! ¡Deberías estar, tipo,<FF03>súper nervioso para eso!<FFF5> O sea, guau",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00020",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 12784,
+  "offset_fin": 13214,
+  "longitud_original_bytes": 430,
+  "limite_chars": 215,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Las cosas de las que habla<FF03>la gente no han cambiado. Qué bien.<FFF5>¿Quieres, o sea, que te moleste? ¿Tienes,<FF03>tipo, cinco años, viejo?<FFF5>¿¡O sea, Dios mío, por qué hiciste eso!?<FF03>¡Eres un perdedor!<FFF5>  ¿Qué te pasa? Eres, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00021",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13220,
+  "offset_fin": 13244,
+  "longitud_original_bytes": 24,
+  "limite_chars": 12,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>súper sospechoso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00022",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13250,
+  "offset_fin": 13392,
+  "longitud_original_bytes": 142,
+  "limite_chars": 71,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Le das un regalo a alguien<FF03>como yo? Qué súper amable, viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00023",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13398,
+  "offset_fin": 13646,
+  "longitud_original_bytes": 248,
+  "limite_chars": 124,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿O sea, para qué querría algo<FF03>tan aburrido como ESO?<FFF5> ¿Me das un regalo? ¡Estoy, o sea,<FF03>súper feliz de haberme vuelto zombi!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00024",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13652,
+  "offset_fin": 13676,
+  "longitud_original_bytes": 24,
+  "limite_chars": 12,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Ay, viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00025",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13682,
+  "offset_fin": 13812,
+  "longitud_original_bytes": 130,
+  "limite_chars": 65,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Estás, tipo, súper<FF03>en la luna para dar discursos a<FF03>zombis",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00027",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13846,
+  "offset_fin": 14046,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡nada interesada!<FF03>¿Por qué no usas, o sea, el cerebro<FF03>al negociar?<FFF5> No entiendo, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00029",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 14072,
+  "offset_fin": 14124,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero<FF03>Estoy, tipo, súper conmovida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00030",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 14130,
+  "offset_fin": 14202,
+  "longitud_original_bytes": 72,
+  "limite_chars": 36,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Estás, tipo, súper seguro de ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00031",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 14208,
+  "offset_fin": 14506,
+  "longitud_original_bytes": 298,
+  "limite_chars": 149,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero, o sea, puro cuento, viejo!<FFF5> ¡O sea, Dios mío, qué fastidio! ¡No<FF03>sabes divertirme, viejo!<FFF5>   ¿O sea, qué tiene de divertido gritarle a<FF03>una zombi?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00032",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 14514,
+  "offset_fin": 15208,
+  "longitud_original_bytes": 694,
+  "limite_chars": 347,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<0056>",
+   "<0056>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Tienes, o sea, la personalidad más aburrida<FF03>DEL MUNDO! ¡Pero me súper gusta la gente<FF03>así!<FFF5>   Eh, obvio, soy, o sea, zombi. ¡Puedo<FF03>ver a través de tu sarcasmo!<FFF5>   <0056>chillido<0056> ¡Me estás, o sea, súper<FF03>apenando ya!<FFF5> ¡Eres súper genial, viejo! ¡Enséñame<FF03>la próxima vez!<FFF5>   ¡Qué torpe! Más te vale, o sea,<FF03>¡practicar más, porque eres malísimo!<FFF5>  No puedo, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00033",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 15214,
+  "offset_fin": 15354,
+  "longitud_original_bytes": 140,
+  "limite_chars": 70,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " bailar, ¡pero me alegra<FF03>solo mirar!<FFF5>Estás, tipo, súper seguro de ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00034",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 15360,
+  "offset_fin": 15866,
+  "longitud_original_bytes": 506,
+  "limite_chars": 253,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero, o sea, puro cuento, viejo!<FFF5> ¡O sea, Dios mío, qué fastidio! ¡No<FF03>sabes divertirme, viejo!<FFF5>   ¿O sea, qué tiene de divertido provocar a una<FF03>zombi?<FFF5>   ¿Eh? ¿Te gustan, o sea, súper mucho<FF03>las zombis? ¡Qué humano tan raro, viejo!<FFF5>   Tienes algún problema conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00035",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 15876,
+  "offset_fin": 16498,
+  "longitud_original_bytes": 622,
+  "limite_chars": 311,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Puedes,<FF03>o sea, dejar de mirarme ya, raro!<FFF5>  ¡Aunque me esté pudriendo, es, o sea,<FF03>como si los chicos no dejaran de mirarme!<FFF5> ¡Eso es, o sea, chistosísimo! ¡Tu sentido<FF03>del humor es súper genial!<FFF5> ¡Estás mintiendo! ¡No deberías,<FF03>o sea, inventar cosas!<FFF5>   Solo quieres hablar conmigo<FF03>y eso, ¿eh? Bueno, SÍ soy súper linda",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00036",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 16504,
+  "offset_fin": 16734,
+  "longitud_original_bytes": 230,
+  "limite_chars": 115,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Eres TAN tonto por creer algo<FF03>así!<FFF5>  ¿O sea, en serio? Nunca había<FF03>oído una historia así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00037",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 16740,
+  "offset_fin": 16906,
+  "longitud_original_bytes": 166,
+  "limite_chars": 83,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Qué chistoso! ¡Los humanos no saben,<FF03>o sea, lo que es el miedo de verdad!<FFF5>  Qué genial",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00038",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 16912,
+  "offset_fin": 17296,
+  "longitud_original_bytes": 384,
+  "limite_chars": 192,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Eres, o sea, bastante<FF03>genial, chica!<FFF5>¡Uuuh, qué súper genial!<FF03>¡Eres, o sea, increíble, hermana!<FFF5>   ¿Tienes que, o sea, presumir que eres<FF03>tan buen cantante? ¡Eres, tipo,<FF03>un pesado al cuadrado!<FFF5>Súper genial",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00039",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 17302,
+  "offset_fin": 17376,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me está derritiendo<FF03>el corazón de zombi",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00040",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 17382,
+  "offset_fin": 17828,
+  "longitud_original_bytes": 446,
+  "limite_chars": 223,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Qué fue todo eso? ¿Vamos a, o sea,<FF03>jugar a la casita?<FFF5>¡Qué asco! ¿¡Qué te pasa!?<FF03>¡No puedes burlarte de mí!<FFF5>¿Ese es, o sea, tu estilo para negociar?<FF03>¡Es, tipo, súper moderno!<FFF5>  No entiendo bien lo que dices,<FF03>hermana",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00041",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 17834,
+  "offset_fin": 18156,
+  "longitud_original_bytes": 322,
+  "limite_chars": 161,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero, o sea, ¿me están invitando?<FFF5>¡Me quieres, o sea, súper usar por<FF03>mis poderes de zombi! ¡Lárgate!<FFF5> ¿Así que hasta alguien como yo puede servir?<FF03>Estoy, o sea, súper feliz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00042",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 18162,
+  "offset_fin": 18440,
+  "longitud_original_bytes": 278,
+  "limite_chars": 139,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Tienes, o sea, la personalidad más aburrida<FF03>DEL MUNDO! ¡Pero me súper gusta la gente<FF03>así!<FFF5>¡Estoy, o sea, SÚPER molesta!<FFF5>  Digas lo que digas, sigo siendo,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00043",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 18446,
+  "offset_fin": 18506,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>o sea, solo una zombi, ¿sabes?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00045",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 18550,
+  "offset_fin": 18906,
+  "longitud_original_bytes": 356,
+  "limite_chars": 178,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<0056>",
+   "<0056>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡pero a ti te parece<FF03>bien!? ¡Eres el mejor humano del mundo!<FFF5> ¡Soy, o sea, zombi, pero sigo siendo<FF03>chica! ¡Ni loca seré la mejor amiga<FF03>de otra chica!<FFF5>   <0056>sonrojo<0056> Me gustas, Ayase",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00046",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 18932,
+  "offset_fin": 18954,
+  "longitud_original_bytes": 22,
+  "limite_chars": 11,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Pobre Ayase",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00047",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 18960,
+  "offset_fin": 19014,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Quiero, o sea,<FF03>ayudarte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00048",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 19020,
+  "offset_fin": 19238,
+  "longitud_original_bytes": 218,
+  "limite_chars": 109,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Cómo me volví zombi es, o sea, súper<FF03>más triste que esa historia!<FFF5> ¡Estoy, o sea, súper feliz de haberme<FF03>vuelto zombi!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00049",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 19244,
+  "offset_fin": 19314,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Estás, tipo, súper seguro de ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00050",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 19320,
+  "offset_fin": 19652,
+  "longitud_original_bytes": 332,
+  "limite_chars": 166,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero, o sea, puro cuento, chica!<FFF5> ¡O sea, Dios mío, qué fastidio! ¡No<FF03>sabes divertirme, Ayase!<FFF5> ¿O sea, qué tiene de divertido provocar a una<FF03>zombi?<FFF5>   ¡No me, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00051",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 19658,
+  "offset_fin": 19890,
+  "longitud_original_bytes": 232,
+  "limite_chars": 116,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " subestimes!<FF03>¡En serio, te voy a, o sea, comer el cerebro<FF03>y volverte zombi también!<FFF5>   Eres súper rara, hermana",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00052",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 19896,
+  "offset_fin": 20048,
+  "longitud_original_bytes": 152,
+  "limite_chars": 76,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Este, holaaaa, ¿soy, o sea, zombi?<FF03>Nada de lo que digas me afecta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00053",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 20054,
+  "offset_fin": 20184,
+  "longitud_original_bytes": 130,
+  "limite_chars": 65,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Estás súper en la luna para intentar<FF03>convencer a una zombi!<FFF5>Estoy",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00054",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 20190,
+  "offset_fin": 20390,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡nada interesada!<FF03>¿Por qué no usas, o sea, el cerebro<FF03>al negociar?<FFF5> No entiendo, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00056",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 20416,
+  "offset_fin": 20468,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero<FF03>Estoy, tipo, súper conmovida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00057",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 20474,
+  "offset_fin": 21434,
+  "longitud_original_bytes": 960,
+  "limite_chars": 480,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿¡Por qué te alteras conmigo!?<FF03>¡O sea, tranquilízate!<FFF5>  ¿O sea, qué tiene de divertido regañar a una<FF03>zombi?<FFF5>   ¡Guau, chica! ¡Tu cara de mala es súper<FF03>impactante!<FFF5>  Hermana, si tienes algún asunto<FF03>conmigo, me lo puedes decir.<FFF5> ¡Como SEA! ¡Anda, o sea, ignórame!<FFF5>¿Me odias, o sea, o algo?<FFF5> Viejo, si tienes algún asunto<FF03>conmigo, me lo puedes decir.<FFF5> ¡Como SEA! ¡Anda, o sea, ignórame!<FFF5>¿Me odias, o sea, o algo?<FFF5> Estás, tipo, súper seguro de ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00058",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 21440,
+  "offset_fin": 22000,
+  "longitud_original_bytes": 560,
+  "limite_chars": 280,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero, o sea, puro cuento, viejo!<FFF5> ¡O sea, Dios mío, qué fastidio! ¡No<FF03>sabes divertirme, viejo!<FFF5>   ¿O sea, qué tiene de divertido<FF03>amenazar a una zombi?<FFF5>  ¿¡Por qué gritas!? ¡Eres un<FF03>tontote!<FFF5>Uf, ¿qué fue eso? Creo que<FF03>estás, o sea, perdiendo la cabeza, viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00059",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 22006,
+  "offset_fin": 22232,
+  "longitud_original_bytes": 226,
+  "limite_chars": 113,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Estás, o sea, súper loco!<FF03>¡Pero eso me gusta!<FFF5> ¡Eres lo máximo, viejo! ¡No sabía,<FF03>o sea, que sabías magia!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00060",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 22238,
+  "offset_fin": 22484,
+  "longitud_original_bytes": 246,
+  "limite_chars": 123,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Puedo<FF03>unirme a tu club de fans?<FFF5>  Me parece, o sea, súper bien lo que<FF03>quieras hacer. Solo no escupas fuego<FF03>ni nada así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00061",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 22490,
+  "offset_fin": 22718,
+  "longitud_original_bytes": 228,
+  "limite_chars": 114,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Hazlo otra vez! ¡Esta vez sí voy a<FF03>descubrir el truco!<FFF5>   Las cosas de las que hablas son, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00063",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 22758,
+  "offset_fin": 23280,
+  "longitud_original_bytes": 522,
+  "limite_chars": 261,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Sabes, las palabras, o sea, no llegan lejos.<FF03>¡Pero las cosas materiales duran para siempre!<FFF1><FFF5> ¿Al fin nos conocemos, y eso es, o sea,<FF03>todo lo que dices? ¡Qué malo!<FFF5>  ¡Es súper inútil, bocón!<FF03>¿Entiendes? ¡Dame algo!<FFF1><FFF5>  De qué sirve decirme ESO",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00065",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23318,
+  "offset_fin": 23392,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡nada interesada!<FF03>Me quiero ir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00066",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23398,
+  "offset_fin": 23582,
+  "longitud_original_bytes": 184,
+  "limite_chars": 92,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Lo sabía! ¡Me llevo muuucho mejor<FF03>con los humanos que con los demonios!<FFF5>  Esto es súper divertido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00067",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23588,
+  "offset_fin": 23678,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ojalá pudiera<FF03>hablar contigo, o sea, para siempre",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00070",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23740,
+  "offset_fin": 23800,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿En serio?<FF03>Qué hago",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00071",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23808,
+  "offset_fin": 23996,
+  "longitud_original_bytes": 188,
+  "limite_chars": 94,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Si quieres, o sea, que te ayude,<FF03>no va a funcionar nunca si yo no<FF03>recibo algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00072",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 24002,
+  "offset_fin": 24446,
+  "longitud_original_bytes": 444,
+  "limite_chars": 222,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5> ¡No!<FFF5>¡LALALALA! ¡No escucho peticiones<FF03>así! ¡Pero tú escucha las mías!<FFF1><FFF5>   Entonces, o sea, ¿para qué vas a usar<FF03>mis poderes?<FFF5>  Solo intentas, o sea, engañarme<FF03>con esa palabrería",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00073",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 24452,
+  "offset_fin": 24496,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Eso significa, o sea",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00074",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 24502,
+  "offset_fin": 24652,
+  "longitud_original_bytes": 150,
+  "limite_chars": 75,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿que me quieres?<FF03>¡Uuuuh, cuéntamelo todo!<FFF5>   Es lindo que me, o sea, necesiten",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00075",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 24658,
+  "offset_fin": 24688,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Lo haces, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00076",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 24694,
+  "offset_fin": 24918,
+  "longitud_original_bytes": 224,
+  "limite_chars": 112,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿a propósito?<FF03>Ya entendí, así que, o sea, ve al grano.<FFF5>Creo que la gente que no es normal es<FF03>súper mejor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00077",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 24924,
+  "offset_fin": 25278,
+  "longitud_original_bytes": 354,
+  "limite_chars": 177,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡No puedes burlarte de mí solo porque<FF03>soy zombi! ¡Déjame en paz, perdedor!<FFF5>¡Si alguien me molesta mucho,<FF03>ni me importa! ¡Peleo con él!<FFF5>   Vaya, qué distraído",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00078",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 25284,
+  "offset_fin": 25426,
+  "longitud_original_bytes": 142,
+  "limite_chars": 71,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Sé que soy, o sea, zombi, pero es<FF03>súper feo que me trates así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00079",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 25432,
+  "offset_fin": 25720,
+  "longitud_original_bytes": 288,
+  "limite_chars": 144,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Sigo siendo, o sea, joven y eso, pero<FF03>tú eres, tipo, años luz más joven!<FFF5>   Estás, o sea, reprobando tu<FF03>negociación. Ponte las pilas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00080",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 25726,
+  "offset_fin": 25838,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>No sabía que hubiera artistas<FF03>callejeros por aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00081",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 25844,
+  "offset_fin": 26122,
+  "longitud_original_bytes": 278,
+  "limite_chars": 139,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Eso fue súper genial!<FFF5>  ¡Viejo, tu torpeza no tiene límites!<FFF5> ¡Eres malísimo! ¡Lárgate!<FFF5>  O sea, qué fue todo eso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00082",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 26130,
+  "offset_fin": 26352,
+  "longitud_original_bytes": 222,
+  "limite_chars": 111,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡El<FF03>manicomio llamó, te están buscando!<FFF5>  ¿Q-Qué intentas, o sea, decir?<FF03>Me estás súper confundiendo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00083",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 26358,
+  "offset_fin": 26386,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Eso no estuvo,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00084",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 26392,
+  "offset_fin": 26714,
+  "longitud_original_bytes": 322,
+  "limite_chars": 161,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " o sea, nada mal!<FFF5>  ¡O sea, jaja! ¡Qué chistoso eres! ¡Podría,<FF03>o sea, verte para siempre!<FFF5> ¡O sea, Dios mío, hacía siglos que<FF03>alguien no se interesaba en mí!<FFF5> Estás, o sea,",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00085",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 26720,
+  "offset_fin": 27160,
+  "longitud_original_bytes": 440,
+  "limite_chars": 220,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿intentando seducirme?<FF03>¿No te importa que esté un poco podrida?<FFF5>   ¿¡Te burlas de mí!? ¡Debes estar<FF03>buscando que te pegue!<FFF5>¡Los zombis con los zombis, y los humanos<FF03>con los humanos! ¡Así es, o sea, la cosa!<FFF5>  Tengo algo de miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00086",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 27166,
+  "offset_fin": 27200,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Tengo algo de miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00088",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 27230,
+  "offset_fin": 27946,
+  "longitud_original_bytes": 716,
+  "limite_chars": 358,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Olvidé cómo sentir<FF03>emoción, pero ya me está volviendo.<FFF5>  ¡Ese ligue es tan del año pasado! Pero<FF03>¡creo que es algo clásico!<FFF5>  ¡Eres, o sea, buen actor!<FFF5> ¡Ya me gustas, así que, o sea, no<FF03>necesitas decir tonterías así!<FFF5>  ¡Dios mío, qué drama! ¿¡Quieres parar!?<FFF5> ¡Si no quieres hacerme enojar, más<FF03>te vale escucharme, ¿sí!?<FFF1><FFF5>Algo no cuadra",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00089",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 27952,
+  "offset_fin": 27986,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Se siente<FF03>sospechoso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00090",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 27992,
+  "offset_fin": 28052,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Seguro no tramas nada bueno",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00091",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 28058,
+  "offset_fin": 28260,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡O sea, nunca imaginé ser yo la que<FF03>se siente superior! ¡Estoy, o sea, súper<FF03>feliz de haberme vuelto zombi!",
+  "notas": "excede 204>202",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00092",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 28266,
+  "offset_fin": 28652,
+  "longitud_original_bytes": 386,
+  "limite_chars": 193,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Esas actitudes son súper lindas.<FFF5> Tienes, o sea, mi carta, ¿no?<FF03>Como que la huelo.<FF02><FF04>Apúrate y vuélveme una Persona<FF03>de piel hermosa, ¿sí?<FFEF> Eres súper especial, así que",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00093",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 28658,
+  "offset_fin": 28782,
+  "longitud_original_bytes": 124,
+  "limite_chars": 62,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFEF>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ten.<FFEF>¡AbuuUUUUUUuuurrido!<FFEF>  ¡Algo está súper raro!<FFEF>   Ah, espera",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00094",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 28788,
+  "offset_fin": 28996,
+  "longitud_original_bytes": 208,
+  "limite_chars": 104,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No le doy mi carta<FF03>a debiluchos. ¡Suerte poniéndote fuerte!<FFEF>  En fin, supongo que puedes quedarte con esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00095",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 29002,
+  "offset_fin": 29452,
+  "longitud_original_bytes": 450,
+  "limite_chars": 225,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿¡Sabes qué sería súper chistoso!? ¡Que<FF03>la próxima vez que nos veamos seas, o sea,<FF03>zombi también! ¡Ajajaja!<FFEF>  ¡También puedes quedarte con esto!<FFEF> Como sea, si no necesitas mi carta,<FF03>está bien. Me largo.<FFF5>   O sea, aquí está mi carta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00097",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 29478,
+  "offset_fin": 29542,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>hazme hermosa una vez más",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00098",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 29550,
+  "offset_fin": 29732,
+  "longitud_original_bytes": 182,
+  "limite_chars": 91,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>¡Te daré esto, pero tienes que<FF03>dejarme ir esta vez, ¿sí!?<FFEF>   Me dan escalofríos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00099",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 29738,
+  "offset_fin": 29790,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me quiero ir<FF03>a otro lado",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00100",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 29796,
+  "offset_fin": 30148,
+  "longitud_original_bytes": 352,
+  "limite_chars": 176,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> ¿Por qué no te largas de una vez?<FF03>¡Puedes quedarte con esto a cambio!<FFEF>   O sea, podría devorarte cuando<FF03>quisiera, pero dejarte vivo también<FF03>estaría bien, supongo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00101",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 30154,
+  "offset_fin": 30410,
+  "longitud_original_bytes": 256,
+  "limite_chars": 128,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ¡Te voy a, o sea, dar mi carta!<FFEF> ¡Soy, o sea, un genio! ¡Me comeré a la gente<FF03>que no te cae bien!<FF02><FF04>Pero no puedo acompañarte así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00102",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 30416,
+  "offset_fin": 30628,
+  "longitud_original_bytes": 212,
+  "limite_chars": 106,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   ¡Ya sé! ¡Toma mi carta! ¡Como no puedo<FF03>comer tanto, que lo haga<FF03>una Persona!<FFEF> Si peleo contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00103",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 30634,
+  "offset_fin": 30770,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " creo que hasta mi corazón<FF03>se volvería, o sea, zombi. Quizá debería<FF03>irme y ya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00104",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 30776,
+  "offset_fin": 30998,
+  "longitud_original_bytes": 222,
+  "limite_chars": 111,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Lo aceptarás, ¿verdad? ¿O no<FF03>lo quieres porque es mío? Puedes<FF03>tirarlo después si quieres",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00105",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 31004,
+  "offset_fin": 31102,
+  "longitud_original_bytes": 98,
+  "limite_chars": 49,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Aún hay, o sea, muchas cosas<FF03>que quiero hacer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00106",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 31134,
+  "offset_fin": 31416,
+  "longitud_original_bytes": 282,
+  "limite_chars": 141,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡Te daré mi carta! Así<FF03>puedes perdonar y olvidar, ¿no?<FFEF> ¿Por qué quieres pelear? Qué asco.<FF03>Es, o sea, más divertido jugar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00107",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 31422,
+  "offset_fin": 31526,
+  "longitud_original_bytes": 104,
+  "limite_chars": 52,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Hacía, o sea, siglos que no me<FF03>topaba con un humano",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00108",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 31532,
+  "offset_fin": 32068,
+  "longitud_original_bytes": 536,
+  "limite_chars": 268,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Me das algo<FF03>para celebrar?<FFF1><FFF5>¡Hoy me levanté, o sea, con el pie<FF03>izquierdo de la tumba! ¡Si no te largas,<FF03>te vas a arrepentir!<FFF5>¡Si quieres que, o sea, pase tiempo<FF03>contigo, más vale que haya un regalo<FF03>o dos esperando!<FFF1><FFF5>No puedo dejar de temblar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00109",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 32074,
+  "offset_fin": 32134,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>O sea, tu cara es súper horrible",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00110",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 32140,
+  "offset_fin": 32268,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Tu cara da, o sea, súper miedo! No<FF03>quiero negociar contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00111",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 32274,
+  "offset_fin": 32354,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Hoy me siento súper fantabulosa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00112",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 32360,
+  "offset_fin": 32944,
+  "longitud_original_bytes": 584,
+  "limite_chars": 292,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Negociamos?<FFF5>  ¡Hoy va a ser, o sea, mi día de suerte!<FF03>¡Quizá alguien me dé un regalo!<FFF1><FFF5>  <FFED>¡Hoy estoy súper ocupada, así que si<FF03>tienes algo que decir, que sea simple!<FFF5>  <FFEE>¡Hoy estoy súper ocupada, pero si<FF03>tienes algo que darme, haré tiempo!<FFF1><FFF5><FFEE>Tengo miedo, pero, o sea, algo de curiosidad",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00113",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 32950,
+  "offset_fin": 33010,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Qué tal si negocias conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00114",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 33018,
+  "offset_fin": 33174,
+  "longitud_original_bytes": 156,
+  "limite_chars": 78,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <FFEC>Haces un movimiento raro, y me regreso<FF03>a la tumba de donde salí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00115",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 33180,
+  "offset_fin": 34030,
+  "longitud_original_bytes": 850,
+  "limite_chars": 425,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FFF5>",
+   "<FFED>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFEE>¡Ay! ¡Creo que tus ojos me van a<FF03>conquistar por completo!<FFF5><FFEB>¡Oye! ¡Charlemos!<FFF5>  <FFED>¡Tú no! ¡Qué asco! ¡Me refería al otro!<FFF5><FFED>Seré directa, pero si<FF03>¡intentas, o sea, matarme, habrá pelea!<FFF5><FFEB>¡Eres justo el tipo de humano que podría<FF03>atrapar! ¡Ya imagino lo que te haría!<FFF5>   <FFED>¡Odio al máximo a la gente como tú!<FF03>¡Te ves, o sea, súper tranquilo y eso!<FF03>¡Dame un poco de esa felicidad!<FFF1><FFF5>  <FFEC>Yo también fui humana, o sea, no hace<FF03>mucho",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00116",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 34036,
+  "offset_fin": 34204,
+  "longitud_original_bytes": 168,
+  "limite_chars": 84,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Tenlo en cuenta si quieres<FF03>negociar conmigo, ¿sí?<FFF5> <FFEB>Esto se siente súper raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00117",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 34210,
+  "offset_fin": 34284,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Te estás<FF03>o sea, volviendo valioso para mí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00118",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 34290,
+  "offset_fin": 34702,
+  "longitud_original_bytes": 412,
+  "limite_chars": 206,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Entonces, o sea, ¿qué me quieres pedir?<FFEF>¡Qué fastidio eres! ¡Ni quiero,<FF03>o sea, verte! ¡Lárgate, o<FF03>te como el cerebro!<FFEF>   ¿Vas a acabar con mi existencia? Está<FF03>bien, seguro es mejor que estar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00120",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 34738,
+  "offset_fin": 34842,
+  "longitud_original_bytes": 104,
+  "limite_chars": 52,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Por alguna razón, me siento, o sea,<FF03>cálida contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00121",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 34848,
+  "offset_fin": 34992,
+  "longitud_original_bytes": 144,
+  "limite_chars": 72,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Quieres pedirme algo, ¿verdad?<FF03>¡Pues suéltalo ya! ¡Uf!<FFEF> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00122",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 34998,
+  "offset_fin": 35062,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "Escucharé lo que quieras",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00123",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 35068,
+  "offset_fin": 35110,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Pero primero hablemos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00124",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 35116,
+  "offset_fin": 35264,
+  "longitud_original_bytes": 148,
+  "limite_chars": 74,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> ¡O sea, al diablo la lógica! ¡Solo quiero<FF03>serte útil porque te gusté!<FFEF> ",
+  "notas": "excede 150>148",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00125",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 35270,
+  "offset_fin": 35408,
+  "longitud_original_bytes": 138,
+  "limite_chars": 69,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡Ya entendí! ¡Esto solo es<FF03>un sueño! ¡Un sueño de zombi! ¡Síííí!<FFF5>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00126",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 35414,
+  "offset_fin": 35536,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡Ni me habría molestado<FF03>contigo, sabes!<FFF5>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00127",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 35542,
+  "offset_fin": 35830,
+  "longitud_original_bytes": 288,
+  "limite_chars": 144,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡A decir verdad, me gustas<FF03>desde hace mucho! ¡N-No<FF03>miento!<FFF5>  Lo único que hace girar el mundo<FF03>de una chica es el dinero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00128",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 35836,
+  "offset_fin": 36240,
+  "longitud_original_bytes": 404,
+  "limite_chars": 202,
+  "tokens_protegidos": [
+   "<FFF8>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Así que dame <FFF8><FF03>yenes!<FFEF> ¡Gracias, papito!<FFF5>   ¡Oye, no te alcanza! ¡O sea,<FF03>en serio! ¡Los pobres son tan de la década<FF03>pasada!<FFF5>   Ah, no tienes dinero, ¿eh?<FFF5> ¡Si así va a ser, mejor te<FF03>arranco el cerebro!<FFF5>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00129",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 36246,
+  "offset_fin": 36314,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "Te lo juro, no vas a entrar al cielo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00130",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 36320,
+  "offset_fin": 36432,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Piedras de vida! ¡O sea, quiero una!<FF03>¡Dame una!<FFEF>   Ahhh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00132",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 36470,
+  "offset_fin": 36696,
+  "longitud_original_bytes": 226,
+  "limite_chars": 113,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Oye! ¡Si no tienes, deberías<FF03>decirlo! ¡En serio, eso es, o sea,<FF03>súper grosero!<FFF5>   Hoy no es mi día de suerte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00133",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 36702,
+  "offset_fin": 36824,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Vi a otras<FF03>personas que parecían tener<FF03>piedras de vida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00134",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 36830,
+  "offset_fin": 37102,
+  "longitud_original_bytes": 272,
+  "limite_chars": 136,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Más te vale cuidarte, o te como<FF03>el cerebro!<FFF5>   Eres, o sea, súper tacaño. No sirve<FF03>de nada hablar con humanos como<FF03>tú",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00135",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37108,
+  "offset_fin": 37274,
+  "longitud_original_bytes": 166,
+  "limite_chars": 83,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF4>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Lo diré de una vez! Quiero<FF03>a <FFF4>!<FFEF>Para una chica, solo dos cosas son eternas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00136",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37280,
+  "offset_fin": 37314,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Las gemas y los zombis",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00138",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37358,
+  "offset_fin": 37538,
+  "longitud_original_bytes": 180,
+  "limite_chars": 90,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Vas a rechazar el único deseo de<FF03>una pobre chica como yo? ¡Súper malo!<FFF5> Está bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00139",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37544,
+  "offset_fin": 37622,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<0028>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Presentía que estarías<FF03>todo, o sea, <0028>No",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00140",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37630,
+  "offset_fin": 37720,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Comparte el calor de tu cuerpo vivo<FF03>conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00141",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37726,
+  "offset_fin": 37766,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Ahhh, qué refrescante",
+  "notas": "excede 42>40",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00142",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37772,
+  "offset_fin": 38030,
+  "longitud_original_bytes": 258,
+  "limite_chars": 129,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿No aprendiste que, o sea, se<FF03>supone que hay que ayudar al necesitado? ¡Qué<FF03>perdedor con mayúscula!<FFF5>Bueno, o sea, soy zombi después de todo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00143",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 38036,
+  "offset_fin": 38098,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>El mundo es bastante frío conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00144",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 38104,
+  "offset_fin": 38182,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Bueno, o sea, soy zombi después de todo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00145",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 38188,
+  "offset_fin": 38250,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>El mundo es bastante frío conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zmbityan_00000",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 2,
+  "offset_fin": 8300,
+  "longitud_original_bytes": 8298,
+  "texto_original": null,
+  "texto_traducido": " <7895> <789D> <E8A2> <38A4>   <1820> <B820> <9821> <2022> <A822> <3823> <9823> <3024> <1825> <8025> <3826> <F026> <8027> <2028> <9828> <1029> <8829> <002A> <682A> <F02A> <502B> <B82B> <282C> <A82C> <102D> <982D> <002E> <482E> <002F> <802F> <A82F> <2030> <A030> <1031> <D831> <7032> <E832> <6033> <C833> <5834> <B834> <5835> <0036> <B836> <3837> <C037> <5038> <B838> <6039> <F039> <583A> <B83A> <503B> <B83B> <403C> <D03C> <303D> <C83D> <683E> <F83E> <783F> <F03F> <8040> <E840> <6841> <F041> <C842> <8043> <E843> <5844> <D044> <5045> <E845> <7046> <F846> <9847> <C847> <5848> <F048> <A849> <E849> <504A> <C84A> <304B> <C04B> <504C> <B04C> <784D> <C04D> <584E> <C84E> <804F> <0050> <7850> <D850> <3851> <C051> <1052> <5852> <E052> <3053> <7853> <0054> <9054> <0055> <7055> <F855> <6056> <1857> <E057> <7858> <E858> <8059> <185A> <B05A> <005B> <685B> <F85B> <885C> <085D> <C85D> <D85D> <805E> <F05E> <885F> <0860> <5860> <F060> <6061> <F861> <8862> <C862> <6063> <F063> <8064> <F864> <3065> <8065> <D065> <7066> <F866> <3067> <B067> <4068> <E068> <6069> <F869> <206A> <486A> <E06A> <606B> <986B> <306C> <806C> <006D> <606D> <A06D> <706E> <C06E> <B86F> <0070> <2870> <6070> <0071> <5071> <1872> <4872> <D872> <7073> <F873> <6874> <0075> <D075> <1876> <D876> <8877> <4078> <2079> <9879> <287A> <C07A> <807B> <587C> <087D> <907D> <187E> <907E> <307F> <C87F> <6880> <0081> <A081> <2082> <4882> <9882> <2083> <C883> <A084> <6885> <F885> <3886> <0087> <B887> <2888> <B088> <3089> <C089> <508A> <D08A> <808B> <208C> <488C> <E88C> <188D> <908D> <E88D> <488E> <788E> <288F> <E08F> <5090> <F890> <5091> <D091> <F091> <9092> <0093> <6093> <9093> <4894> <E094> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>No entiendo bien lo que dices,<FF03>viejo",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 4149
+ },
+ {
+  "id": "talk_zmbityan_00026",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 13818,
+  "offset_fin": 13840,
+  "longitud_original_bytes": 22,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Estoy",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 11
+ },
+ {
+  "id": "talk_zmbityan_00064",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23288,
+  "offset_fin": 23312,
+  "longitud_original_bytes": 24,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Estoy",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 12
+ },
+ {
+  "id": "talk_zmbityan_00044",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 18512,
+  "offset_fin": 18544,
+  "longitud_original_bytes": 32,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Soy zombi",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 16
+ },
+ {
+  "id": "talk_zmbityan_00068",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 23684,
+  "offset_fin": 23710,
+  "longitud_original_bytes": 26,
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Así que, o sea,",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 13
+ },
+ {
+  "id": "talk_zmbityan_00087",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 27206,
+  "offset_fin": 27224,
+  "longitud_original_bytes": 18,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>O sea, guau",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 9
+ },
+ {
+  "id": "talk_zmbityan_00131",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 36438,
+  "offset_fin": 36464,
+  "longitud_original_bytes": 26,
+  "texto_original": null,
+  "texto_traducido": " Es tan cálida",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 13
+ },
+ {
+  "id": "talk_zmbityan_00137",
+  "archivo_origen": "talk/zmbityan.bin",
+  "offset_inicio": 37320,
+  "offset_fin": 37352,
+  "longitud_original_bytes": 32,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   O sea, no puede ser",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 16
+ }
+]

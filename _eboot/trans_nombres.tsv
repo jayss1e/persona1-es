@@ -1,0 +1,405 @@
+# Correcciones de nombres del EBOOT (objetos, equipo, habilidades, arcanos).
+# Inglés exacto del inventario <TAB> español. Las aplica tools/eboot_nombres.py.
+# Los nombres propios (Personas, demonios, hechizos, armas con nombre) se quedan igual.
+# Cada nombre en español debe tener a lo más las letras del inglés, porque eboot_apply.py
+# solo escribe sobre el hueco del original. Por eso se abrevia con punto ("Inc. Fue.") y
+# las series Jagd, Sturm y Spiegel se quedan en inglés. Diamond, Emerald, Opal, Garnet,
+# Topaz, Absorb, Gun y puke no están aquí, conservan la traducción anterior.
+en#d9a96729d575ef68	Fichas
+en#10700510453d27a3	mOjos Petra
+en#4ee72ede6c1e3394	mOjo Inf.
+en#f9ad54ceda7c4e01	mOjo Culpa
+en#afd6cc9fc776a6b1	mOjo Terror
+en#8aaad98c19f54de6	Hula Infortunio
+en#72dffc8cc9223c64	Tango Disipador
+en#ea59259a477ec486	Vals de Tristeza
+en#df9765a386f8d654	Arrullo
+en#fe74a4e8edbc808d	Voz Pánico
+en#bac5f5c52cd4dc9b	Voz Amarre
+en#3f1c8da975a10246	Canto Furia
+en#3e85145801886c32	mBeso Demonio
+en#dd182cae82694da6	mRisa Cruel
+en#fbe64015983e81d4	mMano Letal
+en#6b8a9060fc02302d	mSoplo Fuego
+en#6d2d2ac0190d2478	Soplo Frío
+en#33b6e22792476922	Soplo Tóxico
+en#70954193cf9efb3e	Vaho Bruma
+en#6d7afa90366d9fd8	Muro Agua
+en#749a84a16bc400d0	Cese Azul
+en#ccf93958c963fb0b	Ciclón Celestial
+en#f44363d21413192b	Vórtice Tierra
+en#27d173d4091dcc7b	,Caída Inf
+en#2bc21c5bbd4b3037	Caer Gokuraku
+en#f430d417050c3484	Impacto Este
+en#9156608f6119e5f1	Golpe Oeste
+en#509cd51d0e5ca382	nInvoca
+en#d229ca0aca5fa818	Mord. Tóx.
+en#50b5cd18d18fef18	Mordisco
+en#72b02d094e4f0752	Mord. Vir.
+en#d9135dfb7910ccc4	Mord. Roca
+en#9e288c239107b725	Zarpazo
+en#edf2bace93120681	Garra Tóx.
+en#2749861a60d01316	Garra Atu
+en#e26627e409d5d154	Garra Vir.
+en#8ef65d03f07a48c5	Garra Roca
+en#ebef2e88b929025a	Picada Tóx.
+en#b502e212a779b284	Aguja Atur.
+en#b3c0ffb8c26bd4a4	Mil Agujas
+en#52b540d122f0dd23	Abanico Gen.
+en#092614ba62d4fc42	nEmbate
+en#5c2aa8220da308ec	nRompehuesos
+en#2c3d37f326e1199b	nPisada
+en#deb49ce9d7401e45	nGolpe Divino
+en#9b333933f38f5e5f	nMegatón
+en#6b580ed6a95c33ee	nCaer
+en#dbc6697d39288b66	nGarra Púas
+en#ff486a05aaa2479c	nGarra Mort
+en#327a766966fe9c96	nPuño Destello
+en#3b3b5c56a77c54ed	wPuño Furioso
+en#f9e579e12b002d99	wPuño Letal
+en#a3f0e1584afe759c	Patada G.
+en#4176dded8f5f636a	nPatada Rayo
+en#880ddbb9bdd12a32	nPatada Rayo
+en#973ad87de49e881f	Tajo Doble
+en#2cb93f71e69f1259	pOla Calor
+en#aa189c975ac8b96e	pLazo Letal
+en#0bdc38d4473da055	qColmillo
+en#6f9d59f85e283af7	Dos Estocadas
+en#f1a07356fb3afb08	Giro Dragón
+en#b52fb75309fa9d81	Lanza Ígnea
+en#0066229879d7c08b	Estocadas
+en#2bec3a676f79eb74	sLatigazo
+en#98bc3d918927f763	Rompelunas
+en#6deae48055ba8b71	Bolazo
+en#4c9db0a8dda1dc0b	Bala Sónica
+en#21288e6eb7d97a3d	Ráfaga
+en#7d5ae63c99206166	Mil Flechas
+en#82a8e995efcdbfcf	Tiro Único
+en#b199919598c98681	Tiro Duro
+en#80cc04a27005c743	Tiro Pólv.
+en#7f00be2aaba9369e	TiroLargo
+en#26c322a599764b13	Cebo Dulce
+en#29f683fd081ed4f3	Golpe Áspid
+en#711ad87010520184	Puño Redoble
+en#b940f3fa9e5c6090	Golpe Arcoíris
+en#0ebb89199f922204	Últ.Recurso
+en#9818f06d75b605eb	mIlusión
+en#409abbc0f3cb0b2c	Punción Parálisis
+en#2b7be80b279fa404	Espejo Osc.
+en#3eb1f4c6d2f42684	Flecha Íg.
+en#3cb2880900273b66	Sueño Oscuro
+en#ccc16ce0e3f64459	Fuga Rencor
+en#d046fb17a1a4f6cd	. Muro Diablo
+en#acfcfbba7c21b931	Sinfonía Lamento
+en#dff14fb016c98fd5	Defensa
+en#d927289b17a8caf1	Torm. Mariposa
+en#ad483710d33ee2a2	Bebida Shock
+en#d3e11b4881b633c5	Bola
+en#5d7641fb0ce7491c	Bola de Vida
+en#f710f089d8d5e8d1	Bálsamo Vida
+en#aa91db2f2d5ffd1b	Dis-Stone
+en#6a6820bd2327148f	Dis-Sick
+en#d29740c980f55202	Dis-Poison
+en#7a942eab32e4d893	Dulce Tortu.
+en#4e7aefbdd6b21945	Rueda de Plegaria
+en#6c78cafc21f8b405	Guarda Mágica
+en#9d6b2cb4d88ab112	Guardia Física
+en#364a563a1cf7c9c4	Péndulo Cráneo
+en#951d4c530a719178	Roca Vital
+en#8dd610caba4838e6	Campana Rep.
+en#77a2a5af9ed6dd3c	Escudo Núc.
+en#beac2890c2c374e8	Inc. Fue.
+en#f7e28c4c990aeb72	Inc. Vit.
+en#2ae51e8f92abc1fb	Inc. Des.
+en#07d5ce3eaa9bffa9	Inc. Agi.
+en#565e288cb6787794	Inc. Sue.
+en#0beb446fba5f3e9c	Inc. HP
+en#8759e3337934b828	Inc. SP
+en#355ad2dc1b2136f4	Bebida Musc.
+en#0afd63d707c03442	Campana Múlt.
+en#bb13d067d05777f7	Bomba Millonaria
+en#68a33dd15cb502b6	Casa Diablo
+en#aa1a9fcbeec49855	Guarida
+en#5c853a7fae29b781	Chicle Alma
+en#13d2f3edf8c314d1	Tarj.Metal
+en#0e9750408096ca4e	Roca Agidyne
+en#df952c938c7d72fa	Roca Maragi
+en#e89230c4baf54b80	Roca Maragion
+en#4485d7223b11325e	Placa Ígnea
+en#cd4e97e3ef1d07ad	Roca Bufudyne
+en#3609f7c2fe66cf7a	Roca Mabufu
+en#c630cc958ead7ee5	Roca Mabufula
+en#d4badb3e4be68bf7	Placa Gélida
+en#5e2491f58f4c85de	Roca Garudyne
+en#96ea2abd1012c78c	Roca Magaru
+en#7afb4cf2cbe89807	Roca Magarula
+en#c4351c2b7602326c	Placa Eólica
+en#0ea6f13de4494845	Roca Magnadyne
+en#c895f89bda70f0e4	Roca Mamagna
+en#593c8d598c2ab534	Roca Mamagnara
+en#1320787b7fe049dc	Placa Sísmica
+en#32f4e5dca7f9b764	Roca Freidyne
+en#474839ae35195c94	Roca Megido
+en#f8c530def5729789	Roca Megidola
+en#301577682bbc9a07	Placa Ardiente
+en#00b4cc99ecf4ff3f	Roca Zandyne
+en#33f1853eb617c974	Roca Mazan
+en#94d669bc5e3ee133	Roca Mazanma
+en#aed6ae7d772ce694	Placa Aire
+en#00b874ad8de4b8b1	Roca Grydyne
+en#1360656d5503a63f	Roca Magry
+en#2da0ece655dee57d	Roca Magryva
+en#11b538afeab12ce9	Placa Muro
+en#c697c1391f5d4e1a	Roca Ziodyne
+en#e164fb62870a8da8	Roca Mazio
+en#627ed5e31612946b	Roca Mazionga
+en#76b6b159f20c193d	Placa Fulgor
+en#1f66bc68a87b0376	Placa Oscura
+en#ed80a2fad892a73f	Placa Burlona
+en#dee6584688683a1c	Placa Soga
+en#05b42ece4298b19d	Roca Petra
+en#1cdfd4e82c78b5b5	Roca Para
+en#aed2cdaafe8b04d5	Roca Poisma
+en#b0e2e3abaa70533f	Roca Nervio
+en#e1433efe8fcbfe18	Placa Falsa
+en#7885d120cc5dccf1	Placa Luz
+en#c7ee1253f7af1f06	Placa Sagrada
+en#d5595e138b560f5f	Placa Cuarto Luna
+en#29c9608b49ce1de7	Placa Media Luna
+en#2352a2f15d81d449	Roca Posumudi
+en#f16a63d62e1cd1ed	Roca Paraladi
+en#13c00fecd62f6f73	Roca Petradi
+en#8e5040be217484b7	Roca Nervundi
+en#7e36c24942d83d2c	Placa Luna Llena
+en#5f383cc0602d21de	Placa Verdad
+en#b217e98c3bf70f3c	Rubí
+en#2aac3a605135e4a2	Gema Luna
+en#67e5c74226af5916	Ónix
+en#8d69b7365f59237d	Tarta
+en#5d862cacf2217bc7	Máscara Nieves
+en#da4d5806327e6644	Trozo Espejo
+en#6c46b86552d8facf	Llavero Celda
+en#61650b6ffc7a51da	Última Tarta
+en#ef66e80e96602bae	Tarjeta Seg.
+en#6071ce4ba6ca1d32	Llave Reja
+en#5be43967b6f555ae	Haniwa Norte
+en#0d040c0b0c6a25c4	Espejo Expel
+en#0f78988d24c78b30	Polvera Rota
+en#a107a1e584b3abfa	Polvera R.
+en#a51a03817fe33826	Pieza Espejo
+en#16a931b45de08fbe	Bisturí
+en#6a1d0540ad198130	Daga Athame
+en#5abb63a2825d50dd	Hoja Luna
+en#00495401825e60df	Hoja Sola
+en#2f259520ecb5ccb5	Hoja Sónica
+en#3033edec5fa138a9	Hacha 2 Manos
+en#1d0dabfafb8ce38a	Hacha Guillot.
+en#bf4d8b22be823228	Rompecráneo
+en#7781f4458848625a	Raiga
+en#a63af695a55c4efa	Cuch. Mandau
+en#a37f06828a4061de	Soga Gimnasta
+en#43e1c7fc35cf5281	Azote Alacrán
+en#ffde97f4a2f8b3c8	Cola Golpe
+en#9ad8888be9c66015	Látigo Reina
+en#5f4fccd653461b0c	Cascabel
+en#ce054f0dc1e87bb6	Hoja Grulla
+en#336dc3707762d0c1	Aguja Sombría
+en#f7d31289be0228c5	Moneda Justa
+en#37e17b7ae050f0ec	Equipo Arco
+en#158dafc3eaf21a82	Torm. Delta
+en#221f7560cbf27d9e	Kokuteki
+en#8b7cbccb59836d64	Cometa
+en#6c0f68d9caf2f302	Guante Boxeo
+en#5d26330f5c79d794	Garra Fe
+en#6654082917e50962	Puño Megatón
+en#48d38a019f00ed6a	Puño Eleking
+en#57e0d2133796a76d	Garra Adamantio
+en#a16040d62781d76e	Ánima Gris
+en#97e7d881f40d0522	Arma Golpe
+en#f9d112616e07f034	Tiro Dólar
+en#bb1aa65fdf4c6341	Colt Parca
+en#fdd14ab155d80727	Peacemaker
+en#9180b25aca0940f2	Alacrán
+en#ef88dafe4e009de4	Asesino Fant.
+en#bf9ac6ef6877cf6e	Avenger
+en#bf2c1669306b1b37	Diluvio
+en#830f1660d3aefcdf	Megido Fire
+en#9aa62ad66556126a	Fauces Sierpe
+en#fd9639c9f4d96ea4	Sedantes
+en#7c46f45cbda49b2d	Balas Círculo
+en#7ce9aa098ddf3c9e	Callejón
+en#5cb37183e3c0f51f	Susurro Ángel
+en#35bbc07126d4b048	Másc.Sombra
+en#527fc8b2abe3fc56	Corona Feb.
+en#7f96e1cc4e768ce4	Calabaza Fe
+en#6fe58fd502b4dbc2	Casco Gala
+en#5d37dc12a7336134	Gorro Bruja
+en#3a0ff1c117f08dc2	Casco Draco
+en#efea03bec2c46480	Casco del Alba
+en#0dbfec33d2dc8afa	Jagd Helm
+en#1d77f789a0ae9c72	Sturm Helm
+en#9b8af5548dd8365e	Casco César
+en#b9f0632945f3dc85	Spiegel Mask
+en#ab9117f18ad586b3	Uniforme Esc.
+en#4b96145beee7cd48	Peto Spectra
+en#8d52af53b1ef14f4	Abrigo Siete
+en#388a365a558f5ef4	Armadura Oro
+en#9a94f934f41ac213	Coraza Gala
+en#635bc57dc1d8bacd	Spinney Suit
+en#37e38bf056d6a9a3	Ala Ángel
+en#a51f311bb06d3eb7	Armadura Alba
+en#2638af573293da20	Genbu Armor
+en#4c399dc61d5c5a67	Jagd Armor
+en#6365ce7aad993f2e	Sturm Armor
+en#1240db2b4d3493df	Coraza César
+en#9432c8287a2112d8	Brazal
+en#703b4935820c78e4	Brazal Titanio
+en#812f094fdb014fa9	Brazal Osc
+en#99bc75ca9684bf2b	Brazal Inhib.
+en#c7c22c11a1bd17e5	Brazal Gala
+en#90a4e4e611bbafa9	Guante del Alba
+en#aa1aca60fd741aa2	Guante Hamagari
+en#94e8507347f746ce	Guante Shishiou
+en#5137a7598e666c7e	Guante Demonio
+en#3da14be658bf92e3	Guante Raime
+en#3d70e82ec868816e	Guante Seiryuu
+en#5439ceae07f14cee	Jagd Guard
+en#2d33b3ba3b1d3ceb	Sturm Guard
+en#1bfabd424a05d49a	Brazal César
+en#b9426fc7bcec085d	Zapatos Cuero
+en#4ab7429ac6b3a80d	Zapatilla
+en#f85263efb077e2f7	Zapato Neg.
+en#0388eced0ef39493	Hyper Fox
+en#118fbc0aac4dfda3	Botas Gala
+en#0e6c91475de4d180	Botas Slime
+en#f3836edd00ed3740	Geta Ánima
+en#7b908bb704c932f2	Grebas del Alba
+en#231ec39b184756ce	Zapatos Vidar
+en#ed132e6e88aa1fc4	Jagd Leg
+en#4812c7d4b680c956	Sturm Leg
+en#d45ae77b3679858a	Bota César
+en#d4f4e61a211aea9c	Spiegel Beine
+en#d55d8ee800175cf9	Med. Ruinas
+en#3e63a78afefcc683	Med. Nieve
+en#0d4ca32ddf8d648e	Salida Emerg.
+en#3a8a364a2f9a007c	Poli Zombi
+en#609f81ab710710d7	Enfermera Z.
+en#64e1a917793e4052	Niña Zombi
+en#7d2be5aa87123bc9	Niño Zombi
+en#6e8a093d34358abf	Poli Secreta
+en#53fb16377e73c53a	Reina Harén
+en#5f3f01eb4ada018a	Aleja a los débiles
+en#69205433911c6257	¿Ayuda equipo?
+en#c282cb3d76b0ad8b	Polvera Maki
+en#3bb14b13b13f6215	Comida de los dioses
+en#687a3f3140086864	Daño Expel
+en#fc5579a7c2a3b425	enemigos
+en#98f7a66a11b2a44d	Daño Muerte
+en#fe14269607b9f1b5	Daño Elec alto
+en#1357223bec44ff5e	Daño Elec medio
+en#4088c5844cbaf189	Daño Elec leve
+en#699e8ae92ca31d07	área
+en#735bade38e0790b6	Daño Gravedad alto
+en#88e4cb13a4ad1d39	Daño Gravedad medio
+en#87c22557886a18a5	Daño Gravedad leve
+en#1dff24b311cbbd06	Daño Explos. alto
+en#aa9e64dbced56a30	Daño Explos. medio
+en#55343ed6039df905	Daño Explos. leve
+en#cd907d09decf6a04	Daño Nuclear alto
+en#fe63a61b733f8a95	Daño Nuclear medio
+en#8f22b527df70c33e	Daño Nuclear leve
+en#630ba879d1d016b7	Daño Tierra alto
+en#48a5f759b64b7d80	Daño Tierra medio
+en#72cb3a4da07af34a	Daño Tierra leve
+en#fb6f76f465c3af49	Daño Viento alto
+en#06ec395a23f737d7	Daño Viento medio
+en#b8574aa733463672	Daño Viento leve
+en#f82aa1a211b9970a	Daño Hielo alto
+en#5a6b2d30fea65c18	Hiela
+en#82e3927022e1d308	Daño Hielo medio
+en#55ce115b8c5a02da	Daño Hielo leve
+en#d3521f5a0fa92b11	Daño Fuego alto
+en#795f2944980fa046	Daño Fuego medio
+en#7700a85add28771a	Daño Fuego leve
+en#7b0ed6ef09fbb84b	Aliado
+en#a272c7b799721a32	Sube el HP máx.
+en#e43dc739c596fd03	Sube el SP máx. en 5
+en#2f5bcfe4822d57f6	Sube el HP máx. en 5
+en#28543b9d8012aeb2	Posibilidad de huir
+en#ea7abcbbc145beb2	Muestra mapa del área
+en#cb254dd221c14344	daño fís., 1 turno
+en#780e4563922d9654	daño mágico, 1 turno
+en#6d3541b2f31cbc9e	Cura Parálisis
+en#de09aecd2bca382e	Revive aliado
+en#68ea2b481d20f28a	Daño 1 por turno
+en#d2f18a45fa735a7e	Muerte inst.
+en#f2b380d990432bf5	se inmola
+en#40f3379fd951575a	Daño Fís. especial
+en#835aa568a4a7acdc	Daño al azar
+en#d3d2a6143988326e	Daño Rifle leve
+en#38d354299af3c61d	Daño Escopeta leve
+en#e7c4ccbb966430ee	Daño Metralleta leve
+en#f97fc770f115e881	Daño Pistola leve
+en#61a543eca2e7f364	Daño Flecha alto
+en#7f254e8fc0316be6	Daño Flecha medio
+en#572937b690b0face	Daño Arrojado alto
+en#259ae8f9b477cb1c	Daño Arrojado medio
+en#a696c1a2a310a292	Daño Arrojado leve
+en#1f5496fb1eefb080	Daño Látigo medio
+en#290666738fdd0260	Daño Látigo leve
+en#deda894b4679f1a4	Daño Hacha alto
+en#1bda28f17bbf0292	Daño Lanza alto
+en#73508c5cbf91d509	Daño Lanza medio
+en#2968b1ddeea24ac2	Daño Dos Manos alto
+en#bd78c0e1ee3fca77	Daño Dos Manos medio
+en#9fa0810e720e34f9	Daño Espada alto
+en#58933d3f569ec8b8	Daño Espada medio
+en#fed72f442757f82e	Daño Técnica medio
+en#ade786ec57ca7e9e	Daño Técnica leve
+en#310e7a5a4e481653	Daño Puño medio
+en#c3ae23610962e58c	Daño Puño leve
+en#df6f89a0a5484236	Daño Embate leve
+en#d73fa08358dc4bf2	Daño Embate alto
+en#783991b6870f3686	Daño Embate medio
+en#e3b4ad9d23fc8ffa	Petrif.
+en#14713d8f14a3b86e	Daño Milagro alto
+en#13aa3016a2312e51	Daño Maldic. alto
+en#575cf329004a0cd7	daño mágico, 2 turnos
+en#0ffca9983032a92c	Hielo, 3 turnos
+en#7c2b9a01cc0c6ce1	Fuego, 3 turnos
+en#4ba08d2846d3a3b7	Daño Nervio medio
+en#dff70db312cc966d	Ciega
+en#24ab1295de4a929e	Baja NV
+en#57f34e71c880e61c	1 enemiga
+en#b3213fba10fb5586	1 enemigo
+en#41f5e9a03dd4a99e	1 humano
+en#239c9befc049dd99	Inflige Pánico
+en#81f4661bdfd96c07	Inflige Sueño
+en#8be4f407fbd1f923	Quita mejoras
+en#8f092e2964c3e9fa	Sube precisión
+en#f0fa90f213e960d5	Quita penalizaciones
+en#10ffd2de66ca3f6b	Baja precisión
+en#716cf60be553e3b4	Da estado Títere
+en#c3d48707d414c7c2	Refl.
+en#8bfada821419f7b1	Débl
+en#7ead1b9d305c6508	Resis.
+en#f71d037e336b28ed	PAPISA
+en#c5f121db4570703a	AMANTE
+en#0d6f69f5cc63d6ca	DEATH
+en#12f997ead40b958b	TEMPLANZA
+en#b8980c04af58b79e	DEVIL
+en#61dedcf053ff3369	Bien
+en#933211ea9efcfe16	Funciones botón R
+en#70bf42c12ecc8f44	Funciones botón L
+en#822e65a7290ec451	funciones botón
+en#d7a501f83242fd94	Hábil
+en#a23514dd76796626	Paraliza
+en#6d8834bddcec7cb8	Inflige Parálisis
+en#e8c8b5bb7a473c7f	Inflige Parálisis
+en#3f7036922d006f98	Cura Petrificación
+en#a9d5d9c16f70f7f5	Cura Enfermedad
+en#33511eac07c95bdd	Abre celdas policiales
+en#450a0b369e54980a	Muerte inst. Grave
+en#14daa70f62c7ea69	Muerte inst. Curse
+en#bf5e940bef3324e2	Muerte inst. Angel
+en#b908627fd85743cc	Muerte inst. Death

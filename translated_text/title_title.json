@@ -1,0 +1,65 @@
+[
+ {
+  "id": "title_title_02193",
+  "archivo_origen": "title/title.bin",
+  "offset_inicio": 1045580,
+  "offset_fin": 1045614,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FFFF>",
+   "<FFFF>",
+   "<3353>",
+   "<FFFF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "",
+  "notas": "",
+  "estado": "no_traducible",
+  "raw_hex": null,
+  "nota": "binario/grafico/fuente - sin texto"
+ },
+ {
+  "id": "title_title_02202",
+  "archivo_origen": "title/title.bin",
+  "offset_inicio": 1047792,
+  "offset_fin": 1047824,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<244E>",
+   "<FFFF>",
+   "<FFFF>",
+   "<41FF>",
+   "<FFFF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "",
+  "notas": "",
+  "estado": "no_traducible",
+  "raw_hex": null,
+  "nota": "binario/grafico/fuente - sin texto"
+ },
+ {
+  "id": "title_title_02245",
+  "archivo_origen": "title/title.bin",
+  "offset_inicio": 1059156,
+  "offset_fin": 1059188,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<053E>",
+   "<FFFF>",
+   "<48FF>",
+   "<FFFF>",
+   "<FFFF>",
+   "<FFFE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "",
+  "notas": "",
+  "estado": "no_traducible",
+  "raw_hex": null,
+  "nota": "binario/grafico/fuente - sin texto"
+ }
+]

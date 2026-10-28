@@ -1,0 +1,51 @@
+# --- NUNCA subir datos originales del juego (copyright Atlus/SEGA) ---
+# Todo lo que se saca de la ISO lo vuelve a generar tools/original.py restaurar.
+*.iso
+*.ISO
+*.bin
+*.BIN
+*.elf
+*.ELF
+backups/
+rebuilt/
+
+# Texto extraído del juego y archivos de trabajo con texto en inglés.
+# Existen solo en la copia local de trabajo.
+extracted_text/
+translated_text/*.csv
+translated_text/_wfmaps/
+_wfmaps/
+_textgap/
+retraduccion/
+_eboot/trans_master.json
+_eboot/trans_intro.json
+tools/gen_trans_le.py
+_eboot/eb_inventory.json
+_eboot/work/
+_eboot/*.bak_*.json
+_tex/*
+!_tex/imagenes_es.json
+docs/reinsert_report.md
+docs/midtext_targets.json
+docs/checkpoints.json
+docs/checkpoints/
+docs/bugs_img/
+docs/ui_textures/
+publico/
+_dng/pendientes.tsv
+
+# El parche SÍ se publica (son solo diferencias, no datos originales)
+!patches/persona_es_full.xdelta
+
+# Python
+__pycache__/
+*.pyc
+
+# Binarios de herramientas (que cada quien instale los suyos)
+pspdecrypt
+xdelta3
+
+# Temporales
+*.tmp
+*.log
+*.bak

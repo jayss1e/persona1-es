@@ -1,0 +1,1972 @@
+{
+"1682008": {
+"en": "en#6#bc0792d8dc81e8aa",
+"es": "Datos",
+"budget": 6
+},
+"1682022": {
+"en": "en#4#a17c9aaa61e80a1b",
+"es": "sist",
+"budget": 4
+},
+"1682032": {
+"en": "en#7#b24247fb5a9d8d80",
+"es": "Datos",
+"budget": 7
+},
+"1682048": {
+"en": "en#4#a17c9aaa61e80a1b",
+"es": "susp",
+"budget": 4
+},
+"1682204": {
+"en": "en#30#7c4b4778e41fc039",
+"es": "Datos de sistema de Persona.",
+"budget": 30
+},
+"1682288": {
+"en": "en#8#d0dd3d20bc2cacdd",
+"es": "NOVATO",
+"budget": 8
+},
+"1721082": {
+"en": "en#7#f6cd6fdc6e3bea0f",
+"es": ",Habilidades",
+"budget": 21
+},
+"1721124": {
+"en": "en#5#44d25b5d1b6d98c7",
+"es": "Objetos",
+"budget": 20
+},
+"1721164": {
+"en": "en#9#36155d48f460d339",
+"es": "Equipo",
+"budget": 20
+},
+"1721244": {
+"en": "en#6#bae7d5be70820ed5",
+"es": "Estado",
+"budget": 20
+},
+"1721284": {
+"en": "en#6#f5552713f80f6719",
+"es": "Batalla",
+"budget": 20
+},
+"1721324": {
+"en": "en#6#bc0792d8dc81e8aa",
+"es": "Sistema",
+"budget": 20
+},
+"1721364": {
+"en": "en#10#27513c5e64f92669",
+"es": "Usar<8140>técnicas",
+"budget": 27
+},
+"1721420": {
+"en": "en#9#adca6b4623000408",
+"es": "Usar<8140>objetos",
+"budget": 27
+},
+"1721476": {
+"en": "en#16#3d1a2785dd8d33ad",
+"es": "Cambiar<8140>equipo",
+"budget": 27
+},
+"1721532": {
+"en": "en#20#f7fb4ac3e521ee32",
+"es": "Cambiar<001E>ver<8140>Personas",
+"budget": 27
+},
+"1721588": {
+"en": "en#19#367ae64c5dcc87de",
+"es": "Ver<8140>detalles<8140>de<8140>estado",
+"budget": 27
+},
+"1721644": {
+"en": "en#16#738b41cdb62f68fb",
+"es": "Ver<8140>datos<8140>de<8140>combate",
+"budget": 27
+},
+"1721700": {
+"en": "en#26#ca69a64a8bd20eac",
+"es": "Ajustes,<8140>guardar<001E>cargar",
+"budget": 27
+},
+"1721756": {
+"en": "en#18#eddad018c0a14495",
+"es": "¿Estado<8140>de<8140>quién?",
+"budget": 19
+},
+"1721796": {
+"en": "en#9#bc0bd86b8f4982ba",
+"es": "Formacion",
+"budget": 16
+},
+"1721828": {
+"en": "en#13#79f56fdf15e501e7",
+"es": "Modo<8140>automático",
+"budget": 15
+},
+"1721860": {
+"en": "en#7#0e524de0b8226a14",
+"es": "Analizar",
+"budget": 16
+},
+"1721892": {
+"en": "en#21#f0b45d613e3cb9b7",
+"es": "Elegir<8140>formación<8140>de<8140>combate",
+"budget": 31
+},
+"1721956": {
+"en": "en#28#97a89aeb95c358db",
+"es": "Acciones<8140>auto.<8140>individuales",
+"budget": 31
+},
+"1722020": {
+"en": "en#15#719413e1422c4d94",
+"es": "Ver<8140>datos<8140>de<8140>demonios",
+"budget": 31
+},
+"1722084": {
+"en": "en#6#ead533685e262eab",
+"es": "Arma",
+"budget": 8
+},
+"1722100": {
+"en": "en#3#7440320b3e3c1735",
+"es": "Pistola",
+"budget": 8
+},
+"1722116": {
+"en": "en#5#6e66568583d15b8f",
+"es": "Defensa",
+"budget": 8
+},
+"1722132": {
+"en": "en#6#4e836fdc2572ab23",
+"es": "Manual",
+"budget": 8
+},
+"1722148": {
+"en": "en#25#4ecebb5ce69e44aa",
+"es": "Atacar<8140>siempre<8140>con<8140>arma",
+"budget": 32
+},
+"1722214": {
+"en": "en#22#51d84b7b5c5313ef",
+"es": "Disparar<8140>siempre",
+"budget": 32
+},
+"1722280": {
+"en": "en#12#7e1ea4d89376809e",
+"es": "Defender<8140>siempre",
+"budget": 32
+},
+"1722346": {
+"en": "en#30#e11de0d73d94d968",
+"es": "Dar<8140>órdenes<8140>siempre<8140>a<8140>mano",
+"budget": 32
+},
+"1722616": {
+"en": "en#17#23f641359825c806",
+"es": "¿Ver<8140>qué<8140>Orden?",
+"budget": 17
+},
+"1722652": {
+"en": "en#17#b74ed578bb05e3bb",
+"es": "¿Ver<8140>qué<8140>demonio?",
+"budget": 17
+},
+"1722688": {
+"en": "en#13#ac3d2afca00f3070",
+"es": "¿Seguro?",
+"budget": 13
+},
+"1722716": {
+"en": "en#13#efa87ff3099f207c",
+"es": "Objetos<8140>que<8140>tienes",
+"budget": 19
+},
+"1722756": {
+"en": "en#17#f09abda3018edf6a",
+"es": "Equipo<8140>que<8140>tienes",
+"budget": 19
+},
+"1722796": {
+"en": "en#13#95da61dc4211a250",
+"es": "Cartas<8140>que<8140>tienes",
+"budget": 19
+},
+"1722836": {
+"en": "en#11#13608d63767477ac",
+"es": "Otros<8140>objetos",
+"budget": 19
+},
+"1722876": {
+"en": "en#15#caeba50ba9a5332e",
+"es": "¿Usar<8140>qué<8140>objeto?",
+"budget": 19
+},
+"1722916": {
+"en": "en#14#596df864346f1038",
+"es": "¿Usar<8140>en<8140>quién?",
+"budget": 19
+},
+"1722956": {
+"en": "en#6#4e836fdc2572ab23",
+"es": "Manual",
+"budget": 8
+},
+"1722972": {
+"en": "en#14#7483a02d89ad5e11",
+"es": "Optimo  Quitar",
+"budget": 16
+},
+"1723004": {
+"en": "en#21#5ccae54ecb2c0d0b",
+"es": "¿Quién<8140>cambia<8140>Persona?",
+"budget": 24
+},
+"1723054": {
+"en": "en#22#177fbc4e4fb9ae8c",
+"es": "¿Qué<8140>Persona<8140>tomar?",
+"budget": 24
+},
+"1989392": {
+"en": "en#18#cf3ad23ce866b4e1",
+"es": "¿Está<8140>bien<8140>así?",
+"budget": 19
+},
+"2027688": {
+"en": "en#6#41efbed579393591",
+"es": "Ir<8140>a<8140>",
+"budget": 19
+},
+"2027728": {
+"en": "en#13#b50c1959d22bd69e",
+"es": "Ir<8140>al<8140>mapa",
+"budget": 19
+},
+"2027768": {
+"en": "en#17#c2e896aae20b5e16",
+"es": "Ir<8140>al<8140>pasillo",
+"budget": 19
+},
+"2433992": {
+"en": "en#3#7ceca51fcafe4256",
+"es": "Comprar",
+"budget": 18
+},
+"2434028": {
+"en": "en#4#fa3cf2ad51e07895",
+"es": "Vender",
+"budget": 18
+},
+"2434064": {
+"en": "en#15#b702c3e2851ee3c3",
+"es": "Canjear<8140>objetos",
+"budget": 17
+},
+"2434100": {
+"en": "en#15#3018f432ad8d0d2f",
+"es": "Canjear<8140>fichas",
+"budget": 17
+},
+"2434136": {
+"en": "en#17#4bc4dc35a905c222",
+"es": "Canjear<8140>incienso",
+"budget": 17
+},
+"2435028": {
+"en": "en#3#6a72085653e4c5be",
+"es": "Todos",
+"budget": 10
+},
+"2435048": {
+"en": "en#4#3f3a489c72dea800",
+"es": "Hombre",
+"budget": 10
+},
+"2435068": {
+"en": "en#6#b7c17e97d3d62569",
+"es": "Mujer",
+"budget": 10
+},
+"2435088": {
+"en": "en#8#b220843fa42b7df1",
+"es": "Espada<8140>1M",
+"budget": 9
+},
+"2435108": {
+"en": "en#8#583f9c0ac5285d30",
+"es": "Espada<8140>2M",
+"budget": 9
+},
+"2435128": {
+"en": "en#5#2bcb85de00bf6d14",
+"es": "Lanza",
+"budget": 10
+},
+"2435148": {
+"en": "en#3#7ed611de7d171655",
+"es": "Hacha",
+"budget": 10
+},
+"2435168": {
+"en": "en#4#da8ee85554cb5c59",
+"es": "Latigo",
+"budget": 10
+},
+"2435188": {
+"en": "en#6#8c8420d2fa03e34c",
+"es": "Arrojable",
+"budget": 10
+},
+"2435208": {
+"en": "en#3#a1794223210128a5",
+"es": "Arco",
+"budget": 10
+},
+"2435228": {
+"en": "en#4#1cd6bf15e3268d28",
+"es": "Puno",
+"budget": 10
+},
+"2435248": {
+"en": "en#7#1fb51c96280b5046",
+"es": "Pistola",
+"budget": 10
+},
+"2435268": {
+"en": "en#17#77db8350c0729516",
+"es": "Metralla  Escopeta",
+"budget": 20
+},
+"2435308": {
+"en": "en#5#3e222e782981709d",
+"es": "Rifle",
+"budget": 10
+},
+"2435328": {
+"en": "en#6#df65df830e6e6965",
+"es": "Balas",
+"budget": 10
+},
+"2435348": {
+"en": "en#4#e5ffd15be7069312",
+"es": "Cabeza",
+"budget": 10
+},
+"2435368": {
+"en": "en#4#718a7e8a582e982e",
+"es": "Cuerpo",
+"budget": 10
+},
+"2435388": {
+"en": "en#4#047072f53ca81178",
+"es": "Brazos",
+"budget": 10
+},
+"2435408": {
+"en": "en#4#29518d0452d7e6a8",
+"es": "Piernas",
+"budget": 10
+},
+"2435428": {
+"en": "en#6#af46aa8212c05fdc",
+"es": "Usable",
+"budget": 10
+},
+"2435448": {
+"en": "en#8#d8169782b57c7a9e",
+"es": "Material",
+"budget": 10
+},
+"2435468": {
+"en": "en#5#41757d1d128b9f99",
+"es": "Totem",
+"budget": 10
+},
+"2435488": {
+"en": "en#3#c67dd20ee8429860",
+"es": "Llave",
+"budget": 10
+},
+"2435508": {
+"en": "en#4#4d4ce73b15660f20",
+"es": "Carta",
+"budget": 10
+},
+"2435528": {
+"en": "en#5#029690b00bcd5566",
+"es": "Piedra",
+"budget": 10
+},
+"2435548": {
+"en": "en#3#ae634fdf74616b69",
+"es": "Gem",
+"budget": 10
+},
+"2435572": {
+"en": "en#4#ecdda59aea5ee67d",
+"es": "Objeto",
+"budget": 10
+},
+"2435592": {
+"en": "en#6#ead533685e262eab",
+"es": "Arma",
+"budget": 10
+},
+"2437188": {
+"en": "en#24#43488b9ac8e804d5",
+"es": "Empezar<8140>desde<8140>el<8140>principio",
+"budget": 28
+},
+"2437246": {
+"en": "en#17#65d9f6f2c06664c8",
+"es": "Cargar<8140>una<8140>partida<8140>guardada",
+"budget": 28
+},
+"2437304": {
+"en": "en#28#2cad97f768e4fff2",
+"es": "Seguir<8140>desde<8140>la<8140>suspensión",
+"budget": 28
+},
+"2437362": {
+"en": "en#27#22dd33b4b6743971",
+"es": "Ver<8140>videos<8140>ya<8140>vistos",
+"budget": 28
+},
+"2437484": {
+"en": "en#29#0713abae2217c487",
+"es": "¿Seguir<8140>desde<8140>la<8140>suspensión?",
+"budget": 35
+},
+"2437556": {
+"en": "en#35#5271bc10603cfb4f",
+"es": "Se<8140>borrará<8140>al<8140>cargarla.",
+"budget": 35
+},
+"2438368": {
+"en": "en#6#b74bdee9c34f37b6",
+"es": "Listo",
+"budget": 8
+},
+"2438384": {
+"en": "en#14#527a2ea056ffa350",
+"es": "Pon   Apodo",
+"budget": 16
+},
+"2438416": {
+"en": "en#10#40c9830d221dd910",
+"es": "Nom.  Ap.",
+"budget": 12
+},
+"2438440": {
+"en": "en#4#709a23220f2c3d64",
+"es": "Nombre",
+"budget": 9
+},
+"2438458": {
+"en": "en#8#ce2bd99c47588fb9",
+"es": "Apodo",
+"budget": 9
+},
+"2438572": {
+"en": "en#16#26c2f16fa22b06ca",
+"es": "Pon<8140>tu<8140>nombre.",
+"budget": 16
+},
+"2438608": {
+"en": "en#16#4501e6c984bd6775",
+"es": "Pon<8140>un<8140>apodo",
+"budget": 16
+},
+"2459844": {
+"en": "en#38#e7c082d70d0baa2d",
+"es": "¡Desafía<8140>la<8140>cima<8140>del<8140>Pico<8140>del<8140>Diablo!",
+"budget": 39
+},
+"2459924": {
+"en": "en#43#0f7d47f4c18331f8",
+"es": "Se<8140>rompió<8140>el<8140>sello<8140>de<8140>la<8140>puerta<8140>del<8140>8F.",
+"budget": 43
+},
+"2460012": {
+"en": "en#29#9f104a0bf944d1c9",
+"es": "A<8140>la<8140>cima<8140>del<8140>Pico<8140>del<8140>Diablo",
+"budget": 29
+},
+"2460072": {
+"en": "en#43#728f879822776038",
+"es": "¡Desafía<8140>lo<8140>más<8140>profundo<8140>de<8140>las<8140>Ruinas!",
+"budget": 43
+},
+"2460160": {
+"en": "en#43#9ecbb18983d21976",
+"es": "Se<8140>rompió<8140>el<8140>sello<8140>de<8140>la<8140>puerta<8140>del<8140>B8.",
+"budget": 43
+},
+"2460248": {
+"en": "en#29#9252a385e73839a4",
+"es": "Al<8140>fondo<8140>de<8140>las<8140>Ruinas<8140>Mikage",
+"budget": 29
+},
+"2507716": {
+"en": "en#26#22608dcb326543b4",
+"es": "Reintentar cargar datos?",
+"budget": 26
+},
+"2507772": {
+"en": "en#26#f2ec798e6630033f",
+"es": "Reintentar guardar pausa?",
+"budget": 26
+},
+"2507828": {
+"en": "en#23#8dbc9e3772c70f53",
+"es": "Reintentar guardar?",
+"budget": 23
+},
+"2507876": {
+"en": "en#25#22a8f195fc1472f3",
+"es": "Reintentar guardar datos?",
+"budget": 25
+},
+"2507928": {
+"en": "en#17#f09de5a53693fb77",
+"es": "Borrar guardado?",
+"budget": 17
+},
+"2507964": {
+"en": "en#12#c74f0a4edae42573",
+"es": "No guardar?",
+"budget": 12
+},
+"2507992": {
+"en": "en#8#214e05a71efc9f8d",
+"es": "No cargar?",
+"budget": 12
+},
+"2648428": {
+"en": "en#13#7ea37264e73b134a",
+"es": "Elem!   Fuerza",
+"budget": 16
+},
+"2648460": {
+"en": "en#4#ae1ef01432946b89",
+"es": "Oscuro",
+"budget": 8
+},
+"2648476": {
+"en": "en#5#a36ef8aba22905e2",
+"es": "Luz",
+"budget": 8
+},
+"2648656": {
+"en": "en#4#fc40dd4181e65417",
+"es": "Dama",
+"budget": 8
+},
+"2648672": {
+"en": "en#5#af3ba726b23d4553",
+"es": "Deidad",
+"budget": 8
+},
+"2648704": {
+"en": "en#5#05474df28288ca0f",
+"es": "Hada",
+"budget": 8
+},
+"2648720": {
+"en": "en#4#3af0c32b3fbac6d2",
+"es": "Furia",
+"budget": 8
+},
+"2648736": {
+"en": "en#5#90ec00c2b9ab0a18",
+"es": "Sierpe",
+"budget": 8
+},
+"2648752": {
+"en": "en#4#dfe1d7f7d16cbcdf",
+"es": "Santo",
+"budget": 8
+},
+"2648768": {
+"en": "en#5#10c4f2dbd6011f68",
+"es": "Bestia",
+"budget": 8
+},
+"2648784": {
+"en": "en#6#12080846613a1307",
+"es": "Marcial",
+"budget": 8
+},
+"2648800": {
+"en": "en#6#2ff8da0a32d12b21",
+"es": "Caido",
+"budget": 8
+},
+"2648816": {
+"en": "en#6#d1100b6dc136e030",
+"es": "Segador",
+"budget": 8
+},
+"2648848": {
+"en": "en#6#7e22015b32beb292",
+"es": "Tirano",
+"budget": 8
+},
+"2648864": {
+"en": "en#4#cedb02ffcfe21f8a",
+"es": "Vil",
+"budget": 8
+},
+"2648896": {
+"en": "en#5#1097b553dcf82285",
+"es": "Noche",
+"budget": 8
+},
+"2648912": {
+"en": "en#5#6e2f0d53b8d27660",
+"es": "Ave",
+"budget": 8
+},
+"2648928": {
+"en": "en#6#e86ed9750f58815a",
+"es": "Serafin",
+"budget": 8
+},
+"2648944": {
+"en": "en#6#eb22c5e28adf024c",
+"es": "Dragon",
+"budget": 8
+},
+"2648960": {
+"en": "en#6#5846955db6bef539",
+"es": "Legend",
+"budget": 8
+},
+"2649528": {
+"en": "en#5#850ecd4904d3250d",
+"es": "Pesimo",
+"budget": 8
+},
+"2649544": {
+"en": "en#3#be7e10d1c5dd2ad7",
+"es": "Malo",
+"budget": 8
+},
+"2649560": {
+"en": "en#4#61dedcf053ff3369",
+"es": "Bueno",
+"budget": 8
+},
+"2649576": {
+"en": "en#4#77003d07271f1497",
+"es": "Optimo",
+"budget": 8
+},
+"2649616": {
+"en": "en#4#78baebfcb4b52665",
+"es": "Fuego",
+"budget": 12
+},
+"2649640": {
+"en": "en#3#0a2af398fe476e7b",
+"es": "Hielo",
+"budget": 12
+},
+"2649664": {
+"en": "en#4#142b5758f344daa4",
+"es": "Viento",
+"budget": 12
+},
+"2649688": {
+"en": "en#5#a074430f352b879e",
+"es": "Tierra",
+"budget": 12
+},
+"2649712": {
+"en": "en#8#5612bd0abe842292",
+"es": "Electrico",
+"budget": 12
+},
+"2649760": {
+"en": "en#5#3466a48962ed260a",
+"es": "Explosion",
+"budget": 12
+},
+"2649784": {
+"en": "en#7#fcc576945a348797",
+"es": "Gravedad",
+"budget": 12
+},
+"2649808": {
+"en": "en#5#d8c7d877ba6139c4",
+"es": "Muerte",
+"budget": 12
+},
+"2649832": {
+"en": "en#6#17c07093df686142",
+"es": "Ocultismo",
+"budget": 12
+},
+"2649856": {
+"en": "en#5#5f813458bf14a4ba",
+"es": "Nervios",
+"budget": 12
+},
+"2649880": {
+"en": "en#5#0b3d98d5a8a24ce5",
+"es": "Maldicion",
+"budget": 12
+},
+"2649928": {
+"en": "en#6#8c4f3272183be693",
+"es": "Rezo",
+"budget": 12
+},
+"2653096": {
+"en": "en#5#be31a86c982d3a8f",
+"es": "Feliz",
+"budget": 12
+},
+"2653120": {
+"en": "en#5#ec143493b0dfa3a2",
+"es": "Panico",
+"budget": 12
+},
+"2653144": {
+"en": "en#5#e124e7077d3d109b",
+"es": "Encanto",
+"budget": 12
+},
+"2653168": {
+"en": "en#6#5a6b2d30fea65c18",
+"es": "Congelado",
+"budget": 12
+},
+"2653192": {
+"en": "en#5#674982955154dee7",
+"es": "Choque",
+"budget": 12
+},
+"2653216": {
+"en": "en#4#83a9e49fc4cb9ac6",
+"es": "Atadura",
+"budget": 12
+},
+"2653240": {
+"en": "en#5#3cac34e674464c2b",
+"es": "Dormido",
+"budget": 12
+},
+"2653264": {
+"en": "en#4#0f0973483d912464",
+"es": "Mudo",
+"budget": 12
+},
+"2653288": {
+"en": "en#5#dff70db312cc966d",
+"es": "Ciego",
+"budget": 12
+},
+"2653312": {
+"en": "en#7#55ab53b7d4bf8873",
+"es": "Sin suerte",
+"budget": 12
+},
+"2653336": {
+"en": "en#6#799316349768c36a",
+"es": "Terror",
+"budget": 12
+},
+"2653360": {
+"en": "en#5#6a6eb3858c53f903",
+"es": "Culpa",
+"budget": 12
+},
+"2653384": {
+"en": "en#6#6de0b0c656444c55",
+"es": "Veneno",
+"budget": 12
+},
+"2653408": {
+"en": "en#8#a23514dd76796626",
+"es": "Paralisis",
+"budget": 12
+},
+"2653432": {
+"en": "en#5#029690b00bcd5566",
+"es": "Piedra",
+"budget": 12
+},
+"2653456": {
+"en": "en#4#630aa2109353ad45",
+"es": "Enfermo",
+"budget": 12
+},
+"2653504": {
+"en": "en#5#e8e05bdea8505f05",
+"es": "Oculto",
+"budget": 12
+},
+"2653528": {
+"en": "en#6#a100926532eb335a",
+"es": "Titere",
+"budget": 12
+},
+"2653552": {
+"en": "en#7#f4018045cfb458b2",
+"es": "Contra",
+"budget": 12
+},
+"2653576": {
+"en": "en#4#3af0c32b3fbac6d2",
+"es": "Furia",
+"budget": 12
+},
+"2653696": {
+"en": "en#5#05474df28288ca0f",
+"es": "Hada",
+"budget": 8
+},
+"2653712": {
+"en": "en#6#1b8cf090e6efad2c",
+"es": "Divino",
+"budget": 8
+},
+"2653728": {
+"en": "en#6#2ff8da0a32d12b21",
+"es": "Caido",
+"budget": 8
+},
+"2653744": {
+"en": "en#5#90ec00c2b9ab0a18",
+"es": "Sierpe",
+"budget": 8
+},
+"2653760": {
+"en": "en#5#d6b1aa04a93d0142",
+"es": "Draco",
+"budget": 8
+},
+"2653776": {
+"en": "en#6#f6d700f5f3dee5a4",
+"es": "Volador",
+"budget": 8
+},
+"2653792": {
+"en": "en#6#c49df32193b2ccd0",
+"es": "Rapaz",
+"budget": 8
+},
+"2653808": {
+"en": "en#5#10c4f2dbd6011f68",
+"es": "Bestia",
+"budget": 8
+},
+"2653824": {
+"en": "en#6#866f9dfc9d61d378",
+"es": "Salvaje",
+"budget": 8
+},
+"2653856": {
+"en": "en#5#fd383641d01af7cf",
+"es": "Bruto",
+"budget": 8
+},
+"2653904": {
+"en": "en#5#b3f1e3c877074d4f",
+"es": "Anima",
+"budget": 8
+},
+"2653920": {
+"en": "en#6#fe1e1fc9352bf0c5",
+"es": "Alma",
+"budget": 8
+},
+"2653936": {
+"en": "en#5#09b63d2493965ff6",
+"es": "Tumba",
+"budget": 8
+},
+"2653952": {
+"en": "en#4#8d42b1e64b64defa",
+"es": "Inmundo",
+"budget": 8
+},
+"2654016": {
+"en": "en#6#d1100b6dc136e030",
+"es": "Segador",
+"budget": 8
+},
+"2654032": {
+"en": "en#6#7e22015b32beb292",
+"es": "Tirano",
+"budget": 8
+},
+"2654048": {
+"en": "en#6#047e1ea750e2a2ce",
+"es": "Despota",
+"budget": 8
+},
+"2654064": {
+"en": "en#5#af3ba726b23d4553",
+"es": "Deidad",
+"budget": 8
+},
+"2654080": {
+"en": "en#3#5397e0583f14f6c8",
+"es": "Si",
+"budget": 8
+},
+"2654096": {
+"en": "en#2#816c52fd2bdd94a6",
+"es": "No",
+"budget": 8
+},
+"2657984": {
+"en": "en#28#5f4a4929a17ad6ee",
+"es": "Velocidad<8140>con<8140>que<8140>aparece<8140>el<8140>texto",
+"budget": 44
+},
+"2658074": {
+"en": "en#32#f5b970696cb5234d",
+"es": "Dirección<8140>de<8140>movimiento<8140>preferida",
+"budget": 44
+},
+"2658164": {
+"en": "en#33#a518919953c12ada",
+"es": "Cómo<8140>gira<8140>el<8140>mapa<8140>automático",
+"budget": 44
+},
+"2658254": {
+"en": "en#30#39b9cefe128b1f4a",
+"es": "Recordar<8140>la<8140>última<8140>posición<8140>del<8140>cursor",
+"budget": 44
+},
+"2658344": {
+"en": "en#41#965d913869e4ed12",
+"es": "Pedir<8140>confirmación<8140>tras<8140>dar<8140>las<8140>órdenes",
+"budget": 44
+},
+"2658434": {
+"en": "en#27#e33726fc7e51c341",
+"es": "Cargar<8140>otra<8140>partida<8140>guardada",
+"budget": 44
+},
+"2658524": {
+"en": "en#17#a4fa02043c3953bd",
+"es": "Suspender<8140>la<8140>partida",
+"budget": 44
+},
+"2658614": {
+"en": "en#26#2c105791234271dd",
+"es": "Volver<8140>a<8140>la<8140>pantalla<8140>de<8140>título",
+"budget": 44
+},
+"2658704": {
+"en": "en#31#21c32909ebd52c3b",
+"es": "¿Volver<8140>a<8140>la<8140>pantalla<8140>de<8140>título?",
+"budget": 34
+},
+"2658774": {
+"en": "en#34#adcb11f1bac20363",
+"es": "Perderás<8140>lo<8140>que<8140>no<8140>hayas<8140>guardado.",
+"budget": 34
+},
+"2658844": {
+"en": "en#30#5869637860c2256f",
+"es": "¿Suspender<8140>la<8140>partida?<8140>El<8140>guardado",
+"budget": 34
+},
+"2658914": {
+"en": "en#33#13082d8b8ffbf68b",
+"es": "se<8140>borrará<8140>después<8140>de<8140>cargarlo.",
+"budget": 34
+},
+"2658984": {
+"en": "en#30#4457e600f307801a",
+"es": "¿Cargar<8140>datos?<8140>Perderás<8140>lo<8140>que<8140>no",
+"budget": 33
+},
+"2659052": {
+"en": "en#18#9049a6f2fe163195",
+"es": "hayas<8140>guardado.",
+"budget": 33
+},
+"2659380": {
+"en": "en#16#875f31be3fc8906e",
+"es": "¿Técnica<8140>de<8140>quién?",
+"budget": 18
+},
+"2659418": {
+"en": "en#16#66893ab9dd584bd0",
+"es": "¿Usar<8140>qué<8140>técnica?",
+"budget": 18
+},
+"2659456": {
+"en": "en#14#596df864346f1038",
+"es": "¿Usar<8140>en<8140>quién?",
+"budget": 19
+},
+"2659496": {
+"en": "en#23#ff477d675924e0c2",
+"es": "¿Cambiar<8140>equipo<8140>de<8140>quién?",
+"budget": 27
+},
+"2659552": {
+"en": "en#25#46933998c6ef75b5",
+"es": "Elegir<8140>equipo<8140>a<8140>mano",
+"budget": 27
+},
+"2659608": {
+"en": "en#20#3d55d58b443d8746",
+"es": "Equipar<8140>lo<8140>más<8140>fuerte",
+"budget": 27
+},
+"2659664": {
+"en": "en#16#43ed4522ea5f9fec",
+"es": "Quitar<8140>equipo",
+"budget": 27
+},
+"2659720": {
+"en": "en#23#79f289401772299e",
+"es": "¿Qué<8140>equipo<8140>cambiar?",
+"budget": 27
+},
+"2659776": {
+"en": "en#21#043e052d6e8fe478",
+"es": "¿Equipar<8140>lo<8140>más<8140>fuerte?",
+"budget": 27
+},
+"2659832": {
+"en": "en#23#94bf973b14ae5d7e",
+"es": "¿Qué<8140>equipo<8140>quitar?",
+"budget": 27
+},
+"2659888": {
+"en": "en#20#574de7d6db567704",
+"es": "¿Qué<8140>vas<8140>a<8140>equipar?",
+"budget": 27
+},
+"2669632": {
+"en": "en#19#b7742cb8398ee4a3",
+"es": "Mikage-cho,<8140>1er<8140>distrito",
+"budget": 31
+},
+"2669696": {
+"en": "en#19#ad61a1bae41c0d6d",
+"es": "Mikage-cho,<8140>2do<8140>distrito",
+"budget": 31
+},
+"2669760": {
+"en": "en#19#5fbfa7f7ce6035ad",
+"es": "Mikage-cho,<8140>3er<8140>distrito",
+"budget": 31
+},
+"2669824": {
+"en": "en#6#f2f3d66a7978c207",
+"es": "Calle Escuela",
+"budget": 32
+},
+"2669888": {
+"en": "en#17#6d66481b285e6e93",
+"es": "Preparatoria<8140>St.<8140>Hermelin",
+"budget": 31
+},
+"2669952": {
+"en": "en#15#a86b296ecba93a94",
+"es": "Entrada<8140>de<8140>la<8140>escuela",
+"budget": 31
+},
+"2670016": {
+"en": "en#15#a54aa83e4a6a8fc8",
+"es": "Hospital<8140>de<8140>Mikage",
+"budget": 31
+},
+"2670080": {
+"en": "en#17#703f023f730dc63d",
+"es": "Entrada<8140>del<8140>hospital",
+"budget": 31
+},
+"2670144": {
+"en": "en#6#ffdba1b2c6867bf4",
+"es": "Santuario",
+"budget": 32
+},
+"2670208": {
+"en": "en#12#37fc86004d7f048a",
+"es": "Santuario<8140>Alaya",
+"budget": 31
+},
+"2670272": {
+"en": "en#21#a30da3bf6d987a8c",
+"es": "Entrada<8140>del<8140>Santuario<8140>Alaya",
+"budget": 31
+},
+"2670336": {
+"en": "en#21#e9cf2404bcb11900",
+"es": "Comisaria<8140>de<8140>Mikage",
+"budget": 31
+},
+"2670400": {
+"en": "en#23#39231b3353db6d4e",
+"es": "Entrada<8140>de<8140>la<8140>comisaria",
+"budget": 31
+},
+"2670464": {
+"en": "en#17#5910927589d79f8f",
+"es": "Fabrica<8140>abandonada",
+"budget": 31
+},
+"2670528": {
+"en": "en#16#7321db840c722607",
+"es": "Entrada<8140>de<8140>la<8140>fabrica",
+"budget": 31
+},
+"2670656": {
+"en": "en#14#6b4416d17d950355",
+"es": "Entrada<8140>de<8140>SEBEC",
+"budget": 31
+},
+"2670720": {
+"en": "en#15#acd5e6e7159b89fb",
+"es": "Entrada<8140>del<8140>metro",
+"budget": 31
+},
+"2670784": {
+"en": "en#6#eacc3fc8d502d7f4",
+"es": "Metro",
+"budget": 32
+},
+"2670848": {
+"en": "en#15#ee13e8289670d0bb",
+"es": "Sun<8140>Mall<8140>de<8140>Mikage",
+"budget": 31
+},
+"2670912": {
+"en": "en#10#191ddbac2d150124",
+"es": "Calle<8140>Joy",
+"budget": 31
+},
+"2670976": {
+"en": "en#5#72b256c541033a3f",
+"es": "Ruinas",
+"budget": 32
+},
+"2671040": {
+"en": "en#14#df65d7127097883c",
+"es": "Entrada<8140>de<8140>las<8140>ruinas",
+"budget": 31
+},
+"2671104": {
+"en": "en#18#c7116c2c5bc8ed52",
+"es": "Sociedad<8140>Historica",
+"budget": 31
+},
+"2671168": {
+"en": "en#16#70aa02bfe8631747",
+"es": "Entrada<8140>de<8140>la<8140>Sociedad",
+"budget": 31
+},
+"2671232": {
+"en": "en#14#131fdd9384b26994",
+"es": "Mansion<8140>Kaneda",
+"budget": 31
+},
+"2671296": {
+"en": "en#23#76ad2c43e7811a21",
+"es": "Entrada<8140>a<8140>la<8140>Mansion<8140>Kaneda",
+"budget": 31
+},
+"2671360": {
+"en": "en#16#e02a918650e2f71d",
+"es": "Residencia<8140>Himeno",
+"budget": 31
+},
+"2671424": {
+"en": "en#25#2f331b1106a75027",
+"es": "Entrada<8140>a<8140>Residencia<8140>Himeno",
+"budget": 31
+},
+"2671488": {
+"en": "en#12#4b7249713fb24c32",
+"es": "Arbol<8140>Agastya",
+"budget": 31
+},
+"2671552": {
+"en": "en#12#4b7249713fb24c32",
+"es": "Arbol<8140>Agastya",
+"budget": 31
+},
+"2671680": {
+"en": "en#17#18bc5c9d29aa0b1a",
+"es": "Minisuper",
+"budget": 31
+},
+"2671808": {
+"en": "en#26#431251e4b759b4e4",
+"es": "Entrada<8140>del<8140>minisuper",
+"budget": 31
+},
+"2671872": {
+"en": "en#15#7b7b23568fee18b1",
+"es": "Consultorio<8140>medico",
+"budget": 31
+},
+"2671936": {
+"en": "en#24#9d495aeac7efa3d3",
+"es": "Entrada<8140>del<8140>consultorio",
+"budget": 31
+},
+"2672000": {
+"en": "en#11#67aa5aab4bab23d9",
+"es": "Castillo<8140>de<8140>Mana",
+"budget": 31
+},
+"2672064": {
+"en": "en#20#78ddff72c014e32b",
+"es": "Entrada<8140>al<8140>Castillo<8140>de<8140>Mana",
+"budget": 31
+},
+"2672128": {
+"en": "en#11#f70f728589d29bc3",
+"es": "Bosque<8140>Perdido",
+"budget": 31
+},
+"2672192": {
+"en": "en#20#87f61b14af4cc403",
+"es": "Entrada<8140>del<8140>Bosque<8140>Perdido",
+"budget": 31
+},
+"2672256": {
+"en": "en#15#a54f6d405b2362d8",
+"es": "Mansion<8140>embrujada",
+"budget": 31
+},
+"2672320": {
+"en": "en#24#cb4507ee25458f81",
+"es": "Entrada<8140>a<8140>la<8140>mansion<8140>embrujada",
+"budget": 31
+},
+"2672384": {
+"en": "en#12#4d1af93c059611e5",
+"es": "Mercado<8140>negro",
+"budget": 31
+},
+"2672512": {
+"en": "en#18#c7116c2c5bc8ed52",
+"es": "Sociedad<8140>Historica",
+"budget": 31
+},
+"2672576": {
+"en": "en#8#e8cdda402d658232",
+"es": "Sun<8140>Mall",
+"budget": 31
+},
+"2672640": {
+"en": "en#21#e9cf2404bcb11900",
+"es": "Comisaria<8140>de<8140>Mikage",
+"budget": 31
+},
+"2672704": {
+"en": "en#14#5f9e5e526eff16d1",
+"es": "Edificio<8140>SEBEC",
+"budget": 31
+},
+"2672768": {
+"en": "en#12#a7192fbd0f44334e",
+"es": "Ruinas<8140>Mikage",
+"budget": 31
+},
+"2672832": {
+"en": "en#16#6ec2cb86cbce5c0d",
+"es": "Residencia<8140>Kaneda",
+"budget": 31
+},
+"2672896": {
+"en": "en#12#4d1af93c059611e5",
+"es": "Mercado<8140>negro",
+"budget": 31
+},
+"2672960": {
+"en": "en#14#6323d70062c89e5d",
+"es": "Mansion<8140>Himeno",
+"budget": 31
+},
+"2697228": {
+"en": "en#24#3216932b1c058798",
+"es": "Salida<0006><8140>Abandona<8140>la<8140>mazmorra<0002>",
+"budget": 63
+},
+"2697356": {
+"en": "en#28#a209b53a12a68d63",
+"es": "Escaleras<0006><8140>Cambia<8140>de<8140>piso<0002>",
+"budget": 63
+},
+"2697484": {
+"en": "en#33#45b3108ee52851e4",
+"es": "Elevador<0006><8140>Ve<8140>al<8140>piso<8140>que<8140>elijas<0002>",
+"budget": 63
+},
+"2697740": {
+"en": "en#44#aa13f4c8f06dae59",
+"es": "Manantial<0006><8140>Recupera<8140>HP,<8140>SP<8140>y<8140>estados<8140>alterados<0002>",
+"budget": 63
+},
+"2697868": {
+"en": "en#41#1da05d8bd1b2146b",
+"es": "Sala<8140>Aterciopelada<0006><8140>Crea<8140>y<8140>toma<8140>Personas<0002>",
+"budget": 63
+},
+"2697996": {
+"en": "en#23#ec8e9c9369d0e1e9",
+"es": "Casino<0006><8140>Juega<8140>minijuegos<0002>",
+"budget": 63
+},
+"2698124": {
+"en": "en#32#e40d63deceae5cc8",
+"es": "Tienda<0006><8140>Compra<8140>objetos<8140>de<8140>consumo<0002>",
+"budget": 63
+},
+"2698252": {
+"en": "en#30#1ded163cc7e0ecb6",
+"es": "Tienda<8140>de<8140>equipo<0006><8140>Compra<8140>equipo<0002>",
+"budget": 63
+},
+"2698380": {
+"en": "en#26#7b84e94c951db29b",
+"es": "Antigüedades<0006><8140>Intercambia<8140>objetos<0002>",
+"budget": 63
+},
+"2698508": {
+"en": "en#46#c91ede721239595e",
+"es": "Zona<8140>oscura<0006><8140>Área<8140>a<8140>oscuras,<8140>sin<8140>visibilidad",
+"budget": 63
+},
+"2698636": {
+"en": "en#47#63a3814c5bd4c2a3",
+"es": "Piso<8140>trampa<0006><8140>Causa<8140>daño<8140>y<8140>estados<8140>alterados.",
+"budget": 63
+},
+"2698764": {
+"en": "en#33#e480cf57259ec369",
+"es": "Hoyo<0006><8140>Caes<8140>al<8140>piso<8140>de<8140>abajo<0002>",
+"budget": 63
+},
+"2698892": {
+"en": "en#37#fb67ca1dbb910681",
+"es": "Interruptor<0006><8140>Actívalo<8140>para<8140>cambiar<8140>algo<0002>",
+"budget": 63
+},
+"2699020": {
+"en": "en#37#94ac4565542551bd",
+"es": "Lámpara<0006><8140>Se<8140>enciende<001E>apaga<8140>al<8140>pisarla<0002>",
+"budget": 63
+},
+"2699148": {
+"en": "en#45#cd563c6de52f5e71",
+"es": "Rampa<0006><8140>Te<8140>arrastra<8140>en<8140>una<8140>dirección<0002>",
+"budget": 63
+},
+"2699276": {
+"en": "en#36#db0f332eaf2cee8d",
+"es": "Giratorio<0006><8140>Te<8140>hace<8140>girar<0002><8140>",
+"budget": 63
+},
+"2699404": {
+"en": "en#45#311525a1b46e9e9d",
+"es": "Teletransporte<0006><8140>Te<8140>lleva<8140>a<8140>otro<8140>punto<8140>de<8140>la<8140>mazmorra<0002>",
+"budget": 63
+},
+"2699532": {
+"en": "en#42#5389839b12f76916",
+"es": "Puerta<0006><8140>Lleva<8140>a<8140>otra<8140>mazmorra<0002>",
+"budget": 127
+},
+"2732552": {
+"en": "en#20#1f14aefdcef59511",
+"es": "¿Borrar<8140>la<8140>formación?",
+"budget": 21
+},
+"2761880": {
+"en": "en#33#ec2223f43f7d2510",
+"es": "Botón<8140>START<0006><8140>Omite<8140>los<8140>efectos<8140>visuales",
+"budget": 69
+},
+"2762020": {
+"en": "en#30#d5033b202de206f7",
+"es": "<0029>Invocación<8140>de<8140>Persona<8140>y<8140>movimiento",
+"budget": 69
+},
+"2762160": {
+"en": "en#26#302669d6b6959337",
+"es": "de<8140>personajes<8140>ON<001E>OFF<002A>",
+"budget": 69
+},
+"2762300": {
+"en": "en#30#5b667fb4882236db",
+"es": "Botón<8140>L<0006><8140>Muestra<8140>el<8140>estado<8140>del<8140>grupo<8140>",
+"budget": 63
+},
+"2762428": {
+"en": "en#30#cb942d7ac52c6b13",
+"es": "Botón<8140>R<0006><8140>Analiza<8140>al<8140>enemigo",
+"budget": 63
+},
+"2762556": {
+"en": "en#11#8f0556ef0da5d985",
+"es": "Botones<8140>de",
+"budget": 11
+},
+"2762580": {
+"en": "en#23#714c077bf89498cc",
+"es": "dirección<0006><8140>Eligen<8140>el<8140>comando",
+"budget": 61
+},
+"2762704": {
+"en": "en#17#280dbe818b646cec",
+"es": "Botón<8140><003E><0006><8140>Confirmar",
+"budget": 73
+},
+"2762852": {
+"en": "en#16#8ef67b4da9467462",
+"es": "Botón<8140><005B><0006><8140>Cancelar",
+"budget": 73
+},
+"2763000": {
+"en": "en#21#d5d2ee685f37f709",
+"es": "Controles<8140>básicos<8140>de<8140>combate",
+"budget": 63
+},
+"2772132": {
+"en": "en#40#0f3b09545e0c008b",
+"es": "Sin<8140>fuerzas,<8140>caíste<8140>ante<8140>un<8140>poderoso",
+"budget": 59
+},
+"2772252": {
+"en": "en#45#7456536304282307",
+"es": "demonio.<8140>Tu<8140>alegría,<8140>tu<8140>tristeza,<8140>tus<8140>recuerdos<0007>",
+"budget": 59
+},
+"2772372": {
+"en": "en#43#07e9ef0b5d9504d7",
+"es": "tu<8140>corazón<8140>y<8140>tu<8140>alma<8140>volverán<8140>a<8140>la<8140>nada.",
+"budget": 59
+},
+"2772492": {
+"en": "en#42#cd28492c92804fef",
+"es": "Pero<8140>quizás...<8140>Si<8140>aún<8140>queda<8140>esperanza<8140>en<8140>lo",
+"budget": 59
+},
+"2772612": {
+"en": "en#40#a5db81291915b68a",
+"es": "hondo<8140>de<8140>tu<8140>corazón...<8140>¡Podrás<8140>invocar<8140>a<8140>tu",
+"budget": 59
+},
+"2772732": {
+"en": "en#42#bf61a8618357e7df",
+"es": "Persona<8140>y<8140>levantarte<8140>para<8140>alcanzar<8140>la<8140>verdad",
+"budget": 59
+},
+"2772852": {
+"en": "en#8#25e5faeba74884e1",
+"es": "de<8140>la<8140>vida!",
+"budget": 59
+},
+"2965380": {
+"en": "en#23#644e37e74c5c5e1e",
+"es": "Elige<8140>tu<8140>primera<8140>carta.",
+"budget": 25
+},
+"2965432": {
+"en": "en#24#64b0c74051ee378d",
+"es": "Elige<8140>tu<8140>segunda<8140>carta.",
+"budget": 25
+},
+"2965780": {
+"en": "en#13#35c37ac99033c8d3",
+"es": "Efecto<8140>al<8140>azar",
+"budget": 27
+},
+"2965836": {
+"en": "en#14#158a75675b412907",
+"es": "Sube<8140>la<8140>magia",
+"budget": 27
+},
+"2965892": {
+"en": "en#11#eb32330170555c74",
+"es": "Sube<8140>la<8140>fuerza",
+"budget": 27
+},
+"2965948": {
+"en": "en#7#357542a9ecd7e435",
+"es": "Sube<8140>la<8140>suerte",
+"budget": 27
+},
+"2966004": {
+"en": "en#11#e82a3e8c5c77b2ca",
+"es": "Sube<8140>el<8140>vigor",
+"budget": 27
+},
+"2966060": {
+"en": "en#12#4a18db4e922f25c1",
+"es": "Sube<8140>la<8140>destreza",
+"budget": 27
+},
+"2966116": {
+"en": "en#9#a658d04120d1f918",
+"es": "Sube<8140>la<8140>velocidad<8140>",
+"budget": 27
+},
+"2966172": {
+"en": "en#13#241c1cd6171a7c7c",
+"es": "Enseña<8140>una<8140>técnica",
+"budget": 27
+},
+"2966228": {
+"en": "en#27#bac7b1e9574b4ea2",
+"es": "Otra<8140>Persona<8140>de<8140>su<8140>Orden",
+"budget": 27
+},
+"2966284": {
+"en": "en#27#bac7b1e9574b4ea2",
+"es": "Otra<8140>Persona<8140>de<8140>su<8140>Orden",
+"budget": 27
+},
+"2966340": {
+"en": "en#20#ca0ec4151a4901d0",
+"es": "Crea<8140>una<8140>Persona<8140>especial",
+"budget": 27
+},
+"2966396": {
+"en": "en#29#6bccba2cd815e874",
+"es": "¿Qué<8140>Persona<8140>quieres?",
+"budget": 34
+},
+"2966466": {
+"en": "en#33#5e3230c35a7f53de",
+"es": "¿Qué<8140>combinación<8140>quieres?",
+"budget": 34
+},
+"2966544": {
+"en": "en#27#2aba59912030e258",
+"es": "¿Quién<8140>tomará<8140>una<8140>Persona?",
+"budget": 27
+},
+"2966600": {
+"en": "en#25#508b23f9dc8c2318",
+"es": "¿Qué<8140>carta<8140>quieres<8140>ver?",
+"budget": 27
+},
+"2966656": {
+"en": "en#22#5a4dcfb02fc3d64e",
+"es": "Explicación<8140>de<8140>símbolos",
+"budget": 39
+},
+"2966736": {
+"en": "en#26#ed2e59c0d6363dc6",
+"es": "Combinación<8140>de<8140>fusión<8140>normal.",
+"budget": 39
+},
+"2966816": {
+"en": "en#30#fc54f43e85f400b5",
+"es": "Combinación<8140>de<8140>fusión<8140>prohibida.",
+"budget": 39
+},
+"2966896": {
+"en": "en#27#7eaa6136f88518c5",
+"es": "Puede<8140>heredar<8140>una<8140>técnica.",
+"budget": 39
+},
+"2966976": {
+"en": "en#16#61aa6dbc00a937eb",
+"es": "Dirección<8140>de<8140>las<8140>flechas",
+"budget": 39
+},
+"2967056": {
+"en": "en#26#528a90e937539d80",
+"es": "Ambas<8140>cartas<8140>del<8140>mismo<8140>Orden.",
+"budget": 39
+},
+"2967136": {
+"en": "en#22#6d25d6db9a861de3",
+"es": "Órdenes<8140>compatibles.",
+"budget": 39
+},
+"2967216": {
+"en": "en#24#c3e7f289967f2a07",
+"es": "Órdenes<8140>incompatibles.",
+"budget": 39
+},
+"2967296": {
+"en": "en#18#823d60d8573684d9",
+"es": "Significado<8140>de<8140>los<8140>colores",
+"budget": 39
+},
+"2967376": {
+"en": "en#20#f65eb765945593e6",
+"es": "Sin<8140>efecto<8140>de<8140>Tipos.",
+"budget": 39
+},
+"2967456": {
+"en": "en#38#729b866117203d27",
+"es": "Tipos<8140>opuestos.<8140>Posible<8140>accidente.",
+"budget": 39
+},
+"2967536": {
+"en": "en#25#eea2e64f781fb46f",
+"es": "Ambas<8140>cartas<8140>del<8140>mismo<8140>Tipo.",
+"budget": 39
+},
+"2979352": {
+"en": "en#11#f7a34ab2cf0c83f6",
+"es": "Armería",
+"budget": 19
+},
+"2979392": {
+"en": "en#10#cec755515ab23b0d",
+"es": "Tienda<8140>de<8140>armaduras",
+"budget": 19
+},
+"2979552": {
+"en": "en#13#5fd8d1e4f202be2c",
+"es": "Tienda<8140>general",
+"budget": 19
+},
+"2979624": {
+"en": "en#18#b0f56c80a4bb9ff5",
+"es": "¿Qué<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2979676": {
+"en": "en#22#148bef8f4caade37",
+"es": "¿Cuántos<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2979728": {
+"en": "en#19#e6a20d9597f2acb9",
+"es": "¿Qué<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2979780": {
+"en": "en#23#e4447ddd337d685f",
+"es": "¿Cuántos<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2979832": {
+"en": "en#18#b0f56c80a4bb9ff5",
+"es": "¿Qué<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2979884": {
+"en": "en#22#148bef8f4caade37",
+"es": "¿Cuántos<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2979936": {
+"en": "en#19#e6a20d9597f2acb9",
+"es": "¿Qué<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2979988": {
+"en": "en#23#e4447ddd337d685f",
+"es": "¿Cuántos<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2980040": {
+"en": "en#18#b0f56c80a4bb9ff5",
+"es": "¿Qué<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2980092": {
+"en": "en#22#148bef8f4caade37",
+"es": "¿Cuántos<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2980144": {
+"en": "en#19#e6a20d9597f2acb9",
+"es": "¿Qué<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2980196": {
+"en": "en#23#e4447ddd337d685f",
+"es": "¿Cuántos<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2980248": {
+"en": "en#24#aa2583efc37dea45",
+"es": "¿Qué<8140>quieres<8140>a<8140>cambio?",
+"budget": 25
+},
+"2980300": {
+"en": "en#24#94cc30690933dc6d",
+"es": "¿Cuántos<8140>vas<8140>a<8140>cambiar?",
+"budget": 77
+},
+"2980456": {
+"en": "en#24#94cc30690933dc6d",
+"es": "¿Cuántos<8140>vas<8140>a<8140>cambiar?",
+"budget": 103
+},
+"2980664": {
+"en": "en#24#aa2583efc37dea45",
+"es": "¿Qué<8140>quieres<8140>a<8140>cambio?",
+"budget": 25
+},
+"2980716": {
+"en": "en#24#94cc30690933dc6d",
+"es": "¿Cuántos<8140>vas<8140>a<8140>cambiar?",
+"budget": 77
+},
+"2980872": {
+"en": "en#18#b0f56c80a4bb9ff5",
+"es": "¿Qué<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2980924": {
+"en": "en#22#148bef8f4caade37",
+"es": "¿Cuántos<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2980976": {
+"en": "en#19#e6a20d9597f2acb9",
+"es": "¿Qué<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2981028": {
+"en": "en#23#e4447ddd337d685f",
+"es": "¿Cuántos<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2981080": {
+"en": "en#18#b0f56c80a4bb9ff5",
+"es": "¿Qué<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2981132": {
+"en": "en#22#148bef8f4caade37",
+"es": "¿Cuántos<8140>vas<8140>a<8140>comprar?",
+"budget": 25
+},
+"2981184": {
+"en": "en#19#e6a20d9597f2acb9",
+"es": "¿Qué<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2981236": {
+"en": "en#23#e4447ddd337d685f",
+"es": "¿Cuántos<8140>vas<8140>a<8140>vender?",
+"budget": 25
+},
+"2983944": {
+"en": "en#16#2390cf247ed53834",
+"es": "Puerta<8140>al<8140>Paraíso",
+"budget": 25
+},
+"2983996": {
+"en": "en#17#21e743358df8ee2f",
+"es": "Sucesos<8140>extraños",
+"budget": 25
+},
+"2984048": {
+"en": "en#20#3ae1cb02e52c67fa",
+"es": "La<8140>guía<8140>de<8140>la<8140>mariposa",
+"budget": 25
+},
+"2984152": {
+"en": "en#20#14cd321dd87319bd",
+"es": "El<8140>poder<8140>de<8140>Persona",
+"budget": 25
+},
+"2984204": {
+"en": "en#22#ba0707102f1b7996",
+"es": "Desaparecen<8140>del<8140>hospital",
+"budget": 25
+},
+"2984256": {
+"en": "en#17#a7f287dd0058eb7f",
+"es": "El<8140>poder<8140>de<8140>la<8140>voluntad",
+"budget": 25
+},
+"2984308": {
+"en": "en#13#280521b98f857fde",
+"es": "Otro<8140>mundo",
+"budget": 25
+},
+"2984360": {
+"en": "en#16#731289d8dceeea07",
+"es": "El<8140>Espejo<8140>Expel",
+"budget": 25
+},
+"2984412": {
+"en": "en#21#2d9aaf8ad3ee8cf9",
+"es": "La<8140>formación<8140>de<8140>Deva<8140>Yuga",
+"budget": 25
+},
+"2984464": {
+"en": "en#18#6a403cb6c606670a",
+"es": "Entrando<8140>a<8140>Deva<8140>Yuga",
+"budget": 25
+},
+"2984516": {
+"en": "en#15#1c74bb453ed567d5",
+"es": "Colapso<8140>del<8140>sistema",
+"budget": 25
+},
+"2984568": {
+"en": "en#12#a953f747f41a0d90",
+"es": "Corazón<8140>cerrado",
+"budget": 25
+},
+"2984620": {
+"en": "en#20#6aa4f79dfc4c5169",
+"es": "La<8140>orden<8140>de<8140>Philemon",
+"budget": 25
+},
+"2984672": {
+"en": "en#12#2eb61b751682799d",
+"es": "El<8140>mar<8140>de<8140>almas",
+"budget": 25
+},
+"2984724": {
+"en": "en#14#f2aea5fa7a44021a",
+"es": "El<8140>origen<8140>del<8140>mal",
+"budget": 25
+},
+"2984776": {
+"en": "en#17#5d9834e1db71549b",
+"es": "La<8140>confesión<8140>de<8140>Maki",
+"budget": 25
+},
+"2984828": {
+"en": "en#18#4c919fa62bf25a6c",
+"es": "Mariposas<8140>doradas",
+"budget": 25
+},
+"2984880": {
+"en": "en#15#b1490b74835639c6",
+"es": "Hacia<8140>el<8140>futuro",
+"budget": 25
+},
+"2984932": {
+"en": "en#15#f8afad74a1b87553",
+"es": "Flores<8140>de<8140>cerezo",
+"budget": 25
+},
+"2984984": {
+"en": "en#19#ed4ff7443fff84c7",
+"es": "St.<8140>Hermelin<8140>congelada",
+"budget": 25
+},
+"2985036": {
+"en": "en#21#5dedc8a81906c171",
+"es": "Buscando<8140>los<8140>fragmentos",
+"budget": 25
+},
+"2985088": {
+"en": "en#15#b5c6968fd57a884a",
+"es": "Hacia<8140>la<8140>Torre<8140>Hypnos",
+"budget": 25
+},
+"2985140": {
+"en": "en#18#89b1b2f61ee9825e",
+"es": "En<8140>la<8140>Torre<8140>Hypnos...",
+"budget": 25
+},
+"2985192": {
+"en": "en#16#e2ed480c9c4f6895",
+"es": "Hacia<8140>la<8140>Torre<8140>Nemesis",
+"budget": 25
+},
+"2985244": {
+"en": "en#17#2fdee149b22885d3",
+"es": "Hacia<8140>la<8140>Torre<8140>Thanatos",
+"budget": 25
+},
+"2985296": {
+"en": "en#15#e269e5a62fbaf09a",
+"es": "Hacia<8140>el<8140>Pico<8140>del<8140>Diablo",
+"budget": 25
+},
+"2985348": {
+"en": "en#16#1c39d19c0704a7a9",
+"es": "Fragmento<8140>de<8140>espejo<8140>1",
+"budget": 25
+},
+"2985400": {
+"en": "en#16#7c51a54f585c6f5c",
+"es": "Fragmento<8140>de<8140>espejo<8140>2",
+"budget": 25
+},
+"2985452": {
+"en": "en#16#b1ee4d000e235538",
+"es": "Fragmento<8140>de<8140>espejo<8140>3",
+"budget": 25
+},
+"2985504": {
+"en": "en#16#6f178e1fe485a39d",
+"es": "Fragmento<8140>de<8140>espejo<8140>4",
+"budget": 25
+},
+"2985556": {
+"en": "en#16#7ff64b192d46725f",
+"es": "Fragmento<8140>de<8140>espejo<8140>5",
+"budget": 25
+},
+"2985608": {
+"en": "en#16#6e1b9f95b4833e61",
+"es": "Fragmento<8140>de<8140>espejo<8140>6",
+"budget": 25
+},
+"2985660": {
+"en": "en#16#3ae8ba50b5e851ab",
+"es": "Fragmento<8140>de<8140>espejo<8140>7",
+"budget": 25
+},
+"2985712": {
+"en": "en#23#966f5e916da187dd",
+"es": "Fragmento<8140>8--Más<8140>poder",
+"budget": 25
+},
+"2985764": {
+"en": "en#16#92d6369313e50124",
+"es": "Fragmento<8140>de<8140>espejo<8140>9",
+"budget": 25
+},
+"2985816": {
+"en": "en#17#ddcf73c0fed20cbe",
+"es": "Fragmento<8140>de<8140>espejo<8140>10",
+"budget": 25
+},
+"2985868": {
+"en": "en#17#cda8135dc3da6f03",
+"es": "Fragmento<8140>de<8140>espejo<8140>11",
+"budget": 25
+},
+"2985920": {
+"en": "en#21#e6bb6e2bc5f2b395",
+"es": "Espejo<8140>Demonio<8140>completo",
+"budget": 25
+},
+"2985972": {
+"en": "en#13#cd271684b6529850",
+"es": "Noche<8140>eterna",
+"budget": 25
+},
+"2986024": {
+"en": "en#20#cf710202a6769555",
+"es": "Desciende<8140>la<8140>Reina<8140>Asura",
+"budget": 25
+},
+"2986076": {
+"en": "en#23#20eb617795d5b24b",
+"es": "Amanece<8140>en<8140>St.<8140>Hermelin",
+"budget": 25
+}
+}

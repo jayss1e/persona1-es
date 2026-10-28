@@ -1,0 +1,184 @@
+[
+ {
+  "id": "talk_kokuri_00109",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 16602,
+  "offset_fin": 17272,
+  "longitud_original_bytes": 670,
+  "limite_chars": 335,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFEF>",
+   "<0056>",
+   "<0056>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<0056>",
+   "<0056>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ABCDEFGHIJKLMNOPQRSTUVWXYZ<FF02><FF04>¡Agh, al diablo! Me desespero<FF03>si a veces no hablo normal.<FFEF>   <0056>yip<0056> No tengo ganas de usar el<FF03>tablero esta vez, así que te daré<FF03>mi carta.<FFEF>   Pareces bastante increíble para ser humano.<FF03>Hablemos normal.<FFEF>  <0056>yip<0056> Y no solo eso, te daré mi<FF03>carta. Qué generoso, ¿no?<FFEF>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00112",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 17420,
+  "offset_fin": 17478,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Está bien, hablaré normal",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00113",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 17484,
+  "offset_fin": 17542,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Solo deja<FF03>de asustarme tanto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00114",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 17548,
+  "offset_fin": 17720,
+  "longitud_original_bytes": 172,
+  "limite_chars": 86,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Ándale, te daré mi carta. Así ya no<FF03>tendrás de qué quejarte, ¿verdad?<FFEF>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00128",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 18238,
+  "offset_fin": 18488,
+  "longitud_original_bytes": 250,
+  "limite_chars": 125,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<0056>",
+   "<0056>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<0056>",
+   "<0056>",
+   "<FFF5>",
+   "<0056>",
+   "<0056>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>   <0056>yip<0056> ¡Luna llena! ¡Esto es genial!<FF02><FF04>¡Ay, no, hablé normal! Bueno, ni modo.<FF03><0056>yip<0056><FFF5> <0056>yip<0056> Esa luna llena se siente genial",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00129",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 18494,
+  "offset_fin": 18586,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFFD>",
+   "<00FF>",
+   "<F500>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Por cierto, humano, ¿sabes quién soy?<FFFD><00FF><F500> <FFEE>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00193",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 21158,
+  "offset_fin": 21192,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<0056>",
+   "<0056>",
+   "<FFF5>",
+   "<0056>",
+   "<0056>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF><0056>yip<0056><FFF5>  <0056>gemido<0056><FFF5>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00197",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 21366,
+  "offset_fin": 21600,
+  "longitud_original_bytes": 234,
+  "limite_chars": 117,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ?<FFF5>  No, esa es Comet. Ella también<FF03>me gusta, ¿sabes?<FFF5>No, eso es un corredor. Viejo, no me<FF03>confundas con esos tiburones",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kokuri_00198",
+  "archivo_origen": "talk/kokuri.bin",
+  "offset_inicio": 21606,
+  "offset_fin": 24054,
+  "longitud_original_bytes": 2448,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Eso es un engaño! Te equivocaste,<FF03>¡así que te maldigo!<FFF5>   ¡Eso es un engaño! Te equivocaste,<FF03>¡así que te maldigo!<FFF5>   <785D> <905D> <B85D> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>¿Un alien?<FFF5>  ¿Un vendedor?<FFF5>¿Un vendedor?<FFF5><9E00><9F00>  <0180>``<0180><FFFF><FFFF><FFFF>",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 1224
+ }
+]

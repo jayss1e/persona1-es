@@ -1,0 +1,2083 @@
+[
+ {
+  "id": "talk_zomb_man_00001",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 8426,
+  "offset_fin": 8502,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  No hay prueba de que no me engañez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00002",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 8508,
+  "offset_fin": 8572,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Me zentía tan zolo eztando zolo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00003",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 8578,
+  "offset_fin": 8602,
+  "longitud_original_bytes": 24,
+  "limite_chars": 12,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Erez chiztozo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00004",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 8608,
+  "offset_fin": 8686,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Antez veía a tipoz como<FF03>tú en la tele un montón",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00005",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 8692,
+  "offset_fin": 9002,
+  "longitud_original_bytes": 310,
+  "limite_chars": 155,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿Por qué hicizte ezo? ¡No zé rico!<FFF5> ¿¡Qué hacez!? ¡Te voy a comer, empezando<FF03>por la cabeza!<FFF5>  ¿¡Por qué hicizte ezo!? ¿¡Me tienez miedo!?<FFF5> Erez raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00006",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9008,
+  "offset_fin": 9098,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero me guzta.<FFF5>Nunca he perdido una pelea",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00007",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9104,
+  "offset_fin": 9198,
+  "longitud_original_bytes": 94,
+  "limite_chars": 47,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Quierez probar?<FFF5> Te quiero arraztrar bajo tierra",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00008",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9204,
+  "offset_fin": 9262,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Cómo ez que no me tienez miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00009",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9270,
+  "offset_fin": 9330,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Antez era bien miedozo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00010",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9336,
+  "offset_fin": 9370,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero ya<FF03>eztoy bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00012",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9400,
+  "offset_fin": 9490,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No hay nada<FF03>detráz de mí, verdá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00013",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9498,
+  "offset_fin": 9580,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Te azuzta algo azí?<FF03>Ja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00014",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9586,
+  "offset_fin": 9980,
+  "longitud_original_bytes": 394,
+  "limite_chars": 197,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Podría ezcribir hiztoriaz que harían<FF03>que King corriera a ezconderze!<FFF5>   Mi abuela dice que cuando la gente muere,<FF03>va al cielo.<FF02><FF04>¿¡Cómo te atrevez a hablarle azí a una<FF03>criatura celeztial como yo!?<FFF5>Por qué erez tan malo conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00015",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 9988,
+  "offset_fin": 10042,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Erez igualita a mi vieja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00016",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10048,
+  "offset_fin": 10106,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me pregunto zi<FF03>eztará bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00017",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10112,
+  "offset_fin": 10324,
+  "longitud_original_bytes": 212,
+  "limite_chars": 106,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Te metez conmigo, y te la devuelvo<FF03>cien vecez!<FFF5>¿No tenías algún azunto<FF03>conmigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00018",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10332,
+  "offset_fin": 10532,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Odio a la gente zin modalez!<FFF5> ¿Por qué tan enojado?<FFF5>Zi fuera el de antez, no te perdonaría<FF03>tú",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00020",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10554,
+  "offset_fin": 10610,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Laz chicaz de hoy dan miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00021",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10616,
+  "offset_fin": 10776,
+  "longitud_original_bytes": 160,
+  "limite_chars": 80,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Eztáz viva, uzaz ropa bonita, y<FF03>aún quierez moleztarme?<FFF5>   Jurjur",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00022",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10782,
+  "offset_fin": 10814,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Qué vergüenza",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00023",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10820,
+  "offset_fin": 10926,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿Qué te paza de repente? No zoy<FF03>un bebé, ¿zabez?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00024",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 10932,
+  "offset_fin": 10996,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Eztá bien zi me porto como niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00025",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 11004,
+  "offset_fin": 11358,
+  "longitud_original_bytes": 354,
+  "limite_chars": 177,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Nunca fui a un club. Me pregunto<FF03>qué clase de lugar ez.<FFF5>   ¡Ya zé que bailo fatal!<FFF5>   Zi zupiera bailar, ¿zería popular también?<FF03>L-Laz kogal ze me echarían encima",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00026",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 11366,
+  "offset_fin": 11588,
+  "longitud_original_bytes": 222,
+  "limite_chars": 111,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Quierez hacer comedia conmigo?<FFF5>¡Ezo fue abuuurrido! ¡Zoy exigente<FF03>con la comedia!<FFF5> Qué frííío",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00027",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 11594,
+  "offset_fin": 11654,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ziento que eztoy en<FF03>el Ártico",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00028",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 11660,
+  "offset_fin": 11712,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Tienez zentido del humor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00029",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 11718,
+  "offset_fin": 11854,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Lo prometo!<FFF5> ¿Cómo ze llama eza canción?<FFF5>  Ziempre reprobaba múzica",
+  "notas": "excede 138>136",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00030",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 11860,
+  "offset_fin": 12052,
+  "longitud_original_bytes": 192,
+  "limite_chars": 96,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Nunca zupe que alguien en el mundo<FF03>cantara tan mal!<FFF5>Mi maeztra de múzica era una belleza",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00031",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 12058,
+  "offset_fin": 12164,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué crees que hacez? Dónde crees<FF03>que eztáz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00032",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 12172,
+  "offset_fin": 12346,
+  "longitud_original_bytes": 174,
+  "limite_chars": 87,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Erez bueno! ¡No zé cómo lo hicizte!<FFF5> Aun dezpuéz de que morí, el mundo<FF03>zigue girando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00033",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 12352,
+  "offset_fin": 12706,
+  "longitud_original_bytes": 354,
+  "limite_chars": 177,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Ezo ya no tiene nada que ver conmigo!<FF03>¡Ni lo menciones!<FFF5> Hay muchaz cozaz que quiero preguntar.<FFF5>   Oye, zoy hombre. ¿No ze nota con<FF03>verme?<FFF5>  B-Bazta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00034",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 12712,
+  "offset_fin": 13010,
+  "longitud_original_bytes": 298,
+  "limite_chars": 149,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Ya me guzta una chica!<FFF5> No me moleztaría zer tu amigo.<FFF5>   ¡No erez mi tipo de chica! ¡Aléjate!<FFF5>   Parecez un trozo de carne zabrozo.<FF03>Nada mal",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00035",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13016,
+  "offset_fin": 13066,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Tengo zangre encima",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00036",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13074,
+  "offset_fin": 13318,
+  "longitud_original_bytes": 244,
+  "limite_chars": 122,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " La carne que comí<FF03>hace rato eztaba bien zucia.<FFF5> No zoy tu hermano ni tu amigo.<FF03>Todoz me confunden con otro<FF03>últimamente",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00037",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13342,
+  "offset_fin": 13462,
+  "longitud_original_bytes": 120,
+  "limite_chars": 60,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Necezitaz algo de mí?<FF03>Yo también te necezito para algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00038",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13470,
+  "offset_fin": 13554,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Qué ez ezo?<FFF5>Le di todoz ezoz regaloz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00039",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13560,
+  "offset_fin": 13640,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero eza<FF03>bruja igual me engañaba",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00040",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13646,
+  "offset_fin": 13730,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Maldición!<FFF5>¿¡Me vaz a dar ezo!?<FFF5>Zabez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00041",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13736,
+  "offset_fin": 13810,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " yo también pazé por<FF03>tiempoz difícilez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00042",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13816,
+  "offset_fin": 13926,
+  "longitud_original_bytes": 110,
+  "limite_chars": 55,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   No hay nada máz zozpechozo que<FF03>laz lágrimaz de una mujer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00044",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13976,
+  "offset_fin": 14224,
+  "longitud_original_bytes": 248,
+  "limite_chars": 124,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Ya le agarro el modo a portarme<FF03>como demonio.<FFF5>   ¡Entoncez hazte fuerte como yo!<FFF5>   Laz mujerez dan miedo. Qué pienzan",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00045",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 14232,
+  "offset_fin": 14300,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Zoy fuerte? ¿Doy miedo? Jujú",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00046",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 14306,
+  "offset_fin": 14526,
+  "longitud_original_bytes": 220,
+  "limite_chars": 110,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Qué bueno que me volví demonio!<FFF5>   Parece que hablaz de cozaz<FF03>difícilez.<FFF5>  Zi lo dicez en zerio, pruébalo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00048",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 14552,
+  "offset_fin": 14706,
+  "longitud_original_bytes": 154,
+  "limite_chars": 77,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Ezo ez todo lo que tienez que decir?<FFF5>   ¡Bazta de hablar! Ezto ez lo que<FF03>quiero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00049",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 14712,
+  "offset_fin": 14820,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>  ¿Qué idioma ez eze? No entiendo<FF03>nada",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00050",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 14826,
+  "offset_fin": 14948,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Qué ze zupone que haga zi me<FF03>dicen algo azí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00051",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 14956,
+  "offset_fin": 15178,
+  "longitud_original_bytes": 222,
+  "limite_chars": 111,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Ez como encontrarme con un viejo amigo.<FFF5> Lo que hablan loz humanoz ez divertido<FF03>no importa cuántaz vecez lo oiga",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00052",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 15184,
+  "offset_fin": 15242,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Ez bien interezante.<FFF5>Hmmm",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00053",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 15248,
+  "offset_fin": 15636,
+  "longitud_original_bytes": 388,
+  "limite_chars": 194,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Ezo quiere decir que necezitaz mi ayuda?<FFF5>   Zi lo dicez en zerio, pruébalo.<FFF1><FFF5>   ¡Por ezo ze me zalió el ojo! ¿¡Cómo<FF03>me lo vaz a pagar!?<FFF5>  ¡No tengo poder que prestarte!<FFF5>Azí que me necezitaz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00054",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 15642,
+  "offset_fin": 15716,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Zeguro eztáz máz cerca de<FF03>nozotroz que de loz humanoz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00055",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 15722,
+  "offset_fin": 15830,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué idioma hablaz? No<FF03>entiendo nada",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00056",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 15836,
+  "offset_fin": 16704,
+  "longitud_original_bytes": 868,
+  "limite_chars": 434,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Parece que un zombi como yo no ez del todo<FF03>inútil zi loz humanoz me piden ayuda!<FFF5> ¡Me alegra mucho oírlo!<FFF5> No lo parezco, pero mi coeficiente ez<FF03>1300. Zé juzto lo que pienzaz.<FFF5>   ¿Crees que eza ez la actitud para<FF03>negociar? Parece que tu cerebro<FF03>también eztá podrido.<FFF5>  ¡No erez nada lizto! ¡No tienez<FF03>derecho a burlarte de mí!<FFF5>¡Te pazazte de la raya burlándote<FF03>de mí!<FFF5> ¡No me zubeztimez zolo porque zoy<FF03>zombi!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00057",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 16710,
+  "offset_fin": 17022,
+  "longitud_original_bytes": 312,
+  "limite_chars": 156,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<0028>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡No erez nada lizto! ¡No tienez<FF03>derecho a burlarte de mí!<FFF5>Erez bien infantil. ¡Pero erez chiztozo!<FFF5>  Zupongo que a ezto llaman<FF03><0028>la imprudencia de la juventud",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00058",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 17030,
+  "offset_fin": 17066,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Me gusta!<FFF5> Jujú",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00059",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 17072,
+  "offset_fin": 17256,
+  "longitud_original_bytes": 184,
+  "limite_chars": 92,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Qué eztupidez!<FFF5> Máz te vale compenzar el tiempo que perdí<FF03>viendo tu truco eztúpido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00060",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 17262,
+  "offset_fin": 17364,
+  "longitud_original_bytes": 102,
+  "limite_chars": 51,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>   Cómo te atrevez a mostrarme algo tan<FF03>malo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00061",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 17372,
+  "offset_fin": 17618,
+  "longitud_original_bytes": 246,
+  "limite_chars": 123,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Erez malízimo! ¡Déjame a mí! ¡Eztuve en<FF03>una banda de feztival!<FFF5>  ¡No tienez nada de zentido!<FFF5>   Eztáz loco o qué",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00062",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 17626,
+  "offset_fin": 17678,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Mejor<FF03>hago lo que dicez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00063",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 17684,
+  "offset_fin": 18052,
+  "longitud_original_bytes": 368,
+  "limite_chars": 184,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿Ez como una fiezta? ¡Ajujujú!<FF03>¡Me encantan laz fieztaz!<FFF5> ¡Ajujujú! ¡Erez chiztozízimo!<FFF5>   ¡Uy, ya ze me eztá zaliendo la baba<FF03>por todoz ladoz! ¡Jurjurjur!<FFF5> Antez era bien zerio cuando<FF03>todavía era humano",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00064",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 18058,
+  "offset_fin": 18230,
+  "longitud_original_bytes": 172,
+  "limite_chars": 86,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡pero ahora zoy demonio!<FFF1><FFF5>¿¡Tan divertido ez burlarte de mí!?<FFF5>   Me han zubeztimado baztante",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00065",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 18236,
+  "offset_fin": 18372,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Ezo<FF03>no ez lo que quiero!<FFF1><FFF5> C-Claro que cada quien ez libre de elegir<FF03>ezo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00066",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 18378,
+  "offset_fin": 18468,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Pero yo no zoy como elloz!<FF03>¡Zoy diztinto!<FFF5>Guaaau",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00068",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 18510,
+  "offset_fin": 18578,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Ziento que me quemo por dentro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00069",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 18584,
+  "offset_fin": 19016,
+  "longitud_original_bytes": 432,
+  "limite_chars": 216,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Quierez que zea tu amigo?<FF03>Te zientez zolo, ¿verdá?<FFF5>  Oye, dilo como zi lo zintieraz.<FFF5>   ¡Entonces dame algo!<FFF1><FFF5> ¡Cállate! ¡Zilencio!<FFF5> ¡Vamoz, ya me eztoy enojando!<FF03>¡Ezcucha lo que te digo!<FFF1><FFF5>Qué humano tan pezimizta erez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00070",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 19022,
+  "offset_fin": 19306,
+  "longitud_original_bytes": 284,
+  "limite_chars": 142,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Agh! ¡Perdón! ¡Perdón!<FFF5> ¡Entoncez zal conmigo! ¡Ajurjurjur!<FFF5>   No hay nada de qué preocuparze zi<FF03>¡vienez conmigo!<FFF5>Tienez mi carta, verdá",
+  "notas": "excede 286>284",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00071",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 19314,
+  "offset_fin": 19436,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>No la tirez, ¿zí?<FFEF>Tú y yo vivimoz en mundoz diztintoz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00073",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 19474,
+  "offset_fin": 19600,
+  "longitud_original_bytes": 126,
+  "limite_chars": 63,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Ziento que no voy a crecer como<FF03>zombi zi hablo contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00074",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 19606,
+  "offset_fin": 19826,
+  "longitud_original_bytes": 220,
+  "limite_chars": 110,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Ah, bueno.<FFEF>  Entonces te daré esto.<FFEF>   Toma ezto también.<FFEF>Te daré ezto, azí que no me guardez<FF03>rencor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00075",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 19832,
+  "offset_fin": 20054,
+  "longitud_original_bytes": 222,
+  "limite_chars": 111,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   ¡Déjame darte una mordidita<FF03>la próxima!<FFEF>  Ya me voy. Quizá alguien me<FF03>eztá llamando por ahí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00076",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 20060,
+  "offset_fin": 20078,
+  "longitud_original_bytes": 18,
+  "limite_chars": 9,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Uuurrgh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00077",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 20084,
+  "offset_fin": 20164,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Te daré ezto zi<FF03>me dejaz ir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00078",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 20170,
+  "offset_fin": 20414,
+  "longitud_original_bytes": 244,
+  "limite_chars": 122,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ¡Ziento que ze me va a pudrir el cerebro zi<FF03>zigo hablando contigo!<FFEF> Te daré ezto. Deberíaz irte a caza<FF03>antez de que zea tarde",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00079",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 20430,
+  "offset_fin": 20494,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "¿¡Por qué no dezapareces!? Urrrgh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00080",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 20500,
+  "offset_fin": 20984,
+  "longitud_original_bytes": 484,
+  "limite_chars": 242,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡De veraz zoy un zombi!<FFEF>   Te daré mi carta, pero apúrate y haz<FF03>una Perzona con ella, o ze puede pudrir.<FFEF>  ¡Ya zomoz amigoz! ¿Verdá? ¡Verdá!<FFEF>¡No quiero pelear contigo!<FFEF>   Toma ezto y aguanta. Aunque quizá<FF03>no te guzte recibirlo de mí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00081",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 20990,
+  "offset_fin": 21102,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Morir como zombi quizá duela máz<FF03>que morir como humano",
+  "notas": "excede 114>112",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00082",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 21108,
+  "offset_fin": 21612,
+  "longitud_original_bytes": 504,
+  "limite_chars": 252,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> ¿Para qué pazar por eze lío?<FF03>Yo negociaré por ti.<FFEF> Ando en un aprieto ahora. Pienzalo<FF03>como ayudar a un amigo.<FFF1><FFF5>¡Alégrate de zeguir vivo! ¡Ez codiciozo<FF03>querer máz!<FFEF>   ¿Quierez hablar? Me trajizte un<FF03>regalito, verdá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00083",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 21620,
+  "offset_fin": 21710,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>Yo también tengo derecho a vivir, ¿no?<FF03>No",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00084",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 21718,
+  "offset_fin": 21984,
+  "longitud_original_bytes": 266,
+  "limite_chars": 133,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Aún quierez molestarme? ¡Déjame<FF03>en paz!<FFF5>   Zabez, zer zombi ez mucho máz<FF03>divertido de lo que crees.<FFF5> Erez divertido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00085",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 21990,
+  "offset_fin": 22032,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Zeamoz amigoz!<FFF5>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00086",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 22038,
+  "offset_fin": 22078,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "Ezcondez algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00087",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 22084,
+  "offset_fin": 22662,
+  "longitud_original_bytes": 578,
+  "limite_chars": 289,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Odio a loz tipoz<FF03>¡que guardan zecretoz!<FFF5>   He oído muchoz rumorez de ti.<FF03>Dicen que amenazaz a demonioz y<FF03>lez quitaz zuz cozaz.<FFF1><FFF5>¡P-Podría contigo, fácil! ¡Pero zi<FF03>te portaz bien, ezcucharé lo que tienez<FF03>que decir!<FFF5>   <FFEC>¿De veraz tienez azuntoz conmigo? No<FF03>me eztaráz confundiendo con otro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00088",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 22670,
+  "offset_fin": 22744,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFEE>Creo que me caez bien. Zeamoz amigoz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00089",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 22752,
+  "offset_fin": 22954,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   <FFEE>Quiero hablar máz. No tengo oportunidadez<FF03>azí muy zeguido.<FFF5>   <FFEC>Me vaz a quitar ezte cuerpo también",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00090",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 22962,
+  "offset_fin": 23348,
+  "longitud_original_bytes": 386,
+  "limite_chars": 193,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Nooo! ¡No quiero dezaparecer!<FFF5>   <FFEC>¡Erez cruel! ¡Erez tan cruel! ¡Buaaaa!<FFF5>  <FFEB>Eztoy por encima de loz humanoz. ¡Todo humano<FF03>ez zolo comida para nozotroz!<FFF5><FFED>Oí que te ha ido bien<FF03>últimamente. Dame algo de eze dinero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00091",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 23356,
+  "offset_fin": 23482,
+  "longitud_original_bytes": 126,
+  "limite_chars": 63,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5><FFEC>Oye, viejo. ¿No zeríamoz invencibles zi<FF03>noz juntamoz? Qué dicez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00092",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 23490,
+  "offset_fin": 23548,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <FFEB>Te eztaba buzcando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00093",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 23554,
+  "offset_fin": 23632,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Quería<FF03>zer tu aprendiz.<FFF5>   Qué",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00094",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 23638,
+  "offset_fin": 23816,
+  "longitud_original_bytes": 178,
+  "limite_chars": 89,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué quierez de mí?<FFEF>   ¡No te burlez de mí! ¡Fuera de mi vizta!<FFEF>  Eztoy azuztado",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00095",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 23822,
+  "offset_fin": 23900,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me pregunto zi me<FF03>van a matar otra vez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00096",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 23906,
+  "offset_fin": 24080,
+  "longitud_original_bytes": 174,
+  "limite_chars": 87,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Contigo ziento que eztoy otra vez<FF03>en la ezcuela charlando con<FF03>miz amigoz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00097",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24086,
+  "offset_fin": 24136,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Qué querías de mí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00098",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24144,
+  "offset_fin": 24244,
+  "longitud_original_bytes": 100,
+  "limite_chars": 50,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Ezo<FF03>de qué ze trataba todo ezto, ¿verdá?<FFEF> Espera un segundo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00099",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24250,
+  "offset_fin": 24404,
+  "longitud_original_bytes": 154,
+  "limite_chars": 77,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No dije nada de<FF03>ignorarte. ¡Tú me eztáz pidiendo un favor!<FFEF>  Ay, viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00100",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24410,
+  "offset_fin": 24612,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ezte ez un zueño bien raro.<FF03>Me pregunto zi ez porque jugué un juego<FF03>raro antez de dormir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00101",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24618,
+  "offset_fin": 24772,
+  "longitud_original_bytes": 154,
+  "limite_chars": 77,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ¡Deberíaz zentirte honrado de poder hablar<FF03>conmigo al final!<FFEF>  Loz humanoz zon increíblez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00102",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24778,
+  "offset_fin": 24822,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " D-Déjenme unirme<FF03>a uztedez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00104",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 24850,
+  "offset_fin": 25120,
+  "longitud_original_bytes": 270,
+  "limite_chars": 135,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF8>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Eztoy juntando dinero para cambiar<FF03>por un brazo nuevo. ¿Me darías<FF03><FFF8> yenez?<FFEF> ¡Un poco máz y podré comprar un<FF03>brazo nuevo!<FFF5>Ezo no alcanza",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00105",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 25126,
+  "offset_fin": 25376,
+  "longitud_original_bytes": 250,
+  "limite_chars": 125,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Zabez, podríaz<FF03>¡darme tu brazo y ya!<FFF5>  ¡Agh! ¡Entoncez dame tu brazo!<FFF5> Quiero una piedra de vida. Me hacen zentir<FF03>todo calientito",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00106",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 25382,
+  "offset_fin": 25456,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>¡En realidad erez buen tipo!<FFF5>Ayyy",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00107",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 25462,
+  "offset_fin": 25494,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " qué pena",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00108",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 25500,
+  "offset_fin": 25548,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Vaz camino al infierno",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00109",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 25554,
+  "offset_fin": 26112,
+  "longitud_original_bytes": 558,
+  "limite_chars": 279,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF4>",
+   "<FFEF>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Te enzeñaré<FF03>cómo llegar!<FFF5>   Quiero un regalo para una chica.<FF03>Dame un <FFF4>.<FFEF>  ¡Ahora zí zerá mía!<FFF5>  ¡Maldición! ¡No lo puedo creer!<FFF5>  ¿¡Intentaz meterte en el camino de<FF03>mi amor!? ¡Alguien como tú debería<FF03>morir de una patada de caballo!<FFF5>   Dame un poco de tu fuerza",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00110",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26118,
+  "offset_fin": 26166,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Por favor?<FF03>Te lo ruego",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00111",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26172,
+  "offset_fin": 26214,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> T-Te vez tan zabrozo",
+  "notas": "excede 44>42",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00112",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26220,
+  "offset_fin": 26322,
+  "longitud_original_bytes": 102,
+  "limite_chars": 51,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Tu valor habría ayudado a un pobre<FF03>zombi también",
+  "notas": "excede 104>102",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00113",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26328,
+  "offset_fin": 26448,
+  "longitud_original_bytes": 120,
+  "limite_chars": 60,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   A decir verdá, no quiero que nadie máz<FF03>acabe como yo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00114",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26454,
+  "offset_fin": 26596,
+  "longitud_original_bytes": 142,
+  "limite_chars": 71,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>¿No te alcanza? Viejo, no erez<FF03>digno de eztar vivo.<FFF5>Qué paza con ezo",
+  "notas": "excede 144>142",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00115",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26604,
+  "offset_fin": 26642,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Eztoy herido,<FF03>zabez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00116",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26648,
+  "offset_fin": 26848,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Erez frío para zer humano.<FFF5> ¡No tienez nada! ¿¡Ziempre planeazte<FF03>pelear conmigo, eh!?<FFF5>Erez tan cruel",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00117",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26854,
+  "offset_fin": 26926,
+  "longitud_original_bytes": 72,
+  "limite_chars": 36,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Erez aún máz retorcido<FF03>que yo!<FFF5> Eh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00118",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26934,
+  "offset_fin": 26986,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " ¿¡Erez mi rival!? Urrrgh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00119",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 26992,
+  "offset_fin": 27044,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>No zerá fácil vencerte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00120",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 27050,
+  "offset_fin": 27378,
+  "longitud_original_bytes": 328,
+  "limite_chars": 164,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Zolo quería un poco! ¡Qué pezado erez!<FFF5>   ¡Maldición! ¡Te daré mi carta!<FFEF>   ¡Zomoz amigoz, azí que te daré mi carta!<FF03>¡Pero máz te vale no tirarla!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00121",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 27384,
+  "offset_fin": 27546,
+  "longitud_original_bytes": 162,
+  "limite_chars": 81,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   ¡Zomoz amigoz, azí que te daré mi carta!<FF03>¡Pero máz te vale no tirarla!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zomb_man_00000",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 2,
+  "offset_fin": 8418,
+  "longitud_original_bytes": 8416,
+  "texto_original": null,
+  "texto_traducido": " <A86B> <A873> <1879> <1879>   <1820> <8820> <F020> <4021> <8821> <F821> <4822> <C022> <1823> <5023> <B023> <F823> <3824> <A824> <2025> <E025> <C026> <0827> <8827> <0028> <6028> <A028> <D028> <4029> <8029> <082A> <482A> <B82A> <002B> <802B> <C82B> <682C> <B02C> <302D> <902D> <E02D> <102E> <582E> <D02E> <202F> <902F> <E02F> <4830> <C830> <2031> <9031> <E831> <3832> <8032> <E032> <6833> <1034> <A034> <B834> <6035> <9835> <0036> <7036> <A036> <1037> <4837> <A037> <2038> <8038> <C838> <1839> <8039> <F039> <703A> <C03A> <803B> <D83B> <303C> <B03C> <F83C> <703D> <E03D> <883E> <C03E> <583F> <1840> <9040> <E840> <4841> <C041> <0842> <A042> <D842> <7843> <E043> <6044> <A844> <1845> <7845> <B045> <2846> <B846> <0047> <7047> <1848> <5048> <A048> <0849> <4849> <7849> <A049> <104A> <504A> <804A> <C84A> <304B> <A84B> <184C> <984C> <B04C> <E84C> <084D> <804D> <E04D> <604E> <D04E> <484F> <C84F> <4850> <E850> <3051> <6851> <0052> <7852> <F852> <8053> <F853> <7854> <D854> <4055> <B855> <1056> <8856> <4857> <F057> <9058> <E858> <6859> <F859> <405A> <A85A> <405B> <C85B> <485C> <905C> <E85C> <685D> <185E> <A05E> <485F> <3060> <A060> <1861> <A861> <0062> <7862> <B062> <2863> <6863> <A063> <1864> <7864> <B064> <F064> <C865> <4066> <7066> <E066> <5867> <C067> <4868> <C868> <2869> <B069> <086A> <586A> <006B> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>Ni idea de lo que dicez, pero eza voz<FF03>zuena nostálgica.<FFF5>  Ni zabez lo doloroso que ez<FF03>ezte frío",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 4208
+ },
+ {
+  "id": "talk_zomb_man_00043",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 13932,
+  "offset_fin": 13968,
+  "longitud_original_bytes": 36,
+  "texto_original": null,
+  "texto_traducido": "<FFF5> O-Oye, no llorez",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 18
+ },
+ {
+  "id": "talk_zomb_man_00067",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 18474,
+  "offset_fin": 18502,
+  "longitud_original_bytes": 28,
+  "texto_original": null,
+  "texto_traducido": " M-Me quierez",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 14
+ },
+ {
+  "id": "talk_zomb_man_00072",
+  "archivo_origen": "talk/zomb_man.bin",
+  "offset_inicio": 19442,
+  "offset_fin": 19468,
+  "longitud_original_bytes": 26,
+  "texto_original": null,
+  "texto_traducido": "<FF03>Qué láztima",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 13
+ }
+]

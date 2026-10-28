@@ -1,0 +1,3669 @@
+[
+ {
+  "id": "talk_mayoeru_00001",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8246,
+  "offset_fin": 8304,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué raro que quieras<FF03>a <FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00002",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8310,
+  "offset_fin": 8366,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Uuuurh! <FFF3> no tiene adónde<FF03>ir",
+  "notas": "excede 58>56",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00003",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8372,
+  "offset_fin": 8412,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Uiii! Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00004",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8418,
+  "offset_fin": 8472,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> está feliz.<FFF5>  Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00005",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8478,
+  "offset_fin": 8772,
+  "longitud_original_bytes": 294,
+  "limite_chars": 147,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué ganas con<FF03>desafiar a <FFF3>?<FFF5> ¡Uuuurh! ¡Siento ira! <FFF3><FF03>hará que ese cuerpo sea de<FF03><FFF3>!<FFF5>   Es divertido amenazar a <FFF3><FF03>sin un lugar al cual llamar hogar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00006",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8780,
+  "offset_fin": 8866,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Nunca imaginó que le pedirían unirse<FF03>a los humanos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00007",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 8872,
+  "offset_fin": 9000,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Hombre vivo, tienes buena<FF03>alma.<FFF5> ¡Uuurh! <FFF3> ¡también tiene orgullo!<FFF5>Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00008",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 9006,
+  "offset_fin": 9058,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF0>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Los vivos invitan a un<FF03><FFF0>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00009",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 9064,
+  "offset_fin": 9192,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uuuuurh! ¡Basta de cantar mal! ¡Este espíritu<FF03>se volverá loco!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00010",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 9198,
+  "offset_fin": 9256,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Voz horrible, demasiado horrible",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00011",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 9262,
+  "offset_fin": 9376,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF0>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Cosas horribles le pasan a <FFF0><FF03> también?<FFF5>  ¡Uiii! Las canciones son buenas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00012",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 9382,
+  "offset_fin": 9952,
+  "longitud_original_bytes": 570,
+  "limite_chars": 285,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF0>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF0>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Le recuerdan a<FF03><FFF0> ¡cuando era de carne!<FFF5>  No hay nada que <FFF3> no pueda<FF03>hacer. Tener carne debe ser incómodo.<FFF5>   ¡Uuuuurh!<FF03><FFF0> y los humanos son enemigos.<FF03>No puede cumplir peticiones.<FFF5>  ¡Uiiii! ¡Muchos años sin que una mujer de<FF03>carne le pidiera algo!<FFF5>¡Uuuurh! <FFF3> ¡no es tonto!<FF03>¡No entiende! ¡No se dejará engañar!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00013",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 9958,
+  "offset_fin": 9994,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Tramas espantosas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00014",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10000,
+  "offset_fin": 10026,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Uno<FF03>vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00015",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10032,
+  "offset_fin": 10076,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Qué tramas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00016",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10084,
+  "offset_fin": 10216,
+  "longitud_original_bytes": 132,
+  "limite_chars": 66,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Uiii! <FFF3> ¡es fuerte!<FF03>Mujer viva habla bien.<FFF5>  Qué frío hace aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00017",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10222,
+  "offset_fin": 10266,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Nada de qué hablar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00018",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10272,
+  "offset_fin": 10328,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Envidia a los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00019",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10334,
+  "offset_fin": 10936,
+  "longitud_original_bytes": 602,
+  "limite_chars": 301,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Mujer viva miente! <FFF3><FF03>¡arrancará la lengua, se la llevará!<FFF5>  ¡Uiii! ¡Se volvió más listo! ¡Ser listo es bueno<FF03>en el mundo de los muertos!<FFF5>  Bien, mujer viva. Conoces la fuerza de<FF03><FFF3>.<FFF5>  ¡Uuurh! ¡Silencio! ¡No hay razón para creer<FF03>lo que dice mujer viva!<FFF5>   ¡Uiii! <FFF3> ¡es fuerte!<FF03>¡Asústate más, mujer viva!<FFF5> Qué frío hace aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00020",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 10942,
+  "offset_fin": 10994,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Quiere estar en algún lugar<FF03>cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00021",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11000,
+  "offset_fin": 11066,
+  "longitud_original_bytes": 66,
+  "limite_chars": 33,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " El cuerpo de mujer viva se ve<FF03>cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00022",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11072,
+  "offset_fin": 11198,
+  "longitud_original_bytes": 126,
+  "limite_chars": 63,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uuuurh! <FFF3> no le interesa<FF03>¡el hombre vivo! Salvo para poseer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00024",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11222,
+  "offset_fin": 11276,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF3> no tiene<FF03>forma física",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00025",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11282,
+  "offset_fin": 11344,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Hombre vivo perdió<FF03>la razón",
+  "notas": "excede 64>62",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00026",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11352,
+  "offset_fin": 11500,
+  "longitud_original_bytes": 148,
+  "limite_chars": 74,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uiii! ¡Yahhhhh!<FFF5> Si hombre vivo es amigo de <FFF3>,<FF03>este mundo podría ser divertido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00027",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11506,
+  "offset_fin": 11542,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Uuuurhh! Aburrido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00030",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11586,
+  "offset_fin": 11626,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Creyó que <FFF3><FF03>moriría",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00031",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11632,
+  "offset_fin": 11728,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uiii! ¡El corazón de <FFF3>se<FF03>calentó!<FFF5> Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00032",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11734,
+  "offset_fin": 11930,
+  "longitud_original_bytes": 196,
+  "limite_chars": 98,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> quiere oír más.<FFF5>  ¡Uuuurh! ¡No cuentes historias del mundo<FF03>de los vivos!<FFF5>Hace tanto frío aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00033",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 11936,
+  "offset_fin": 12058,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Hasta un saludo<FF03>casual da alegría.<FFF5>  <FFF3> también tuvo una infancia",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00034",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 12064,
+  "offset_fin": 12240,
+  "longitud_original_bytes": 176,
+  "limite_chars": 88,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Es el recuerdo más preciado.<FFF5>  ¡Uuuuurh! ¿¡Qué haces!?<FF03><FFF3> ¡está enojado!<FFF5>  Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00035",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 12246,
+  "offset_fin": 12294,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Es divertido asustar a <FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00036",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 12302,
+  "offset_fin": 12388,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Cuando aún vivía, <FFF3> quizá<FF03>tuvo una casa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00037",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 12394,
+  "offset_fin": 12440,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Un lugar al cual llamar<FF03>hogar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00038",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 12446,
+  "offset_fin": 12632,
+  "longitud_original_bytes": 186,
+  "limite_chars": 93,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Uuuurghh!<FF03><FFF3> ¡quiere un cuerpo vivo!<FF03>¡Un lugar donde quede el alma!<FFF5>   ¡Uiii! Tener eso podría ser cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00039",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 12638,
+  "offset_fin": 13056,
+  "longitud_original_bytes": 418,
+  "limite_chars": 209,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Si es así, será feliz.<FFF5>   Puede que hombre vivo tenga razón.<FF03>Suerte. Ojalá.<FFF5>¡Uuuurgh! ¡Es fácil decir cualquier cosa!<FF03>¡Qué imprudente sin ser tan fuerte!<FFF5>¡Uiii! ¡Cuánta energía!<FF03>Así deben ser los vivos.<FFF5>Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00040",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13062,
+  "offset_fin": 13252,
+  "longitud_original_bytes": 190,
+  "limite_chars": 95,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>La voz se oye sin gritar.<FF03>Pero la voz fuerte es linda.<FFF5>¡Uuuurgh! <FFF3> ¡es invencible!<FF03>Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00041",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13258,
+  "offset_fin": 13304,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No hay perdón.<FFF5>  Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00043",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13348,
+  "offset_fin": 13388,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> no hizo nada malo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00044",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13394,
+  "offset_fin": 13478,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Si hombre vivo muere, será como<FF03><FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00045",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13484,
+  "offset_fin": 13546,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero aquí hace tanto frío<FF03>y está tan oscuro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00046",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13552,
+  "offset_fin": 13844,
+  "longitud_original_bytes": 292,
+  "limite_chars": 146,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<0028>",
+   "<0028>",
+   "<FFF5>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡No des por hecho el cuerpo vivo!<FF03><FFF3> sabe de inmediato cuando<FF03>¡el cuerpo vivo miente!<FFF5> ¡Uiii! ¡Hombre vivo tiene razón!<FF03><FFF3> es <0028>genial<0028>!<FFF5>   <FFF3> ve",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00047",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13850,
+  "offset_fin": 13932,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ese baile es<FF03>popular en el mundo de los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00048",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13938,
+  "offset_fin": 13980,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> también quiere bailar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00049",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 13986,
+  "offset_fin": 14592,
+  "longitud_original_bytes": 606,
+  "limite_chars": 303,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Uuurhh! ¡No presumas tu cuerpo vivo!<FF03>¡Uurhhh! ¡Da donde duele!<FFF5> ¡Nada mal para tener cuerpo, hombre<FF03>vivo! ¡Pero es aún más fácil bailar<FF03>cuando la muerte te lo quita!<FFF5>   ¡Interesante, hombre vivo!<FF03>Creyó que era un dicho nuevo.<FFF5> ¡Uuur! ¿¡Hombre vivo se atreve con<FF03><FFF3>!? ¡Le enseñará los límites de<FF03>la carne!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00052",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 14644,
+  "offset_fin": 14680,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Debería <FFF3> huir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00053",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 14688,
+  "offset_fin": 14738,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Esos ojos hacen que <FFF3> sienta calor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00054",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 14744,
+  "offset_fin": 14928,
+  "longitud_original_bytes": 184,
+  "limite_chars": 92,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Mira más.<FFF5>¡Uuurgh! ¡La mirada de ojos negros duele!<FF03>¡Deja de mirar, oscuro!<FFF5>Le recuerda días pasados",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00055",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 14934,
+  "offset_fin": 14994,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Cómo estará<FF03>aquella niña",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00056",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 15002,
+  "offset_fin": 15128,
+  "longitud_original_bytes": 126,
+  "limite_chars": 63,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Esa historia da alegría! ¡El mundo<FF03>de los vivos sí es divertido!",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00057",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 15134,
+  "offset_fin": 15520,
+  "longitud_original_bytes": 386,
+  "limite_chars": 193,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Uuuurhh! ¡No mientas, hombre vivo!<FF03>No menosprecies a <FFF3>!<FFF5>¡Uiii! ¡De eso sí vale la pena hablar!<FF03>Debería engañar a los recién muertos.<FFF5>  ¡Uuuurhh!<FF03><FFF3> ¡no le teme a nada!<FF03>¡Urrhh! ¡No subestimes!<FFF5>  Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00060",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 15580,
+  "offset_fin": 15678,
+  "longitud_original_bytes": 98,
+  "limite_chars": 49,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Mujer viva cuenta historias<FF03>así? No es listo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00061",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 15684,
+  "offset_fin": 16020,
+  "longitud_original_bytes": 336,
+  "limite_chars": 168,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Mujer viva tiene gran voz.<FF03>Que muera pronto para cantar con<FF03><FFF3> en el más allá.<FFF5>¡Uuurhh! ¡Basta de cantar mal! ¡Hace<FF03>aún más frío!<FFF5> ¡Uiiii! Las canciones son maravillosas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00062",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16026,
+  "offset_fin": 16108,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " La voluntad de<FF03>se restauró.<FFF5>   Mujer viva",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00063",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16114,
+  "offset_fin": 16406,
+  "longitud_original_bytes": 292,
+  "limite_chars": 146,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué descaro es ese?<FF03><FFF3> es distinto de los de<FF03>carne.<FFF5> ¡Uuuurhh!<FF03><FFF3> ¡también tiene orgullo!<FF03>¡Di esas cosas a los niños vivos!<FFF5>  <FFF3> tuvo una madre alguna vez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00064",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16412,
+  "offset_fin": 16496,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Hacía mucho que no pensaba<FF03>eso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00065",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16502,
+  "offset_fin": 16554,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Seducido por mujer viva",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00066",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16560,
+  "offset_fin": 16616,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Tal vez estar<FF03>perdido no es tan malo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00067",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16622,
+  "offset_fin": 16758,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Uuuurhh!<FF03><FFF3> ¡sabe lo que debe hacer!<FF03>¡No es eso!<FFF5>   <FFF3> es omnipotente",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00068",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16764,
+  "offset_fin": 16820,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero<FF03>no puede hacer trabajo de vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00069",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16826,
+  "offset_fin": 16902,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Aun así, es bueno<FF03>que lo inviten.<FFF5>   Calumnia",
+  "notas": "excede 78>76",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00070",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16908,
+  "offset_fin": 16978,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Los vivos calumnian muy<FF03>seguido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00071",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 16984,
+  "offset_fin": 17096,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF3> no lo hará.<FFF5>   ¡No seas falso, ser vivo!<FFF5>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00074",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 17154,
+  "offset_fin": 17354,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Divertirse con el otro sexo es privilegio<FF03>de los vivos. Quizá los que no tienen<FF03>pueden revivir viejos tiempos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00075",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 17360,
+  "offset_fin": 17620,
+  "longitud_original_bytes": 260,
+  "limite_chars": 130,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uuuurhhh!<FF03>Qué quieres de <FFF3>?<FF03>¡No lo dirá!<FFF5> ¡Uiii! ¡Creía imposible conquistar<FF03>a una mujer viva!<FFF5>  Mujer viva",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00076",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 17626,
+  "offset_fin": 17736,
+  "longitud_original_bytes": 110,
+  "limite_chars": 55,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Si el presente es tan<FF03>doloroso, muere y vuélvete <FFF3>.<FFF5> Uurh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00077",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 17742,
+  "offset_fin": 17880,
+  "longitud_original_bytes": 138,
+  "limite_chars": 69,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Alégrate de tener carne, mujer!<FF03><FFF3> ¡se lo llevará si no<FF03>lo quieres!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00078",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 17886,
+  "offset_fin": 17918,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " P-Parece tan frío",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00079",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 17924,
+  "offset_fin": 18000,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No hace<FF03>frío también para los cuerpos vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00080",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18008,
+  "offset_fin": 18044,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Mujer viva",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00081",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18050,
+  "offset_fin": 18280,
+  "longitud_original_bytes": 230,
+  "limite_chars": 115,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> no tiene nada que perder.<FF03>Las amenazas son inútiles.<FFF5>  <FFF3> ¡es invencible!<FF03>¡No tiene nada que perder!<FF03>¡Ansía un cuerpo vivo!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00082",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18286,
+  "offset_fin": 18480,
+  "longitud_original_bytes": 194,
+  "limite_chars": 97,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Es divertido amenazar a <FFF3>?<FFF5>   Deja de provocar <FFF3>!<FF03>¡Esto no es distinto de cuando<FF03><FFF3> vivía!<FFF5>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00084",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18508,
+  "offset_fin": 18618,
+  "longitud_original_bytes": 110,
+  "limite_chars": 55,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Debería <FFF3><FF03>huir?<FFF5>  ¡Uiiii! Se siente bien que lo molesten",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00085",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18624,
+  "offset_fin": 18658,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> se siente despierto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00086",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18664,
+  "offset_fin": 18734,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Mujer viva dice la verdad",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00087",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18740,
+  "offset_fin": 18842,
+  "longitud_original_bytes": 102,
+  "limite_chars": 51,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Quizá mujer viva sabe adónde<FF03><FFF3> debe regresar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00088",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 18848,
+  "offset_fin": 19146,
+  "longitud_original_bytes": 298,
+  "limite_chars": 149,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿¡Qué sabe mujer viva de<FF03><FFF3>!? ¡Uuuurhhh!<FF03>¡Mujer viva es tan impudente!<FFF5>  El cerebro de carne es listo. Además se ve<FF03>bien curtido y delicioso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00089",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19152,
+  "offset_fin": 19296,
+  "longitud_original_bytes": 144,
+  "limite_chars": 72,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uuuurhh! <FFF3> ¡maduró!<FF03>¡Di esas cosas a los niños vivos!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00091",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19326,
+  "offset_fin": 19354,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " D-Debería huir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00092",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19362,
+  "offset_fin": 19406,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <FFF3> tuvo una madre alguna vez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00093",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19412,
+  "offset_fin": 19496,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Hacía mucho que no pensaba<FF03>eso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00094",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19502,
+  "offset_fin": 19532,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Mujer viva",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00095",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19538,
+  "offset_fin": 19620,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Es frío contarle<FF03>historias de los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00096",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19626,
+  "offset_fin": 19768,
+  "longitud_original_bytes": 142,
+  "limite_chars": 71,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Uuurhh! ¡Lo ignoran! ¡Crueldad! ¡Nada cálido<FF03>de corazón para ser vivo!<FFF5>Augh",
+  "notas": "excede 144>142",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00098",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19794,
+  "offset_fin": 19848,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Este lugar es demasiado<FF03>frío también",
+  "notas": "excede 56>54",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00099",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19854,
+  "offset_fin": 19880,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00100",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19886,
+  "offset_fin": 19962,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Sé alguien con quien un perdido<FF03><FFF3> pueda hablar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00101",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 19968,
+  "offset_fin": 20112,
+  "longitud_original_bytes": 144,
+  "limite_chars": 72,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uuurhh! ¡Lo ignoran! ¡Crueldad! ¡Nada cálido<FF03>de corazón para ser vivo!<FFF5>Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00102",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20118,
+  "offset_fin": 20152,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " D-Dónde es esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00103",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20160,
+  "offset_fin": 20218,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Tantos<FF03>cuerpos vivos fríos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00104",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20224,
+  "offset_fin": 20256,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00105",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20262,
+  "offset_fin": 20480,
+  "longitud_original_bytes": 218,
+  "limite_chars": 109,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ese cuerpo se ve<FF03>lleno de energía. <FFF3> ¡lo quiere!<FFF5> ¡Uuuurhh!<FF03><FFF3> ¡no se asustará!<FF03>¡No hasta que <FFF3> encuentre un cuerpo vivo!<FFF5>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00106",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20486,
+  "offset_fin": 20516,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF3> solo está perdido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00107",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20522,
+  "offset_fin": 20560,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Por qué estorbas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00108",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20568,
+  "offset_fin": 20680,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Uuuurhh! ¡Silencio, hombre vivo! ¡Malditos<FF03>sean!<FFF5> Augh",
+  "notas": "excede 114>112",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00109",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20686,
+  "offset_fin": 20744,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Hombre vivo enloqueció",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00110",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20750,
+  "offset_fin": 20838,
+  "longitud_original_bytes": 88,
+  "limite_chars": 44,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Así saludan los vivos?<FF03>Raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00111",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20844,
+  "offset_fin": 20898,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " No es como lo recuerda",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00112",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20904,
+  "offset_fin": 20936,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Qué frío hace aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00113",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20942,
+  "offset_fin": 20974,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Nada divertido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00114",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 20980,
+  "offset_fin": 21028,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Envidia al hombre vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00119",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21144,
+  "offset_fin": 21178,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " El corazón se siente cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00121",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21206,
+  "offset_fin": 21316,
+  "longitud_original_bytes": 110,
+  "limite_chars": 55,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " divertido.<FFF5>   Podría hablar más con una boca<FF03>de carne",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00124",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21356,
+  "offset_fin": 21392,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Entendido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00125",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21398,
+  "offset_fin": 21752,
+  "longitud_original_bytes": 354,
+  "limite_chars": 177,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Pero <FFF3> tiene frío.<FF03>Dale algo cálido.<FFF1><FFF5>   ¡Uuuurhh! El cuerpo vivo no tiene<FF03>que meterse con <FFF3>!<FFF5>  ¡Uuurh! No le interesa esa historia.<FF03>¡Le interesa el calor! ¡Dale calor!<FFF1><FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00127",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21776,
+  "offset_fin": 21814,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Dónde está el hogar de<FF03><FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00129",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21842,
+  "offset_fin": 21898,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No tiene nada que ver con<FF03><FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00130",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 21904,
+  "offset_fin": 22114,
+  "longitud_original_bytes": 210,
+  "limite_chars": 105,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   <FFF3> está feliz de haber <FF03>hablado con los vivos.<FFF5> ¡Uiii! ¡Las palabras de los vivos sirven!<FFF5>Podría ser bueno",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00131",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22120,
+  "offset_fin": 22300,
+  "longitud_original_bytes": 180,
+  "limite_chars": 90,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero queda un largo<FF03>camino por delante.<FFF5> Si ayuda a los vivos, quizá<FF03>encuentre su hogar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00132",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22306,
+  "offset_fin": 22554,
+  "longitud_original_bytes": 248,
+  "limite_chars": 124,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Uuuurhh! ¡Los vivos no deberían<FF03>meterse con <FFF3>!<FFF5><FFF3> ¡no quiere ayudar!<FFF5>   Quizá <FFF3> pueda ayudar<FF03>a los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00134",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22582,
+  "offset_fin": 22612,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF3> solo está perdido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00135",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22618,
+  "offset_fin": 22710,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF0>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿¡Los vivos quieren la ayuda de <FFF0> !?<FF03>Qué alegría, qué calor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00136",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22716,
+  "offset_fin": 22896,
+  "longitud_original_bytes": 180,
+  "limite_chars": 90,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFF3> ¡será útil!<FF03>¡De verdad!<FFF5>   Los vivos se atreven a enojar a <FFF3>?<FF03>Hombre vivo es raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00137",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22902,
+  "offset_fin": 22932,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00138",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 22938,
+  "offset_fin": 23272,
+  "longitud_original_bytes": 334,
+  "limite_chars": 167,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF3><FF03>aceptará algo que muestre cuánto<FF03>quieren los vivos a <FFF3>.<FFF1><FFF5> ¡Uuuurhhh!<FF03>Provocar a <FFF3>!?<FF03>¡Jamás perdonará!<FFF5>  ¡Uuurrhh! <FFF3> ¡está enojado!<FF03>Se acaba el tiempo para suplicar.<FFF1><FFF5>Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00139",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 23278,
+  "offset_fin": 23324,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Los vivos parecen fuertes",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00141",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 23350,
+  "offset_fin": 23372,
+  "longitud_original_bytes": 22,
+  "limite_chars": 11,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Lo molestaron",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00142",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 23378,
+  "offset_fin": 23408,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> solo está perdido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00143",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 23414,
+  "offset_fin": 23482,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFF3> quiere estar siempre<FF03>de buen humor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00144",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 23488,
+  "offset_fin": 23944,
+  "longitud_original_bytes": 456,
+  "limite_chars": 228,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No se enojará.<FFF5>   <FFF3> no es de carne viva.<FF03>Por eso las emociones de los<FF03>vivos son divertidas.<FFF5> Hombre vivo, mejora tus trucos.<FF03><FFF3> lo esperará con ansias.<FFF5> Los trucos de los vivos intrigan.<FF03><FFF3> no puede hacer trucos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00145",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 23950,
+  "offset_fin": 24288,
+  "longitud_original_bytes": 338,
+  "limite_chars": 169,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Mejor tomará algo.<FFF1><FFF5>  ¡Uuuuurh! ¿Y qué?<FF03>¡Fue aburrido y desagradable!<FFF5>   ¿Los vivos quieren ver la<FF03>ira de <FFF3>!?<FF03>¡Ahora, paga por desviarlo!<FFF1><FFF5>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00146",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 24294,
+  "offset_fin": 24336,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Hace frío por alguna razón",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00147",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 24342,
+  "offset_fin": 24408,
+  "longitud_original_bytes": 66,
+  "limite_chars": 33,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>La vida de los vivos es fría",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00149",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 24440,
+  "offset_fin": 24510,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No es cálido estar con los<FF03>vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00150",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 24516,
+  "offset_fin": 24546,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Debería irse a casa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00151",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 24552,
+  "offset_fin": 24826,
+  "longitud_original_bytes": 274,
+  "limite_chars": 137,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Los vivos dan alegría!<FF03><FFF3> ¡también debería hallar<FF03>su lugar!<FFF5>¡Bien hecho! ¡Haz más! <FFF3><FF03>mirará.<FFF5> <FFF3> se interesa en los<FF03>vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00152",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 24832,
+  "offset_fin": 25336,
+  "longitud_original_bytes": 504,
+  "limite_chars": 252,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FFF0>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Podría ser bueno aceptar<FF03>la invitación.<FFF5>   Pasará tiempo con los vivos,<FF03>pero <FFF3> también tiene una petición.<FFF1><FFF5>   ¡Uuuurh! <FFF3> es <FFF0>.<FF03>¡Incompatible con los vivos!<FFF5>   <FFF3> ¡busca un lugar<FF03>al cual pertenecer! ¡No tiene tiempo<FF03>para los vivos! ¡Compren su tiempo!<FFF1><FFF5>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00153",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 25342,
+  "offset_fin": 25388,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Los vivos son astutos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00154",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 25394,
+  "offset_fin": 25432,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Esto puede ser una trampa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00156",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 25454,
+  "offset_fin": 25542,
+  "longitud_original_bytes": 88,
+  "limite_chars": 44,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No entiende las acciones de<FF03>a los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00158",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 25564,
+  "offset_fin": 26272,
+  "longitud_original_bytes": 708,
+  "limite_chars": 354,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Duele.<FFF5>¡Uiiii!<FF03>¿¡Necesitan la ayuda de <FFF3>!?<FF03>¡Qué feliz!<FFF5>   <FFF3> ama la seducción.<FF03>¡Los vivos, seduzcamos juntos!<FFF5> <FFF3> no ataca a los débiles.<FF03>Los vivos, tranquilos.<FFF5> Los vivos dicen cosas buenas.<FF03><FFF3> te quiere.<FF03>Aceptará algo.<FFF1><FFF5>   ¡Uuuuurh!<FF03><FFF3> ¡no permite mentiras!<FFF5>   ¡Duda que lo digan en serio! ¡Los<FF03>vivos tienen la culpa por no dar<FF03>garantías!<FFF1><FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00160",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26312,
+  "offset_fin": 26360,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Lo están molestando?<FFF5>  Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00161",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26366,
+  "offset_fin": 26462,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Las acciones de los vivos<FF03>siempre tienen truco",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00162",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26468,
+  "offset_fin": 26654,
+  "longitud_original_bytes": 186,
+  "limite_chars": 93,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFF3> ¡es bueno!<FF03>¡Los vivos saben bien!<FF03>¡Di más!<FFF5> Hasta <FFF3> se avergüenza<FF03>de tantos elogios",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00163",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26660,
+  "offset_fin": 26768,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero aun así<FF03>¡está feliz!<FFF5>Los vivos llevan la carta de<FF03><FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00164",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26774,
+  "offset_fin": 26896,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Cuídenla.<FFEF>   Les dará esto.<FF03>Cuídenlo bien.<FFEF>  ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00165",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26902,
+  "offset_fin": 26950,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF3> vagará una vez<FF03>más",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00166",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 26956,
+  "offset_fin": 27344,
+  "longitud_original_bytes": 388,
+  "limite_chars": 194,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> <FFF3> tiene otra afinidad,<FF03>así que no.<FFF5>   <FFF3> se interesa en los<FF03>vivos, pero no le gustan los débiles.<FFEF> Les dará esto en recuerdo del encuentro.<FF03>Cuídenlo bien.<FFEF>   Bueno, hora de despedirse",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00167",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 27350,
+  "offset_fin": 27612,
+  "longitud_original_bytes": 262,
+  "limite_chars": 131,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> comenzará otro<FF03>viaje para perderse.<FFEF>   <FFF3> quiere a los vivos,<FF03>así que también les dará esto.<FFEF> <FFF3> está ocupado buscando<FF03>dónde estar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00168",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 27618,
+  "offset_fin": 27736,
+  "longitud_original_bytes": 118,
+  "limite_chars": 59,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  <FFF3> ¡tiene otra vez un lugar al cual<FF03>llamar hogar! ¡Cuiden bien la carta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00169",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 27742,
+  "offset_fin": 27752,
+  "longitud_original_bytes": 10,
+  "limite_chars": 5,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00171",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 27774,
+  "offset_fin": 27810,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Perdona con esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00172",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 27816,
+  "offset_fin": 28042,
+  "longitud_original_bytes": 226,
+  "limite_chars": 113,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   <FFF3> ¡está aburrido!<FF03>¡Es más divertido estar perdido!<FFF5>   ¡Estar perdido es más emocionante!<FF03>¡Les dará esto para <FFF3> poder<FF03>irse!<FFEF>Pensándolo bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00173",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28048,
+  "offset_fin": 28176,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Hacía tiempo que<FF03>no se enojaba así! Se siente algo aliviado<FF03>ahora",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00174",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28182,
+  "offset_fin": 28382,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>¿Por qué será?<FF03>Bueno, bien.<FF03>¡Les dará su carta!<FFEF>  Quizá sea una Persona cálida si va con<FF03>a los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00175",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28388,
+  "offset_fin": 28426,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Da su carta",
+  "notas": "excede 40>38",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00176",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28432,
+  "offset_fin": 28522,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " vuélvanlo una Persona<FF03>que tenga hogar adonde volver",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00177",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28528,
+  "offset_fin": 28544,
+  "longitud_original_bytes": 16,
+  "limite_chars": 8,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00178",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28550,
+  "offset_fin": 28628,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF3> no<FF03>peleará contra los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00179",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28634,
+  "offset_fin": 28978,
+  "longitud_original_bytes": 344,
+  "limite_chars": 172,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Les dará esto a los vivos.<FF03>Cuídenlo bien.<FFEF>¿Qué puede hacer por los vivos<FF03>para que dejen <FFF3> irse a salvo?<FFEF> Les dará la carta de <FFF3> .<FF03>No más cosas frías, por favor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00180",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 28984,
+  "offset_fin": 29000,
+  "longitud_original_bytes": 16,
+  "limite_chars": 8,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00181",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29006,
+  "offset_fin": 29078,
+  "longitud_original_bytes": 72,
+  "limite_chars": 36,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Qué envidia!<FF03>Ese cuerpo se ve tan cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00182",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29084,
+  "offset_fin": 29230,
+  "longitud_original_bytes": 146,
+  "limite_chars": 73,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04><FFF3> ¡de pronto quiere<FF03>un cuerpo vivo!<FFF5>   Los vivos deben tener algo<FF03>cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00184",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29258,
+  "offset_fin": 29310,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5> Ese cuerpo se ve tan cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00185",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29316,
+  "offset_fin": 29502,
+  "longitud_original_bytes": 186,
+  "limite_chars": 93,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero no es de <FFF3>!<FF02><FF04><FFF3> ¡ahora está de mal humor!<FF03>¡Culpa de los vivos!<FFF5>   Ese cuerpo se ve tan cálido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00186",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29508,
+  "offset_fin": 29640,
+  "longitud_original_bytes": 132,
+  "limite_chars": 66,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero no es de <FFF3>!<FF02><FF04>¡Uuuuuurh! ¡Ahora está enojado!<FF03>¡Den algo!<FFF1><FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00187",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29646,
+  "offset_fin": 29712,
+  "longitud_original_bytes": 66,
+  "limite_chars": 33,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Algo es distinto en el<FF03>aire",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00189",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29740,
+  "offset_fin": 29800,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Este lugar no se siente bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00190",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29806,
+  "offset_fin": 29866,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Se pregunta<FF03>si debería vagar otra vez",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00191",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29872,
+  "offset_fin": 29944,
+  "longitud_original_bytes": 72,
+  "limite_chars": 36,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   <FFF3> también fue de carne<FF03>viva",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00192",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29950,
+  "offset_fin": 29990,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Era una carne muy bonita",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00193",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 29996,
+  "offset_fin": 30102,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>¿Todos los vivos dan miedo hoy?<FFF5> Qué agradable",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00194",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 30108,
+  "offset_fin": 30358,
+  "longitud_original_bytes": 250,
+  "limite_chars": 125,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " El mundo es mucho más cálido<FF03>con los vivos cerca.<FFF5>¡Uiiiiii! ¡Pudo platicar con<FF03>los vivos viva! Se siente tan feliz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00195",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 30364,
+  "offset_fin": 30514,
+  "longitud_original_bytes": 150,
+  "limite_chars": 75,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Valió la pena perderse.<FFF5> ¡No es justo! ¡Qué lindos cuerpos vivos!<FF02><FF04>¡Molesto! Pero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00196",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 30520,
+  "offset_fin": 30866,
+  "longitud_original_bytes": 346,
+  "limite_chars": 173,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFED>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " igual los escuchará.<FFF5>  <FFED>¡No es justo! ¡Qué lindos cuerpos vivos!<FF02><FF04>¡Furioso! Den algo y<FF03>negociará.<FFF1><FFF5>  <FFEC>Quiere hablar con los vivos.<FF03>Por eso los llamó",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00197",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 30872,
+  "offset_fin": 30928,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero no hagan<FF03>cosas frías",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00198",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 30934,
+  "offset_fin": 30984,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFEE>Los vivos respondieron",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00199",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 30990,
+  "offset_fin": 31088,
+  "longitud_original_bytes": 98,
+  "limite_chars": 49,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Se ven cálidos.<FF03>Pero debería esperar a ver qué pasa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00200",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31094,
+  "offset_fin": 31332,
+  "longitud_original_bytes": 238,
+  "limite_chars": 119,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFEE>¡Los vivos parecen divertidos!<FF03><FFF3> ¡quiere aprender más!<FFF5>   <FFEB>¡El calor de la carne es agradable!<FF03><FFF3> ¡está agradecido!<FFF5>  <FFEC>¡Uuuuurh! Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00201",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31338,
+  "offset_fin": 31364,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Uuuurh!<FF03>Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00202",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31370,
+  "offset_fin": 31416,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Siente que va a enloquecer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00203",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31422,
+  "offset_fin": 31478,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFED>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFED>Respondieron muy tranquilos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00204",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31484,
+  "offset_fin": 31544,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF02>",
+   "<FF04>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡Qué<FF03>creen que <FFF3> es!?<FF02><FF04><FFEC>Hm",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00205",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31550,
+  "offset_fin": 31606,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Quizá ya lo pensaba",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00206",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31612,
+  "offset_fin": 31652,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFEB>Feliz y molesto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00207",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31658,
+  "offset_fin": 31802,
+  "longitud_original_bytes": 144,
+  "limite_chars": 72,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFED>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03><FFF3> ¡no logra entender<FF03>a los vivos!<FFF5><FFED><FFF3> ¡está feliz y enojado!<FF03>Los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00208",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31808,
+  "offset_fin": 31858,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Den algo.<FFF1><FFF5>  <FFEC>Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00209",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31864,
+  "offset_fin": 31948,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero por qué el corazón de <FFF3>...<FF03>baila de alegría",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00210",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 31956,
+  "offset_fin": 32058,
+  "longitud_original_bytes": 102,
+  "limite_chars": 51,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEB>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFEB><FFF3> no es masoquista, pero<FF03>asustarse se siente bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00211",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32064,
+  "offset_fin": 32304,
+  "longitud_original_bytes": 240,
+  "limite_chars": 120,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   <FFF3> ahora quiere a los vivos.<FF03>Escuchará los deseos de los vivos.<FFEF> ¡Uuurrhhh! ¡Odia a los vivos!<FF03>¡Los poseerá!<FFEF>  Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00213",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32326,
+  "offset_fin": 32358,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Quiere irse a casa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00214",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32364,
+  "offset_fin": 32394,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> <FFF3> está tan feliz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00215",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32400,
+  "offset_fin": 32560,
+  "longitud_original_bytes": 160,
+  "limite_chars": 80,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Odia a los vivos.<FF03>Pero le interesan un poco.<FF03>¿Qué quieren los vivos?<FFEF> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00217",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32582,
+  "offset_fin": 32660,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Escuchará lo que digan<FF03>los vivos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00218",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32666,
+  "offset_fin": 32868,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué quieren<FF03><FFF3> hacer?<FFEF><FFF3> ahora ama a los vivos.<FF03>Escuchará todos sus deseos.<FFEF>   ¡Uuurghhh! Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00220",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32890,
+  "offset_fin": 32912,
+  "longitud_original_bytes": 22,
+  "limite_chars": 11,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Urrghhh!<FFEF> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00221",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 32918,
+  "offset_fin": 33040,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡Quiere cuerpo vivo, pero no le<FF03>interesan los cuerpos inútiles!<FFEF> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00222",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33046,
+  "offset_fin": 33092,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "Ese buen cuerpo vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00223",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33098,
+  "offset_fin": 33162,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Mirarlo deja a <FFF3>muy<FF03>fascinado",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00224",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33168,
+  "offset_fin": 33464,
+  "longitud_original_bytes": 296,
+  "limite_chars": 148,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF8>",
+   "<FFEF>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   <FFF3> quiere dinero.<FF03>Se conformará con <FFF8> yenes.<FFEF>   ¡Uiii! Los vivos son buenos humanos.<FFF5>  ¡No tienen!<FF03>¡Uuuurh! ¡Los vivos son mentirosos!<FFF5>  Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00225",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33470,
+  "offset_fin": 33554,
+  "longitud_original_bytes": 84,
+  "limite_chars": 42,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No hay nada que hacer si los vivos<FF03>son pobres",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00226",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33560,
+  "offset_fin": 33624,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   No subestimen a <FFF3>!<FFF5> Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00227",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33630,
+  "offset_fin": 33668,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Pero <FFF3> tiene tanta hambre",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00228",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33674,
+  "offset_fin": 33984,
+  "longitud_original_bytes": 310,
+  "limite_chars": 155,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <FFF3> quiere piedras de vida.<FF03>Se conformará con una.<FFEF>   ¡Uiiii! <FFF3> ama a los vivos.<FFF5> ¿¡No tienen!?<FF03>¿Los vivos son idiotas?<FF03>Sí, deben ser idiotas.<FFF5>   Augh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00229",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 33990,
+  "offset_fin": 34086,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No hay nada que hacer si los vivos<FF03>no tienen",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00230",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 34092,
+  "offset_fin": 34180,
+  "longitud_original_bytes": 88,
+  "limite_chars": 44,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF3>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Los vivos!<FF03>No subestimen a <FFF3>!<FFF5> No",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00231",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 34188,
+  "offset_fin": 34252,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF3>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero quizá le dieron dinero a<FF03><FFF3>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00232",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 34258,
+  "offset_fin": 34496,
+  "longitud_original_bytes": 238,
+  "limite_chars": 119,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF4>",
+   "<FFEF>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Esperará con ansias<FF03>la próxima vez.<FFF5><FFF3> quiere una gema.<FF03>Quiere <FFF4>.<FFEF>¡Uiiii! <FFF3> ¡quiere a los de<FF03>carne viva! ¡Los amará!<FFF5>   Bueno",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00233",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 34502,
+  "offset_fin": 35080,
+  "longitud_original_bytes": 578,
+  "limite_chars": 289,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF4>",
+   "<FFF5>",
+   "<FFF3>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF0>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Los vivos son raros.<FFF5>  ¡Los vivos son tan codiciosos!<FFF5>  Los vivos deben amar a <FFF4>!<FFF5><FFF3> quiere la energía vital<FF03>de la carne viva. Se conformará con<FF03>una sola porción.<FFEF>   ¡Uiiii! ¡Qué cálido! ¡Qué delicioso!<FFF5>  ¿¡Los vivos creen que no es posible<FF03>para <FFF0>!? ¡Humanos malvados!<FFF5>  Solo quería un poco",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00235",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 35120,
+  "offset_fin": 35168,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Solo quería un poco",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_mayoeru_00000",
+  "archivo_origen": "talk/mayoeru.bin",
+  "offset_inicio": 2,
+  "offset_fin": 8240,
+  "longitud_original_bytes": 8238,
+  "texto_original": null,
+  "texto_traducido": " <9089> <9091> <0097> <5098>   <1820> <7820> <B820> <0021> <6821> <E021> <5022> <F022> <2023> <7023> <E023> <7824> <E024> <6825> <E025> <6026> <D826> <6827> <D027> <6028> <D828> <5029> <B829> <382A> <A02A> <482B> <C82B> <602C> <802C> <F82C> <202D> <782D> <B82D> <082E> <782E> <F02E> <602F> <B82F> <1030> <A030> <1831> <9031> <1032> <8832> <E832> <7833> <F033> <5834> <F834> <A835> <0836> <A836> <3037> <0038> <7038> <F838> <6839> <B039> <283A> <A03A> <203B> <903B> <283C> <983C> <D03C> <483D> <F83D> <603E> <D03E> <683F> <F03F> <7840> <F040> <5841> <F841> <7842> <C042> <0843> <D843> <3844> <B844> <4045> <D045> <6046> <E046> <6047> <A847> <2848> <7848> <F048> <A849> <484A> <D84A> <584B> <A84B> <304C> <B04C> <304D> <904D> <084E> <884E> <084F> <784F> <F84F> <6050> <C050> <1051> <B051> <3052> <7852> <E852> <7053> <E853> <6054> <F054> <4055> <9855> <F855> <4856> <A856> <2857> <9857> <D057> <2858> <6058> <C058> <0859> <7859> <185A> <685A> <E05A> <285B> <785B> <F05B> <A05C> <105D> <D05D> <305E> <D85E> <605F> <F05F> <7060> <B860> <5061> <D061> <3862> <F062> <6063> <F063> <3864> <B064> <2065> <B065> <F065> <9866> <F066> <6867> <C867> <4868> <C068> <1069> <5069> <9869> <186A> <986A> <306B> <986B> <E86B> <606C> <B06C> <F86C> <706D> <186E> <786E> <E86E> <786F> <E06F> <5070> <C870> <4071> <E071> <5072> <1073> <C073> <B874> <8075> <0876> <D076> <6877> <1878> <D878> <7879> <E079> <487A> <C07A> <807B> <F07B> <687C> <D87C> <487D> <C07D> <287E> <707E> <987E> <287F> <D07F> <4880> <9080> <1081> <9881> <F881> <4882> <B082> <2083> <5083> <9083> <F883> <3084> <B884> <3085> <8085> <1886> <4886> <B886> <0087> <4087> <7887> <2088> <6088> <E088> <3889> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>Hombre vivo",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 4119
+ }
+]

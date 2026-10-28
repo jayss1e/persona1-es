@@ -1,0 +1,1840 @@
+[
+ {
+  "id": "talk_zombiko_00001",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 8320,
+  "offset_fin": 8822,
+  "longitud_original_bytes": 502,
+  "limite_chars": 251,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " solo que ya no<FF03>aplica para mí.<FFF5>  ¡No hables como si lo supieras todo!<FF03>¡Digo, aún estás vivo! ¡Puedes actuar<FF03>así cuando hayas conocido la muerte!<FFF5>   ¡Mentiroso! ¡No me volverán a engañar!<FFF5>¿Aún soy bonita? Era lo único<FF03>que tenía a mi favor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00003",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 8850,
+  "offset_fin": 8954,
+  "longitud_original_bytes": 104,
+  "limite_chars": 52,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Me quito la cabeza<FF03>a cambio?<FFF5>  Aaah, basta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00004",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 8962,
+  "offset_fin": 9056,
+  "longitud_original_bytes": 94,
+  "limite_chars": 47,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Si me muevo<FF03>mucho, me haré pedazos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00005",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 9062,
+  "offset_fin": 9314,
+  "longitud_original_bytes": 252,
+  "limite_chars": 126,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Q-Qué haces? ¡Creí que se me iba<FF03>a parar el corazón!<FFF5>¡Nooooo!<FFF5>Haces cosas bastante atrevidas. Eso<FF03>me hizo reír mucho",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00007",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 9342,
+  "offset_fin": 9542,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Quién crees que es más fuerte,<FF03>tú o yo?<FFF5>Tranquilo, no estoy enojada. Solo quiero<FF03>que te vuelvas uno de nosotros",
+  "notas": "excede 202>200",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00008",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 9548,
+  "offset_fin": 9626,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Oye! Estás tratando con un demonio",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00009",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 9632,
+  "offset_fin": 9780,
+  "longitud_original_bytes": 148,
+  "limite_chars": 74,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿¡No puedes tener aunque sea un poco de miedo!?<FFF5>   Te contaré una historia que da mucho miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00010",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 9786,
+  "offset_fin": 9948,
+  "longitud_original_bytes": 162,
+  "limite_chars": 81,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Tú eres la protagonista.<FF02><FF04>¡Y ahora empieza el miedo!<FFF5>  E-Eso no da nada de miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00011",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 9954,
+  "offset_fin": 10046,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>¿P-Por qué tiemblo? E-Es el frío,<FF03>nada más",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00012",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 10052,
+  "offset_fin": 10340,
+  "longitud_original_bytes": 288,
+  "limite_chars": 144,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Qué chistoso! ¡Nadie sabe cómo<FF03>es el miedo de verdad!<FFF5> ¿¡Cómo te atreves a hablarle así a alguien<FF03>con mucha más experiencia de vida!?<FFF5>   A-Aagh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00016",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 10406,
+  "offset_fin": 10522,
+  "longitud_original_bytes": 116,
+  "limite_chars": 58,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡De veras sabes hacer de todo!<FFF5>   Ya no soy la chica de antes",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00017",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 10528,
+  "offset_fin": 10950,
+  "longitud_original_bytes": 422,
+  "limite_chars": 211,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡No voy a<FF03>quedarme quieta mientras me molestas!<FFF5> ¿Te parece bien? Bueno, no quiero<FF03>oírte llorar por eso después.<FFF5>Me gustan los hombres fuertes, pero tengo<FF03>una forma bastante retorcida de querer.<FFF5>   Espera un momento",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00018",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 10956,
+  "offset_fin": 11008,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué te hice<FF03>yo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00019",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 11016,
+  "offset_fin": 11278,
+  "longitud_original_bytes": 262,
+  "limite_chars": 131,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Ando tan tranquila últimamente que ni<FF03>tengo ganas de enojarme por eso.<FFF5>¡Eso ya lo sé! No tienes que<FF03>decirlo dos veces",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00020",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 11284,
+  "offset_fin": 11982,
+  "longitud_original_bytes": 698,
+  "limite_chars": 349,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Por eso siempre<FF03>intenté no llamar la atención!<FFF5> Cuando aún era humana, me gustaban mucho<FF03>los chicos como tú.<FF02><FF04>¡Era tan inmadura entonces!<FFF5> Bueno, me honra que lo digas.<FFF5>  ¿Oh? ¿Qué pasa? ¿Quieres jugar a la casita?<FFF5>   Quizá no lo parezca ahora, pero<FF03>me gustaban los niños cuando aún<FF03>era humana.<FFF5>  ¿Mis pasos están pasados de moda? Esas cosas<FF03>me preocupan",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00021",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 11988,
+  "offset_fin": 12216,
+  "longitud_original_bytes": 228,
+  "limite_chars": 114,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Uf, eres malísimo! Además, si te vistieras<FF03>así, los guardias te detendrían<FF03>antes de que pudieras entrar.<FFF5>  Jaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00022",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 12222,
+  "offset_fin": 12344,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Déjame el baile a mí. Yo<FF03>bailaba todos los días cuando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00023",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 12350,
+  "offset_fin": 13412,
+  "longitud_original_bytes": 1062,
+  "limite_chars": 531,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿sabes?<FFF5>  Así que eres el payaso de la clase,<FF03>supongo. Pero, la verdad, no me molestan<FF03>tanto tus chistes malos.<FFF5>  ¡Tus chistes no dan nada de risa! ¡Que alguien<FF03>le diga a este tipo lo malos que son!<FFF5>   ¿Y bien? ¿Te vas a hacer responsable<FF03>de arruinar el ambiente?<FFF5>   No hay mucho divertido que hacer<FF03>por aquí. ¡De veras me alegraste el día!<FFF5>  ¿No estás un poco desafinado?<FFF5>   ¡Canta cuanto quieras! ¡En unos segundos<FF03>te morderé la garganta!<FFF5>   ¡Oye! ¿¡Puedes parar con esos<FF03>chillidos!?<FFF5> ¡Quiero volver al karaoke! Ahh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00024",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 13418,
+  "offset_fin": 13470,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>con una vez bastaría",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00026",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 13494,
+  "offset_fin": 13600,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " no escupas fuego ni nada<FF03>de repente, ¿sí?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00027",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 13608,
+  "offset_fin": 14128,
+  "longitud_original_bytes": 520,
+  "limite_chars": 260,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Hazlo otra vez! ¡Esta vez seguro<FF03>descubro el truco!<FFF5> ¿Así que pasaron muchas cosas? Ya me enteré.<FFF5> ¡Eso ya lo sabía! ¡No subestimes<FF03>mis fuentes!<FFF5>   ¡No puede ser! ¿En serio?<FFF5> ¿Por qué siempre me tocan tipos<FF03>así? ¡De veras me enoja!<FFF5> ¿Acaso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00028",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 14134,
+  "offset_fin": 14200,
+  "longitud_original_bytes": 66,
+  "limite_chars": 33,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " aún atractiva? ¡E-Estoy tan<FF03>feliz!",
+  "notas": "excede 72>66",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00029",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 14206,
+  "offset_fin": 14370,
+  "longitud_original_bytes": 164,
+  "limite_chars": 82,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿¡Quieres dejar de molestarme!?<FF03>¡Ya basta!<FFF5>Vaya, ¿te parece bien conmigo? Jaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00030",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 14376,
+  "offset_fin": 14454,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Lo pensaré.<FFF5>  N-No me digas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00031",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 14462,
+  "offset_fin": 14708,
+  "longitud_original_bytes": 246,
+  "limite_chars": 123,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Uf, menos mal.<FF03>¡Creí que se me había caído<FF03>el ojo o algo!<FFF5>Me miras como si fuera una especie<FF03>de monstruo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00032",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 14714,
+  "offset_fin": 15188,
+  "longitud_original_bytes": 474,
+  "limite_chars": 237,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Contrólate un poco!<FFF5>  Sé lo que estás pensando.<FF02><FF04>¡Pero la respuesta es no! ¡No me dejaré<FF03>conquistar tan fácil!<FFF5>  Mira, no me interesan las baratijas.<FFF5>Eso me habría engañado antes,<FF03>pero ya aprendí la lección.<FFF5>No puede ser",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00034",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 15216,
+  "offset_fin": 15652,
+  "longitud_original_bytes": 436,
+  "limite_chars": 218,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿un regalo? ¿¡Para mí!?<FFF5>   Te intereso, ¿eh? Supongo que<FF03>no se puede juzgar por las apariencias.<FFF5>   No me trates como a esos demonios<FF03>tontos de por aquí.<FFF5>¡Ay! No hace falta llorar por<FF03>algo así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00035",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 15658,
+  "offset_fin": 16054,
+  "longitud_original_bytes": 396,
+  "limite_chars": 198,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  En realidad eres lindo a tu manera.<FFF5>  ¡Oye, dame ese cuerpo! ¡Lo merezco<FF03>mucho más que tú!<FFF5>Seguro me vas a seguir halagando<FF03>antes de dejarme en ridículo frente<FF03>a todos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00037",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 16092,
+  "offset_fin": 16222,
+  "longitud_original_bytes": 130,
+  "limite_chars": 65,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Seguro quieres ser como yo.<FF03>Quieres que te eche una mano",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00038",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 16230,
+  "offset_fin": 16764,
+  "longitud_original_bytes": 534,
+  "limite_chars": 267,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>No importa la época, los jóvenes<FF03>siempre piensan igual.<FFF5> No confío en las palabras. Hacen falta<FF03>pruebas sólidas para que crea algo.<FFF1><FFF5>   ¿Al fin nos conocemos, y eso es todo<FF03>lo que tienes que decir?<FFF5>No quiero oír esas cosas. Solo<FF03>quiero una cosa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00039",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 16770,
+  "offset_fin": 16830,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5> Por qué me cuentas esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00040",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 16838,
+  "offset_fin": 17148,
+  "longitud_original_bytes": 310,
+  "limite_chars": 155,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>De toda la gente a quien contárselo,<FF03>¿por qué a mí?<FFF5> De veras me llevo mucho mejor con<FF03>los humanos que con los demonios.<FFF5> ¡Siento que volví en el tiempo!<FFF5>Así que me necesitas",
+  "notas": "excede 324>310",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00042",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17192,
+  "offset_fin": 17334,
+  "longitud_original_bytes": 142,
+  "limite_chars": 71,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Ahora, ¿cuál es el paso más importante<FF03>al negociar? Lo sabes, ¿verdad?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00043",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17342,
+  "offset_fin": 17622,
+  "longitud_original_bytes": 280,
+  "limite_chars": 140,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>   ¿Al fin nos conocemos, y eso es todo<FF03>lo que tienes que decir?<FFF5>No puedo aceptar una petición así.<FF03>¡Pero tú más te vale aceptar la mía!<FFF1><FFF5> No sé",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00044",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17628,
+  "offset_fin": 17708,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " para qué vas a usar<FF03>mis poderes",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00045",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17716,
+  "offset_fin": 17812,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Puaj! ¡No soporto estar cerca de ti!<FFF5> Jajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00046",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17818,
+  "offset_fin": 17904,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Esta negociación va bastante<FF03>bien, diría yo",
+  "notas": "excede 88>86",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00047",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17910,
+  "offset_fin": 18114,
+  "longitud_original_bytes": 204,
+  "limite_chars": 102,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Los humanos me piden más favores<FF03>que los demonios.<FFF5> Aún me queda al menos medio cerebro,<FF03>¿sabes?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00048",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 18120,
+  "offset_fin": 18348,
+  "longitud_original_bytes": 228,
+  "limite_chars": 114,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Aunque esté podrido.<FF02><FF04>En fin, ya veo lo que intentas.<FFF5> Eres bastante infantil. No me molesta<FF03>del todo, pero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00049",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 18354,
+  "offset_fin": 18664,
+  "longitud_original_bytes": 310,
+  "limite_chars": 155,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿¡Qué te pasa!? ¡No te burles de mí<FF03>solo porque soy zombi!<FFF5>  ¿¡Te acabas de burlar de mí!? Sabes,<FF03>no creo que te convenga hacerme<FF03>enojar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00050",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 18670,
+  "offset_fin": 18778,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Más te vale hacer lo que digo.<FFF1><FFF5> Pareces muy distraído",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00051",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 18784,
+  "offset_fin": 18922,
+  "longitud_original_bytes": 138,
+  "limite_chars": 69,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Que sea zombi no significa<FF03>que puedas tratarme así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00052",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 18928,
+  "offset_fin": 19078,
+  "longitud_original_bytes": 150,
+  "limite_chars": 75,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿¡Esa es tu idea de negociar!?<FF03>¡Qué idiota eres!<FFF5>Qué ingenuo eres",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00053",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19084,
+  "offset_fin": 19290,
+  "longitud_original_bytes": 206,
+  "limite_chars": 103,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Seguro serás<FF03>así hasta que mueras.<FFF5> No sabía que por aquí también<FF03>había artistas callejeros",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00054",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19296,
+  "offset_fin": 19630,
+  "longitud_original_bytes": 334,
+  "limite_chars": 167,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿¡Cómo te atreves a hacer un truco tan malo!?<FF03>¡Quiero que me devuelvas el tiempo perdido!<FFF1><FFF5>   ¡Estás acabado!<FFF5>   ¡Eres malísimo! ¡Fuera de mi vista!<FFF5> Qué te pasa de repente",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00055",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19638,
+  "offset_fin": 19762,
+  "longitud_original_bytes": 124,
+  "limite_chars": 62,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>No me gusta adónde va esto.<FFF5>  Qué intentas decir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00056",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19770,
+  "offset_fin": 19814,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>No entiendo nada",
+  "notas": "excede 50>44",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00057",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19820,
+  "offset_fin": 19876,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Eres bastante bueno!<FFF5>Jajaja",
+  "notas": "excede 58>56",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00058",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19882,
+  "offset_fin": 19924,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Uy, se me sale la baba",
+  "notas": "excede 44>42",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00059",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 19930,
+  "offset_fin": 20088,
+  "longitud_original_bytes": 158,
+  "limite_chars": 79,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Aun después de volverte demonio, sigues<FF03>queriendo cosas. Yo no soy la excepción",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00060",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 20094,
+  "offset_fin": 20538,
+  "longitud_original_bytes": 444,
+  "limite_chars": 222,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>   ¿Vas a echarle sal a la herida?<FFF5> ¡Una palabra a mis amigos y nunca saldrás<FF03>vivo de aquí! ¿Cuánto me das<FF03>para que me quede callada?<FFF1><FFF5>Había olvidado la emoción que sentía de<FF03>chica, pero me está volviendo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00061",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 20544,
+  "offset_fin": 20622,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Quizá no me molestaría ser tu sirvienta",
+  "notas": "excede 82>78",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00062",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 20628,
+  "offset_fin": 21066,
+  "longitud_original_bytes": 438,
+  "limite_chars": 219,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Hay alguien en especial que<FF03>quieras muerto?<FFF5>Eres muy mal actor.<FFF5> Me gustaría seguirte la mentira,<FF03>pero no puedo.<FFF5>  Eres bastante creído.<FFF5>   No querrás hacerme enojar, ¿verdad?<FF03>Entonces acepta mi petición",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00063",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 21072,
+  "offset_fin": 21200,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>  ¿Intentas matarme a elogios?<FF03>Me pregunto si funcionará",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00064",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 21206,
+  "offset_fin": 21274,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Debes estar tramando algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00065",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 21280,
+  "offset_fin": 21468,
+  "longitud_original_bytes": 188,
+  "limite_chars": 94,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Los mismos desgraciados que me molestaban,<FF03>rogando y suplicando que les perdonara<FF03>la vida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00066",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 21474,
+  "offset_fin": 21534,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>¡Qué bueno es ser demonio!<FFF5>Oye",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00067",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 21540,
+  "offset_fin": 22076,
+  "longitud_original_bytes": 536,
+  "limite_chars": 268,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Soy más linda que tú, ¿verdad?<FF03>¡Anda, dame una respuesta directa!<FFF5>Tienes mi carta, ¿verdad? La<FF03>huelo en ti.<FF02><FF04>Vuélveme una Persona de piel hermosa<FF03>y clara, ¿sí?<FFEF>No creo que mi personalidad vaya<FF03>bien con un chico alegre como tú.<FFEF>Eres tan débil",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00068",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 22082,
+  "offset_fin": 22210,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Más te vale ponerte en forma<FF03>si quieres que te haga compañía.<FFEF>Ay, vaya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00069",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 22216,
+  "offset_fin": 22380,
+  "longitud_original_bytes": 164,
+  "limite_chars": 82,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFEF>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ni loca.<FFEF>   Ten, te daré esto.<FFEF>  ¡Esto también es para ti!<FFEF>   Te doy esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00070",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 22386,
+  "offset_fin": 22936,
+  "longitud_original_bytes": 550,
+  "limite_chars": 275,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " solo no pienses<FF03>mal de mí.<FFEF>¡Quizá para cuando nos volvamos a ver,<FF03>ya te hayas vuelto zombi!<FFEF> Tengo mucho tiempo, pero no quiero<FF03>gastarlo en algo trivial.<FFEF>¡T-Te daré esto! ¡Por favor, haz<FF03>la vista gorda esta vez!<FFEF>   Creo que empiezo a sentir frío",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00071",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 22942,
+  "offset_fin": 23146,
+  "longitud_original_bytes": 204,
+  "limite_chars": 102,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Quiero ir a otro lado.<FFEF>   ¡Te daré esto, así que vete a casa!<FFEF>  Puedo matarte cuando quiera",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00072",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23152,
+  "offset_fin": 23306,
+  "longitud_original_bytes": 154,
+  "limite_chars": 77,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué<FF03>tiene de malo dejarte vivo un<FF03>poco más?<FFEF>Aquí está mi carta. Yo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00073",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23312,
+  "offset_fin": 23380,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Solo quiero volver a<FF03>ser hermosa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00074",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23386,
+  "offset_fin": 23494,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ¡Ah, ya sé! Puedo comerme a quien no<FF03>te caiga bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00075",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23500,
+  "offset_fin": 23568,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Pero no puedo acompañarte así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00076",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23574,
+  "offset_fin": 23604,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Si peleo contigo",
+  "notas": "excede 34>30",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00077",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23610,
+  "offset_fin": 23812,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me volveré demonio<FF03>por completo.<FFEF>  ¿Aceptarás esto? ¿O no quieres<FF03>nada que yo te dé?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00078",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23820,
+  "offset_fin": 23900,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Aún hay tanto que quiero hacer.<FF03>Entonces",
+  "notas": "excede 82>80",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00079",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 23906,
+  "offset_fin": 24110,
+  "longitud_original_bytes": 204,
+  "limite_chars": 102,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ¿Para qué tomarse la molestia de<FF03>pelear? Podrías dar la vuelta<FF03>a todo e ir a divertirte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00080",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 24116,
+  "offset_fin": 25690,
+  "longitud_original_bytes": 1574,
+  "limite_chars": 787,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFED>",
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEE>",
+   "<FFFA>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Hacía tiempo que no conocía<FF03>a un humano. ¿No me das algo<FF03>para recordar la ocasión?<FFF1><FFF5> ¿Qué más quieres de mí?<FFF5> ¡Si quieres que te hable, es de sentido<FF03>común traer un regalo o dos!<FFF1><FFF5>   ¿Qué tiene de malo vivir sin vida?<FF03>¡Quiero seguir viva tanto como tú!<FFF5>   ¿Viniste a burlarte de mí otra vez?<FF03>¡Pues ya me harté! ¡No caeré<FF03>esta vez! ¡No te me acerques!<FFF5> ¡Ya no tengo que estar a dieta!<FFF5>  ¡Deberías pasarte a nuestro lado!<FFF5>  <FFED>¿Sabes qué odio? ¡A la gente falsa!<FFF5>   <FFEE>Les has quitado muchas cosas a los<FF03>demonios, ¿verdad? ¡Compárteme algo!<FFF1><FFF5>   <FFEC>La violencia contra las mujeres nunca<FF03>se justifica, ¿sí? Seguro podemos hablarlo.<FFF5>  <FFEE><FFFA>, ¿verdad? Eres tan famoso<FF03>que hasta yo sé de ti. Entonces, ¿necesitas<FF03>algo de mí?<FFF5>  <FFEE>Sabes",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00081",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 25696,
+  "offset_fin": 26028,
+  "longitud_original_bytes": 332,
+  "limite_chars": 166,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFED>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Creo que podemos ser amigos.<FFF5><FFEE>¡Oye, hablemos un poco más!<FFF5><FFEC>¡Mami! ¡Mami! ¡Mamiiii!<FFF5>   <FFED>¿Tengo que morir otra vez? ¡Me niego!<FF03>¡Ya me harté de morir!<FFF5> <FFED>Algo huele rico",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00082",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 26034,
+  "offset_fin": 26094,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Traes<FF03>perfume? Espera",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00083",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 26100,
+  "offset_fin": 26630,
+  "longitud_original_bytes": 530,
+  "limite_chars": 265,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡insinúas<FF03>algo con eso!?<FF02><FF04>¡Pues perdón por oler mal!<FFF5><FFED>¡Odio a la gente como tú, que siempre se ve<FF03>tranquila y feliz!<FF02><FF04>¡Compárteme un poco de esa felicidad!<FFF1><FFF5>   <FFEC>S-Si no te molesta, me gustaría que<FF03>me tuvieras cerca.<FFF5><FFEB>Espera, déjame arreglar el maquillaje",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00084",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 26636,
+  "offset_fin": 26728,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Soy muy<FF03>bonita mientras tenga maquillaje!<FFF5>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00085",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 26752,
+  "offset_fin": 26808,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿tenías una petición para mí?<FFEF> ",
+  "notas": "excede 62>56",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00086",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 26820,
+  "offset_fin": 27100,
+  "longitud_original_bytes": 280,
+  "limite_chars": 140,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>¡Agh, qué aburrido eres! ¡Ya no quiero<FF03>verte! ¡Vete! ¡Y rápido,<FF03>antes de que te mate!<FFF5>   Vas a deshacerte de mí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00087",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 27108,
+  "offset_fin": 27132,
+  "longitud_original_bytes": 24,
+  "limite_chars": 12,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Está bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00088",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 27138,
+  "offset_fin": 27238,
+  "longitud_original_bytes": 100,
+  "limite_chars": 50,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Debe ser mejor<FF03>que verme así. Pero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00089",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 27244,
+  "offset_fin": 27378,
+  "longitud_original_bytes": 134,
+  "limite_chars": 67,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> No sé por qué, pero siento algo cálido<FF03>cuando estoy a tu lado",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00090",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 27384,
+  "offset_fin": 27832,
+  "longitud_original_bytes": 448,
+  "limite_chars": 224,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Querías algo de mí, ¿verdad?<FF03>¿Por qué no dejas de fingir y lo sueltas?<FFEF>¡Haré lo que quieras! ¡Solo empieza<FF03>por decirme qué pasa!<FFEF>   ¡Las razones no importan, solo<FF03>quiero serte útil! Después de todo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00091",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 27838,
+  "offset_fin": 27892,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>te interesaste en mí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00092",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 27900,
+  "offset_fin": 28350,
+  "longitud_original_bytes": 450,
+  "limite_chars": 225,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> ¡Ya entiendo! ¡Esto es solo un sueño!<FF03>¡Todo es un sueño! ¡Tiene que serlo!<FFF5>   Normalmente no trataría con gente<FF03>como tú.<FFF5> ¡A decir verdad, me gustas desde hace<FF03>tiempo! ¡N-No miento!<FFF5>   El dinero es lo único en lo que creo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00093",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 28356,
+  "offset_fin": 28446,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF8>",
+   "<FFEF>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Dame <FFF8> yenes.<FFEF>  Supongo que lo tomaré.<FFF5>  Ohh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00094",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 28452,
+  "offset_fin": 28664,
+  "longitud_original_bytes": 212,
+  "limite_chars": 106,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " eres pobre.<FFF5>Nunca llegarás al cielo si sigues<FF03>así.<FFF5>¡Quiero una piedra de vida! Con una basta.<FFEF> Ahhh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00096",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 28692,
+  "offset_fin": 28898,
+  "longitud_original_bytes": 206,
+  "limite_chars": 103,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Qué...! ¡No tienes ninguna!<FF02><FF04>Uf, qué suerte la mía. Había otros<FF03>clientes posibles por aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00097",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 28904,
+  "offset_fin": 29182,
+  "longitud_original_bytes": 278,
+  "limite_chars": 139,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<0006>",
+   "<FF03>",
+   "<FFF4>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡La luna no siempre brilla tanto de noche,<FF03>sabes! ¡Más te vale tener cuidado!<FFF5> Te lo digo de entrada<0006> ¡Quiero un<FF03><FFF4>.<FFEF>Todas las chicas anhelan gemas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00098",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 29188,
+  "offset_fin": 29408,
+  "longitud_original_bytes": 220,
+  "limite_chars": 110,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿¡Qué es eso!? ¡Agh, no lo<FF03>puedo creer!<FFF5> ¿Rechazas el único deseo de<FF03>una pobre chica? Qué horrible",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00099",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 29416,
+  "offset_fin": 29502,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Compárteme el calor de tu cuerpo vivo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00101",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 29562,
+  "offset_fin": 30274,
+  "longitud_original_bytes": 712,
+  "limite_chars": 356,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Tacaño desgraciado! ¿¡Nadie te<FF03>enseñó a ayudar a la gente en problemas!?<FFF5>   ¡No tienes ninguna!<FF02><FF04>¡Agh! ¡Los pobretones como tú quedan<FF03>descartados!<FFF5>  ¡Bueno, si esa es la actitud que vas<FF03>a tomar, te haré pedazos!<FFF5> ¡Oye! ¡Debiste ser honesto<FF03>y decirme que no tenías!<FF02><FF04>¡De veras me haces enojar!<FFF5> Eres más tacaño de lo que pareces",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00102",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 30280,
+  "offset_fin": 30424,
+  "longitud_original_bytes": 144,
+  "limite_chars": 72,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Uf, qué suerte la mía. Había otros<FF03>clientes posibles por aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00104",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 30462,
+  "offset_fin": 30534,
+  "longitud_original_bytes": 72,
+  "limite_chars": 36,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Presentía que me dirías<FF03>que no de todos modos",
+  "notas": "excede 90>72",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00105",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 30540,
+  "offset_fin": 30598,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Al final solo soy una zombi",
+  "notas": "excede 74>58",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_zombiko_00000",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 2,
+  "offset_fin": 8314,
+  "longitud_original_bytes": 8312,
+  "texto_original": null,
+  "texto_traducido": " <A879> <A881> <1887> <1887>   <1820> <D020> <C021> <0022> <8022> <E022> <6823> <E023> <F023> <7024> <D024> <5025> <F025> <A826> <4827> <B827> <5828> <9828> <E028> <8829> <182A> <B02A> <102B> <A82B> <702C> <102D> <602D> <B82D> <602E> <D82E> <B02F> <5830> <2831> <C031> <4832> <F032> <3033> <C033> <2034> <A834> <3035> <A835> <0036> <7036> <9836> <2837> <8037> <E037> <5838> <1039> <B039> <683A> <C03A> <483B> <A03B> <403C> <B83C> <303D> <803D> <F83D> <D03E> <683F> <F83F> <9040> <0041> <8841> <C841> <2042> <9842> <E042> <3043> <C843> <3844> <C844> <3845> <8845> <F845> <6046> <4847> <B847> <4048> <2849> <6849> <F849> <684A> <E84A> <684B> <004C> <304C> <704C> <004D> <704D> <984D> <B04D> <E04D> <884E> <D84E> <A84F> <4850> <F050> <2851> <9851> <C851> <5852> <D852> <2853> <1854> <A054> <8055> <2056> <B856> <E056> <1857> <4857> <B057> <3858> <C858> <5059> <E059> <305A> <E85A> <605B> <185C> <885C> <105D> <685D> <385E> <005F> <405F> <E05F> <8060> <6061> <B061> <F861> <5062> <F062> <9863> <4864> <9864> <D064> <0865> <8065> <9066> <6067> <D067> <6868> <B868> <A069> <706A> <006B> <986B> <286C> <006D> <886D> <E86D> <706E> <E86E> <186F> <406F> <A06F> <F06F> <1870> <F070> <8871> <D071> <0872> <6872> <F072> <4873> <8073> <2874> <B874> <4875> <0876> <E076> <5077> <B077> <F877> <D078> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>Hmm, lo que dices suena bastante<FF03>respetable",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 4156
+ },
+ {
+  "id": "talk_zombiko_00041",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 17154,
+  "offset_fin": 17186,
+  "longitud_original_bytes": 32,
+  "texto_original": null,
+  "texto_traducido": " ¿Con que sí? Vaya",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 16
+ },
+ {
+  "id": "talk_zombiko_00103",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 30438,
+  "offset_fin": 30456,
+  "longitud_original_bytes": 18,
+  "texto_original": null,
+  "texto_traducido": "Está bien",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 9
+ },
+ {
+  "id": "talk_zombiko_00106",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 30604,
+  "offset_fin": 30630,
+  "longitud_original_bytes": 26,
+  "texto_original": null,
+  "texto_traducido": "<FF03>Qué frío",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 13
+ },
+ {
+  "id": "talk_zombiko_00107",
+  "archivo_origen": "talk/zombiko.bin",
+  "offset_inicio": 30652,
+  "offset_fin": 33214,
+  "longitud_original_bytes": 2562,
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Te daré mi carta!<FFEF>¡Oye, te daré mi carta!<FF03>¡Como no puedo comer tanto, deja que<FF03>la Persona que hagas se lo coma por mí!<FFEF> ¡Oye, te daré mi carta!<FF03>¡Como no puedo comer tanto, deja que<FF03>la Persona que hagas se lo coma por mí!<FFEF> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><6B00><6F00>  <0180>``<0180><FFFF><FFFF><FFFF>",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 1281
+ }
+]

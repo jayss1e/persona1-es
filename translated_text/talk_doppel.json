@@ -1,0 +1,2772 @@
+[
+ {
+  "id": "talk_doppel_00001",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 9544,
+  "offset_fin": 9710,
+  "longitud_original_bytes": 166,
+  "limite_chars": 83,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Eres Maki Sonomura?<FF03>¡Me di cuenta enseguida! Tienes un aura<FF03>única",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00002",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 9732,
+  "offset_fin": 9984,
+  "longitud_original_bytes": 252,
+  "limite_chars": 126,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Creo que el abuelo de tu mamá es<FF03>tu ángel guardián. ¡Es muy fuerte!<FFF5>   ¿Quieres saber la verdad? Los que están<FF03>detrás de todo esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00003",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 9990,
+  "offset_fin": 10264,
+  "longitud_original_bytes": 274,
+  "limite_chars": 137,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " son extraterrestres. ¡O no!<FFF5> ¡Si haces lo que te digo, por algún milagro<FF03>te harán una estatua de bronce!<FFF5>  Me perdí y llegué hasta aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00004",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 10270,
+  "offset_fin": 10422,
+  "longitud_original_bytes": 152,
+  "limite_chars": 76,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Por favor, perdóname!<FFF5> ¡U-Un humano! ¡N-No te me acerques!<FFF5>   ¡Ajajajajaja!<FF03>Por favor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00005",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 10428,
+  "offset_fin": 10634,
+  "longitud_original_bytes": 206,
+  "limite_chars": 103,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡perdóname la vida!<FFF5>   ¿Así que eres humano? ¡Y qué! Ándale, nena,<FF03>¡toquemos una sinfonía de amor!<FFF5>¡Mentira!<FFF5>  Ay, no",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00007",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 10676,
+  "offset_fin": 11236,
+  "longitud_original_bytes": 560,
+  "limite_chars": 280,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Jijiji! ¡Tú y yo podríamos pasarla<FF03>muy bien juntos!<FFF5> A ver, ¿cuál es la diferencia entre<FF03>un rottweiler y un poodle? ¡Que son dos<FF03>razas totalmente distintas! ¿Entiendes?<FFF5>¡Ni loco, Hidehiko! No me vas a hacer<FF03>imitar algo tan espantoso,<FF03>¿verdad? ¡Ten corazón!<FFF5>  Uf",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00008",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 11242,
+  "offset_fin": 11378,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " De verdad me vas a hacer<FF03>imitar un chiste tan terrible",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00009",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 11386,
+  "offset_fin": 11884,
+  "longitud_original_bytes": 498,
+  "limite_chars": 249,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué haces si vas en un caballo y<FF03>ves una jirafa y un león junto a ti?<FF03>¡Te bajas del carrusel! ¡Ándale, ríete!<FFF5>¿Cómo has estado? Oí que estás<FF03>en racha. Yo no, ando bastante lento.<FFF5>  ¡Hombre, qué calor! Me gusta el verano,<FF03>pero no este tipo de",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00010",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 11890,
+  "offset_fin": 12076,
+  "longitud_original_bytes": 186,
+  "limite_chars": 93,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Agh, al diablo con esto!<FFF5> ¿Y qué, te gusta alguien? Sí, a mí<FF03>también me trae alguien en la mente. Jijiji",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00013",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 12126,
+  "offset_fin": 12262,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<0056>",
+   "<0056>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <0056>vómito<0056><FF03>¡Te sorprendió, ¿¡verdad!?<FFF5> ¡BU!<FF03>Je, caíste.<FF03>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00014",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 12268,
+  "offset_fin": 12320,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡Es broma, tonto!<FFF5> Viejo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00015",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 12326,
+  "offset_fin": 12412,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No puedo imitar algo<FF03>así",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00016",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 12418,
+  "offset_fin": 13472,
+  "longitud_original_bytes": 1054,
+  "limite_chars": 527,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué hago?<FFF5>Esto es solo un anticipo. ¿Quieres<FF03>terrenos? ¿Acciones? ¡Hmph! ¡Te daré una<FF03>foto mía!<FFF5>  ¡Me niego!<FFF5>  Te daré una moneda con el frente y el revés<FF03>al revés. Hasta la firmé.<FFF5>  ¿Estás feliz con tu lugar en la vida?<FF03>¡Ese es el colmo de la tontería!<FF03>¡Yo alcanzaré la verdadera felicidad solo!<FFF5>  ¡Ni loco!<FFF5>   ¡Las masas deben actuar o su lugar en<FF03>la vida nunca cambiará!<FFF5>   ¡Eres un completo imbécil!<FF03>Pero no te preocupes.<FFF5>¡Nunca conocí a alguien tan burro!<FF03>¿¡Crees que puedes conmigo!?<FFF5>   Hmph",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00017",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 13478,
+  "offset_fin": 13506,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Qué cretino",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00018",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 13512,
+  "offset_fin": 13550,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Tu egoísmo es",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00019",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 13556,
+  "offset_fin": 13724,
+  "longitud_original_bytes": 168,
+  "limite_chars": 84,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " asombroso.<FFF5>   Definitivamente no hay comparación entre<FF03>los demonios y los de tu especie.<FFF5> Ya sé",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00020",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 13730,
+  "offset_fin": 14046,
+  "longitud_original_bytes": 316,
+  "limite_chars": 158,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <0044> <FFF3> presumió sus<FF03>pasos de baile.<FFF5>   <0044> <FFF3> ¡bailó como loco!<FFF5>  <0044> <FFF3> bailó feliz.<FFF5>¿Te crees muy rudo? ¡Entonces inténtalo!<FFF5> ¿¡Quieres pelea!?<FFF5>¡Oye! Estoy aquí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00021",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 14052,
+  "offset_fin": 14442,
+  "longitud_original_bytes": 390,
+  "limite_chars": 195,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <0044> <FFF3> miró con pasión<FF03>a Masao.<FFF5>  <0044> <FFF3> ¡fulminó con la mirada a Masao!<FFF5>   <0044> <FFF3> ¡miró coqueto<FF03>a Masao!<FFF5> ¡En realidad soy un príncipe del mundo humano<FF03>de intercambio en el inframundo!<FFF5>   Ah, mi querido niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00022",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 14448,
+  "offset_fin": 14810,
+  "longitud_original_bytes": 362,
+  "limite_chars": 181,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<0006>",
+   "<0006>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Masao Inaba!<FF03>¡Agh, va te faire foutre!<FFF5> ¡Tengo esta forma de demonio increíble porque<FF03>me maldijeron!<FFF5>¡Si ves las 11<0006>11<0006>11 en el reloj tres días<FF03>seguidos, la puerta no se abrirá!<FFF5>  Dios mío",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00024",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 14840,
+  "offset_fin": 15284,
+  "longitud_original_bytes": 444,
+  "limite_chars": 222,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<0044>",
+   "<FFF3>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Sé que eso no es cierto.<FFF5>   <0044> <FFF3> cantó una bossa nova<FF03>americana elegante y conmovedora.<FFF5> ¡No canto tan mal como tú!<FF03>¡Qué grosero!<FFF5>  ¡Ay, qué maravilla! Gracias por<FF03>cantar esa linda canción solo para mí.<FFF5> Ya, ya, pequeña Eriko",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00025",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 15290,
+  "offset_fin": 15382,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pórtate bien.<FFF5>   ¿Sí? ¿Quieres un poco de leche?<FF03>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00026",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 15388,
+  "offset_fin": 15444,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡No puedo seguir con esto!<FFF5>Jiji",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00027",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 15450,
+  "offset_fin": 15666,
+  "longitud_original_bytes": 216,
+  "limite_chars": 108,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Así me gusta.<FFF5>Eres un humano muy capaz. ¿No quieres<FF03>trabajar como mi guardaespaldas?<FFF5>  ¿Qué acabas de decir?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00028",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 15674,
+  "offset_fin": 15708,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me niego.<FFF5>Ajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00029",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 15714,
+  "offset_fin": 16222,
+  "longitud_original_bytes": 508,
+  "limite_chars": 254,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué hago?<FFF5>¡Puede que sea respondona, pero en<FF03>realidad soy una buena chica!<FFF5>  ¡Aquí huele algo raro!<FF03>¡Y ese estilo es, o sea, PRE-prehistórico!<FF03>¡Qué ñoño!<FFF5> ¿De verdad te atreves a que te vean<FF03>afuera así?<FFF5> Uuuuh, me duele el pecho",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00030",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16228,
+  "offset_fin": 16296,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Tal vez si me lo sobaras un poquito",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00031",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16304,
+  "offset_fin": 16380,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Oye! ¡No pongas esa cara!<FFF5> ¿Sabes?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00032",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16386,
+  "offset_fin": 16442,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Normalmente soy muy inocente",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00033",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16448,
+  "offset_fin": 16572,
+  "longitud_original_bytes": 124,
+  "limite_chars": 62,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Pero hoy? Hoy me siento atrevida.<FFF5>A mi papi lo secuestró un ovni",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00034",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16578,
+  "offset_fin": 16632,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Mi mamá<FF03>se unió a una secta malvada",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00035",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16638,
+  "offset_fin": 16756,
+  "longitud_original_bytes": 118,
+  "limite_chars": 59,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Y a mí me desarmaron<FF03>y me volvieron a armar como cíborg",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00036",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16762,
+  "offset_fin": 16824,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Alguien me compra mis cerillos?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00037",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16832,
+  "offset_fin": 16910,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Si no<FF03>vendo ninguno, papá me va a pegar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00038",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 16916,
+  "offset_fin": 17002,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Soy la mayor de 23 hermanos<FF03>y hermanas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00039",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 17008,
+  "offset_fin": 17054,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Tengo que comérmelos a todos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00040",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 17060,
+  "offset_fin": 17118,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Yo que tú tendría cuidado",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00041",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 17124,
+  "offset_fin": 17452,
+  "longitud_original_bytes": 328,
+  "limite_chars": 164,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ahora estoy<FF03>tranquilo, pero me vuelvo loco en un instante.<FFF5> ¿¡No vas a hacer lo que te digo!? ¡No<FF03>me hagas volarte los sesos!<FFF5>   Mi pasatiempo es coleccionar cabezas<FF03>de demonio cortadas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00042",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 17458,
+  "offset_fin": 17522,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Hmph! Es cierto lo que dicen",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00043",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 17528,
+  "offset_fin": 17994,
+  "longitud_original_bytes": 466,
+  "limite_chars": 233,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Humano que ladra no muerde!<FFF5>Pronto me vas a llamar demonio a MÍ.<FFF5> ¿¡Con quién demonios crees que estás<FF03>hablando!? ¡Odio la grosería más que nada!<FFF5>  ¿Sabes? He estado pensando en la<FF03>diferencia entre humanos y demonios",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00044",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 18000,
+  "offset_fin": 18640,
+  "longitud_original_bytes": 640,
+  "limite_chars": 320,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Y no sirve de nada. No hay ninguna.<FFF5>Es mejor quedarse en la cama que ir<FF03>por la vida a medias. Ya hay demasiada<FF03>gente así.<FFF5>  Tus actos no valen nada.<FF03>¡Soy tan listo!<FFF5>  ¡Cállate por una vez y escucha lo que<FF03>dicen los demás! ¡Y no te burles<FF03>de ellos o te haré arrepentirte!<FFF5> Deja de lloriquear",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00045",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 18646,
+  "offset_fin": 18678,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " A nadie le gusta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00047",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 18702,
+  "offset_fin": 18728,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿quién sabe?<FFF5> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00048",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 18820,
+  "offset_fin": 18874,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Hoy no es tu día de suerte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00049",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 18880,
+  "offset_fin": 18930,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Tus ojos<FF03>me los llevo al final",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00050",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 18936,
+  "offset_fin": 19052,
+  "longitud_original_bytes": 116,
+  "limite_chars": 58,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Así que vete al infierno!<FFF5>¡Parece que quieres morir!<FFF5> Déjame en paz",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00051",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 19058,
+  "offset_fin": 19208,
+  "longitud_original_bytes": 150,
+  "limite_chars": 75,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Rrrrrwwaaaaaoooarrr!<FFF5>   ¡Grrrwaaaaaaahhhh!<FFF5>  ¡Haaaaaaaaaaaaah!<FFF5>   ¡Guau!<FFF5>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00052",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 19214,
+  "offset_fin": 19322,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¿Y qué?<FFF5>Hago girar el trompo con el poder<FF03>de mi chi nada más",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00053",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 19328,
+  "offset_fin": 19482,
+  "longitud_original_bytes": 154,
+  "limite_chars": 77,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Tienes un talento excepcional. Voy<FF03>a estudiar tu forma de hablar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00054",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 19488,
+  "offset_fin": 19690,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FFF5>   Tienes un talento excepcional. Voy<FF03>a estudiar tu forma de hablar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00055",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 19696,
+  "offset_fin": 20412,
+  "longitud_original_bytes": 716,
+  "limite_chars": 358,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5> ¡Eso ni siquiera vale la pena imitarlo!<FF03>¿¡No puedes decir algo que me despierte<FF03>un poco la curiosidad!?<FFF5>  ¡Hasta un imitador tiene su orgullo, ¿sabes?!<FF03>¡Me niego a imitar algo tan barato!<FFF5>  ¿Qué esperas ganar diciéndole eso<FF03>a un doble? No sé qué<FF03>estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00056",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 20418,
+  "offset_fin": 20604,
+  "longitud_original_bytes": 186,
+  "limite_chars": 93,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué esperas ganar diciéndole eso<FF03>a un doble? No sé qué<FF03>estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00057",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 20610,
+  "offset_fin": 20656,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Qué historia tan rara",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00058",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 20662,
+  "offset_fin": 20792,
+  "longitud_original_bytes": 130,
+  "limite_chars": 65,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya superaste<FF03>mis expectativas.<FFF5>  Qué historia tan rara",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00059",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 20798,
+  "offset_fin": 21182,
+  "longitud_original_bytes": 384,
+  "limite_chars": 192,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya superaste<FF03>mis expectativas.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>Tienes un talento excepcional. Voy<FF03>a estudiar tu forma de expresarte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00060",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 21188,
+  "offset_fin": 21390,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FFF5> Tienes un talento excepcional. Voy<FF03>a estudiar tu forma de expresarte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00061",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 21396,
+  "offset_fin": 22016,
+  "longitud_original_bytes": 620,
+  "limite_chars": 310,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>   ¡Eso ni siquiera vale la pena imitarlo!<FF03>¿¡No puedes hacer algo que me despierte<FF03>un poco la curiosidad!?<FFF5>   ¡Hasta un imitador tiene su orgullo, ¿sabes?!<FF03>¡Me niego a imitar algo tan barato!<FFF5>  Así que planeas usar el poder de un doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00062",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 22022,
+  "offset_fin": 22144,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Para qué, exactamente? No logro saber<FF03>qué estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00063",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 22150,
+  "offset_fin": 22232,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Así que planeas usar el poder de un doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00064",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 22238,
+  "offset_fin": 22360,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¿Para qué, exactamente? No logro saber<FF03>qué estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00065",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 22366,
+  "offset_fin": 22448,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Intentas pedirle prestado su poder<FF03>a un doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00066",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 22456,
+  "offset_fin": 22624,
+  "longitud_original_bytes": 168,
+  "limite_chars": 84,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya superaste<FF03>mis expectativas.<FFF5> Intentas pedirle prestado su poder<FF03>a un doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00067",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 22632,
+  "offset_fin": 23004,
+  "longitud_original_bytes": 372,
+  "limite_chars": 186,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya superaste<FF03>mis expectativas.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>   Tienes un talento excepcional. Voy<FF03>a estudiar tus expresiones",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00068",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 23010,
+  "offset_fin": 23196,
+  "longitud_original_bytes": 186,
+  "limite_chars": 93,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesan bastante.<FFF5> Tienes un talento excepcional. Voy<FF03>a estudiar tus expresiones",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00069",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 23202,
+  "offset_fin": 23900,
+  "longitud_original_bytes": 698,
+  "limite_chars": 349,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesan bastante.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>   ¡Eso ni siquiera vale la pena imitarlo!<FF03>¿¡No puedes hacer algo que me despierte<FF03>un poco la curiosidad!?<FFF5>   ¡Hasta un imitador tiene su orgullo, ¿sabes?!<FF03>¡Me niego a imitar algo tan barato!<FFF5>  ¿Qué esperas ganar burlándote<FF03>de un doble? No sé qué estás<FF03>pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00070",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 23906,
+  "offset_fin": 24068,
+  "longitud_original_bytes": 162,
+  "limite_chars": 81,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué esperas ganar burlándote<FF03>de un doble? No sé qué estás<FF03>pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00071",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 24074,
+  "offset_fin": 24128,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Te burlas de un doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00072",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 24136,
+  "offset_fin": 24272,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya<FF03>superaste mis expectativas.<FFF5> Te burlas de un doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00073",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 24280,
+  "offset_fin": 24682,
+  "longitud_original_bytes": 402,
+  "limite_chars": 201,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya<FF03>superaste mis expectativas.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>   Tienes un talento excepcional. Voy<FF03>a estudiar cómo haces tus trucos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00074",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 24688,
+  "offset_fin": 24906,
+  "longitud_original_bytes": 218,
+  "limite_chars": 109,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FFF5>   Tienes un talento excepcional. Voy<FF03>a estudiar cómo haces tus trucos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00075",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 24912,
+  "offset_fin": 25658,
+  "longitud_original_bytes": 746,
+  "limite_chars": 373,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5> ¡Eso ni siquiera vale la pena imitarlo!<FF03>¿¡No tienes trucos que me despierten<FF03>un poco la curiosidad!?<FFF5>   ¡Hasta un imitador tiene su orgullo, ¿sabes?!<FF03>¡Me niego a imitar algo tan barato!<FFF5>  ¿Qué esperas ganar mostrándole esos<FF03>trucos a un doble? No sé qué<FF03>estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00076",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 25664,
+  "offset_fin": 25858,
+  "longitud_original_bytes": 194,
+  "limite_chars": 97,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Qué esperas ganar mostrándole esos<FF03>trucos a un doble? No sé qué<FF03>estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00077",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 25864,
+  "offset_fin": 26502,
+  "longitud_original_bytes": 638,
+  "limite_chars": 319,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿¡Le hiciste un truco a un doble como yo!?<FF03>Ya superaste mis expectativas.<FFF5>   ¿¡Le hiciste un truco a un doble como yo!?<FF03>Ya superaste mis expectativas.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5> Tienes un talento excepcional. Voy<FF03>a estudiar tus formas de seducir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00078",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 26508,
+  "offset_fin": 26710,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesan bastante.<FFF5>Tienes un talento excepcional. Voy<FF03>a estudiar tus formas de seducir",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00079",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 26716,
+  "offset_fin": 27444,
+  "longitud_original_bytes": 728,
+  "limite_chars": 364,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesan bastante.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>  ¡Eso ni siquiera vale la pena imitarlo!<FF03>¿¡No puedes seducirme de una forma que<FF03>me despierte un poco la curiosidad!?<FFF5> ¡Hasta un imitador tiene su orgullo, ¿sabes?!<FF03>¡Me niego a imitar algo tan barato!<FFF5>  ¿Qué esperas ganar seduciendo a un<FF03>doble como yo? No sé qué<FF03>estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00080",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 27450,
+  "offset_fin": 27628,
+  "longitud_original_bytes": 178,
+  "limite_chars": 89,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué esperas ganar seduciendo a un<FF03>doble como yo? No sé qué<FF03>estás pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00081",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 27634,
+  "offset_fin": 28256,
+  "longitud_original_bytes": 622,
+  "limite_chars": 311,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿¡Intentas seducir a un doble!?<FF03>Ya superaste mis expectativas.<FFF5>   ¿¡Intentas seducir a un doble!?<FF03>Ya superaste mis expectativas.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5> Tienes un talento excepcional. Voy<FF03>a estudiar tu forma de congraciarte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00082",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 28262,
+  "offset_fin": 28464,
+  "longitud_original_bytes": 202,
+  "limite_chars": 101,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FFF5>Tienes un talento excepcional. Voy<FF03>a estudiar tu forma de congraciarte",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00083",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 28470,
+  "offset_fin": 29196,
+  "longitud_original_bytes": 726,
+  "limite_chars": 363,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Me interesa bastante.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5>  ¡Eso ni siquiera vale la pena imitarlo!<FF03>¿¡No puedes adularme de una forma que<FF03>me despierte un poco la curiosidad!?<FFF5>  ¡Hasta un imitador tiene su orgullo, ¿sabes?!<FF03>¡Me niego a imitar algo tan barato!<FFF5>  ¿Qué esperas ganar adulando<FF03>de un doble? No sé qué estás<FF03>pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00084",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 29202,
+  "offset_fin": 29372,
+  "longitud_original_bytes": 170,
+  "limite_chars": 85,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Qué esperas ganar adulando<FF03>de un doble? No sé qué estás<FF03>pensando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00085",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 29378,
+  "offset_fin": 29880,
+  "longitud_original_bytes": 502,
+  "limite_chars": 251,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿¡Estás adulando a un doble!? Ya<FF03>superaste mis expectativas.<FFF5>   ¿¡Estás adulando a un doble!? Ya<FF03>superaste mis expectativas.<FF02><FF04>Ah, casi olvido hacer mis exigencias.<FF03>¡Es la parte más importante!<FFF1><FFF5> Ya tienes mi carta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00086",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 29886,
+  "offset_fin": 29978,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ya no<FF03>me interesas.<FFEF> Toma esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00088",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30014,
+  "offset_fin": 30048,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>No la puedes usar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00089",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30054,
+  "offset_fin": 30108,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Eres demasiado débil para tenerla",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00090",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30114,
+  "offset_fin": 30168,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Entonces al menos toma esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00091",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30174,
+  "offset_fin": 30246,
+  "longitud_original_bytes": 72,
+  "limite_chars": 36,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Bueno, es hora de separarnos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00092",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30252,
+  "offset_fin": 30314,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Esto te sirve. Tómalo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00093",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30320,
+  "offset_fin": 30362,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Ya me voy",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00094",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30368,
+  "offset_fin": 30564,
+  "longitud_original_bytes": 196,
+  "limite_chars": 98,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   No parece correcto darte la carta<FF03>de un doble, pero si quieres, haz<FF03>una Persona o lo que sea",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00095",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30570,
+  "offset_fin": 30646,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Parece que todavía me falta entrenar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00096",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30652,
+  "offset_fin": 30770,
+  "longitud_original_bytes": 118,
+  "limite_chars": 59,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Volvamos a vernos cuando haya entrenado<FF03>más como doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00097",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 30776,
+  "offset_fin": 31014,
+  "longitud_original_bytes": 238,
+  "limite_chars": 119,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Ahora seguiré mi camino. ¡Hay alguien<FF03>más de quien tengo que ser el doble!<FFEF>  Me voy a ser el doble de alguien más",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00098",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31020,
+  "offset_fin": 31234,
+  "longitud_original_bytes": 214,
+  "limite_chars": 107,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Ten, toma esto y sigue intentando!<FFEF> Lo disfruté. Sería un desperdicio que<FF03>te fueras sin nada",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00099",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31240,
+  "offset_fin": 31552,
+  "longitud_original_bytes": 312,
+  "limite_chars": 156,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>¡Así que acepta mi carta como recuerdo!<FFEF>   ¡Si no quedaste satisfecho, puedes<FF03>tirar la carta! ¡No me molesta para nada!<FFEF>   No tengo permitido pelear contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00100",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31558,
+  "offset_fin": 31616,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Es porque soy tu doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00101",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31622,
+  "offset_fin": 31656,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Y tú eres el mío",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00102",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31662,
+  "offset_fin": 31762,
+  "longitud_original_bytes": 100,
+  "limite_chars": 50,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>Es natural que los dobles se fusionen<FF03>en uno solo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00103",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31768,
+  "offset_fin": 31812,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Te daré<FF03>mi carta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00104",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31818,
+  "offset_fin": 31858,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  No puedo pelear contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00105",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31864,
+  "offset_fin": 31918,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Soy tu doble,<FF03>después de todo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00106",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31924,
+  "offset_fin": 31936,
+  "longitud_original_bytes": 12,
+  "limite_chars": 6,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Toma",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00107",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 31942,
+  "offset_fin": 31996,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " un regalo de tu alter ego",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00108",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 32002,
+  "offset_fin": 32050,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Quiero que lo tengas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00109",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 32056,
+  "offset_fin": 32200,
+  "longitud_original_bytes": 144,
+  "limite_chars": 72,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Irónicamente, como soy tu doble, sé muy<FF03>bien que no puedo escapar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00110",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 32206,
+  "offset_fin": 32326,
+  "longitud_original_bytes": 120,
+  "limite_chars": 60,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>También sé que me perdonarás la vida<FF03>si te doy mi carta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00111",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 32332,
+  "offset_fin": 32670,
+  "longitud_original_bytes": 338,
+  "limite_chars": 169,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FFFA>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFFA>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> ¡Oye, <FFFA>! ¿Cómo te va?<FF03>¡Vamos a negociar!<FFF5> Oye, <FFFA>, ¿cómo has estado? ¿Tienes<FF03>algo para tu alter ego?<FFF1><FFF5>  Para ser mi doble, no<FF03>destacas mucho",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00112",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 32676,
+  "offset_fin": 32836,
+  "longitud_original_bytes": 160,
+  "limite_chars": 80,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Decidimos de una<FF03>vez quién es el verdadero?<FFF5>  Así que eres mi alter ego",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00113",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 32844,
+  "offset_fin": 33004,
+  "longitud_original_bytes": 160,
+  "limite_chars": 80,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Te haré<FF03>pagar por aguafiestas.<FFF1><FFF5> Qué mal presagio toparme con mi propio doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00114",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33010,
+  "offset_fin": 33076,
+  "longitud_original_bytes": 66,
+  "limite_chars": 33,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Tenía un mal presentimiento",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00115",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33082,
+  "offset_fin": 33138,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>aunque, claro, eres mi doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00116",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33144,
+  "offset_fin": 33282,
+  "longitud_original_bytes": 138,
+  "limite_chars": 69,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Nunca pensé que conocería a mi alter ego.<FF03>De verdad el mundo es un pañuelo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00117",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33288,
+  "offset_fin": 33484,
+  "longitud_original_bytes": 196,
+  "limite_chars": 98,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFED>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Si eres mi doble, no tengo por qué<FF03>tener pena! ¡Dame algo!<FFF1><FFF5> <FFED>La luna será nuestra testigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00118",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33490,
+  "offset_fin": 33560,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFFA>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Determinemos<FF03>quién es el verdadero <FFFA>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00119",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33566,
+  "offset_fin": 33700,
+  "longitud_original_bytes": 134,
+  "limite_chars": 67,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFEE>Entonces, si eres yo, deberías poder<FF03>cumplir esta petición mía",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00120",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33706,
+  "offset_fin": 33812,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5> <FFEC>Hay luna nueva en el cielo y tú<FF03>no tienes miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00121",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33818,
+  "offset_fin": 33900,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Esa es la diferencia<FF03>entre tú y yo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00122",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 33906,
+  "offset_fin": 34128,
+  "longitud_original_bytes": 222,
+  "limite_chars": 111,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEE>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <FFEE>¿Intentas negociar con tu<FF03>doble? Bueno, dame algo y<FF03>tal vez pueda dejar de lado lo que siento",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00123",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 34134,
+  "offset_fin": 34438,
+  "longitud_original_bytes": 304,
+  "limite_chars": 152,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEE>",
+   "<FFFA>",
+   "<FF03>",
+   "<FFFA>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FFFA>",
+   "<FF03>",
+   "<FFFA>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>   <FFEE>Hola, <FFFA>!<FF03>. Yo también soy <FFFA>.<FF03>¡Es increíble, pero cierto!<FFF5>  <FFEB>Hola, <FFFA>!<FF03>. Yo también soy <FFFA>.<FF03>¡Dame un recuerdo de nuestro encuentro!<FFF1><FFF5>   <FFEC>¡Ah! Tenía un presentimiento inquietante",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00124",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 34444,
+  "offset_fin": 34552,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Así que eras mi doble. Me pregunto si esto<FF03>también es el destino",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00125",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 34558,
+  "offset_fin": 34608,
+  "longitud_original_bytes": 50,
+  "limite_chars": 25,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFED>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFED>Estoy de muy mal humor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00126",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 34614,
+  "offset_fin": 35130,
+  "longitud_original_bytes": 516,
+  "limite_chars": 258,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Como mi doble,<FF03>¿no podrías darme algo?<FFF1><FFF5> <FFEB>Sin duda no destacas mucho para<FF03>ser mi doble. ¡Veamos de una<FF03>vez por todas quién es el verdadero!<FFF5>  <FFED>¡Si eres mi doble, no hace falta<FF03>la modestia! ¡Dame un regalo!<FFF1><FFF5>   <FFEC>Eres mi doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00127",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35138,
+  "offset_fin": 35186,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No estoy seguro<FF03>de esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00128",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35192,
+  "offset_fin": 35238,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " ¿Cómo va a terminar?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00129",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35246,
+  "offset_fin": 35326,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5><FFEB>Si eres mi doble, mejor te pido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00130",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35332,
+  "offset_fin": 35376,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Dame algo.<FFF1><FFF5> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00131",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35382,
+  "offset_fin": 35532,
+  "longitud_original_bytes": 150,
+  "limite_chars": 75,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Como tu doble, te agradezco la<FF03>oportunidad de vivir algo tan raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00132",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35538,
+  "offset_fin": 35592,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Dime qué deseas.<FFEF> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00133",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35598,
+  "offset_fin": 35814,
+  "longitud_original_bytes": 216,
+  "limite_chars": 108,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¡Absurdo! ¡No quiero compartir contigo<FF03>mis experiencias como doble!<FF03>¡Qué descaro!<FFEF>Eres algo espantoso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00134",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35820,
+  "offset_fin": 35900,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ni siquiera yo,<FF03>tu doble, puedo entender",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00135",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 35918,
+  "offset_fin": 36176,
+  "longitud_original_bytes": 258,
+  "limite_chars": 129,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Fue agradable el tiempo que pasé como<FF03>tu doble. ¡Lo disfruté mucho!<FFEF>   No fue una experiencia tan especial<FF03>ser tu doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00136",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36182,
+  "offset_fin": 36302,
+  "longitud_original_bytes": 120,
+  "limite_chars": 60,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero bueno.<FF03>Dime qué quieres.<FFEF>Eres algo espantoso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00137",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36308,
+  "offset_fin": 36388,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Ni siquiera yo,<FF03>tu doble, puedo entender",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00139",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36414,
+  "offset_fin": 36468,
+  "longitud_original_bytes": 54,
+  "limite_chars": 27,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " sí despertaste mi curiosidad",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00140",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36474,
+  "offset_fin": 36522,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Dime qué deseas",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00141",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36542,
+  "offset_fin": 36800,
+  "longitud_original_bytes": 258,
+  "limite_chars": 129,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Fue agradable el tiempo que pasé como<FF03>tu doble. ¡Lo disfruté mucho!<FF02><FF04>Te agradezco la oportunidad de vivir<FF03>algo tan raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00142",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36806,
+  "offset_fin": 36888,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Si puedo concederte<FF03>algo, lo haré.<FFEF>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00143",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 36894,
+  "offset_fin": 37002,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Nunca me había sentido así en todo<FF03>mi tiempo como doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00144",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 37008,
+  "offset_fin": 37122,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué significará?<FFEF>   En general, fue encantador",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00145",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 37128,
+  "offset_fin": 37380,
+  "longitud_original_bytes": 252,
+  "limite_chars": 126,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Pero fue tan infantil que dudo<FF03>que haya valido la pena!<FFEF>  Mi encuentro contigo me dio una pequeña<FF03>probada de lo desconocido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00146",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 37386,
+  "offset_fin": 37434,
+  "longitud_original_bytes": 48,
+  "limite_chars": 24,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Estoy maravillado.<FFEF>  Te pido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00147",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 37458,
+  "offset_fin": 37696,
+  "longitud_original_bytes": 238,
+  "limite_chars": 119,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Agradezco que entiendas<FF03>las necesidades de un doble.<FFF5>   ¡No tengo intención de convertirme en<FF03>el alter ego de un pobre!<FFF5>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00148",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 37702,
+  "offset_fin": 38070,
+  "longitud_original_bytes": 368,
+  "limite_chars": 184,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¿En qué gastaste todo ese dinero?<FF03>Tu forma de derrochar no me impresiona.<FFF5>¡No tengo intención de convertirme en<FF03>el alter ego de un tacaño!<FFF5>  No entiendes el terror de un<FF03>doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00149",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 38076,
+  "offset_fin": 38192,
+  "longitud_original_bytes": 116,
+  "limite_chars": 58,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero algún día lo entenderás.<FFF5>  Bueno, mi petición es",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00150",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 38198,
+  "offset_fin": 38606,
+  "longitud_original_bytes": 408,
+  "limite_chars": 204,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>una piedra de vida.<FFEF>Agradezco que entiendas<FF03>las necesidades de un doble.<FFF5>   ¡No tengo intención de ser el alter<FF03>ego de un tonto que ni siquiera trae<FF03>piedras de vida!<FFF5>  ¿En qué usaste las piedras de vida?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00151",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 38614,
+  "offset_fin": 38918,
+  "longitud_original_bytes": 304,
+  "limite_chars": 152,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Tu forma de derrochar no me impresiona.<FFF5>   ¡No tengo intención de convertirme en<FF03>el alter ego de un tacaño!<FFF5>  No entiendes el terror de un<FF03>doble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00152",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 38924,
+  "offset_fin": 39040,
+  "longitud_original_bytes": 116,
+  "limite_chars": 58,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero algún día lo entenderás.<FFF5>  Bueno, mi petición es",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00153",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 39060,
+  "offset_fin": 39472,
+  "longitud_original_bytes": 412,
+  "limite_chars": 206,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Agradezco que entiendas<FF03>las necesidades de un doble.<FFF5>   No tienes ninguna.<FFF5>¡Ya conocerás el terror de<FF03>un doble!<FFF5>¡Qué voluntad tan fuerte! ¡De verdad<FF03>eres digno de ser mi doble!<FFF5>Bueno, mi petición es",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00154",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 39478,
+  "offset_fin": 39660,
+  "longitud_original_bytes": 182,
+  "limite_chars": 91,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>un poco de tu energía.<FFEF>   Nadie sabe lo deliciosa que es tu energía<FF03>mejor que tu alter ego",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00155",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 39666,
+  "offset_fin": 39922,
+  "longitud_original_bytes": 256,
+  "limite_chars": 128,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Me rechazas? ¿¡A mí, tu doble!?<FF03>¡Alter ego tonto!<FFF5>   ¿Me rechazas? ¿¡A mí, tu doble!?<FF03>No entiendo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00156",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 39928,
+  "offset_fin": 40050,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¿Me rechazas? ¿¡A mí, tu doble!?<FF03>No entiendo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_doppel_00000",
+  "archivo_origen": "talk/doppel.bin",
+  "offset_inicio": 2,
+  "offset_fin": 9538,
+  "longitud_original_bytes": 9536,
+  "texto_original": null,
+  "texto_traducido": " <809C> <80A4> <F0A9> <40AB>   <1820> <4020> <6820> <9020> <B820> <E020> <0821> <3021> <5821> <8021> <A821> <D021> <F821> <D022> <B023> <4024> <C824> <5025> <F825> <A026> <4027> <E027> <4828> <9028> <D828> <6829> <8029> <B829> <302A> <102B> <D82B> <802C> <682D> <002E> <982E> <382F> <B02F> <1830> <A830> <6831> <8031> <1832> <0833> <2033> <A833> <1034> <9834> <D034> <1035> <9035> <A835> <F035> <1836> <4036> <8836> <B836> <E836> <3037> <6037> <A837> <4838> <C038> <2839> <C839> <E839> <303A> <903A> <E83A> <803B> <D83B> <483C> <783C> <083D> <503D> <883D> <F83D> <B03E> <303F> <B83F> <F03F> <8040> <8041> <1842> <A842> <4843> <D843> <3844> <C844> <1045> <B845> <9846> <7047> <C847> <B848> <0049> <2849> <3849> <4849> <5849> <6849> <7849> <8849> <184A> <504A> <784A> <A84A> <D04A> <F84A> <084B> <204B> <884B> <584C> <B84D> <684E> <084F> <C84F> <8850> <1051> <2852> <F852> <6054> <1055> <B055> <8856> <6057> <1058> <5859> <185A> <705B> <205C> <C05C> <685D> <105E> <A05E> <C85F> <A860> <1862> <E062> <8063> <4864> <1065> <B865> <F066> <C067> <2869> <E869> <886A> <406B> <F86B> <986C> <C86D> <986E> <0070> <C870> <6871> <1872> <C872> <6073> <8874> <0875> <2875> <4075> <6875> <A875> <E075> <3076> <7876> <A876> <7077> <4078> <E078> <7879> <607A> <087B> <B07B> <507C> <B87C> <407D> <D07D> <507E> <C07E> <387F> <1880> <A080> <F880> <8081> <1082> <9082> <2083> <B083> <7884> <6085> <C085> <3886> <0087> <9887> <8088> <1889> <B089> <308A> <088B> <B88B> <488C> <E08C> <A08D> <B88E> <1890> <C090> <9091> <2892> <5892> <C892> <4093> <E093> <6094> <0095> <5895> <C895> <8896> <3097> <B097> <5098> <9898> <0899> <3099> <8899> <009A> <689A> <F89A> <809B> <009C> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><0044> <FFF3> te persuadió.<FFF5> <0044> <FFF3> te persuadió.<FFF5> <0044> <FFF3> te persuadió.<FFF5> <0044> <FFF3> se burló de ti.<FFF5>   <0044> <FFF3> se burló de ti.<FFF5>   <0044> <FFF3> se burló de ti.<FFF5>   <0044> <FFF3> te invitó.<FFF5>   <0044> <FFF3> te invitó.<FFF5>   <0044> <FFF3> te invitó.<FFF5>   <0044> <FFF3> cantó una canción.<FFF5>   <0044> <FFF3> cantó una canción.<FFF5>   <0044> <FFF3> cantó una canción.<FFF5>   No puedo hacer mucho por ti, pero prometo<FF03>que nuestro tiempo juntos será emocionante.<FF03>¡Así que ándale, préstame tu fuerza!<FFF5>Los humanos viven como quieren, ¿no?<FF03>Sería bueno que dejaras de lado<FF03>nuestras diferencias y me ayudaras.<FFF5> ¡Ajajajajaja!<FF03>Solo no puedo hacer mucho.<FF03>¡Así que quiero tu ayuda!<FFF5>   Muchos artistas han quedado cautivados por ti.<FF03>¡Aunque no sé por qué!<FFF5> Oye, ¿cómo consigo un poder como el tuyo?<FF03>Lo quiero de verdad, de verdad",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 4768
+ }
+]

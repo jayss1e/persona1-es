@@ -1,0 +1,3612 @@
+[
+ {
+  "id": "talk_kutisake_00001",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 8246,
+  "offset_fin": 8602,
+  "longitud_original_bytes": 356,
+  "limite_chars": 178,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Yo también sigo joven.<FF03>Me hace pensar.<FFF5>   ¡Hmph! ¿Qué crees que haces?<FF03>¡Como si supieras lo que sufrí!<FFF5>¡Lo sabía! Te intereso,<FF03>¿verdad?<FF02><FF04>A ver si adivino",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00002",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 8608,
+  "offset_fin": 9016,
+  "longitud_original_bytes": 408,
+  "limite_chars": 204,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Te gustan las<FF03>mujeres de boca grande!<FFF5>  Vaya, qué seguro estás.<FF03>¿Quieres ponerlo a prueba luego?<FFF5>¡Qué descaro, provocarme! ¡No hagas<FF03>que me quite la máscara!<FFF5>  Q-Qué te pasa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00003",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 9024,
+  "offset_fin": 9100,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Acaso no<FF03>sabes hablarle a una dama",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00004",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 9108,
+  "offset_fin": 9498,
+  "longitud_original_bytes": 390,
+  "limite_chars": 195,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿De veras necesitas mi ayuda?<FF02><FF04>¿No solo quieres unirte a nuestro grupo?<FFF5> ¿Intentas endulzarme el oído?<FF03>¡Hmph! ¡No caeré en eso!<FFF5>   No me interesa la gente de boca<FF03>chica. Perdón",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00005",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 9504,
+  "offset_fin": 9586,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " busca a otra.<FFF5> Qué voz tan increíble",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00006",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 9592,
+  "offset_fin": 9792,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Es tan buena<FF03>que casi la odio! ¡A ver cómo<FF03>suena cuando grita!<FFF5>   Deja de cantar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00007",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 9798,
+  "offset_fin": 9992,
+  "longitud_original_bytes": 194,
+  "limite_chars": 97,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Odio la música.<FFF5>  Vaya, qué buena voz. ¿Sabes?,<FF03>yo también cantaba bien en mis tiempos.<FFF5>   Bueno",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00008",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 9998,
+  "offset_fin": 10450,
+  "longitud_original_bytes": 452,
+  "limite_chars": 226,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " no usas nada de producto<FF03>en el pelo, al menos. Lo<FF03>pensaré.<FFF5>  ¡Hmph! ¡Seguro ensayaste esas frases<FF03>con otros demonios!<FF02><FF04>¡Me das asco!<FFF5>  ¿Otro favor? Parece que todos<FF03>vienen a pedirme algo.<FF02><FF04>Ajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00009",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 10456,
+  "offset_fin": 10650,
+  "longitud_original_bytes": 194,
+  "limite_chars": 97,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " La belleza puede ser pecado.<FFF5>  ¿¡No tienes orgullo!? ¡Odio a las<FF03>mujeres como tú!<FFF5>  Ya, basta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00010",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 10656,
+  "offset_fin": 10822,
+  "longitud_original_bytes": 166,
+  "limite_chars": 83,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Da escalofríos.<FFF5>  ¡Sí! ¡Exacto! ¡Las feas y las simples<FF03>deben arrodillarse ante mí!<FFF5>   Hmm",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00011",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 10828,
+  "offset_fin": 10958,
+  "longitud_original_bytes": 130,
+  "limite_chars": 65,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Casi nunca le creo a la gente<FF03>a menos que me diga que soy bella",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00012",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 10964,
+  "offset_fin": 11272,
+  "longitud_original_bytes": 308,
+  "limite_chars": 154,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Bueno, quizá solo esta vez lo dejaré<FF03>pasar y te creeré.<FFF5>¡Mientes descaradamente! ¡No hagas que<FF03>te haga trizas con mi cúter!<FFF5>  Vaya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00013",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 11278,
+  "offset_fin": 11414,
+  "longitud_original_bytes": 136,
+  "limite_chars": 68,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Tanto quieres pasar tiempo<FF03>conmigo que hasta mientes?<FF02><FF04>Ajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00014",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 11420,
+  "offset_fin": 11986,
+  "longitud_original_bytes": 566,
+  "limite_chars": 283,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Todavía lo tengo.<FFF5>  Ah, parece que conoces tus límites.<FF02><FF04>Eso es muy importante para salir<FF03>adelante en este mundo.<FFF5> ¿¡Cuál es tu problema!? ¡Me haces<FF03>sonar como un monstruo o algo así!<FF03>¡Ahora sí me enojé!<FFF5>¡Así es! ¡La próxima vez, tráeme dulces!<FFF5>   ¿Eh? ¿Cuántos años tienes?<FF03>Guácala",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00015",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 11992,
+  "offset_fin": 12030,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Sigues siendo un niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00016",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 12036,
+  "offset_fin": 12402,
+  "longitud_original_bytes": 366,
+  "limite_chars": 183,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Tu arrogancia me deja sin habla.<FFF5> ¿¡Qué quiere conmigo un mocoso como tú!?<FF03>¡No eres mi tipo!<FFF5>   Tonto.<FFF5> ¿¡Soy bonita!?<FF02><FF04>¿¡Soy bonita, verdad!?<FF02><FF04>¡Así es! ¡SOY bonita!<FFF5>Ajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00017",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 12408,
+  "offset_fin": 12752,
+  "longitud_original_bytes": 344,
+  "limite_chars": 172,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Eres lindo.<FF02><FF04>Es un chiste malo, pero qué lindo<FF03>que intentes llamar mi atención.<FFF5>¡Oye! ¡Me duele la boca al reír!<FF03>¡Más te vale no hacerlo a propósito!<FFF5> Quééé maaalo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00018",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 12758,
+  "offset_fin": 12906,
+  "longitud_original_bytes": 148,
+  "limite_chars": 74,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Eso fue bastante gracioso! Aunque no<FF03>tanto como tu cara.<FFF5>  ¿Yo? A ver",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00019",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 12912,
+  "offset_fin": 13040,
+  "longitud_original_bytes": 128,
+  "limite_chars": 64,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Últimamente estoy en<FF03>aprietos. Los niños ya son muy precavidos.<FFF5> Hmmm",
+  "notas": "excede 142>128",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00020",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13046,
+  "offset_fin": 13198,
+  "longitud_original_bytes": 152,
+  "limite_chars": 76,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No he tenido suerte atrapando<FF03>niños últimamente.<FF02><FF04>Así que te atraparé a ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00022",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13232,
+  "offset_fin": 13396,
+  "longitud_original_bytes": 164,
+  "limite_chars": 82,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Dicen que los humanos que<FF03>coquetean con demonios saben mejor!<FFF5>   Ay, qué lindo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00023",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13402,
+  "offset_fin": 13510,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Intentar llamar mi<FF03>atención con un chiste tan barato",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00024",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13516,
+  "offset_fin": 13704,
+  "longitud_original_bytes": 188,
+  "limite_chars": 94,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Eh, ¿qué te pasa? ¿Eres<FF03>idiota o qué? ¡Qué infantil!<FFF5>P-Por qué hiciste eso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00025",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13712,
+  "offset_fin": 13792,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Estuvo cerca.<FF03>Casi se me cae la máscara",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00026",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13798,
+  "offset_fin": 14212,
+  "longitud_original_bytes": 414,
+  "limite_chars": 207,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿Es un regalo? ¿Para mí? ¡Rápido,<FF03>dámelo!<FFF5> ¡Oye! ¿¡Crees que esto me convencerá!?<FF03>No lo pensaste mucho,<FF03>¿verdad? ¡Lo que quiero son dulces!<FFF5>¡Ay, vaya! Hacía mucho que no me<FF03>daban un regalo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00027",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 14218,
+  "offset_fin": 14554,
+  "longitud_original_bytes": 336,
+  "limite_chars": 168,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Qué encanto!<FFF5>  ¡Ese discurso fue increíble! Debiste<FF03>practicar frente al espejo. ¡Me gustan<FF03>los hombres que se esfuerzan!<FFF5>¡Hablas mucho para ser un niño! Qué<FF03>sabelotodo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00028",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 14560,
+  "offset_fin": 15072,
+  "longitud_original_bytes": 512,
+  "limite_chars": 256,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Si hablas con tanta seguridad, tienes<FF03>una boca hecha para el halago!<FF03>¡Algún día podría superar la mía!<FFF5> A los niños de hoy les falta calcio.<FF02><FF04>Deberías comer más dulces.<FFF5>  ¡No tienes por qué gritarme! ¡Por esto<FF03>odio a los mocosos tontos!<FFF5>  ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00029",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 15078,
+  "offset_fin": 15130,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "Mi época ya pasó",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00030",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 15136,
+  "offset_fin": 15334,
+  "longitud_original_bytes": 198,
+  "limite_chars": 99,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me pregunto<FF03>si debería esconderme y ya.<FFF5> No me gustan mucho los niños. Pueden<FF03>ser tan sabelotodos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00031",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 15340,
+  "offset_fin": 15664,
+  "longitud_original_bytes": 324,
+  "limite_chars": 162,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿De veras<FF03>serás un hombre guapo algún día? Mmm.<FFF5>  Finges ser maduro, ¡pero te falta<FF03>mucho en eso de tratar<FF03>con mujeres!<FFF5> Ay, ya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00032",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 15670,
+  "offset_fin": 15716,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " me das pena",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00033",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 15724,
+  "offset_fin": 15818,
+  "longitud_original_bytes": 94,
+  "limite_chars": 47,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿Es el baile takenoko? Yo salía en<FF03>los 70",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00034",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 15824,
+  "offset_fin": 16114,
+  "longitud_original_bytes": 290,
+  "limite_chars": 145,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No sé mucho de<FF03>bailes modernos.<FFF5>¡Hmph! Tus pasos es mejor que te los<FF03>guardes, si me preguntas. ¡Vuelve<FF03>cuando hayas practicado más!<FFF5>Ajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00035",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 16120,
+  "offset_fin": 16612,
+  "longitud_original_bytes": 492,
+  "limite_chars": 246,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Eres bastante bueno! ¡Pero si<FF03>fuera carrera, yo ganaría!<FFF5>Pareces muy seguro de ti. Siempre<FF03>me sorprenden los niños de hoy.<FFF5> ¡Eres de esos niños que nunca saben<FF03>cuándo callarse! ¿Y si te corto<FF03>la boca, eh? ¿¡Qué tal!?<FFF5>   Este",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00036",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 16618,
+  "offset_fin": 16714,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<0028>",
+   "<FF03>",
+   "<0028>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Este, yo solo pregunto <0028>¿Soy<FF03>bonita?<0028> ¿sabes?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00037",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 16730,
+  "offset_fin": 16756,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "No miento",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00038",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 16762,
+  "offset_fin": 16888,
+  "longitud_original_bytes": 126,
+  "limite_chars": 63,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Tanta curiosidad tienes por saber qué hay<FF03>bajo la máscara?<FF02><FF04>Ajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00039",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 16894,
+  "offset_fin": 17090,
+  "longitud_original_bytes": 196,
+  "limite_chars": 98,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Eso tendrá que ser un secreto.<FFF5> ¿Qué es esa mirada? ¡Me está<FF03>molestando un poco!<FFF5> Jajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00040",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 17096,
+  "offset_fin": 17330,
+  "longitud_original_bytes": 234,
+  "limite_chars": 117,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Se nota que estás embelesado.<FF03>No por nada dicen que<FF03>la belleza puede ser pecado.<FFF5> Sí que sabes darte ánimos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00041",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 17336,
+  "offset_fin": 17572,
+  "longitud_original_bytes": 236,
+  "limite_chars": 118,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " es<FF03>todo un caso. Eres un niño<FF03>interesante, ¿sabías?<FFF5>  ¡Hmph! Hablar sin pensar es algo<FF03>terrible",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00042",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 17578,
+  "offset_fin": 17668,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡No hagas que te raje<FF03>esa boca!<FFF5> Ajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00043",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 17674,
+  "offset_fin": 18460,
+  "longitud_original_bytes": 786,
+  "limite_chars": 393,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No tienes que mentir solo<FF03>porque te da pena. Mucha<FF03>gente se interesa en mí.<FFF5>  ¡Hmph! ¡Lo único que da miedo aquí es<FF03>tu cara!<FFF5> ¡N-No! ¡Basta! ¿¡Por qué me dijiste eso!?<FFF5>  En mis tiempos, todos hablaban<FF03>de mí. Quisiera rajarte la boca<FF03>y hacerte famoso a ti también.<FFF5> Vaya, tienes una voz maravillosa. Pero<FF03>si te rajaras la boca, podrías<FF03>lograr un registro aún mayor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00044",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 18466,
+  "offset_fin": 18552,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Puedes cantar mejor que yo con esa<FF03>boquita",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00045",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 18560,
+  "offset_fin": 19022,
+  "longitud_original_bytes": 462,
+  "limite_chars": 231,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡No sé qué sentir<FF03>al respecto!<FFF5>   Vaya, qué buena voz tienes.<FF03>Escucharte me tranquiliza.<FFF5>¡Esa sí que es una táctica interesante!<FF03>A mí también me gusta jugar a la casita.<FFF5>   ¡Oye! ¿¡Quién crees que soy!? ¡Ya<FF03>basta!<FFF5>   Qué raro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00046",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 19028,
+  "offset_fin": 19150,
+  "longitud_original_bytes": 122,
+  "limite_chars": 61,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " De pronto siento mucha<FF03>nostalgia. Me alegra conocerte.<FFF5>Eh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00047",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 19158,
+  "offset_fin": 19752,
+  "longitud_original_bytes": 594,
+  "limite_chars": 297,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<0028>",
+   "<0028>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿De veras me necesitas? ¿No solo<FF03>quieres ser una de mis hermanas?<FFF5>¡Hmph! ¡Tengo mi orgullo, sabes!<FF03>¡Antes me rajo más la boca que<FF03>quedar a tu cuidado!<FFF5>  Últimamente no tenía a nadie a<FF03>quien decirle <0028>¿Soy bonita?<0028> así que me sentía<FF03>sola. ¡Me hiciste una mujer feliz!<FFF5>   En serio",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00048",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 19758,
+  "offset_fin": 19952,
+  "longitud_original_bytes": 194,
+  "limite_chars": 97,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Los niños de tu edad son<FF03>demasiado precoces. Aunque yo era así<FF03>también cuando era delincuente",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00049",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 19958,
+  "offset_fin": 20132,
+  "longitud_original_bytes": 174,
+  "limite_chars": 87,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Oye! ¡Cuida tu boca! ¿Qué te pasa?<FF03>¡No me contestes, niñita!<FFF5>N-No es cierto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00051",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 20158,
+  "offset_fin": 20248,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<0056>",
+   "<0056>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <0056>snif<0056><FFF5>  De verdad intentas seducirme",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00052",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 20270,
+  "offset_fin": 20416,
+  "longitud_original_bytes": 146,
+  "limite_chars": 73,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No logro odiarte.<FFF5>  Ah, ¿con que sí? ¡Entonces siente la caricia",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00053",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 20422,
+  "offset_fin": 20500,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>de mi cúter en tu cara!<FFF5> Ajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00054",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 20506,
+  "offset_fin": 20682,
+  "longitud_original_bytes": 176,
+  "limite_chars": 88,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué lindo.<FFF5>  No creí que hubiera alguien<FF03>con un destino peor que el mío",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00055",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 20688,
+  "offset_fin": 21044,
+  "longitud_original_bytes": 356,
+  "limite_chars": 178,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Te compadezco<FF03>desde el fondo de mi corazón.<FFF5>   ¡Hmph! ¡Vaya que elegiste a la persona<FF03>equivocada! ¡Nada me gusta más<FF03>que hacer llorar a mocosos consentidos!<FFF5>  Ay, ya deja de llorar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00056",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21050,
+  "offset_fin": 21126,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Se me va a pegar<FF03>tu mala suerte.<FFF5>Vaya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00057",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21134,
+  "offset_fin": 21526,
+  "longitud_original_bytes": 392,
+  "limite_chars": 196,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Qué seguro de ti mismo!<FF03>Me interesa la gente como tú.<FFF5> ¡Hmph! ¡No te hagas el importante cuando<FF03>solo hablas! ¡Le daré una buena<FF03>rajada a tu boca insolente!<FFF5>   Pareces muy seguro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00058",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21532,
+  "offset_fin": 21638,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<0056>",
+   "<0056>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <0056>glup<0056><FF03>No traes nada de producto para el pelo,<FF03>verdad",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00059",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21646,
+  "offset_fin": 21810,
+  "longitud_original_bytes": 164,
+  "limite_chars": 82,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Qué jovencita tan malhablada! ¡Como demonio<FF03>de las bocas, no puedo permitirlo!<FFF5>  I",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00062",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21866,
+  "offset_fin": 21942,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Una discusión, eh? Yo nunca pierdo.<FFF5>   Eh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00063",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21948,
+  "offset_fin": 22278,
+  "longitud_original_bytes": 330,
+  "limite_chars": 165,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Tienes la cabeza bien puesta<FF03>sobre los hombros. Me impresionas.<FFF5>  ¡Hmph! ¡Esas palabras bonitas no me engañan!<FF03>¡No puedes entender mi dolor!<FFF5> Entonces, en resumen",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00064",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 22284,
+  "offset_fin": 22358,
+  "longitud_original_bytes": 74,
+  "limite_chars": 37,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " quieres<FF03>mi carta, ¿verdad? Jajá",
+  "notas": "excede 76>74",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00065",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 22364,
+  "offset_fin": 22676,
+  "longitud_original_bytes": 312,
+  "limite_chars": 156,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " no es<FF03>fácil ser popular.<FFF5>¡Oye! ¿¡Quieres dejar de hacerte<FF03>el adulto!? ¡Acéptalo, eres un mocoso!<FF03>¡Y debo decir que me está enfureciendo!<FFF5>  ¿Ah, sí?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00066",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 22684,
+  "offset_fin": 22730,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Está bien, me disculpo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00067",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 22736,
+  "offset_fin": 23328,
+  "longitud_original_bytes": 592,
+  "limite_chars": 296,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Hacía mucho que no me regañaban<FF03>así! ¡Oye, hazlo otra vez!<FFF5>   Así que así quieres jugar, ¿eh?<FF03>¡Bien, a ver quién tiene más agallas!<FFF5>¡Oye! ¡Mírame! ¿¡Si no me miras, cómo<FF03>sabrás si soy bonita o no!?<FFF5>Si ni un niño así me toma<FF03>en serio, creo que estoy perdida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00068",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 23334,
+  "offset_fin": 23800,
+  "longitud_original_bytes": 466,
+  "limite_chars": 233,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Ah, ¿así que así será?<FF03>Bueno, está bien. Le entraré a esta<FF03>pequeña guerra de voluntades.<FFF5> ¡Oye! ¡Mírame! ¿¡Si no me miras, cómo<FF03>sabrás si soy bonita o no!?<FFF5>Si ni un niño así me toma<FF03>en serio, creo que estoy perdida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00069",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 23822,
+  "offset_fin": 23890,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Qué seguro de ti mismo!<FF03>Hmm",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00070",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 23896,
+  "offset_fin": 24230,
+  "longitud_original_bytes": 334,
+  "limite_chars": 167,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me interesa la gente como tú.<FFF5>  ¡Hmph! ¡No te hagas el importante cuando<FF03>solo hablas! ¡Le daré una buena<FF03>rajada a tu boca insolente!<FFF5>   Pareces muy seguro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00071",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 24236,
+  "offset_fin": 24342,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<0056>",
+   "<0056>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <0056>glup<0056><FF03>No traes nada de producto para el pelo,<FF03>verdad",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00072",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 24350,
+  "offset_fin": 24682,
+  "longitud_original_bytes": 332,
+  "limite_chars": 166,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Calla! ¿¡Qué intentas decir!?<FF03>¿Tienes boca, no? ¡Entonces habla<FF03>bien!<FFF5>   ¿Q-Qué te pasa? Creo que<FF03>bebiste de más",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00073",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 24688,
+  "offset_fin": 24796,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Ese grito repentino me tomó<FF03>por sorpresa. Jajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00074",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 24802,
+  "offset_fin": 25092,
+  "longitud_original_bytes": 290,
+  "limite_chars": 145,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero no puedo seguir enojada.<FFF5>¡Uuh! ¿Puedes hacer aparecer otras<FF03>cosas? ¡Me gusta la gente hábil<FF03>con las manos!<FFF5>   De veras puedes hacer de todo",
+  "notas": "excede 292>290",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00075",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 25098,
+  "offset_fin": 25818,
+  "longitud_original_bytes": 720,
+  "limite_chars": 360,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Solo no<FF03>hagas aparecer nada que odie.<FFF5>   ¡Increíble! ¡Oye, la próxima vez haz<FF03>aparecer unos dulces para mí!<FFF5> ¡Qué historia tan interesante! ¡Anda,<FF03>dime qué pasa después!<FFF5>   ¡Debo interesarte mucho!<FF02><FF04>Dame algo y tal vez te cuente<FF03>más de mí.<FFF1><FFF5>Te escucharé, pero ¿no hay<FF03>algo que debas hacer primero?<FFF1><FFF5>   Esto no tiene nada de divertido",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00076",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 25824,
+  "offset_fin": 26068,
+  "longitud_original_bytes": 244,
+  "limite_chars": 122,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué decepción.<FFF5>   ¿¡Quieres dejar de quejarte por<FF03>tonterías así!?<FF02><FF04>¡En serio, qué niño tan tonto! Me<FF03>hiciste enojar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00077",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 26074,
+  "offset_fin": 26250,
+  "longitud_original_bytes": 176,
+  "limite_chars": 88,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡Qué me vas a dar<FF03>para arreglarlo!?<FFF1><FFF5>   ¿¡Quieres dejar de ladrar!? Me<FF03>hiciste enojar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00078",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 26256,
+  "offset_fin": 26406,
+  "longitud_original_bytes": 150,
+  "limite_chars": 75,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡Qué me vas a dar<FF03>para arreglarlo!?<FFF1><FFF5>No me gusta esa mirada tuya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00079",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 26412,
+  "offset_fin": 26480,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Acaso algo te controla",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00080",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 26502,
+  "offset_fin": 26606,
+  "longitud_original_bytes": 104,
+  "limite_chars": 52,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "No creo entenderlo tanto como<FF03>lo entendería otro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00082",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 26634,
+  "offset_fin": 26750,
+  "longitud_original_bytes": 116,
+  "limite_chars": 58,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Hacía mucho que no la pasaba<FF03>tan bien.<FFF5>  Jajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00083",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 26756,
+  "offset_fin": 26998,
+  "longitud_original_bytes": 242,
+  "limite_chars": 121,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Dices cosas tan lindas!<FFF5>   ¡Platiquemos más! ¡Ojalá<FF03>me des un regalo!<FFF1><FFF5>  ¿Me quieres? Jiji",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00084",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 27004,
+  "offset_fin": 27038,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué debería<FF03>hacer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00085",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 27046,
+  "offset_fin": 27352,
+  "longitud_original_bytes": 306,
+  "limite_chars": 153,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Tu jugada inicial fue interesante.<FF03>Si me das algo, escucharé<FF03>lo que de verdad querías decir.<FFF1><FFF5> Quieres mi ayuda, pero aún eres<FF03>un niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00086",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 27358,
+  "offset_fin": 27528,
+  "longitud_original_bytes": 170,
+  "limite_chars": 85,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Déjame pensarlo un poco.<FFF5> No me interesan para nada los niños<FF03>como tú.<FFF5>¡Eso fue demasiado",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00087",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 27534,
+  "offset_fin": 27902,
+  "longitud_original_bytes": 368,
+  "limite_chars": 184,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF0>",
+   "<FFF3>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " común! ¡Debes hacer<FF03>algo que me acelere el corazón!<FFF5>¡Hmph! Qué táctica tan mala. Soy<FF03><FFF0> <FFF3>, ¿sabes?<FF02><FF04>¡Si de veras quieres mi ayuda, obedecerás<FF03>mis órdenes!<FFF1><FFF5> Siento que",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00088",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 27908,
+  "offset_fin": 27976,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " hay algo detrás<FF03>de todo esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00089",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 27982,
+  "offset_fin": 28020,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>No eres humano",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00090",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 28028,
+  "offset_fin": 28106,
+  "longitud_original_bytes": 78,
+  "limite_chars": 39,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No deberías pedir<FF03>ayuda a los demonios",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00091",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 28112,
+  "offset_fin": 28278,
+  "longitud_original_bytes": 166,
+  "limite_chars": 83,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<0006>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   Si tienes un favor que pedir, un consejo<0006><FF03>no vengas a mí. Pídeselo a otro demonio",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00093",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 28306,
+  "offset_fin": 28350,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Y ahora, qué hago",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00094",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 28358,
+  "offset_fin": 28670,
+  "longitud_original_bytes": 312,
+  "limite_chars": 156,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¡Ajajaja! ¿Me necesitas? ¡Qué cosa<FF03>tan amable!<FFF5>¿Por qué actúas así? ¿Intentas<FF03>hacerme enojar a propósito?<FF03>Traes algo bajo la manga",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00095",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 28676,
+  "offset_fin": 29212,
+  "longitud_original_bytes": 536,
+  "limite_chars": 268,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> No tiene caso intentar hacerme<FF03>enojar. Pero admito que tienes<FF03>talento para eso.<FFF5>Eso no te llevará a ningún lado. Hay<FF03>mejores formas de despertar interés.<FFF1><FFF5>¿¡Cómo te atreves a burlarte de mí!?<FF03>¡Espero que estés listo!<FFF5>  ¡Argh, me haces enojar tanto! Aunque si<FF03>no lo hicieras",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00096",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29218,
+  "offset_fin": 29576,
+  "longitud_original_bytes": 358,
+  "limite_chars": 179,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡no disfrutaría nada<FF03>matarte!<FFF5> ¿¡Cómo te atreves a burlarte de mí!?<FF03>¡Ahora estoy enojada! ¡Y no me calmaré<FF03>si no me das algo!<FFF1><FFF5> Debes estar burlándote de mí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00097",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29582,
+  "offset_fin": 29614,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Qué cruel eres",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00098",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29620,
+  "offset_fin": 29700,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Así no suelen ser las negociaciones",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00100",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29742,
+  "offset_fin": 29848,
+  "longitud_original_bytes": 106,
+  "limite_chars": 53,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " No logro entender cuál es<FF03>tu estrategia para negociar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00101",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29854,
+  "offset_fin": 29882,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Buena actitud",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00102",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29888,
+  "offset_fin": 30224,
+  "longitud_original_bytes": 336,
+  "limite_chars": 168,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Debes estar muy seguro<FF03>de ti! ¡Eso me gusta!<FFF5>   ¡Claro, haz lo que quieras! ¡Apuesto<FF03>a que no sabes cuánto miedo doy!<FF02><FF04>Pregúntale a tu hermana mayor por mí<FF03>cuando llegues a casa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00103",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 30230,
+  "offset_fin": 30306,
+  "longitud_original_bytes": 76,
+  "limite_chars": 38,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Jajaja! ¡Te sorprenderás!<FFF5>   Ajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00104",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 30312,
+  "offset_fin": 30934,
+  "longitud_original_bytes": 622,
+  "limite_chars": 311,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Intentas averiguar qué<FF03>me gusta, ¿verdad? ¡Qué adorable!<FFF5>  ¿Hmmm? ¿Quieres ser artista?<FF03>No olvides mencionarme cuando<FF03>seas famoso.<FFF5>No eres muy bueno en esto, ¿verdad?<FF03>Lo intentaremos otra vez cuando hayas<FF03>practicado. ¡Lo espero con ansias!<FFF5>   Siento que falta algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00105",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 30940,
+  "offset_fin": 31032,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>¡Puedo darte consejos, pero te costará!<FFF1><FFF5>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00106",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 31038,
+  "offset_fin": 31176,
+  "longitud_original_bytes": 138,
+  "limite_chars": 69,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¿Qué fue eso? ¡Fue tan malo que creo<FF03>que mereces morir por ello!<FFF5>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00107",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 31182,
+  "offset_fin": 31386,
+  "longitud_original_bytes": 204,
+  "limite_chars": 102,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "¿Qué fue eso? ¡Eres tan malo que no<FF03>tienes remedio! ¡Para tu próximo truco,<FF03>creo que deberías morir!<FF02><FF04>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00109",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 31406,
+  "offset_fin": 31648,
+  "longitud_original_bytes": 242,
+  "limite_chars": 121,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Primero dame algo!<FFF1><FFF5>  ¿¡Quieres dinero por ESO!? ¡Hmph, qué<FF03>descaro! ¡Tú deberías pagarme a mí!<FFF1><FFF5>Qué es eso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00111",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 31692,
+  "offset_fin": 31848,
+  "longitud_original_bytes": 156,
+  "limite_chars": 78,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¿Es algún ritual de brujería peligroso?<FF03>No tiene nada que ver conmigo, ¿verdad?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00113",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 31882,
+  "offset_fin": 32094,
+  "longitud_original_bytes": 212,
+  "limite_chars": 106,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Eso salió muy bien. Eres<FF03>muy atractivo.<FFF5>¡Fue increíble! Me pregunto si yo<FF03>también debería aprender algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00114",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 32102,
+  "offset_fin": 32214,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>De veras eres un niño talentoso.<FF03>Me estoy divirtiendo mucho",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00115",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 32230,
+  "offset_fin": 32362,
+  "longitud_original_bytes": 132,
+  "limite_chars": 66,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Y me divertiría más si me<FF03>dieras algo, ¿sabes?<FFF1><FFF5> Jajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00116",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 32368,
+  "offset_fin": 32482,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Está bien si me dejo<FF03>la máscara puesta?<FFF5>Solo eres un niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00117",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 32488,
+  "offset_fin": 33252,
+  "longitud_original_bytes": 764,
+  "limite_chars": 382,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Pero ¿quién sabe?<FF03>Podría ser una buena forma de matar el tiempo.<FF02><FF04>Bien, me quedaré un rato. ¡Pero más<FF03>te vale darme algo a cambio!<FFF1><FFF5>¿Intentas coquetearme? Está bien,<FF03>¡pero me gusta la gente generosa!<FFF1><FFF5>  ¿¡Te burlas de mí!? ¡No soporto<FF03>eso en mocosos como tú!<FFF5>   ¡No soy tonta! ¿¡Crees que traicionaría a<FF03>mis hermanas solo por eso!?<FF02><FF04>¡En serio, qué mocosa! Me hiciste<FF03>enojar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00118",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33258,
+  "offset_fin": 33398,
+  "longitud_original_bytes": 140,
+  "limite_chars": 70,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡Qué me vas a dar<FF03>para arreglarlo!?<FFF1><FFF5>   ¿Qué haces? Espera",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00119",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33404,
+  "offset_fin": 33662,
+  "longitud_original_bytes": 258,
+  "limite_chars": 129,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡no estarás<FF03>intentando seducirme!?<FF02><FF04>¡Si los otros demonios saben que me sedujiste,<FF03>te van a linchar! Me quedaré callada,<FF03>aunque",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00120",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33668,
+  "offset_fin": 33692,
+  "longitud_original_bytes": 24,
+  "limite_chars": 12,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " por un precio",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00121",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33698,
+  "offset_fin": 33788,
+  "longitud_original_bytes": 90,
+  "limite_chars": 45,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5> Oye, ¿qué pasa? No he hecho<FF03>nada",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00122",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33794,
+  "offset_fin": 33836,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Oye, espera un segundo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00123",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33842,
+  "offset_fin": 33956,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Aun después de oír<FF03>esa historia, n-n-no sé qué hacer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00125",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 33986,
+  "offset_fin": 34150,
+  "longitud_original_bytes": 164,
+  "limite_chars": 82,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¡Nada mal! ¿Pero sabes qué sería<FF03>mejor? ¡Que me dieras algo!<FFF1><FFF5>Creo que",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00126",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 34156,
+  "offset_fin": 34196,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Me estoy enamorando de ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00127",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 34204,
+  "offset_fin": 34878,
+  "longitud_original_bytes": 674,
+  "limite_chars": 337,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> Sabes abrirte camino en la vida.<FFF5>¡Así es! Entiendes cuánto miedo<FF03>doy, ¿verdad?<FF02><FF04>¡En ese caso, dame algo!<FFF1><FFF5> Niño listo.<FFF5> ¿¡Para qué dices algo tan obvio!?<FF03>¡Ni te acercas a mi perfección!<FFF5> ¡Si crees que con eso te perdonaré,<FF03>estás muy equivocado!<FF02><FF04>¡En serio, qué mocosa! Me hiciste<FF03>enojar",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00128",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 34884,
+  "offset_fin": 35194,
+  "longitud_original_bytes": 310,
+  "limite_chars": 155,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡Qué me vas a dar<FF03>para arreglarlo!?<FFF1><FFF5>  ¡Ahora eres mi esclavo! ¡Necesitaré un regalo<FF03>para interesarme en ti, esclavo!<FFF1><FFF5> Tramas algo, ¿verdad?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00129",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35202,
+  "offset_fin": 35258,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  No estás enojado en realidad",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00130",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35266,
+  "offset_fin": 35318,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Sí lo estás,<FF03>¿verdad? Lo sabía",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00133",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35378,
+  "offset_fin": 35490,
+  "longitud_original_bytes": 112,
+  "limite_chars": 56,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Seré amable con los niños<FF03>honestos.<FFF5> Eres un buen niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00134",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35496,
+  "offset_fin": 35674,
+  "longitud_original_bytes": 178,
+  "limite_chars": 89,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Eres tan lindo<FF03>que me dan ganas de despedazarte y<FF03>ver tus hermosas entrañas. Ajaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00135",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35700,
+  "offset_fin": 35764,
+  "longitud_original_bytes": 64,
+  "limite_chars": 32,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Tienes la carta de mi hermana",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00136",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35770,
+  "offset_fin": 36280,
+  "longitud_original_bytes": 510,
+  "limite_chars": 255,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>No la vuelvas una Persona rara, ¿eh?<FFEF>Bueno, entonces te daré esto.<FFEF> ¿Qué? ¿¡En serio!?<FFEF>  Soy Kuchisake-onna. Nací cuando un<FF03>estudiante tonto de Hokkaido inventó mi<FF03>historia en un programa de radio.<FF02><FF04>No todos los demonios tienen un origen genial.<FF03>El mío es pésimo.<FFEF> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00137",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 36286,
+  "offset_fin": 36558,
+  "longitud_original_bytes": 272,
+  "limite_chars": 136,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "No soy tan ingenua.<FF02><FF04>Negociemos otra vez cuando seas un<FF03>poco más fuerte.<FFEF>Bueno, en fin, toma esto en recuerdo<FF03>de nuestro encuentro.<FFEF>Adiós",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00138",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 36564,
+  "offset_fin": 36646,
+  "longitud_original_bytes": 82,
+  "limite_chars": 41,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Espero que nos volvamos a ver.<FFEF>   No es mucho",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00140",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 36692,
+  "offset_fin": 37028,
+  "longitud_original_bytes": 336,
+  "limite_chars": 168,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ocupada, así que me voy.<FFEF>Aunque me vuelva una Persona, ¡más te<FF03>vale seguir diciéndome qué bonita soy, tres<FF03>veces al día! ¡Prométemelo!<FFEF>¡Por favor! ¡Perdóname! Te daré esto",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00141",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 37034,
+  "offset_fin": 37292,
+  "longitud_original_bytes": 258,
+  "limite_chars": 129,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  ¡Me cansé de negociar contigo!<FF03>¡Nunca haces nada interesante!<FFEF>  ¡Me cansé de negociar contigo!<FF03>Solo eres un niño",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00142",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 37298,
+  "offset_fin": 37446,
+  "longitud_original_bytes": 148,
+  "limite_chars": 74,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Toma esto y<FF03>vete a casa ya.<FFEF>¡A cambio de esto, quiero dulces!<FF03>Eh",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00143",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 37454,
+  "offset_fin": 37654,
+  "longitud_original_bytes": 200,
+  "limite_chars": 100,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿¡No tienes!?<FFF5>   ¡De veras me enfureces! ¡Agh, al diablo!<FF03>¡Ten, toma mi carta y ya!<FFEF>  Vaya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00144",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 37660,
+  "offset_fin": 37834,
+  "longitud_original_bytes": 174,
+  "limite_chars": 87,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Creo que es la primera vez<FF03>que negocio con alguien tan fuerte<FF03>y gracioso como tú",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00145",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 37840,
+  "offset_fin": 37920,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Es solo una muestra de gratitud",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00146",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 37926,
+  "offset_fin": 38018,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Espero que te sirva.<FFEF> No puedo pelear contigo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00147",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38024,
+  "offset_fin": 38062,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>   Esto es para ti",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00148",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38068,
+  "offset_fin": 38124,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Por favor, cuídalo<FF03>bien",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00149",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38148,
+  "offset_fin": 38228,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " me dejarás ir, sin<FF03>condiciones",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00150",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38236,
+  "offset_fin": 38332,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Si me perdonas, te daré mi<FF03>carta",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00151",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38338,
+  "offset_fin": 38396,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Ay, qué hombre tan guapo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00152",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38402,
+  "offset_fin": 38516,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Oye, tienes algo en contra de<FF03>las demonios de boca grande",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00153",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 38524,
+  "offset_fin": 39056,
+  "longitud_original_bytes": 532,
+  "limite_chars": 266,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Oye, escucha! Hace mucho que no vivo<FF03>como humana. Por eso quiero algo.<FFF1><FFF5>  ¡Te lo advierto, hoy estoy de mal<FF03>humor! ¡Si intentas algo raro te<FF03>despedazo!<FFF5> ¡Qué hermosa luna llena! Y aquí estoy yo,<FF03>la única demonio atorada negociando<FF03>con humanos",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00154",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 39062,
+  "offset_fin": 39280,
+  "longitud_original_bytes": 218,
+  "limite_chars": 109,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Uf!<FF02><FF04>¿Y bien, tienes regalos para mí? ¡Agh!<FF03>¡Qué desconsiderado! ¡Dame algo!<FFF1><FFF5>Q-Qué cara tan aterradora",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00155",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 39286,
+  "offset_fin": 39346,
+  "longitud_original_bytes": 60,
+  "limite_chars": 30,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " N-No cruces<FF03>esa línea, ¿sí?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00156",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 39354,
+  "offset_fin": 39400,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Q Qué cara tan aterradora",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00157",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 39406,
+  "offset_fin": 39498,
+  "longitud_original_bytes": 92,
+  "limite_chars": 46,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " C-Creo que<FF03>no podré dormir esta noche",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00158",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 39504,
+  "offset_fin": 39696,
+  "longitud_original_bytes": 192,
+  "limite_chars": 96,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Las noches de luna llena me<FF03>emocionan tanto! ¡Ojalá duraran<FF03>para siempre!<FFF5>Es luna llena",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00160",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 39732,
+  "offset_fin": 40022,
+  "longitud_original_bytes": 290,
+  "limite_chars": 145,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FFF5>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Si me das algo, no tendré<FF03>ninguna queja.<FFF1><FFF5>  <FFED>¡Me habría alegrado más que me hablaras<FF03>primero! Eres un miedoso.<FFF5> <FFEE>Eso es",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00161",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40028,
+  "offset_fin": 40064,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " algo decepcionante",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00162",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40070,
+  "offset_fin": 40240,
+  "longitud_original_bytes": 170,
+  "limite_chars": 85,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEE>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Ni modo. Si me das algo,<FF03>aun así escucharé lo que digas.<FFF1><FFF5><FFEE>Tú",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00163",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40246,
+  "offset_fin": 40316,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Hueles a<FF03>sangre",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00164",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40338,
+  "offset_fin": 40394,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " Siempre me tocan los raros",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00165",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40422,
+  "offset_fin": 40492,
+  "longitud_original_bytes": 70,
+  "limite_chars": 35,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Hueles a<FF03>sangre",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00166",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40498,
+  "offset_fin": 40612,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF02><FF04>Mira, hablemos. No hace falta<FF03>hacer nada siniestro",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00167",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40650,
+  "offset_fin": 40848,
+  "longitud_original_bytes": 198,
+  "limite_chars": 99,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Encontrarnos así podría<FF03>ser el destino.<FF02><FF04>¿Qué tal algo para celebrar la<FF03>ocasión? Por favor",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00168",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40856,
+  "offset_fin": 40912,
+  "longitud_original_bytes": 56,
+  "limite_chars": 28,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>  <FFEB>¡Oh! Qué hombre tan guapo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00169",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 40918,
+  "offset_fin": 41116,
+  "longitud_original_bytes": 198,
+  "limite_chars": 99,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFEC>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Es mi<FF03>oportunidad! ¡Negociemos!<FFF5>  <FFEC>¡S-Si me matas, mis hermanas no se<FF03>quedarán de brazos cruzados! ¿Entendido?",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00170",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 41124,
+  "offset_fin": 41212,
+  "longitud_original_bytes": 88,
+  "limite_chars": 44,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFED>Parece que ya mataste demonios<FF03>antes",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00171",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 41218,
+  "offset_fin": 41358,
+  "longitud_original_bytes": 140,
+  "limite_chars": 70,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Según cómo salga esta negociación,<FF03>puede que no te lo perdone",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00172",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 41364,
+  "offset_fin": 41656,
+  "longitud_original_bytes": 292,
+  "limite_chars": 146,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFED>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> <FFED>¡Oye! ¿¡Qué te pasa, respondiendo<FF03>a mi llamado!?<FF02><FF04>¡No hay forma de que estés a mi altura!<FF03>Quizá sería otra cosa si<FF03>tuvieras un regalo, pero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00173",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 41662,
+  "offset_fin": 41844,
+  "longitud_original_bytes": 182,
+  "limite_chars": 91,
+  "tokens_protegidos": [
+   "<FFF1>",
+   "<FFF5>",
+   "<FFEB>",
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF1><FFF5>   <FFEB>¿Por qué respondiste TÚ? No me interesan<FF03>los niños sin una pizca de cerebro.<FF03>Jajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00174",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 41850,
+  "offset_fin": 41884,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFEB>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  <FFEB>Me siento tan rara",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00175",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 41890,
+  "offset_fin": 42048,
+  "longitud_original_bytes": 158,
+  "limite_chars": 79,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>",
+   "<FFEC>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Por favor, haz lo que<FF03>quieras conmigo! ¡No me importa qué!<FFF5>  <FFEC>T-Te tengo miedo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00176",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42054,
+  "offset_fin": 42122,
+  "longitud_original_bytes": 68,
+  "limite_chars": 34,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " pero también<FF03>espero algo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00177",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42128,
+  "offset_fin": 42172,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Qué me<FF03>pasa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00178",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42180,
+  "offset_fin": 42560,
+  "longitud_original_bytes": 380,
+  "limite_chars": 190,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Eres muy interesante! ¿Y qué es<FF03>lo que quieres? Tengo ganas de escuchar.<FFEF>  ¡Aunque siga contigo,<FF03>dudo que saque algo de esto!<FF03>¡Siento que perdí el tiempo!<FFEF>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00179",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42566,
+  "offset_fin": 42612,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": "Creo que ya me voy",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00180",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42618,
+  "offset_fin": 42632,
+  "longitud_original_bytes": 14,
+  "limite_chars": 7,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF>  Jaja",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00181",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42638,
+  "offset_fin": 42856,
+  "longitud_original_bytes": 218,
+  "limite_chars": 109,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Fue muy divertido. Sabes<FF03>complacer a los demonios.<FFEF>  Estoy algo molesta, pero quizá esto<FF03>también sea el destino",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00182",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42862,
+  "offset_fin": 42904,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Qué quieres?<FFEF>  ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00183",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42910,
+  "offset_fin": 42990,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Te escucharé. No hace falta<FF03>ser cruel",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00184",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 42996,
+  "offset_fin": 43012,
+  "longitud_original_bytes": 16,
+  "limite_chars": 8,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> Ajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00185",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43018,
+  "offset_fin": 43596,
+  "longitud_original_bytes": 578,
+  "limite_chars": 289,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF02>",
+   "<FF04>",
+   "<FF03>",
+   "<FFEF>",
+   "<FF03>",
+   "<FF03>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Me alegra haberte encontrado.<FF03>¡Lo que quieras, es tuyo!<FFEF>  ¡Agh! ¡Estoy furiosa Y me dio escalofrío!<FF03>¡Qué rayos!<FF02><FF04>¿¡Qué te hice yo!?<FF03>¡Soy bonita!<FFEF>   Ya no tiene caso seguir negociando.<FF03>No es que tenga todo el tiempo del<FF03>mundo para perderlo contigo.<FFEF>Esto es genial, pero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00186",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43602,
+  "offset_fin": 43624,
+  "longitud_original_bytes": 22,
+  "limite_chars": 11,
+  "tokens_protegidos": [],
+  "texto_original": null,
+  "texto_traducido": " también da miedo",
+  "notas": "excede 24>22",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00187",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43630,
+  "offset_fin": 43726,
+  "longitud_original_bytes": 96,
+  "limite_chars": 48,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>Quizá sea mejor que haga lo que<FF03>me pides",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00188",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43732,
+  "offset_fin": 43770,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> A ver, quiero",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00189",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43776,
+  "offset_fin": 43804,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FFF8>",
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " <FFF8> yenes.<FFEF>Ajajá",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00190",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43810,
+  "offset_fin": 43974,
+  "longitud_original_bytes": 164,
+  "limite_chars": 82,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Gracias.<FFF5>  ¿¡Oye!? ¿¡Ni siquiera tienes ESO!?<FF03>Tu cartera es como Japón en la posguerra",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00191",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 43980,
+  "offset_fin": 44312,
+  "longitud_original_bytes": 332,
+  "limite_chars": 166,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5> ¡Oye! ¿¡Si ni eso puedes pagar,<FF03>cómo esperas negociar con<FF03>demonios!?<FFF5>   ¿De qué sirve acumular tanto dinero?<FF03>¡Al final todo será mío de todos modos!<FFF5>   ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00192",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 44318,
+  "offset_fin": 44452,
+  "longitud_original_bytes": 134,
+  "limite_chars": 67,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "Si no querías negociar,<FF03>debiste decirlo desde el principio",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00193",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 44458,
+  "offset_fin": 44502,
+  "longitud_original_bytes": 44,
+  "limite_chars": 22,
+  "tokens_protegidos": [
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  Quiero una piedra de vida",
+  "notas": "excede 46>44",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00194",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 44508,
+  "offset_fin": 44632,
+  "longitud_original_bytes": 124,
+  "limite_chars": 62,
+  "tokens_protegidos": [
+   "<FFEF>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFEF> No es tan buena como un dulce, pero esta<FF03>piedra igual es deliciosa",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00195",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 44638,
+  "offset_fin": 45264,
+  "longitud_original_bytes": 626,
+  "limite_chars": 313,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>",
+   "<FFF5>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>¿¡Qué!? ¡Es de sentido común traer<FF03>piedras de vida contigo!<FFF5>   ¿¡Espera, negociabas conmigo y<FF03>no tenías NI UNA piedra de vida!?<FF03>¡Uuuh, me haces enojar muchííísimo!<FFF5>  ¿¡Qué dijiste!? ¡Darte una piedra de vida<FF03>sería desperdiciarla!<FFF5>   ¿Negociabas sin ninguna piedra de<FF03>vida? Debes estar bromeando",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00196",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45270,
+  "offset_fin": 45312,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF03>No lo puedo creer",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00198",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45338,
+  "offset_fin": 45378,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF4>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Sé que tienes un<FF03><FFF4>",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00199",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45384,
+  "offset_fin": 45436,
+  "longitud_original_bytes": 52,
+  "limite_chars": 26,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Quiero uno!<FFEF>   Este brillo",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00200",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45442,
+  "offset_fin": 45546,
+  "longitud_original_bytes": 104,
+  "limite_chars": 52,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Lo mire como lo mire,<FF03>sigue siendo maravilloso",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00201",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45552,
+  "offset_fin": 45660,
+  "longitud_original_bytes": 108,
+  "limite_chars": 54,
+  "tokens_protegidos": [
+   "<FFF5>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FFF5>   ¡Oye! ¿No te parece injusto?<FFF5>  Ah, conque sí",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00202",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45666,
+  "offset_fin": 45752,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Entonces tendré que<FF03>quitártelo a la fuerza!<FFF5> ",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00203",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45758,
+  "offset_fin": 45872,
+  "longitud_original_bytes": 114,
+  "limite_chars": 57,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "De todos modos no lo quería.<FF03>Prefiero los dulces.<FFF5>Quiero tu vida",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00204",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45878,
+  "offset_fin": 45964,
+  "longitud_original_bytes": 86,
+  "limite_chars": 43,
+  "tokens_protegidos": [
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Aunque sea un<FF03>poquito. Anda",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00205",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 45970,
+  "offset_fin": 46012,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FFEF>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿solo un trago?<FFEF>  Ajajá",
+  "notas": "excede 44>42",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00206",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 46018,
+  "offset_fin": 46098,
+  "longitud_original_bytes": 80,
+  "limite_chars": 40,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¡Tu energía vital es<FF03>deliciosa!<FFF5>  Ay, vaya",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00207",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 46104,
+  "offset_fin": 46260,
+  "longitud_original_bytes": 156,
+  "limite_chars": 78,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " ¿Me tienes miedo? ¡Doy aún más<FF03>miedo a los niños que no obedecen!<FFF5>  No puede ser",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00208",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 46266,
+  "offset_fin": 46420,
+  "longitud_original_bytes": 154,
+  "limite_chars": 77,
+  "tokens_protegidos": [
+   "<FF03>",
+   "<FFF5>"
+  ],
+  "texto_original": null,
+  "texto_traducido": " Sé que tengo la boca grande,<FF03>¡pero eso es muy cruel! ¡Eres terrible!<FFF5>   No puede ser",
+  "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "talk_kutisake_00000",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 2,
+  "offset_fin": 8240,
+  "longitud_original_bytes": 8238,
+  "texto_original": null,
+  "texto_traducido": " <E8B5> <E8BD> <58C3> <A8C4>   <1820> <9020> <2021> <0022> <9022> <0823> <9823> <2824> <B024> <4825> <2826> <6826> <0027> <A827> <5028> <0829> <7029> <C029> <402A> <502B> <F82B> <C82C> <882D> <482E> <A02E> <482F> <C82F> <D82F> <6830> <2831> <C031> <D831> <5032> <E832> <9833> <3834> <D034> <6035> <E835> <4836> <2037> <B037> <7838> <E838> <C839> <583A> <E03A> <783B> <603C> <203D> <703D> <203E> <E83E> <603F> <F83F> <E040> <8041> <4042> <B842> <7843> <4044> <F844> <C845> <2846> <8046> <4847> <2848> <D048> <5849> <D849> <404A> <C84A> <604B> <284C> <184D> <F84D> <804E> <D04E> <784F> <0850> <4050> <3051> <1052> <8052> <0853> <E853> <9054> <3055> <5855> <B055> <3056> <D056> <9857> <8058> <D858> <7859> <105A> <A85A> <285B> <E85B> <805C> <005D> <985D> <785E> <205F> <E05F> <7860> <1861> <D061> <6062> <D862> <5863> <2064> <B064> <0865> <3866> <E866> <8067> <F867> <7068> <C068> <5069> <A869> <886A> <186B> <706B> <106C> <E86C> <506D> <D86D> <806E> <C86E> <286F> <0870> <B070> <5071> <C071> <8072> <5073> <B873> <1074> <A074> <2875> <5876> <0077> <B077> <9878> <3879> <C879> <E87A> <887B> <D07B> <787C> <E87C> <687D> <607E> <C07E> <E87F> <8880> <1081> <4882> <A883> <0884> <B084> <C884> <5885> <A085> <F085> <A886> <C086> <5887> <A088> <3089> <8889> <208A> <808A> <688B> <108C> <508C> <788C> <B88D> <588E> <C08E> <088F> <488F> <888F> <5890> <B090> <4091> <F891> <8092> <1093> <D893> <6094> <9094> <F894> <6095> <C895> <8096> <2897> <D897> <4899> <C099> <589A> <F09A> <B09B> <489C> <289D> <D89D> <B09E> <A09F> <20A0> <A8A0> <98A1> <C8A2> <80A3> <18A4> <C8A4> <68A5> <40A6> <80A6> <00A7> <98A7> <F8A7> <80A8> <50A9> <28AA> <D8AA> <10AB> <38AB> <D0AB> <78AC> <18AD> <B0AD> <E0AD> <60AE> <E0AE> <B0AF> <40B0> <08B1> <68B1> <F8B1> <48B2> <B8B2> <10B3> <B0B3> <08B4> <A8B4> <48B5> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>Tienes razón",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 4119
+ },
+ {
+  "id": "talk_kutisake_00021",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 13206,
+  "offset_fin": 13226,
+  "longitud_original_bytes": 20,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>Este, bueno",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 10
+ },
+ {
+  "id": "talk_kutisake_00060",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 21816,
+  "offset_fin": 21836,
+  "longitud_original_bytes": 20,
+  "texto_original": null,
+  "texto_traducido": " Perdón",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 10
+ },
+ {
+  "id": "talk_kutisake_00099",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 29706,
+  "offset_fin": 29734,
+  "longitud_original_bytes": 28,
+  "texto_original": null,
+  "texto_traducido": "<FFF5>  ¿Q-Qué?",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 14
+ },
+ {
+  "id": "talk_kutisake_00110",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 31656,
+  "offset_fin": 31686,
+  "longitud_original_bytes": 30,
+  "texto_original": null,
+  "texto_traducido": " No entiendo",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 15
+ },
+ {
+  "id": "talk_kutisake_00131",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 35324,
+  "offset_fin": 35346,
+  "longitud_original_bytes": 22,
+  "texto_original": null,
+  "texto_traducido": " estás enojado",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 11
+ },
+ {
+  "id": "talk_kutisake_00139",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 36652,
+  "offset_fin": 36686,
+  "longitud_original_bytes": 34,
+  "texto_original": null,
+  "texto_traducido": " pero tómalo.<FFF5>Estoy",
+  "notas": "baja densidad de texto (posible mezcla con datos)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 17
+ },
+ {
+  "id": "talk_kutisake_00209",
+  "archivo_origen": "talk/kutisake.bin",
+  "offset_inicio": 46426,
+  "offset_fin": 48638,
+  "longitud_original_bytes": 2212,
+  "texto_original": null,
+  "texto_traducido": " Sé que tengo la boca grande,<FF03>¡pero eso es muy cruel! ¡Eres terrible!<FFF5>   <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><B000><B100>  <0180>``<0180><FFFF><FFFF><FFFF>",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "retraducido",
+  "raw_hex": null,
+  "limite_chars": 1106
+ }
+]

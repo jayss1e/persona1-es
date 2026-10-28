@@ -1,0 +1,147 @@
+# Mensajes de calabozos y mapas (pack/dng/). Inglés exacto <TAB> español.
+# Los aplica tools/dng.py. Cada español debe caber en el largo del inglés.
+en#16e30a4622162e8c	Parece estar cerrado...
+en#cc419ee7125f44d8	Está cerrado. Parece que no<FF03>se puede entrar.
+en#c3ca299fb0efa733	La puerta está cerrada. ¿Esa chica<FF03>habrá sido una ilusión...?
+en#79c782169bc5894f	Está cerrada.
+en#3283c7bc79c709f3	La puerta se cerró otra vez<FF03>sin que lo notaras.
+en#b94338121db7d6fc	Parece que este cuarto no se usa<FF03>desde hace bastante tiempo...
+en#b256cfc60309d447	Mi apellido es
+en#8f7c1a88a4fcb177	.<FF03>Mi nombre es <FF07>.
+en#80f102ecb5d60449	Me llamo<FF03>
+en#78996bd44f3df328	Mi apodo es
+en#cff944c0fd60ee7d	La tienda ya cerró...
+en#b9300293d29b9641	Parece que este cuarto no se usa.
+en#e3225d39bf121346	Es la UCI. Solo se entra con<FF03>permiso especial.
+en#a57fe179bbff602e	Mark<FF03>Rayos... ¿Adónde fue Maki...?
+en#3fa6a9cacd334365	Hay una palanca en la pared.<FF03>¿Jalarla?
+en#63dfc9d1c318dfe3	Maki<FF03>Se oyen voces... Parece que<FF03>alguien está hablando adentro.
+en#755b66b62afa9995	Voz severa<FF03>Lo siento, Sr. Kandori... La mujer<FF03>escapó.
+en#fcfe6db49b9d2d4e	Voz sospechosa<FF03>Fue un error, Takeda. Bueno... déjala.<FF03>No tiene a dónde ir.
+en#ae38a943260d4def	Voz sospechosa<FF03>Lo importante es que los científicos<FF03>terminen de ajustar el Sistema Deva.
+en#b0044487468378c1	Voz severa<FF03>Sí, señor.
+en#26a191131ac95f74	Nanjo<FF03>Está ahí dentro, sin duda...<FF03>¿Estás listo, <FF07>?
+en#1c13a8bc003361a6	Voz de Takeda<FF03>Lo siento, Sr. Kandori... La mujer<FF03>escapó.
+en#af2ffc3179839688	Voz de Kandori<FF03>Fue un error, Takeda. Bueno... déjala.<FF03>No tiene a dónde ir.
+en#7264a76d06f264c4	Voz de Kandori<FF03>Lo importante es que los científicos<FF03>terminen de ajustar el Sistema Deva.
+en#fb77312276e87a52	Voz de Takeda<FF03>Sí, señor.
+en#82017a1d52932b49	Parece que no hay nadie aquí...
+en#6f88606ede8d9b47	No parece haber nadie cerca...
+en#0af7c2ce26d59df9	La puerta está sellada.
+en#5af518230dd7bf26	La puerta está sellada.<FF03>Parece que aún no se puede abrir...
+en#3cc28e3c3d32b3ff	Hay escritura antigua en el muro.
+en#5aa90e02489b4ad1	A partir de aquí, sigue el camino que<FF03>creas que responde la pregunta y el<FF03>paso se abrirá.
+en#c8d616e28d2f6ee0	Los Tres Monos Sabios son famosos en<FF03>el budismo, pero ¿dónde se venera al<FF03>dios budista Seimen Kongou?
+en#1da9720e59a58af9	Derecha si es Japón, izquierda<FF03>si es China.
+en#893eba4d94dd3bd8	Seiryuu es una bestia legendaria<FF03>de China. ¿Cuál de los cuatro puntos<FF03>representa este dios?
+en#77da65b0a9bf5678	Derecha si es este, izquierda<FF03>si es oeste.
+en#89575af3cfeaa597	El nombre oficial de la diosa taoísta<FF03>Tian-xian Niang-niang es Tianxian Yu' nu<FF03>Bixia Yuanjun. ¿De quién es hija?
+en#743dbe0b6bd462ae	Izquierda si es Xiyue Dadi, derecha<FF03>si es Dongyue Dadi.
+en#a0aaa3743ab05866	En el hinduismo, se cree que el Ganges<FF03>nace de las lágrimas de Shiva.<FF03>¿De qué ojo brotaron?
+en#753ff3e717d52f46	Izquierda si es el ojo izquierdo,<FF03>derecha si es el derecho.
+en#ee81cfb8932d9b8e	Hay quien cree que Hanuman, del mito<FF03>indio, inspiró a Sun Wukong. ¿En qué<FF03>famosa historia aparece Sun Wukong?
+en#073a73f586261a1a	A la izquierda si es Viaje al Oeste y<FF03>a la derecha si es Viaje al Este.
+en#926e6d90a8270a39	Se dice que Varuna, del mito indio, es<FF03>el dios de la ley y del océano celeste.<FF03>¿Qué dirección representa?
+en#379db71526561967	Derecha si es este, izquierda<FF03>si es oeste.
+en#0b707f938ae098fc	Antes de su caída, ¿de qué lado de<FF03>Dios se sentaba el arcángel Lucifer?
+en#04b6db7e76428c7f	Derecha si era el lado derecho,<FF03>izquierda si era el izquierdo.
+en#21aecdc80c0ac5bd	En la Biblia, se dice que el querubín<FF03>guarda el Edén. ¿Dónde está apostado?
+en#91dcb8604a85dacc	Derecha si es la puerta este,<FF03>izquierda si es la oeste.
+en#3bc2066db565a799	En el cristianismo, Lucifer<FF03>significa
+en#6414cc159cf86816	Lucero.
+en#48fcab6b8432ec8d	¿En qué<FF03>parte del cielo se puede ver?
+en#98b3bf4937b120d8	Derecha si es en el este, izquierda<FF03>si es en el oeste.
+en#eecfa2481c821dcb	Fenrir le arrancó una mano a Tyr, dios<FF03>nórdico de la guerra. ¿Qué mano<FF03>le quedó?
+en#3e464cd8b01a726b	Derecha si era la mano derecha,<FF03>izquierda si era la izquierda.
+en#a60ca11300970cf8	Se dice que el dios celta Airgetlam<FF03>tiene un brazo de plata. ¿Cuál es?
+en#dc1e1116c05fee1b	Derecha si es el brazo derecho,<FF03>izquierda si es el izquierdo.
+en#852e02421edcc6ee	Un día de la semana se nombró en honor<FF03>a Odín, dios principal del mito nórdico.<FF03>¿Qué día es?
+en#c95d8a2133a161ea	Izquierda si es miércoles, derecha<FF03>si es jueves.
+en#d387560651a91307	Se dice que Jano es el dios romano de<FF03>las puertas y los umbrales. ¿Qué mes<FF03>representa?
+en#ec16586d29df1404	Izquierda si es noviembre, de frente si<FF03>es enero y derecha si es marzo.
+en#ec1dd2798bbe9192	Verdandi es la segunda de las tres<FF03>diosas nórdicas del destino. ¿Qué<FF03>tiempo representa?
+en#e626333a60910404	Izquierda si es el pasado, de frente si<FF03>es el presente y derecha si es el<FF03>futuro.
+en#30cd57e2b68626f7	¿Qué parte de su cuerpo purificó Izanagi<FF03>para dar a luz al dios Susano-o?
+en#5f4c14211ff06c64	Izquierda si fue el ojo izquierdo,<FF03>de frente si fue la nariz y derecha<FF03>si fue el ojo derecho.
+en#32ba70304bd04815	Hay escritura antigua en la puerta.
+en#5569cb3926cbe6f8	Este 3, Sur 2, Oeste 1, Sur 1.
+en#ae99a798d95aacd0	Sur 1, Oeste 1, Sur 2, Este 3.
+en#9dcaf11cbe974f56	Norte 1, Este 2, Norte 2, Oeste 1<FF03>Norte 1, Oeste 1, Norte 1
+en#50cc2cb99423729e	Norte 1, Oeste 1, Norte 2, Este 1,<FF03>Norte 1, Este 2, Sur 1, Este 1.
+en#476faf99afe22648	Este 1, Norte 1, Este 2, Norte 1,<FF03>Este 2, Sur 2, Oeste 1, Sur 2,<FF03>Oeste 2, Sur 1.
+en#10273cfb22582198	Sur 1, Oeste 2, Sur 2, Este 3,<FF03>Sur 2, Oeste 1, Sur 2.
+en#0e4aebb843c07c55	Hay escritura antigua en el<FF03>monumento.
+en#c205eac67af23a35	El pecado de la Lujuria<FF03>yace aquí.
+en#5b1ba1dcd96a1cec	¿Examinar monumento?
+en#90a756072e24f5ad	El pecado de la Envidia<FF03>yace aquí.
+en#6b43457d5ad7e622	El pecado de la Gula<FF03>yace aquí.
+en#e866f268cb36a7f5	El pecado de la Pereza<FF03>yace aquí.
+en#1994fc603636cbdd	El pecado de la Ira<FF03>yace aquí.
+en#d5c50ffa9721ec65	El pecado de la Soberbia<FF03>yace aquí.
+en#ecf7131e673836f3	Blanco y negro... Dos pesadillas<FF03>yacen aquí.
+en#9b8ff7a0518d3dd9	Brota luz del monumento y<FF03>se vuelve materia.
+en#21555f980d9ce21d	Obtuvo
+en#d55d8ee800175cf9	Med. Ruinas
+en#44f2204daf19f411	¡Conquistaste las Ruinas Mikage!
+en#3aeeef4a0a67367d	Un muro invisible te bloquea y<FF03>te hace retroceder...
+en#744aa628d8bca511	Voz de hombre<FF03>La Reina descansa.
+en#72e6881c7182c338	Voz de hombre<FF03>Ordenó que no pase nadie.<FF03>Vuelvan en otro momento.
+en#d36688aaaef57847	Mark<FF03>Esa Reina se ve bien arrogante.
+en#b5650fcb5b2c8d65	La puerta está atrancada.
+en#f21f15e71357e547	Mark<FF03>Oye, <FF07>, ¿oíste algo?
+en#8879bf344ec884a7	Voz de mujer<FF03>
+en#746ead80079c1e61	Tantas veces le dije que no<FF03>viniera aquí... se va a perder...
+en#510447b0dffb5199	Voz de mujer<FF03>Maki... ¿Dónde estás, Maki...?
+en#152dff21f4e39936	Nanjo<FF03>¿Oyeron que dijo
+en#c60667c0c9d51494	Maki
+en#9b2e486ef3ac6530	Nanjo<FF03>Mmm... a mí me sonó como la<FF03>madre de Maki.
+en#08d7c5a48e496780	Maki<FF03>¡Ya te dije que no tengo<FF03>mamá!
+en#b03a5a3ceb224574	Voz de mujer<FF03>¿Maki...? ¿Eres tú, Maki? Ven...
+en#a66a5a1c70f8013e	Nanjo<FF03>La puerta no parece cerrada...
+en#16193bcf5eaa5e1b	Nanjo<FF03>¿Qué hacemos, <FF07>?<FF03>Puede ser una trampa. ¿Entramos?
+en#a09528cf49a8be6c	Mark<FF03>...No se abre.
+en#4762ad1321810b22	Nanjo<FF03>Mm... Ese pasillo de atrás... Debe<FF03>tener algún truco.
+en#ea37ff71acd423e9	Mark<FF03>¡Ajá!
+en#62642f605523ec31	Maki<FF03>Parece cerrado. No creo que<FF03>Kandori esté aquí.
+en#61fb06d77603fdfc	Ya no puedes entrar...
+en#0e74640d4f2889a1	Ayase<FF03>¡Ah! ¡Auuuuu!
+en#bdbca9489c5b43d3	Ayase<FF03>Uy, no toquen la puerta. Está tan fría<FF03>que se me pegaron los dedos.
+en#d0363f358bb7c04d	Yukino<FF03>Rayos... No se mueve.
+en#b9dc161ce13fa330	Ayase<FF03>Vamos, hagámosle caso a ese tipo<FF03>y, o sea, juntemos los
+en#a5be314adb5b6357	fragmentos.
+en#6cd54a062a02a0a6	Yukino<FF03>Sí, confiemos en su consejo y vamos a<FF03>las torres. Aguante, profesora Saeko...
+en#a46d35cfe75a1fe0	La puerta se congeló.
+en#615604233cd9cd59	Hay un mensaje misterioso escrito en la<FF03>puerta con letra antigua.
+en#6363caefd8aa5859	Desde aquí, los intrusos<FF03>tendrán una regla estricta.
+en#4ac0d89675838ae0	Quien se desvíe del camino no<FF03>podrá seguir avanzando.
+en#8c120fb9b1239d4f	No apartes la vista del camino y<FF03>sigue. Si llegas a un muro,<FF03>ve a la derecha.
+en#aded6ef739ba68cd	Sin importar las dificultades, no<FF03>pierdas de vista el camino original.
+en#5b40de44ac9d4e2b	Un poder maligno emana del<FF03>monumento...
+en#04ad2906ae765d7c	La presencia demoníaca del monumento<FF03>se calmó. Oyes que una puerta se abre<FF03>en algún lugar de este piso...
+en#eb741ce4d54f885c	Un poder demoníaco de este piso<FF03>parece mantenerla cerrada...
+en#cbcd4d8344d3446e	El peligro acecha en el centro del<FF03>cuarto. Avanza siempre pegado a<FF03>los muros.
+en#9c6174eb5638e432	Parece conectado a las lámparas de<FF03>las cuatro esquinas de este piso...
+en#feb63159e304179f	El peligro acecha en las orillas del<FF03>cuarto. Avanza por el centro sin<FF03>tocar los muros.
+en#00d4f97670964f05	Parece conectado a las muchas<FF03>lámparas de este piso...
+en#f4fe7cdf73a44916	Parece ser el último monumento...<FF03>¿Examinarlo?
+en#3e63a78afefcc683	Med. Nieve
+en#d6fe0020f3aef87b	¡Superaste el Pico del Diablo!
+en#5912d489b9b06726	Voz de la Reina<FF03>Ajajaja... Lástima, se acabó su tiempo.
+en#175e02225edd5505	Voz de la Reina<FF03>Sus esfuerzos fueron la distracción ideal<FF03>hasta la llegada de la Noche Eterna.
+en#c4c023ab3a0c168a	Voz de la Reina<FF03>Pero la fiesta inaugural termina aquí...
+en#f5fbed981d711990	Voz de la Reina<FF03>Y ahora comenzará la maravilla<FF03>de la Noche Eterna.
+en#6d3701c5ab92ef08	Voz de la Reina<FF03>Ajaja... ¡Jajajajajajaja!<FF03>¡Aaaaajajajajajajajajaja...!
+en#0b6ffdf80b5b6555	Se acabó el tiempo. Fin del juego.<FF03>¿Lo intentarás otra vez...?
+en#6ba929c04e0b648c	La puerta está bien cerrada. Parece<FF03>que no se puede salir...
+en#a19284936ce79461	Yukino<FF03>Parece que nos regresaron... Ese piso<FF03>del pasillo se ve sospechoso.
+en#612085d2e20bd05a	Ayase<FF03>Oye, Yukino... ¡Oye!
+en#c90368e04730e4f8	"Oye"
+en#82a1debfd17bfdeb	Yukino
+en#a7e4aad6c32258ce	¡suenan parecido!
+en#8564f4997f9bdb80	Yukino<FF03>...No es momento de andar jugando,<FF03>Ayase.
+en#d3876c703d59cf0e	Yukino<FF03>Parece que acertamos.
+en#b90fc7fc7d11c387	Parece estar cerrado.
+en#10e70b5b604da23a	Está cerrado. Parece que no<FF03>se puede pasar.
+en#3cbc548b7a2270a5	Este salón ya no se usa.
+en#f5f7b35727eb98f4	Parece que este cuarto no se usa<FF03>desde hace un buen rato...
+en#f6d40345be3df731	El gimnasio cerró.
