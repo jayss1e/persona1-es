@@ -14,7 +14,9 @@ Uso: python3 tools/eboot_apply.py <in.elf> <out.elf> <eb.json> <trans.json>
 """
 import sys, os, json, re
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from persona_codec import encode
+from eboot_punteros import destinos
 
 TOK=re.compile(r'<FF[0-9A-Fa-f]{2}>')
 
@@ -66,9 +68,114 @@ def _align_seg(en, es, be_len, seps):
         out+=bb + b'\x00\x00'*((len(ba)-len(bb))//2)   # relleno espacios al final del tramo
     return bytes(out) if len(out)==be_len else None
 
+# ANCLAS (2026-10-28, bugs 20 y 21 de notas/bugs.md). Dos cosas que el relleno al
+# final del texto rompia:
+#   - Muchos records juntan varios mensajes y el juego entra a cada uno por un
+#     puntero que apunta tras su <FF02><FF01>. Si el español es mas corto, ese
+#     puntero cae en otro lado ("omo diablos..." sin la etiqueta de Mark).
+#   - <FF05> y <FF18> llevan un parametro en la palabra siguiente, que puede quedar
+#     fuera del record. Igual que con <FF0E>, el codigo tiene que quedar en su lugar
+#     o el juego lee el relleno como parametro y dibuja basura ("vengo...   ?").
+# _align_anclas deja en su posicion original cada destino de puntero y cada uno de
+# esos codigos cuando cierra el record, y rellena cada tramo antes de su cola de codigos y espacios, asi
+# el relleno sale como espacios al final de una linea, que no se ven.
+TOKEN = re.compile(r'(<[0-9A-Fa-f]{4}>)')
+CON_PARAMETRO = ('<FF05>', '<FF18>', '<FF0E>')
+# Codigos que cierran una linea, pagina o mensaje: el relleno va antes de ellos.
+# Los demas (<FF07> nombre del protagonista, <FF1B> hablante...) se ven, asi que
+# el relleno nunca va antes de uno de esos.
+COLA = ('<FF01>', '<FF02>', '<FF03>', '<FF04>', '<FF05>', '<FF18>', '<FF0E>', '<FFF5>')
+
+
+def _unidades(texto):
+    """Texto -> lista de unidades u16: cada letra o token <XXXX> es una."""
+    out = []
+    for p in TOKEN.split(texto):
+        out.extend([p] if TOKEN.fullmatch(p) else list(p))
+    return out
+
+
+def _align_anclas(en, es, be_len, seps, refs):
+    """Como _align_seg, pero tambien ancla los destinos de puntero `refs` (en
+    unidades desde el inicio del record) y los codigos de CON_PARAMETRO. None si
+    algun tramo del español no cabe en el suyo."""
+    ue, us = _unidades(en), _unidades(es)
+    te = [i for i, u in enumerate(ue) if TOK.fullmatch(u)]
+    ts = [i for i, u in enumerate(us) if TOK.fullmatch(u)]
+    if [ue[i] for i in te] != [us[i] for i in ts]:
+        return None
+    anclas = {0: 0, len(ue): len(us)}
+    for j, i in enumerate(te):
+        # El parametro de un codigo a media cadena viaja con el; solo el del
+        # ultimo codigo queda fuera del record.
+        if (ue[i] in CON_PARAMETRO and i == len(ue) - 1) or ue[i] in seps:
+            anclas[i] = ts[j]
+        if ue[i] in seps:
+            anclas[i + 1] = ts[j] + 1
+    for k in refs:
+        previos = [j for j, i in enumerate(te) if i < k]
+        if not previos:
+            return None
+        j = previos[-1]
+        d = k - te[j] - 1                     # unidades entre el codigo y el destino
+        if ue[te[j] + 1:k] != us[ts[j] + 1:ts[j] + 1 + d]:
+            return None
+        anclas[k] = ts[j] + 1 + d
+    pares = sorted(anclas.items())
+    if any(b1 < b0 for (_, b0), (_, b1) in zip(pares, pares[1:])):
+        return None
+    out = []
+    for (a0, b0), (a1, b1) in zip(pares, pares[1:]):
+        tramo, largo = us[b0:b1], a1 - a0
+        if len(tramo) > largo:
+            return None
+        corte = len(tramo)
+        while corte and (tramo[corte - 1] in COLA or tramo[corte - 1] == ' '):
+            corte -= 1
+        out += tramo[:corte] + [' '] * (largo - len(tramo)) + tramo[corte:]
+    bs = encode(''.join(out))
+    return bs if len(bs) == be_len else None
+
+
+def anclas_de(d, dst, off, en):
+    """Destinos de puntero dentro del record, en unidades desde su inicio."""
+    n = len(encode(en)) // 2
+    return [k for k in range(1, n) if off + 2 * k in dst]
+
+
+def necesita_anclas(d, dst, off, en):
+    refs = anclas_de(d, dst, off, en)
+    return refs, bool(refs) or en.endswith(CON_PARAMETRO)
+
+
+def colocar(r, en, es, d, dst):
+    """Bytes que se escriben en el footprint del record r, con su lista de avisos.
+    Primero intenta las anclas, luego los tramos de _seps_for y si nada cuadra
+    rellena al final como antes. es ya debe caber completo y tener los mismos
+    codigos <FFxx> que en."""
+    be, bs = encode(en), encode(es)
+    seps = _seps_for(r['id'], en)
+    span, avisos = None, []
+    refs, anclar = necesita_anclas(d, dst, r['off'], en)
+    if anclar:
+        span = _align_anclas(en, es, len(be), seps, refs)
+        if span is None:
+            avisos.append(('ANCLA', r['id'], en[:60]))
+    if span is None and seps:
+        span = _align_seg(en, es, len(be), seps)   # alineacion por tramos-ancla
+        if span is None:
+            avisos.append(('SEG_OVERFLOW', sorted(seps), en[:60]))
+    if span is None:
+        pad = b'\xff\xff' if r['term'] == 'FF' else b'\x00\x00'
+        span = bytearray(bs)
+        while len(span) < len(be): span += pad   # rellena solo el footprint del string original
+    return bytes(span), avisos
+
+
 def main():
     inp,outp,ebj,trj=sys.argv[1:5]
     d=bytearray(open(inp,'rb').read())
+    dst=destinos(bytes(d))
     recs=json.load(open(ebj))
     tr=json.load(open(trj))
     # cap minimo por texto (todo-o-nada: ES debe caber en TODAS sus apariciones)
@@ -101,21 +208,14 @@ def main():
             continue
         if TOK.findall(en)!=TOK.findall(es):
             tokbad+=1; errs.append(('TOK',en,es)); continue
-        seps=_seps_for(r['id'], en)
-        span=None
-        if seps:
-            span=_align_seg(en, es, len(be), seps)   # alineacion por tramos-ancla
-            if span is None:
-                errs.append(('SEG_OVERFLOW',sorted(seps),en[:60]))
-        if span is None:
-            pad = b'\xff\xff' if r['term']=='FF' else b'\x00\x00'
-            span=bytearray(bs)
-            while len(span)<len(be): span+=pad   # rellena solo el footprint del string original
+        span,avisos=colocar(r, en, es, d, dst)
+        errs+=avisos
         assert len(span)==len(be)
         d[off:off+len(span)]=span
         ok+=1
     open(outp,'wb').write(d)
     print('aplicadas=%d  skip=%d  mismatch=%d  toolong=%d  tokbad=%d'%(ok,skip,mism,toolong,tokbad))
+    print('sin anclar: %d'%sum(1 for e in errs if e[0]=='ANCLA'))
     for e in errs[:15]: print('  ',e)
 
 if __name__=='__main__': main()

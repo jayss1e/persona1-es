@@ -46,8 +46,8 @@ TAB = os.path.join(ROOT, "_eboot", "trans_le.json")
 LINEAS = os.path.join(ROOT, "_eboot", "trans_le_lineas.json")
 TOKEN = re.compile(r"(<[0-9A-Fa-f]{4}>)")
 ESPACIO = 0x8140
-sys.path.insert(0, os.path.join(os.path.dirname(ROOT), "herramientas"))
-from revisar_le import destinos
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+from eboot_punteros import destinos
 
 
 class Elf:
