@@ -43,6 +43,17 @@ LAS TABLAS DE ANCHOS (encontradas el 2026-10-26)
     contra (4, 9)), 0x900 bytes antes. No se sabe aun donde se usa. A cada
     letra nueva se le copia la entrada de su letra base.
 
+LA LETRA DE LOS LETREROS (encontrada el 2026-10-30)
+  El letrero de lugar de arriba a la izquierda ("Salon vacio 1F") y la barra de
+  ayuda de arriba ("Cargar una partida guardada") usan otra letra, mas angosta: la
+  parte 0 de sys.bin, un GIM de 256x288 con casillas de 16x16 en orden de
+  Shift-JIS (casilla = sjis - 0x8140 para 0x81xx, 192 + sjis - 0x8240 para 0x82xx).
+  El juego pasa cada codigo a Shift-JIS sumandole 0x8180 ("A" 0xE0 -> 0x8260, "a"
+  0x101 -> 0x8281), asi que las letras nuevas caen en casillas vacias (la "i" con
+  acento, 0xC4, en 0x8244) y salian como hueco ("Cl nica"). Se dibujan ahi igual
+  que en la letra del dialogo. Sus anchos son los de ANCHOS_MEDIA ("a" = (3, 5)
+  coincide con su dibujo), que ya se copian de la letra base.
+
 LAS LETRAS NUEVAS
   Se dibujan en esas casillas, a partir de letras del propio juego para conservar el estilo: vocal + acento, n + tilde, u + dieresis,
   mayuscula + acento o tilde en las filas 0-1 (las mayusculas ocupan 2-12), y
@@ -53,7 +64,8 @@ LAS LETRAS NUEVAS
   tambien aparecen en datos del script y no deben confundirse con letras.
 
 Uso: python3 tools/fuente.py ISO_ES          (escribe en sitio; idempotente)
-     python3 tools/fuente.py ISO_ES --png F  (ademas guarda una vista de las letras)
+     python3 tools/fuente.py ISO_ES --png F  (ademas guarda una vista de las letras:
+                                              arriba la del dialogo, abajo la del letrero)
 """
 import os, sys, json, struct
 
@@ -74,14 +86,14 @@ PITCH = W // 2
 CELL = 16
 
 
-def _pixels_offset(g):
+def _pixels_offset(g, alto=H):
     """Offset de los pixeles de la imagen (bloque 0x04) dentro del GIM g."""
     p = 0x10
     while p + 16 <= len(g):
         typ, nxt = u16(g, p), u32(g, p + 8)
         if typ == 0x04:
             dp = p + 16
-            assert u16(g, dp + 4) == 4 and u16(g, dp + 8) == W and u16(g, dp + 10) == H
+            assert u16(g, dp + 4) == 4 and u16(g, dp + 8) == W and u16(g, dp + 10) == alto
             return dp + u32(g, dp + 0x1C)
         if nxt == 0:
             break
@@ -92,19 +104,20 @@ def _pixels_offset(g):
 class Hoja:
     """Una parte de sys.bin como matriz de indices de paleta (0-15)."""
 
-    def __init__(self, g):
+    def __init__(self, g, alto=H):
         self.g = bytearray(g)
-        self.pix = _pixels_offset(g)
-        raw = unswizzle(bytes(g[self.pix:self.pix + PITCH * H]), PITCH, H)
+        self.alto = alto
+        self.pix = _pixels_offset(g, alto)
+        raw = unswizzle(bytes(g[self.pix:self.pix + PITCH * alto]), PITCH, alto)
         self.px = [[(raw[y * PITCH + x // 2] >> (4 * (x & 1))) & 0xF for x in range(W)]
-                   for y in range(H)]
+                   for y in range(alto)]
 
     def bytes(self):
-        raw = bytearray(PITCH * H)
-        for y in range(H):
+        raw = bytearray(PITCH * self.alto)
+        for y in range(self.alto):
             for x in range(0, W, 2):
                 raw[y * PITCH + x // 2] = self.px[y][x] | (self.px[y][x + 1] << 4)
-        self.g[self.pix:self.pix + PITCH * H] = swizzle(bytes(raw), PITCH, H)
+        self.g[self.pix:self.pix + PITCH * self.alto] = swizzle(bytes(raw), PITCH, self.alto)
         return bytes(self.g)
 
     def celda(self, n):
@@ -148,6 +161,35 @@ def construir(h1, h2):
     """{codigo: matriz} de las letras nuevas, a partir de letras del juego."""
     low = lambda ch: h2.celda(ord(ch) - ord("a") + 1)   # "a" = codigo 0x101
     up = lambda ch: h1.celda(ord(ch) + 0x9F)            # "A" = codigo 0xE0
+    return _letras(low, up, h1.celda(0x08), h1.celda(0x09))   # "?" y "!"
+
+
+def casilla_letrero(code):
+    """Casilla de la parte 0 de sys.bin donde el letrero dibuja el codigo code."""
+    sjis = code + 0x8180
+    return sjis - 0x8140 if sjis < 0x8200 else 192 + sjis - 0x8240
+
+
+def _alinear(m, como):
+    """m corrida en x para que su tinta empiece en la misma columna que la de como."""
+    dx = bordes(como)[0] - bordes(m)[0]
+    return [[fila[x - dx] if 0 <= x - dx < CELL else 0 for x in range(CELL)] for fila in m]
+
+
+def construir_letrero(h0):
+    """{codigo: matriz} de las letras nuevas en la letra de los letreros. El signo
+    girado se corre para empezar donde empieza el original, porque su ancho sale
+    de ANCHOS_MEDIA del original."""
+    letra = lambda ch: h0.celda(casilla_letrero(char_to_code(ch)))
+    preg, excl = h0.celda(0x8148 - 0x8140), h0.celda(0x8149 - 0x8140)
+    out = _letras(letra, letra, preg, excl)
+    out[EXTRA["¿"]] = _alinear(out[EXTRA["¿"]], preg)
+    out[EXTRA["¡"]] = _alinear(out[EXTRA["¡"]], excl)
+    return out
+
+
+def _letras(low, up, pregunta, exclama):
+    """{codigo: matriz}: low y up dan la casilla de una minuscula o mayuscula."""
     out = {}
     for ch, base in (("á", "a"), ("é", "e"), ("ó", "o"), ("ú", "u")):
         b = low(base)
@@ -167,8 +209,8 @@ def construir(h1, h2):
     out[EXTRA["Ñ"]] = _marca(N, TILDE_MAY, 0, _centro(N, range(2, 13)))
     U = up("U")
     out[EXTRA["Ü"]] = _marca(U, ["cf..cf"], 0, _centro(U, range(2, 13)))
-    out[EXTRA["¿"]] = _girar(h1.celda(0x08))     # "?" (codigo 0x0008)
-    out[EXTRA["¡"]] = _girar(h1.celda(0x09))     # "!" (codigo 0x0009)
+    out[EXTRA["¿"]] = _girar(pregunta)
+    out[EXTRA["¡"]] = _girar(exclama)
     return out
 
 
@@ -205,14 +247,20 @@ def main():
         f.seek(off)
         data = bytearray(f.read(size))
         partes = split_container(bytes(data))
-        h1, h2 = Hoja(partes[1]), Hoja(partes[2])
+        h0, h1, h2 = Hoja(partes[0], 288), Hoja(partes[1]), Hoja(partes[2])
+        assert h0.bytes() == bytes(partes[0]), "la ida y vuelta no reproduce el GIM"
         assert h2.bytes() == bytes(partes[2]), "la ida y vuelta no reproduce el GIM"
         nuevas = construir(h1, h2)
         assert h1.bytes() == bytes(partes[1]), "la ida y vuelta no reproduce el GIM"
         for code, m in nuevas.items():
             assert code < 0x120, "el juego no dibuja codigos >= 0x120"
             (h1 if code < 0x100 else h2).poner(code & 0xFF, m)
-        for parte, hoja in ((partes[1], h1), (partes[2], h2)):
+        letrero = construir_letrero(h0)
+        for code, m in letrero.items():
+            n = casilla_letrero(code)
+            assert not any(map(any, h0.celda(n))) or h0.celda(n) == m, "casilla ocupada"
+            h0.poner(n, m)
+        for parte, hoja in ((partes[0], h0), (partes[1], h1), (partes[2], h2)):
             g = hoja.bytes()
             pos = bytes(data).find(bytes(parte))
             assert pos >= 0 and len(g) == len(parte)
@@ -224,11 +272,12 @@ def main():
     if "--png" in sys.argv:
         from PIL import Image
         dest = sys.argv[sys.argv.index("--png") + 1]
-        im = Image.new("L", (CELL * len(nuevas), CELL))
-        for k, (code, m) in enumerate(sorted(nuevas.items())):
-            for y in range(CELL):
-                for x in range(CELL):
-                    im.putpixel((k * CELL + x, y), m[y][x] * 17)
+        im = Image.new("L", (CELL * len(nuevas), 2 * CELL))
+        for fila, letras in enumerate((nuevas, letrero)):
+            for k, (code, m) in enumerate(sorted(letras.items())):
+                for y in range(CELL):
+                    for x in range(CELL):
+                        im.putpixel((k * CELL + x, fila * CELL + y), m[y][x] * 17)
         im.resize((im.width * 4, im.height * 4), Image.NEAREST).save(dest)
         print("vista:", dest)
 

@@ -46,7 +46,7 @@ Algunos nombres van abreviados ("Inc. Fue.") o se quedan en inglés (la serie Ja
 
 Solo hace falta si quieres modificar la traducción. El repo no trae ningún archivo ni texto del juego, así que primero se sacan de tu ISO.
 
-Necesitas Python 3, `xdelta3`, [pspdecrypt](https://github.com/John-K/pspdecrypt) compilado en `../externos/pspdecrypt/` y la fuente [Noto Sans variable](https://github.com/google/fonts/raw/main/ofl/notosans/NotoSans%5Bwdth,wght%5D.ttf) en `../externos/fuentes/`. Las dos carpetas van junto al repo, no dentro.
+Necesitas Python 3, `xdelta3`, [pspdecrypt](https://github.com/John-K/pspdecrypt) compilado en `../externos/pspdecrypt/` y las fuentes [Noto Sans variable](https://github.com/google/fonts/raw/main/ofl/notosans/NotoSans%5Bwdth,wght%5D.ttf) y [Noto Serif variable](https://github.com/google/fonts/raw/main/ofl/notoserif/NotoSerif%5Bwdth,wght%5D.ttf) en `../externos/fuentes/`. Las dos carpetas van junto al repo, no dentro.
 
 ```
 export PERSONA_ISO_EU=~/ruta/a/Persona.iso
@@ -83,4 +83,4 @@ La retraducción, las herramientas nuevas y los arreglos se hicieron con ayuda d
 
 - **Traducción original y herramientas base:** [Jose-Chavez96](https://github.com/Jose-Chavez96) (`Quete_importa`).
 - **Retraducción, interfaz y arreglos:** [jayss1e](https://github.com/jayss1e), con Claude.
-- **Herramientas de terceros:** [xdelta3](https://github.com/jmacd/xdelta), [pspdecrypt](https://github.com/John-K/pspdecrypt), [PPSSPP](https://www.ppsspp.org/) y [Noto Sans](https://fonts.google.com/noto) (licencia OFL).
+- **Herramientas de terceros:** [xdelta3](https://github.com/jmacd/xdelta), [pspdecrypt](https://github.com/John-K/pspdecrypt), [PPSSPP](https://www.ppsspp.org/) y [Noto Sans y Noto Serif](https://fonts.google.com/noto) (licencia OFL).

@@ -18,14 +18,17 @@ cabiendo con las mismas reglas que usan eboot_apply.py (su función colocar(), c
 las anclas de los punteros) y eboot_menus_8140.py. Si no, el texto se queda solo
 con los acentos.
 
-Tampoco se tocan los letreros de lugar ("Salon vacio 1F<FF01>", ver LETRERO): salen
-arriba a la izquierda con otra letra, y no se ha probado si esa letra tiene acentos.
+Los letreros de lugar ("Salon vacio 1F<FF01>", ver LETRERO) salen arriba a la
+izquierda con otra letra y van en una pasada aparte, con --letreros, que solo toca
+esos textos. Se hizo el 2026-10-30 (v27) para probar si esa letra tiene acentos.
 
 Las palabras de PROTEGIDAS no se tocan nunca: son nombres propios que la lista de
-frecuencias confunde con palabras comunes ("Mana" -> "Maná").
+frecuencias confunde con palabras comunes ("Mana" -> "Maná") o que la historia
+deja como en inglés ("Nemesis").
 
 Uso: python3 tools/ortografia_eboot.py --dicc es_50k.txt revisar   (lista los cambios)
      python3 tools/ortografia_eboot.py --dicc es_50k.txt aplicar
+     python3 tools/ortografia_eboot.py --dicc es_50k.txt revisar --letreros
 La lista de frecuencias se descarga como dice ortografia.py.
 """
 import collections, json, os, re, sys
@@ -43,7 +46,7 @@ INVENTARIO = os.path.join(ROOT, "_eboot", "eb_inventory.json")
 ELF = os.path.join(ROOT, "_eboot", "eboot_dec.elf")
 MENUS = os.path.join(ROOT, "_eboot", "trans_8140.json")
 NOMBRES = os.path.join(ROOT, "_eboot", "trans_nombres.tsv")
-PROTEGIDAS = {"Mana"}
+PROTEGIDAS = {"Mana", "Nemesis"}
 LETRERO = re.compile(r"[^<.?!]+<FF01>")
 # Errores de las reglas de contexto en textos del EBOOT, revisados a mano: el botón
 # va en un código aparte ("presiona el <botón>") y "tu" va antes de un nombre.
@@ -96,12 +99,13 @@ def corregir_con(texto, dicc, cabe):
     return texto
 
 
-def pasada(dicc):
-    """Devuelve (records, menus, lineas de nombres, cambios)."""
+def pasada(dicc, letreros=False):
+    """Devuelve (records, menus, lineas de nombres, cambios). Con letreros solo
+    corrige los letreros de lugar, y sin él todo lo demás."""
     cambios, col = [], Colocacion()
     records = json.load(open(RECORDS, encoding="utf-8"))
     for en, es in records.items():
-        if not es or es == en or LETRERO.fullmatch(en):
+        if not es or es == en or bool(LETRERO.fullmatch(en)) != letreros:
             continue
         cabe = lambda t, en=en, es=es: col.cabe(en, es, t)
         nuevo = corregir_con(es, dicc, cabe)
@@ -111,7 +115,7 @@ def pasada(dicc):
 
     menus = json.load(open(MENUS, encoding="utf-8"))
     for en, val in menus.items():
-        if en.startswith("_"):
+        if en.startswith("_") or letreros:
             continue
         partes = val if isinstance(val, list) else [val]
         for i, parte in enumerate(partes):
@@ -127,7 +131,7 @@ def pasada(dicc):
 
     lineas = open(NOMBRES, encoding="utf-8").read().split("\n")
     for k, linea in enumerate(lineas):
-        if not linea or linea.startswith("#"):
+        if not linea or linea.startswith("#") or letreros:
             continue
         en, es = linea.split("\t")
         nuevo = corregir_con(es, dicc, lambda t, en=en: len(encode(t)) <= len(encode(en)))
@@ -139,9 +143,10 @@ def pasada(dicc):
 
 def main():
     args = sys.argv[1:]
-    if len(args) != 3 or args[0] != "--dicc" or args[2] not in ("revisar", "aplicar"):
+    letreros = args[3:] == ["--letreros"]
+    if len(args) != 3 + letreros or args[0] != "--dicc" or args[2] not in ("revisar", "aplicar"):
         sys.exit(__doc__)
-    records, menus, lineas, cambios = pasada(Diccionario(args[1]))
+    records, menus, lineas, cambios = pasada(Diccionario(args[1]), letreros)
     palabras = collections.Counter()
     for _, viejo, nuevo in cambios:
         a, b = PALABRA.findall(viejo), PALABRA.findall(nuevo)

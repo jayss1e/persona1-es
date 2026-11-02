@@ -10,7 +10,9 @@ propia ISO europea (NPEH-00069) antes de compilar el parche.
                      que restaurar deje el archivo idéntico. En las tablas que usan
                      el inglés como clave (ver CLAVES_JSON, CLAVES_TSV y LE), cambia
                      cada texto en inglés por su huella. CARPETA es la raíz del
-                     repo a limpiar (por omisión, este repo).
+                     repo a limpiar (por omisión, este repo). Las etiquetas en
+                     inglés de _tex/imagenes_es.json también se cambian por huellas,
+                     pero esas no se recuperan porque no hacen falta para compilar.
   restaurar ISO      Hace todo lo que el compilador necesita sacar de la ISO:
                      - llena texto_original y raw_hex leyendo cada registro de su
                        archivo dentro de la ISO,
@@ -49,6 +51,10 @@ CLAVES_TSV = {"_eboot/trans_nombres.tsv": "inventario", "_dng/tabla.tsv": "dng"}
 # En trans_le.json el inglés va en el campo "en" y se lee del EBOOT descifrado en
 # el offset de la entrada. Su huella guarda también cuántos caracteres tiene.
 LE = "_eboot/trans_le.json"
+# En imagenes_es.json el campo "en" es la etiqueta en inglés dibujada en la imagen.
+# Solo sirve para leerlo (texto_imagenes.py se guía por la caja), así que se cambia
+# por su huella y restaurar no lo recupera.
+IMAGENES = "_tex/imagenes_es.json"
 CLAVE = re.compile(r'^(\s*)("(?:[^"\\]|\\.)*")(\s*:)', re.M)
 CAMPO_EN = re.compile(r'("en": )("(?:[^"\\]|\\.)*")')
 
@@ -131,7 +137,9 @@ def quitar_claves(raiz):
         editar(raiz, rel, lambda t: cambiar_claves_tsv(t, ocultar))
     editar(raiz, LE, lambda t: cambiar_le(
         t, lambda off, en: en if es_huella(en) else f"en#{len(codigos(en))}#{huella(en)[3:]}"))
-    print("inglés cambiado por huellas en", ", ".join(CLAVES_JSON + tuple(CLAVES_TSV) + (LE,)))
+    editar(raiz, IMAGENES, lambda t: CAMPO_EN.sub(
+        lambda m: m.group(1) + json.dumps(ocultar(json.loads(m.group(2)))), t))
+    print("inglés cambiado por huellas en", ", ".join(CLAVES_JSON + tuple(CLAVES_TSV) + (LE, IMAGENES)))
 
 
 def texto_le(elf, off, n):

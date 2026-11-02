@@ -23,6 +23,12 @@ LA ESPECIFICACION (_tex/imagenes_es.json)
   gim es el numero de imagen dentro del archivo (por orden de aparicion de la
   firma MIG.00.1PSP). caja es el rectangulo de la etiqueta inglesa (x1, y1
   exclusivos); "en" es solo para leerlo. Las cajas se sacan con "cajas".
+  Campos opcionales, para la pantalla de titulo (pack/title/title.bin):
+    "fuente": "serif"   usa Noto Serif, como el menu y "PRESS ANY BUTTON"
+    "espaciado": px     espacio extra entre letras, el mismo en todas las
+                        etiquetas del GIM (ver espaciado_comun)
+    "color": [r, g, b]  si la paleta trae otros colores, solo se escribe con este
+    "centrar": true     (en la etiqueta) la centra en su caja
 
 FUENTE
   Noto Sans variable (ejes de peso y ancho), de Google Fonts, licencia OFL:
@@ -30,7 +36,8 @@ FUENTE
   Va en externos/fuentes/ (fuera del repo) o donde diga la variable FUENTE_ES. Se
   usa con peso 500 y a la altura de mayuscula del ingles (medir_cap). Si la
   etiqueta no cabe, primero se angosta la fuente (eje de ancho, hasta 62.5) y
-  despues la imagen.
+  despues la imagen. Noto Serif variable va en la misma carpeta (o en FUENTE_SERIF_ES):
+  https://github.com/google/fonts/raw/main/ofl/notoserif/NotoSerif%5Bwdth,wght%5D.ttf
 
 Uso: python3 tools/texto_imagenes.py cajas ISO ARCHIVO GIM      (renglones y palabras)
      python3 tools/texto_imagenes.py medir                      (etiquetas que no caben)
@@ -50,6 +57,8 @@ SPEC = os.path.join(ROOT, "_tex", "imagenes_es.json")
 OFFS = json.load(open(os.path.join(ROOT, "scripts", "iso_offsets.json")))
 FUENTE = os.environ.get("FUENTE_ES", os.path.join(os.path.dirname(ROOT), "externos", "fuentes",
                                                   "NotoSans[wdth,wght].ttf"))
+FUENTE_SERIF = os.environ.get("FUENTE_SERIF_ES", os.path.join(os.path.dirname(ROOT), "externos",
+                                                              "fuentes", "NotoSerif[wdth,wght].ttf"))
 PESO = 500
 ANCHOS_FUENTE = (100, 93.75, 87.5, 81.25, 75, 68.75, 62.5)
 MIN_ANCHO = 0.75
@@ -80,7 +89,7 @@ def gims(d):
 class Tira:
     """Un GIM de 4 bits como matriz de indices de paleta."""
 
-    def __init__(self, g):
+    def __init__(self, g, color=None):
         self.g = bytearray(g)
         p, self.img, self.pal = 0x10, None, None
         while p + 16 <= len(g):
@@ -109,15 +118,20 @@ class Tira:
         pf = self.pal["fmt"]
         self.paleta = [pal_entry(pf, g, self.pal["pix"] + i * palsize(pf)) for i in range(16)]
         colores = {tuple(c[:3]) for c in self.paleta if c[3]}
-        if len(colores) > 1:
+        # Con color, la paleta puede traer otros colores (el aviso legal de la
+        # pantalla de título trae negros que no usa) y solo se escribe con los
+        # índices de ese color o transparentes.
+        if color is None and len(colores) > 1:
             raise ValueError(f"la paleta no es de un solo color: {sorted(colores)}")
+        self.validos = [i for i, c in enumerate(self.paleta)
+                        if color is None or tuple(c[:3]) == tuple(color) or not c[3]]
 
     def alfa(self, x, y):
         return self.paleta[self.idx[y][x]][3]
 
     def indice_para(self, a):
         """Indice de paleta con la transparencia mas cercana a a (0-255)."""
-        return min(range(16), key=lambda i: (abs(self.paleta[i][3] - a), i))
+        return min(self.validos, key=lambda i: (abs(self.paleta[i][3] - a), i))
 
     def imagen(self):
         im = Image.new("RGBA", (self.w, self.h))
@@ -169,29 +183,47 @@ def palabras(t, a, b):
 ESCALA = 4      # se dibuja a 4x y se reduce promediando: espaciado parejo
 
 
-def fuente(cap, ancho_fuente=100):
+def fuente(cap, ancho_fuente=100, serif=False):
     """(fuente a ESCALA veces, fila de arriba de la H) para que la H mayuscula,
     reducida, mida cap px."""
-    ref = ImageFont.truetype(FUENTE, 1000)
+    archivo = FUENTE_SERIF if serif else FUENTE
+    ref = ImageFont.truetype(archivo, 1000)
     ref.set_variation_by_axes([PESO, ancho_fuente])
     x0, y0, x1, y1 = ref.getbbox("H")
-    f = ImageFont.truetype(FUENTE, max(4, round(1000 * cap * ESCALA / (y1 - y0))))
+    f = ImageFont.truetype(archivo, max(4, round(1000 * cap * ESCALA / (y1 - y0))))
     f.set_variation_by_axes([PESO, ancho_fuente])
     return f, f.getbbox("H")[1]
 
 
-def dibujar(texto, cap, ancho, minimo=MIN_ANCHO):
+def medida(texto, f, espaciado):
+    """Ancho en px reducidos de texto con espaciado px extra entre letras."""
+    if not espaciado:
+        caja = f.getbbox(texto)
+        return (caja[2] - caja[0]) / ESCALA
+    return (sum(f.getlength(c) for c in texto) + espaciado * ESCALA * (len(texto) - 1)) / ESCALA
+
+
+def escribir(draw, x, y, texto, f, espaciado):
+    """Dibuja texto letra por letra con espaciado px extra entre letras."""
+    if not espaciado:
+        draw.text((x, y), texto, font=f, fill=255)
+        return
+    for c in texto:
+        draw.text((x, y), c, font=f, fill=255)
+        x += f.getlength(c) + espaciado * ESCALA
+
+
+def dibujar(texto, cap, ancho, minimo=MIN_ANCHO, serif=False, espaciado=0, anchos=ANCHOS_FUENTE):
     """(filas de alfa 0-255, ancho, desfase) de texto con mayusculas de cap px. La
     fila 0 de las filas queda desfase filas abajo de la parte de arriba de la H
     (negativo si un acento o ¿ ¡ sube mas que la H)."""
-    for ancho_fuente in ANCHOS_FUENTE:
-        f, arriba = fuente(cap, ancho_fuente)
-        caja = f.getbbox(texto)
-        if (caja[2] - caja[0]) / ESCALA <= ancho:
+    for ancho_fuente in anchos:
+        f, arriba = fuente(cap, ancho_fuente, serif)
+        if medida(texto, f, espaciado) <= ancho:
             break
     margen = cap * ESCALA
-    im = Image.new("L", (caja[2] + ESCALA * 2, cap * ESCALA * 3))
-    ImageDraw.Draw(im).text((0, margen - arriba), texto, font=f, fill=255)
+    im = Image.new("L", (round(medida(texto, f, espaciado) * ESCALA) + ESCALA * 4, cap * ESCALA * 3))
+    escribir(ImageDraw.Draw(im), 0, margen - arriba, texto, f, espaciado)
     tinta = im.getbbox()
     if not tinta:
         return [], 1, 0
@@ -228,18 +260,44 @@ def cap_renglon(t, y0, y1):
     return medir_cap(t, (0, y0, t.w, y1))[1]
 
 
-def editar(t, etiquetas, cap=None, errores=None):
-    """Escribe las etiquetas en la tira. Si errores es una lista, las que no caben se
-    anotan ahi y se saltan; si no, se lanza la excepcion."""
-    for e in etiquetas:
+def espaciado_comun(t, item):
+    """(espaciado entre letras, anchos de fuente a probar) para todas las etiquetas
+    de item. Sin "espaciado" se prueban todos los anchos, etiqueta por etiqueta. Con
+    "espaciado", todas usan el mismo par para que los renglones de un menu queden
+    parejos: el mayor espaciado que deje caber a todas, angostando la fuente hasta
+    87.5 antes de quitar espaciado."""
+    tope = item.get("espaciado", 0)
+    if not tope:
+        return 0, ANCHOS_FUENTE
+    serif = item.get("fuente") == "serif"
+    for k in range(int(tope * 4), -1, -1):
+        for ancho_fuente in ANCHOS_FUENTE[:3]:
+            if all(medida(e["es"], fuente(e.get("cap", cap_renglon(t, *e["caja"][1::2])),
+                                          ancho_fuente, serif)[0], k / 4)
+                   <= e["caja"][2] - e["caja"][0] for e in item["etiquetas"]):
+                return k / 4, (ancho_fuente,)
+    return 0, ANCHOS_FUENTE
+
+
+def tira(g, item):
+    return Tira(g, item.get("color"))
+
+
+def editar(t, item, errores=None):
+    """Escribe las etiquetas de item en la tira. Si errores es una lista, las que no
+    caben se anotan ahi y se saltan; si no, se lanza la excepcion."""
+    serif = item.get("fuente") == "serif"
+    espaciado, anchos = espaciado_comun(t, item)
+    for e in item["etiquetas"]:
         x0, y0, x1, y1 = e["caja"]
         arriba, _ = medir_cap(t, e["caja"])
-        alto_cap = e.get("cap", cap or cap_renglon(t, y0, y1))
+        alto_cap = e.get("cap", cap_renglon(t, y0, y1))
         for y in range(y0, y1):
             for x in range(x0, x1):
                 t.idx[y][x] = t.indice_para(0)
         try:
-            filas, w, desfase = dibujar(e["es"], alto_cap, x1 - x0, e.get("min", MIN_ANCHO))
+            filas, w, desfase = dibujar(e["es"], alto_cap, x1 - x0, e.get("min", MIN_ANCHO),
+                                        serif, espaciado, anchos)
         except ValueError as err:
             if errores is None:
                 raise
@@ -249,9 +307,10 @@ def editar(t, etiquetas, cap=None, errores=None):
             y = arriba + desfase + dy
             if not 0 <= y < t.h:
                 continue
+            izq = x0 + (x1 - x0 - w) // 2 if e.get("centrar") else x0
             for dx, a in enumerate(fila):
                 if a:
-                    t.idx[y][x0 + dx] = t.indice_para(a)
+                    t.idx[y][izq + dx] = t.indice_para(a)
 
 
 def medir():
@@ -283,10 +342,10 @@ def vista(iso, salida):
     for item in json.load(open(SPEC, encoding="utf-8")):
         _, d = leer(iso, item["archivo"])
         o, z = gims(d)[item["gim"]]
-        t = Tira(d[o:z])
+        t = tira(d[o:z], item)
         antes = t.imagen()
         errores = []
-        editar(t, item["etiquetas"], errores=errores)
+        editar(t, item, errores=errores)
         for err in errores:
             print(f"  NO CABE {os.path.basename(item['archivo'])}#{item['gim']} {err}")
         despues = t.imagen()
@@ -308,8 +367,8 @@ def aplicar(iso):
         lista = gims(d)
         for item in items:
             o, z = lista[item["gim"]]
-            t = Tira(d[o:z])
-            editar(t, item["etiquetas"])
+            t = tira(d[o:z], item)
+            editar(t, item)
             nuevo = t.bytes()
             assert len(nuevo) == z - o
             d[o:z] = nuevo
