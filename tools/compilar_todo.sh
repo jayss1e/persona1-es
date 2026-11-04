@@ -13,6 +13,10 @@
 # Uso:
 #   PERSONA_ISO_EU=~/ruta/Persona.iso bash tools/compilar_todo.sh
 # Salida: rebuilt/persona_es_full.iso y patches/persona_es_full.xdelta
+#
+# Si además está PERSONA_ISO_USA con la ruta de la ISO USA (ULUS-10432), al final
+# corre tools/port_usa.py, que deja rebuilt/persona_es_usa.iso y
+# patches/persona_es_usa.xdelta.
 set -euo pipefail
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 ISO_EN="${PERSONA_ISO_EU:?falta PERSONA_ISO_EU con la ruta de la ISO europea}"
@@ -47,3 +51,8 @@ echo "== parche"
 xdelta3 -e -9 -f -s "$ISO_EN" "$ISO_FIN" "$XD"
 md5sum "$ISO_FIN"
 ls -l "$XD"
+
+if [ -n "${PERSONA_ISO_USA:-}" ]; then
+  echo "== port a la versión USA"
+  python3 tools/port_usa.py
+fi

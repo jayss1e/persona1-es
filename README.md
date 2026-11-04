@@ -1,6 +1,6 @@
 # Persona (PSP) en español latino
 
-Parche de traducción al español latino de **Shin Megami Tensei: Persona** para PSP, el remake del primer Persona. Es para la versión **Europa de PSN** (`NPEH-00069`).
+Parche de traducción al español latino de **Shin Megami Tensei: Persona** para PSP, el remake del primer Persona. Funciona con la versión **USA** (`ULUS-10432`) y con la **Europa de PSN** (`NPEH-00069`).
 
 Este proyecto continúa la [traducción de Jose-Chavez96](https://github.com/Jose-Chavez96/Traduccion_persona_es), que dejó el diálogo de la historia traducido y las herramientas para reinsertarlo. Sobre esa base se retradujo todo el texto y se terminó lo que faltaba.
 
@@ -23,21 +23,22 @@ Algunos nombres van abreviados ("Inc. Fue.") o se quedan en inglés (la serie Ja
 
 ## Cómo aplicar el parche
 
-1. Consigue tu propia copia del juego. Tiene que ser la versión Europa de PSN, con este MD5:
+1. Consigue tu propia copia del juego y revisa su MD5. Cada versión tiene su propio parche:
 
-   | ISO | MD5 |
-   |---|---|
-   | Original (`NPEH-00069`) | `03ee31f32bcd3bb697de347fba4493d9` |
+   | Versión | MD5 de la ISO original | Parche |
+   |---|---|---|
+   | USA (`ULUS-10432`) | `c75f75b0f1e92d7cca77d75585bebd82` | `persona_es_usa.xdelta` |
+   | Europa de PSN (`NPEH-00069`) | `03ee31f32bcd3bb697de347fba4493d9` | `persona_es_full.xdelta` |
 
-   Si el MD5 no coincide, el parche no aplica. La versión USA (`ULUS-10432`) todavía no está soportada.
+   Si el MD5 no coincide con ninguno, el parche no aplica. Las dos versiones llevan la misma traducción.
 
-2. Descarga `patches/persona_es_full.xdelta`.
+2. Descarga el parche de tu versión desde [Releases](https://github.com/jayss1e/persona1-es/releases/latest).
 
 3. Aplícalo con xdelta:
    - **Windows:** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) o xdelta UI. Eliges la ISO original, el parche y dónde guardar la nueva.
    - **Linux o macOS:**
      ```
-     xdelta3 -d -s "Persona.iso" persona_es_full.xdelta "Persona_ES.iso"
+     xdelta3 -d -s "Persona.iso" persona_es_usa.xdelta "Persona_ES.iso"
      ```
 
 4. Juega la ISO nueva en PPSSPP o en una PSP.
@@ -50,11 +51,12 @@ Necesitas Python 3, `xdelta3`, [pspdecrypt](https://github.com/John-K/pspdecrypt
 
 ```
 export PERSONA_ISO_EU=~/ruta/a/Persona.iso
+export PERSONA_ISO_USA=~/ruta/a/Persona_USA.iso   # opcional
 python3 tools/original.py restaurar "$PERSONA_ISO_EU"
 bash tools/compilar_todo.sh
 ```
 
-`restaurar` lee de tu ISO el texto original de cada registro, los archivos de menú y fuente, el EBOOT y el inglés de las tablas de la interfaz y de los calabozos. `compilar_todo.sh` arma `rebuilt/persona_es_full.iso` y `patches/persona_es_full.xdelta`.
+`restaurar` lee de tu ISO el texto original de cada registro, los archivos de menú y fuente, el EBOOT y el inglés de las tablas de la interfaz y de los calabozos. `compilar_todo.sh` arma `rebuilt/persona_es_full.iso` y `patches/persona_es_full.xdelta`. La traducción se trabaja sobre la versión europea, así que para compilar siempre hace falta esa ISO. Si además defines `PERSONA_ISO_USA`, al final `tools/port_usa.py` pasa los cambios a la versión USA y arma `patches/persona_es_usa.xdelta`.
 
 ### Dónde está cada cosa
 

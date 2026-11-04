@@ -36,6 +36,7 @@ _dng/pendientes.tsv
 
 # El parche SÍ se publica (son solo diferencias, no datos originales)
 !patches/persona_es_full.xdelta
+!patches/persona_es_usa.xdelta
 
 # Python
 __pycache__/
