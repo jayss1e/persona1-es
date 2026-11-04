@@ -90,7 +90,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "a<6F00><FF76><0701><FF4D><3C00><FF7C><0205><0803> <FF4D><1E00><FF69><0201><FF4D><3C00><FF7A><0200><FF69><0200><FF4D><3C00><FF7A><0200><FF24><7201><FF24><7301><FF24><4401><FF24><4701><FF24>`<FF24><E500><FF24><E600><FF24><E700><FF24><E800><FF24><E900><FF24><EA00><FF24><DB00><FF24><DC00><FF24><DD00><FF24><DE00><FF24><DF00><FF24><E000><FF3F> <8813> <FF2D><1100><FF21> <FF1B>Estudiante con gorra<FF03><0028><FF18><0700>Persona<FF18> <0028>?<FF02><FF04><FF1B>Estudiante con gorra<FF03>Oye, si eso de verdad funcionara y pudiera<FF03>ver mi futuro, tendría la vida resuelta.<FF02><FF04><FF1B>Estudiante con gorra<FF03>¿Seguro que no se te pudrió el cerebro,<FF03>Hidehiko?<FF02><FF01> <FF1B>Estudiante engreido<FF03>Hehehe",
+  "texto_traducido": "a<6F00><FF76><0701><FF4D><3C00><FF7C><0205><0803> <FF4D><1E00><FF69><0201><FF4D><3C00><FF7A><0200><FF69><0200><FF4D><3C00><FF7A><0200><FF24><7201><FF24><7301><FF24><4401><FF24><4701><FF24>`<FF24><E500><FF24><E600><FF24><E700><FF24><E800><FF24><E900><FF24><EA00><FF24><DB00><FF24><DC00><FF24><DD00><FF24><DE00><FF24><DF00><FF24><E000><FF3F> <8813> <FF2D><1100><FF21> <FF1B>Estudiante con gorra<FF03>¿<0028><FF18><0700>Persona<FF18> <0028>?<FF02><FF04><FF1B>Estudiante con gorra<FF03>Oye, si eso de verdad funcionara y pudiera<FF03>ver mi futuro, tendría la vida resuelta.<FF02><FF04><FF1B>Estudiante con gorra<FF03>¿Seguro que no se te pudrió el cerebro,<FF03>Hidehiko?<FF02><FF01> <FF1B>Estudiante engreído<FF03>Hehehe",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -120,7 +120,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡Resulta que esto es más<FF03>que una simple broma!<FF02><FF04><FF1B>Estudiante engreido<FF03>Tal vez no se vea el futuro como tal,<FF03>¡pero sí pasan cosas raras!<FF02><FF04><FF1B>Estudiante engreido<FF03>Estoy dispuesto a apostar por ello<FF03>si tú también, Mark.<FF02><FF01>  <FF1B>Mark<FF03>Muy bien",
+  "texto_traducido": " ¡Resulta que esto es más<FF03>que una simple broma!<FF02><FF04><FF1B>Estudiante engreído<FF03>Tal vez no se vea el futuro como tal,<FF03>¡pero sí pasan cosas raras!<FF02><FF04><FF1B>Estudiante engreído<FF03>Estoy dispuesto a apostar por ello<FF03>si tú también, Mark.<FF02><FF01>  <FF1B>Mark<FF03>Muy bien",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -910,7 +910,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF05><8000><FF05><5000><FF01>  <FF05><2000>Así es. Es algo bastante extraordinario.<FF05><8000><FF05><5000><FF01>   ¿Crees que él también lo está viendo?<FF05><8000><FF05><5000><FF01>  <FF1B>Maestra vestida de enfermera<FF03>Oh, <FF07>, ya despertaste.<FF02><FF04><FF1B>Maestra vestida de enfermera<FF03>Jaja, bienvenido a la enfermería.<FF03>Te ves muy lindo cuando duermes.<FF02><FF01>   <FF18><0300><0044> Natsumi Yoshino<FF03>Enfermera de St. Hermelin. Al parecer,<FF03>no cocina muy bien.<FF18> <FF02><FF01> <FF1B>Maestra preocupada<FF03><FF07>! ¿¡Estás bien!?<FF02><FF01>   <FF1B>Maestra preocupada<FF03>Qué alivio que despertaras, <FF07>!<FF02><FF04><FF1B>Maestra preocupada<FF03>¡Me asusté mucho cuando supe que te<FF03>habías desmayado!<FF02><FF01>  <FF18><0300><0044> Saeko Takami<FF03>Profesora titular de <FF07> y los<FF03>demás. Muy querida por sus alumnos.<FF18> <FF02><FF01> <FF1B>Profesora Saeko<FF03>Perdón por las molestias que te dieron<FF03>mis alumnos, Natsumi.<FF02><FF01>   <FF1B>Mark<FF03>¡Vamos, cuidar alumnos es todo su<FF03>trabajo! ¿Qué tiene de malo que",
+  "texto_traducido": "<FF05><8000><FF05><5000><FF01>  <FF05><2000>Así es. Es algo bastante extraordinario.<FF05><8000><FF05><5000><FF01>   ¿Crees que él también lo está viendo?<FF05><8000><FF05><5000><FF01>  <FF1B>Maestra vestida de enfermera<FF03>Oh, <FF07>, ya despertaste.<FF02><FF04><FF1B>Maestra vestida de enfermera<FF03>Jaja, bienvenido a la enfermería.<FF03>Te ves muy lindo cuando duermes.<FF02><FF01>   <FF18><0300><0044> Natsumi Yoshino<FF03>Enfermera de St. Hermelin. Al parecer,<FF03>no cocina muy bien.<FF18> <FF02><FF01> <FF1B>Maestra preocupada<FF03>¡<FF07>! ¿¡Estás bien!?<FF02><FF01>   <FF1B>Maestra preocupada<FF03>¡Qué alivio que despertaras, <FF07>!<FF02><FF04><FF1B>Maestra preocupada<FF03>¡Me asusté mucho cuando supe que te<FF03>habías desmayado!<FF02><FF01>  <FF18><0300><0044> Saeko Takami<FF03>Profesora titular de <FF07> y los<FF03>demás. Muy querida por sus alumnos.<FF18> <FF02><FF01> <FF1B>Profesora Saeko<FF03>Perdón por las molestias que te dieron<FF03>mis alumnos, Natsumi.<FF02><FF01>   <FF1B>Mark<FF03>¡Vamos, cuidar alumnos es todo su<FF03>trabajo! ¿Qué tiene de malo que",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1122,7 +1122,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>Y sigues hasta el 3er distrito,<FF03>luego a la derecha en las Ruinas Mikage.<FF02><FF04><FF1B>Mark<FF03>Bah, si damos vueltas por ahí,<FF03>tarde o temprano llegaremos.<FF02><FF01> <FF1B>Yukino<FF03>Yo no aguantaría estar encerrada en<FF03>el hospital todo un año.<FF02><FF04><FF1B>Yukino<FF03>¡Vamos a darle ánimos!<FF02><FF01><FF1B>Profesora Saeko<FF03><FF07>! De verdad ya deberían ir<FF03>camino al <FF18><0700>Hospital de Mikage<FF18> !<FF02><FF01><FF1B>Árbol Agastya<FF03>Jóvenes",
+  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>Y sigues hasta el 3er distrito,<FF03>luego a la derecha en las Ruinas Mikage.<FF02><FF04><FF1B>Mark<FF03>Bah, si damos vueltas por ahí,<FF03>tarde o temprano llegaremos.<FF02><FF01> <FF1B>Yukino<FF03>Yo no aguantaría estar encerrada en<FF03>el hospital todo un año.<FF02><FF04><FF1B>Yukino<FF03>¡Vamos a darle ánimos!<FF02><FF01><FF1B>Profesora Saeko<FF03>¡<FF07>! ¡De verdad ya deberían ir<FF03>camino al <FF18><0700>Hospital de Mikage<FF18> !<FF02><FF01><FF1B>Árbol Agastya<FF03>Jóvenes",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1688,7 +1688,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " pero a veces<FF03>es demasiado cariñosa.<FF02><FF01> <FF1B>Yukino<FF03>Hoy tengo trabajo de medio tiempo. Vamos<FF03>rápido al hospital y acabemos con esto.<FF02><FF01>  <FF1B>Directora Ooishi<FF03>Vaya, hola, <FF07>!<FF03>¿También salieron a dar un paseo?<FF02><FF04><FF1B>Directora Ooishi<FF03>Lo hago todos los días,<FF03>desde que era niña",
+  "texto_traducido": " pero a veces<FF03>es demasiado cariñosa.<FF02><FF01> <FF1B>Yukino<FF03>Hoy tengo trabajo de medio tiempo. Vamos<FF03>rápido al hospital y acabemos con esto.<FF02><FF01>  <FF1B>Directora Ooishi<FF03>¡Vaya, hola, <FF07>!<FF03>¿También salieron a dar un paseo?<FF02><FF04><FF1B>Directora Ooishi<FF03>Lo hago todos los días,<FF03>desde que era niña",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -2581,7 +2581,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡Jajajajaja!<FF02><FF01>   <FF1B>Nanjo<FF03>¡Basta! Vámonos, <FF07>!<FF02><FF04><FF1B>Nanjo<FF03>Yamaoka",
+  "texto_traducido": " ¡Jajajajaja!<FF02><FF01>   <FF1B>Nanjo<FF03>¡Basta! ¡Vámonos, <FF07>!<FF02><FF04><FF1B>Nanjo<FF03>Yamaoka",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -13066,7 +13066,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF78> <FF60> <FF55> <681E> <FF61> <FF27><0300><FF21> <FF1B>Yukino<FF03><FF07>! ¡Esta sigue viva!<FF03>¡Ayúdame!<FF02><FF01> <FF1B>Nanjo<FF03>No tenemos tiempo que perder, <FF07>!<FF03>¡Para ella es tarde, pero no para nosotros!<FF02><FF01>   <FF1B>Mark<FF03>¡Oye, <FF07>! ¡Los monstruos están<FF03>a la vuelta de la esquina!<FF02><FF01> <FF1B>Enfermera malherida<FF03>I",
+  "texto_traducido": "<FF78> <FF60> <FF55> <681E> <FF61> <FF27><0300><FF21> <FF1B>Yukino<FF03>¡<FF07>! ¡Esta sigue viva!<FF03>¡Ayúdame!<FF02><FF01> <FF1B>Nanjo<FF03>¡No tenemos tiempo que perder, <FF07>!<FF03>¡Para ella es tarde, pero no para nosotros!<FF02><FF01>   <FF1B>Mark<FF03>¡Oye, <FF07>! ¡Los monstruos están<FF03>a la vuelta de la esquina!<FF02><FF01> <FF1B>Enfermera malherida<FF03>I",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -13145,7 +13145,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <FF1B>Yukino<FF03>¡No se rinda!<FF02><FF01><FF1B>Yukino<FF03>Me vendría bien una mano, <FF07>!<FF02><FF0E><0800><FF01>   <FF1B>Yukino<FF03>¡Bien, tú toma ese lado!<FF02><FF01> <FF1B>Mark<FF03>¡No sirve! ¡Ya vienen!<FF02><FF01>   <FF1B>Elly<FF03>Oh, buen día.<FF02><FF04><FF1B>Elly<FF03>¡Vaya! ¿Aquí también hay demonios?<FF02><FF01> <FF1B>Yukino<FF03>¿¡Es en serio!? ¡Pero sigue viva!<FF03>¿¡Me estás diciendo que la abandone!?<FF02><FF01>   <FF1B>Nanjo<FF03>",
+  "texto_traducido": "<FF02><FF01> <FF1B>Yukino<FF03>¡No se rinda!<FF02><FF01><FF1B>Yukino<FF03>¡Me vendría bien una mano, <FF07>!<FF02><FF0E><0800><FF01>   <FF1B>Yukino<FF03>¡Bien, tú toma ese lado!<FF02><FF01> <FF1B>Mark<FF03>¡No sirve! ¡Ya vienen!<FF02><FF01>   <FF1B>Elly<FF03>Oh, buen día.<FF02><FF04><FF1B>Elly<FF03>¡Vaya! ¿Aquí también hay demonios?<FF02><FF01> <FF1B>Yukino<FF03>¿¡Es en serio!? ¡Pero sigue viva!<FF03>¿¡Me estás diciendo que la abandone!?<FF02><FF01>   <FF1B>Nanjo<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -14804,6 +14804,23 @@
   "raw_hex": null
  },
  {
+  "id": "e0_00409p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 373800,
+  "offset_fin": 373894,
+  "longitud_original_bytes": 94,
+  "limite_chars": 47,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Profesora Saeko<FF03>¿¡Están bien!? Qué alivio...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e0_00409",
   "archivo_origen": "e0.bin",
   "offset_inicio": 373894,
@@ -14907,7 +14924,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " hay que evitar que entren los<FF03>demonios. ¡Entendido!<FF02><FF04><FF1B>Yukino<FF03>¡Vamos, Eriko!<FF02><FF01>   <FF1B>Elly<FF03>¡Sí, vamos!<FF02><FF01>  <FF1B>Profesora Saeko<FF03>Bien, entonces nosotros también vamos.<FF02><FF01><FF1B>Profesora Saeko<FF03>Oye, <FF07>!<FF02><FF01><FF1B>Chica de guardia<FF03>Oh, hola <FF07>. Por aquí tampoco<FF03>puedes salir.<FF02><FF01>  <FF1B>Chica de guardia<FF03>Espera, <FF07>, ¡no puedes!<FF03>¡Los maestros dijeron que no saliéramos!<FF02><FF01><FF1B>Chica de guardia<FF03>¿Qué hacemos si entran demonios?<FF03>No tengo ningún arma",
+  "texto_traducido": " hay que evitar que entren los<FF03>demonios. ¡Entendido!<FF02><FF04><FF1B>Yukino<FF03>¡Vamos, Eriko!<FF02><FF01>   <FF1B>Elly<FF03>¡Sí, vamos!<FF02><FF01>  <FF1B>Profesora Saeko<FF03>Bien, entonces nosotros también vamos.<FF02><FF01><FF1B>Profesora Saeko<FF03>¡Oye, <FF07>!<FF02><FF01><FF1B>Chica de guardia<FF03>Oh, hola <FF07>. Por aquí tampoco<FF03>puedes salir.<FF02><FF01>  <FF1B>Chica de guardia<FF03>Espera, <FF07>, ¡no puedes!<FF03>¡Los maestros dijeron que no saliéramos!<FF02><FF01><FF1B>Chica de guardia<FF03>¿Qué hacemos si entran demonios?<FF03>No tengo ningún arma",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -16327,7 +16344,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "`<8000><FF7A> <FF7A><0300><FF7A><0400><FF6C><0B00><FF2D><2000><FF21> <FF1B>Yukino<FF03>¡Oye, Masao! ¡Espera!<FF02><FF01>  <FF1B>Ayase<FF03>¡Ni siquiera sabes si de verdad<FF03>es Maki!<FF02><FF01><FF1B>Ayase<FF03>¡Ay, Dios, <FF07>!<FF03>Masao está en un gran lío!<FF02><FF01> <FF1B>Yukino<FF03>Kei salió herido, así que Masao, Hidehiko<FF03>y Eriko lo trajeron aquí.<FF02><FF04><FF1B>Yukino<FF03>Pero entonces",
+  "texto_traducido": "`<8000><FF7A> <FF7A><0300><FF7A><0400><FF6C><0B00><FF2D><2000><FF21> <FF1B>Yukino<FF03>¡Oye, Masao! ¡Espera!<FF02><FF01>  <FF1B>Ayase<FF03>¡Ni siquiera sabes si de verdad<FF03>es Maki!<FF02><FF01><FF1B>Ayase<FF03>¡Ay, Dios, <FF07>!<FF03>¡Masao está en un gran lío!<FF02><FF01> <FF1B>Yukino<FF03>Kei salió herido, así que Masao, Hidehiko<FF03>y Eriko lo trajeron aquí.<FF02><FF04><FF1B>Yukino<FF03>Pero entonces",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -16618,7 +16635,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Ayase<FF03>¡Esa máscara da escalofríos! ¿Por qué<FF03>no la tira?<FF02><FF01>   <FF1B>Profesora Saeko<FF03>¡Oh, perdón!<FF02><FF04><FF1B>Profesora Saeko<FF03>Es solo una leyenda tonta.<FF03><0028>Quien la use, muere<0028>? ¡Ja!<FF02><FF04><FF1B>Profesora Saeko<FF03>Yo la usé y estoy bien, ¿no?<FF02><FF04><FF1B>Profesora Saeko<FF03>¿Ven? Así que mejor yo voy<FF03>por esos dos.<FF02><FF01>   <FF1B>Profesora Saeko<FF03>Tengo a la suerte de mi lado.<FF02><FF04><FF1B>Profesora Saeko<FF03>",
+  "texto_traducido": "<FF02><FF04><FF1B>Ayase<FF03>¡Esa máscara da escalofríos! ¿Por qué<FF03>no la tira?<FF02><FF01>   <FF1B>Profesora Saeko<FF03>¡Oh, perdón!<FF02><FF04><FF1B>Profesora Saeko<FF03>Es solo una leyenda tonta.<FF03>¿<0028>Quien la use, muere<0028>? ¡Ja!<FF02><FF04><FF1B>Profesora Saeko<FF03>Yo la usé y estoy bien, ¿no?<FF02><FF04><FF1B>Profesora Saeko<FF03>¿Ven? Así que mejor yo voy<FF03>por esos dos.<FF02><FF01>   <FF1B>Profesora Saeko<FF03>Tengo a la suerte de mi lado.<FF02><FF04><FF1B>Profesora Saeko<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -17077,7 +17094,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " O sea, ella tiene algo<FF03>muy raro, <FF07>!<FF02><FF04><FF1B>Ayase<FF03>¡Maki nunca sería tan<FF03>alegre!<FF02><FF01> <FF1B>Maki<FF03>¿Eh? Yuka",
+  "texto_traducido": " ¡O sea, ella tiene algo<FF03>muy raro, <FF07>!<FF02><FF04><FF1B>Ayase<FF03>¡Maki nunca sería tan<FF03>alegre!<FF02><FF01> <FF1B>Maki<FF03>¿Eh? Yuka",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -17251,7 +17268,7 @@
    "<FF07>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>   <FF1B>Nanjo<FF03><FF07>! Pero qué",
+  "texto_traducido": "<FF02><FF01>   <FF1B>Nanjo<FF03>¡<FF07>! Pero qué",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -17373,7 +17390,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Necesitaré su ayuda para rescatarlo.<FF02><FF01> <FF1B>Maki<FF03>¿¡Los demonios atraparon a Masao!?<FF03>Tenemos que salvarlo, <FF07>!<FF02><FF01>  <FF1B>Nanjo<FF03>Logramos conseguir algunas armas",
+  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Necesitaré su ayuda para rescatarlo.<FF02><FF01> <FF1B>Maki<FF03>¿¡Los demonios atraparon a Masao!?<FF03>¡Tenemos que salvarlo, <FF07>!<FF02><FF01>  <FF1B>Nanjo<FF03>Logramos conseguir algunas armas",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -18926,7 +18943,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Nanjo<FF03>Tenemos un arma para ti, Masao.<FF03>Solo no nos dispares por error.<FF02><FF01>  <FF1B>Brown<FF03>Oigan, oigan, ¿creen que debería ir<FF03>con ustedes?<FF02><FF04><FF1B>Brown<FF03>Sin mí, ustedes los tontos no tienen<FF03>nada de estrella, ¿saben?<FF02><FF04><FF1B>Brown<FF03>¡Me necesitan para ponerlos en<FF03>forma! ¿Qué dices, <FF07>!?<FF02><FF01>   <FF1B>Mark<FF03>",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Nanjo<FF03>Tenemos un arma para ti, Masao.<FF03>Solo no nos dispares por error.<FF02><FF01>  <FF1B>Brown<FF03>Oigan, oigan, ¿creen que debería ir<FF03>con ustedes?<FF02><FF04><FF1B>Brown<FF03>Sin mí, ustedes los tontos no tienen<FF03>nada de estrella, ¿saben?<FF02><FF04><FF1B>Brown<FF03>¡Me necesitan para ponerlos en<FF03>forma! ¿¡Qué dices, <FF07>!?<FF02><FF01>   <FF1B>Mark<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -19726,7 +19743,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <FF1B>Nanjo<FF03><FF07>! Si ven algo más sospechoso,<FF03>¡piénsenlo antes de tocarlo!<FF02><FF04><FF1B>Nanjo<FF03>De verdad, ese Masao",
+  "texto_traducido": "<FF02><FF01> <FF1B>Nanjo<FF03>¡<FF07>! Si ven algo más sospechoso,<FF03>¡piénsenlo antes de tocarlo!<FF02><FF04><FF1B>Nanjo<FF03>De verdad, ese Masao",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -20033,7 +20050,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01><FF1B>Nanjo<FF03><FF07>! Si ven algo más sospechoso,<FF03>¡piénsenlo antes de tocarlo!<FF02><FF04><FF1B>Nanjo<FF03>De verdad, ese Masao",
+  "texto_traducido": "<FF02><FF01><FF1B>Nanjo<FF03>¡<FF07>! Si ven algo más sospechoso,<FF03>¡piénsenlo antes de tocarlo!<FF02><FF04><FF1B>Nanjo<FF03>De verdad, ese Masao",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -20654,7 +20671,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01><FF1B>Maki<FF03><FF07>! ¡Tenemos que ir a rescatar<FF03>a todos!<FF02><FF01>   <FF1B>Nanjo<FF03>Calma, Maki. Lo más seguro es que la<FF03>escuela desapareció por el Sistema Deva.<FF02><FF04><FF1B>Nanjo<FF03>Si es así, lo mejor que podemos hacer<FF03>es obligar a Kandori a revertirlo.<FF02><FF01><FF1B>Ayase<FF03>¡Voy con ustedes! Si me quedo aquí<FF03>sola, estoy totalmente perdida.<FF02><FF01>  <FF1B>Elly<FF03>Mmm",
+  "texto_traducido": "<FF02><FF01><FF1B>Maki<FF03>¡<FF07>! ¡Tenemos que ir a rescatar<FF03>a todos!<FF02><FF01>   <FF1B>Nanjo<FF03>Calma, Maki. Lo más seguro es que la<FF03>escuela desapareció por el Sistema Deva.<FF02><FF04><FF1B>Nanjo<FF03>Si es así, lo mejor que podemos hacer<FF03>es obligar a Kandori a revertirlo.<FF02><FF01><FF1B>Ayase<FF03>¡Voy con ustedes! Si me quedo aquí<FF03>sola, estoy totalmente perdida.<FF02><FF01>  <FF1B>Elly<FF03>Mmm",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -21264,7 +21281,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Nanjo<FF03>¿De verdad crees que es momento de<FF03>andar perdiendo el tiempo, <FF07>!?<FF02><FF04><FF1B>Nanjo<FF03>¡Solo Dios sabe qué hará Kandori<FF03>si no nos apuramos a encontrarlo!<FF02><FF01>   <FF1B>Elly<FF03>A decir verdad, SEBEC me interesa<FF03>desde hace bastante tiempo.<FF02><FF04><FF1B>Elly<FF03>¡Tengo mucha curiosidad por ver qué<FF03>hay aquí!<FF02><FF01>  <FF1B>Elly<FF03>¿A dónde vas? ¡Nuestro enemigo está<FF03>en SEBEC! Al menos, eso creo",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Nanjo<FF03>¿¡De verdad crees que es momento de<FF03>andar perdiendo el tiempo, <FF07>!?<FF02><FF04><FF1B>Nanjo<FF03>¡Solo Dios sabe qué hará Kandori<FF03>si no nos apuramos a encontrarlo!<FF02><FF01>   <FF1B>Elly<FF03>A decir verdad, SEBEC me interesa<FF03>desde hace bastante tiempo.<FF02><FF04><FF1B>Elly<FF03>¡Tengo mucha curiosidad por ver qué<FF03>hay aquí!<FF02><FF01>  <FF1B>Elly<FF03>¿A dónde vas? ¡Nuestro enemigo está<FF03>en SEBEC! Al menos, eso creo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -21613,7 +21630,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>   <FF1B>Elly<FF03>Es justo como lo imaginé. Tiene toda la<FF03>insolencia de un villano de cuento.<FF02><FF01>   <FF1B>Brown<FF03>No se ve tan rudo. Te dejo<FF03>que lo derrotes, <FF08>!<FF02><FF04><FF1B>Brown<FF03>¡Que el líder se encargue del jefe!<FF02><FF01><FF1B>Ayase<FF03>¡Qué mala onda, señor! No nos hable<FF03>así, ¿sí?<FF02><FF04><FF1B>Ayase<FF03>¿Y qué onda con esas bolas que<FF03>gira en la mano? ¡Eso es de viejitos!<FF02><FF01>  <FF1B>Kandori<FF03>",
+  "texto_traducido": "<FF02><FF01>   <FF1B>Elly<FF03>Es justo como lo imaginé. Tiene toda la<FF03>insolencia de un villano de cuento.<FF02><FF01>   <FF1B>Brown<FF03>No se ve tan rudo. ¡Te dejo<FF03>que lo derrotes, <FF08>!<FF02><FF04><FF1B>Brown<FF03>¡Que el líder se encargue del jefe!<FF02><FF01><FF1B>Ayase<FF03>¡Qué mala onda, señor! No nos hable<FF03>así, ¿sí?<FF02><FF04><FF1B>Ayase<FF03>¿Y qué onda con esas bolas que<FF03>gira en la mano? ¡Eso es de viejitos!<FF02><FF01>  <FF1B>Kandori<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -21905,7 +21922,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Encarna la maldad.<FF02><FF01>  <FF1B>Brown<FF03>¡Nadie me dijo que el otro lado también<FF03>podía usar Personas!<FF02><FF04><FF1B>Brown<FF03>¿No estamos medio en problemas?<FF02><FF01>  <FF1B>Ayase<FF03>Concéntrate, <FF07>!<FF03>¡Se escapó!<FF02><FF01>   <0044> Es un interruptor. ¿Presionarlo?<FF02><FF0E> <FF01>  <FF1B>Mark<FF03>¡Bingo! Buen trabajo, <FF07>!<FF02><FF01><FF1B>Nanjo<FF03>Un pasaje oculto, ¿eh? Parece que le<FF03>encantan los trucos baratos",
+  "texto_traducido": " Encarna la maldad.<FF02><FF01>  <FF1B>Brown<FF03>¡Nadie me dijo que el otro lado también<FF03>podía usar Personas!<FF02><FF04><FF1B>Brown<FF03>¿No estamos medio en problemas?<FF02><FF01>  <FF1B>Ayase<FF03>¡Concéntrate, <FF07>!<FF03>¡Se escapó!<FF02><FF01>   <0044> Es un interruptor. ¿Presionarlo?<FF02><FF0E> <FF01>  <FF1B>Mark<FF03>¡Bingo! ¡Buen trabajo, <FF07>!<FF02><FF01><FF1B>Nanjo<FF03>Un pasaje oculto, ¿eh? Parece que le<FF03>encantan los trucos baratos",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -21945,7 +21962,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01><FF1B>Maki<FF03><FF07>! ¡Hay que apurarnos tras él!<FF02><FF01>   <FF1B>Brown<FF03>¿Por qué no revisas si hay trampas,<FF03><FF08>?<FF02><FF01><FF1B>Elly<FF03>¿Estás herido, <FF07>?<FF03>Si no, vámonos.<FF02><FF01>  <FF1B>Ayase<FF03>Oh, ¿ya nos vamos? ¡Uuugh, ya, ya!<FF02><FF01>  <FF1B>Maki<FF03>Arruinó mi pueblo",
+  "texto_traducido": "<FF02><FF01><FF1B>Maki<FF03>¡<FF07>! ¡Hay que apurarnos tras él!<FF02><FF01>   <FF1B>Brown<FF03>¿Por qué no revisas si hay trampas,<FF03><FF08>?<FF02><FF01><FF1B>Elly<FF03>¿Estás herido, <FF07>?<FF03>Si no, vámonos.<FF02><FF01>  <FF1B>Ayase<FF03>Oh, ¿ya nos vamos? ¡Uuugh, ya, ya!<FF02><FF01>  <FF1B>Maki<FF03>Arruinó mi pueblo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -22538,7 +22555,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Debemos respetar su deseo. Ni siquiera<FF03>sabemos cómo detener la máquina.<FF02><FF01>   <FF1B>Brown<FF03>¡S-Sí! ¡Hay que hacerle caso al viejo!<FF02><FF04><FF1B>Brown<FF03>¡Si no salimos rápido de aquí,<FF03>estaremos en problemas!<FF02><FF01>  <FF1B>Elly<FF03>No hay tiempo para discutir, <FF07>.<FF03>Rescatémoslo, rápido.<FF02><FF01>   <FF1B>Ayase<FF03>¡Esto se salió de control!<FF03>Haz algo, <FF07>!<FF02><FF01>  <FF1B>Maki<FF03><FF07>!<FF02><FF04><FF1B>Maki<FF03>¡Aquí! ¡Esto detendrá la máquina!<FF03>El botón azul aumenta la potencia",
+  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Debemos respetar su deseo. Ni siquiera<FF03>sabemos cómo detener la máquina.<FF02><FF01>   <FF1B>Brown<FF03>¡S-Sí! ¡Hay que hacerle caso al viejo!<FF02><FF04><FF1B>Brown<FF03>¡Si no salimos rápido de aquí,<FF03>estaremos en problemas!<FF02><FF01>  <FF1B>Elly<FF03>No hay tiempo para discutir, <FF07>.<FF03>Rescatémoslo, rápido.<FF02><FF01>   <FF1B>Ayase<FF03>¡Esto se salió de control!<FF03>¡Haz algo, <FF07>!<FF02><FF01>  <FF1B>Maki<FF03>¡<FF07>!<FF02><FF04><FF1B>Maki<FF03>¡Aquí! ¡Esto detendrá la máquina!<FF03>El botón azul aumenta la potencia",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -22616,7 +22633,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿¡Dónde aprendiste eso!?<FF02><FF01><FF1B>Maki<FF03>¡No sé cómo lo sé, solo lo sé!<FF02><FF04><FF1B>Maki<FF03><FF07>! ¡Rápido!<FF02><FF01>  <FF1B>Nanjo<FF03>Sé maduro con esto, <FF07>.<FF02><FF04><FF1B>Nanjo<FF03>Llega un momento en que uno debe hacerse<FF03>responsable de sus actos.<FF02><FF01> <FF1B>Mark<FF03>¡Lo que sea! ¡La muerte es el final<FF03>del camino!<FF02><FF04><FF1B>Mark<FF03>¡Mientras uno esté vivo, todavía<FF03>puede hacer el bien!<FF02><FF01> <FF1B>Brown<FF03>¡Huyamos--digo, salgamos de aquí!<FF03>¡Como su líder, se los suplico!<FF02><FF01>   <FF1B>Elly<FF03>Sé fuerte. Puede haber gente para<FF03>quien ese anciano sea valioso",
+  "texto_traducido": " ¿¡Dónde aprendiste eso!?<FF02><FF01><FF1B>Maki<FF03>¡No sé cómo lo sé, solo lo sé!<FF02><FF04><FF1B>Maki<FF03>¡<FF07>! ¡Rápido!<FF02><FF01>  <FF1B>Nanjo<FF03>Sé maduro con esto, <FF07>.<FF02><FF04><FF1B>Nanjo<FF03>Llega un momento en que uno debe hacerse<FF03>responsable de sus actos.<FF02><FF01> <FF1B>Mark<FF03>¡Lo que sea! ¡La muerte es el final<FF03>del camino!<FF02><FF04><FF1B>Mark<FF03>¡Mientras uno esté vivo, todavía<FF03>puede hacer el bien!<FF02><FF01> <FF1B>Brown<FF03>¡Huyamos--digo, salgamos de aquí!<FF03>¡Como su líder, se los suplico!<FF02><FF01>   <FF1B>Elly<FF03>Sé fuerte. Puede haber gente para<FF03>quien ese anciano sea valioso",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -23042,7 +23059,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿¡Cuál va a ser!?<FF02><FF0E><1000><FF01><FF1B>Maki<FF03><FF07>!? ¿¡A dónde vas!?<FF03>¡Tienes que hacer algo!<FF02><FF01> <0044> Es el Sistema Acelerador de Variables<FF03>Dimensionales, conocido como el<FF03>holograma del Sistema Deva.<FF02><FF01><0044> Alerta. Alerta de emergencia.<FF02><FF04><0044> Se detectó un virus desconocido<FF03>en el programa de activación del<FF03>pozo extradimensional.<FF02><FF04><0044> El sistema no puede apagarse.<FF03>El sistema no puede apagarse.<FF02><FF04><0044> Se requiere control manual para apagar<FF03>el sistema.<FF02><FF01><3C00> <B835> <2836> <E836> <1038> <6039> <983A> <F03A> <403B> <F83B> <183D> <C03D> <D03E> <E03F> <0040> <9040> <1041> <5841> <A841> <F041> <2842> <3043> <8844> <1045> <9046> <0047> <8847> <D848> <304A> <104B> <984B> <084C> <604D> <B84D> <384E> <204F> <F84F> <A050> <3851> <7052> <F052> <4053> <C853> <1054> <5854> <2055> <3056> <4856> <F856> <B057> <E857> <2858> <5058> <9058> <A858> <3859> <9059> <F859> <585A> <D05A> <985B>                                                                                                                                                                                                                 <FFFF><1600><FFFF>",
+  "texto_traducido": " ¿¡Cuál va a ser!?<FF02><FF0E><1000><FF01><FF1B>Maki<FF03>¿¡<FF07>!? ¿¡A dónde vas!?<FF03>¡Tienes que hacer algo!<FF02><FF01> <0044> Es el Sistema Acelerador de Variables<FF03>Dimensionales, conocido como el<FF03>holograma del Sistema Deva.<FF02><FF01><0044> Alerta. Alerta de emergencia.<FF02><FF04><0044> Se detectó un virus desconocido<FF03>en el programa de activación del<FF03>pozo extradimensional.<FF02><FF04><0044> El sistema no puede apagarse.<FF03>El sistema no puede apagarse.<FF02><FF04><0044> Se requiere control manual para apagar<FF03>el sistema.<FF02><FF01><3C00> <B835> <2836> <E836> <1038> <6039> <983A> <F03A> <403B> <F83B> <183D> <C03D> <D03E> <E03F> <0040> <9040> <1041> <5841> <A841> <F041> <2842> <3043> <8844> <1045> <9046> <0047> <8847> <D848> <304A> <104B> <984B> <084C> <604D> <B84D> <384E> <204F> <F84F> <A050> <3851> <7052> <F052> <4053> <C853> <1054> <5854> <2055> <3056> <4856> <F856> <B057> <E857> <2858> <5058> <9058> <A858> <3859> <9059> <F859> <585A> <D05A> <985B>                                                                                                                                                                                                                 <FFFF><1600><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -23164,6 +23181,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e0_00825p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 677920,
+  "offset_fin": 677946,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Mark<FF03>Auuu...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -24149,7 +24183,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡Tenía planes<FF03>para este fin de semana!<FF02><FF04><FF1B>Ayase<FF03>¿Qué vas a hacer al respecto,<FF03><FF07>!?<FF02><FF01> <FF1B>Brown<FF03>¿¡Qué!? ¿Y entonces cómo vamos a<FF03>volver? Cielos",
+  "texto_traducido": " ¡Tenía planes<FF03>para este fin de semana!<FF02><FF04><FF1B>Ayase<FF03>¿¡Qué vas a hacer al respecto,<FF03><FF07>!?<FF02><FF01> <FF1B>Brown<FF03>¿¡Qué!? ¿Y entonces cómo vamos a<FF03>volver? Cielos",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -24593,7 +24627,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " échenme una mano. Tenemos que<FF03>haz algo!<FF02><FF01><FF1B>Mark<FF03>No sé bien qué pasa aquí, pero<FF03>así no vamos a poder salir.<FF02><FF04><FF1B>Mark<FF03>Hagámoslo, <FF07>!<FF02><FF01> <FF1B>Yosuke<FF03>¡Maldición! Si no estuviera tan golpeado,<FF03>esta vez podría recuperar a Chisato",
+  "texto_traducido": " échenme una mano. ¡Tenemos que<FF03>hacer algo!<FF02><FF01><FF1B>Mark<FF03>No sé bien qué pasa aquí, pero<FF03>así no vamos a poder salir.<FF02><FF04><FF1B>Mark<FF03>¡Hagámoslo, <FF07>!<FF02><FF01> <FF1B>Yosuke<FF03>¡Maldición! Si no estuviera tan golpeado,<FF03>esta vez podría recuperar a Chisato",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -24725,7 +24759,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <FF1B>Mark<FF03>¡No sirve de nada quedarse sentados<FF03>preocupándose por esto!<FF02><FF04><FF1B>Mark<FF03>Hay que actuar y encontrar una forma<FF03>de volver a casa.<FF02><FF01> <FF1B>Brown<FF03>Ay, ¿de verdad crees que haya<FF03>forma de volver?<FF02><FF01><FF1B>Ayase<FF03><FF07>! ¡Más te vale encontrar cómo volver!<FF02><FF01> <FF1B>Elly<FF03>Una chica que controla demonios",
+  "texto_traducido": "<FF02><FF01> <FF1B>Mark<FF03>¡No sirve de nada quedarse sentados<FF03>preocupándose por esto!<FF02><FF04><FF1B>Mark<FF03>Hay que actuar y encontrar una forma<FF03>de volver a casa.<FF02><FF01> <FF1B>Brown<FF03>Ay, ¿de verdad crees que haya<FF03>forma de volver?<FF02><FF01><FF1B>Ayase<FF03>¡<FF07>! ¡Más te vale encontrar cómo volver!<FF02><FF01> <FF1B>Elly<FF03>Una chica que controla demonios",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -25022,7 +25056,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " <0C00> <E801><FF4D><3C00><FF60> <FF55> <2814> <FF26><2900><8012> <FF26><2800><E812> <FF26><2A00><5013> <FF22> <B813> <FF67><0700><FF55> <4015> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF28><0700><FF21> <FF67><0601><FF55> <7814> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF28><0700><FF21> <FF67><0501><FF55> <C015> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF28><0700><FF21> <FF67>`<FF55> <5016> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF31><0900><FF4F><094A><FF28><0600><FF21> <FF1B>Chica atacada<FF03>¡Aaaah! ¡U-Un demonio!<FF02><FF01> <FF1B>Brown<FF03>¡No se preocupe, señorita! ¡Ahora que<FF03>estoy aquí, todo estará bien!<FF02><FF04><FF1B>Brown<FF03>¡Ahora ve por ellos, <FF08>!<FF02><FF01>   <FF1B>Elly<FF03>¿Está bien? Ya no hay nada de qué<FF03>preocuparse.<FF02><FF01>  <FF1B>Ayase<FF03>¡Oh! ¿Está bien?<FF02><FF04><FF1B>Ayase<FF03><FF07>! ¿¡Qué haces ahí<FF03>parado!?<FF02><FF01> <FF1B>Maki<FF03>¡Wow! ¿¡Está bien!? ¡Bien, demonio,<FF03>quieto ahí!<FF02><FF01>   <FF1B>Demonio<FF03>Ah, llegaron más. Mis puños tienen sed<FF03>de sangre esta noche",
+  "texto_traducido": " <0C00> <E801><FF4D><3C00><FF60> <FF55> <2814> <FF26><2900><8012> <FF26><2800><E812> <FF26><2A00><5013> <FF22> <B813> <FF67><0700><FF55> <4015> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF28><0700><FF21> <FF67><0601><FF55> <7814> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF28><0700><FF21> <FF67><0501><FF55> <C015> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF28><0700><FF21> <FF67>`<FF55> <5016> <FF68> <FF55> <D816> <FF67><0200><FF55> <E017> <FF68> <FF61> <FF4D><1E00><FF7C><050C><0602> <FF4D><1E00><FF60> <FF67><0802><FF55> <9018> <FF68> <FF55> <F018> <FF61> <FF24><3A01><FF31><0900><FF4F><094A><FF28><0600><FF21> <FF1B>Chica atacada<FF03>¡Aaaah! ¡U-Un demonio!<FF02><FF01> <FF1B>Brown<FF03>¡No se preocupe, señorita! ¡Ahora que<FF03>estoy aquí, todo estará bien!<FF02><FF04><FF1B>Brown<FF03>¡Ahora ve por ellos, <FF08>!<FF02><FF01>   <FF1B>Elly<FF03>¿Está bien? Ya no hay nada de qué<FF03>preocuparse.<FF02><FF01>  <FF1B>Ayase<FF03>¡Oh! ¿Está bien?<FF02><FF04><FF1B>Ayase<FF03>¡<FF07>! ¿¡Qué haces ahí<FF03>parado!?<FF02><FF01> <FF1B>Maki<FF03>¡Wow! ¿¡Está bien!? ¡Bien, demonio,<FF03>quieto ahí!<FF02><FF01>   <FF1B>Demonio<FF03>Ah, llegaron más. Mis puños tienen sed<FF03>de sangre esta noche",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30822,7 +30856,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <FF1B>Mark<FF03>Toma, <FF07>.<FF02><FF04><FF1B>Mark<FF03>Con esto podremos pelear contra el<FF03>monstruo del metro, ¿verdad?<FF02><FF01><0044> Obtuviste la <FF19><0300><FF18><0500>Espejo Expel<FF18> !<FF02><FF01><1300> <5019> <601A> <501B> <C01B> <501C> <F01C> <E01D> <381E> <A01E> <081F> <481F> <881F> <C81F> <0820> <9020> <C021> <2822> <9022> <4023>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <FFFF><1600><FFFF>",
+  "texto_traducido": "<FF02><FF01> <FF1B>Mark<FF03>Toma, <FF07>.<FF02><FF04><FF1B>Mark<FF03>Con esto podremos pelear contra el<FF03>monstruo del metro, ¿verdad?<FF02><FF01><0044> ¡Obtuviste la <FF19><0300><FF18><0500>Espejo Expel<FF18> !<FF02><FF01><1300> <5019> <601A> <501B> <C01B> <501C> <F01C> <E01D> <381E> <A01E> <081F> <481F> <881F> <C81F> <0820> <9020> <C021> <2822> <9022> <4023>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <FFFF><1600><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -31129,7 +31163,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>   <FF1B>Mark<FF03>¡Sabía que iba a decir eso!<FF03>Hagámoslo, <FF07>!<FF02><FF01> <FF1B>Elly<FF03>Si dejamos a esta criatura, podría<FF03>crecer más que una granja",
+  "texto_traducido": "<FF02><FF01>   <FF1B>Mark<FF03>¡Sabía que iba a decir eso!<FF03>¡Hagámoslo, <FF07>!<FF02><FF01> <FF1B>Elly<FF03>Si dejamos a esta criatura, podría<FF03>crecer más que una granja",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -31614,6 +31648,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e0_01254p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1008216,
+  "offset_fin": 1008244,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Nanjo<FF03>Agh...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -33982,6 +34033,23 @@
   "raw_hex": null
  },
  {
+  "id": "e0_01358p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1053936,
+  "offset_fin": 1053970,
+  "longitud_original_bytes": 34,
+  "limite_chars": 17,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Encargado<FF03>Oh...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e0_01358",
   "archivo_origen": "e0.bin",
   "offset_inicio": 1053970,
@@ -35065,7 +35133,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿¡Qué quieres decir!?<FF02><FF01> <FF1B>Aki<FF03>Mi papi te llamó <0028>conejillo de indas<0028> y<FF03><0028>pión inútil<0028>!<FF02><FF04><FF1B>Aki<FF03>Dijo <0028>que aunque Chisato pierda, no<FF03>vale la pena molestarse.<0028><FF02><FF04><FF1B>Aki<FF03>¡Así que diviértete quedándote así<FF03>toda tu vida! ¡Bye-bye!<FF02><FF01>   <FF1B>Aki<FF03>¡Erusaer Tsymmom!<FF02><FF01> <FF1B>Chisato<FF03>¡E-Espera! ¿Voy a quedarme así<FF03>para siempre",
+  "texto_traducido": " ¿¡Qué quieres decir!?<FF02><FF01> <FF1B>Aki<FF03>¡Mi papi te llamó <0028>conejillo de indias<0028> y<FF03><0028>pión inútil<0028>!<FF02><FF04><FF1B>Aki<FF03>Dijo <0028>que aunque Chisato pierda, no<FF03>vale la pena molestarse.<0028><FF02><FF04><FF1B>Aki<FF03>¡Así que diviértete quedándote así<FF03>toda tu vida! ¡Bye-bye!<FF02><FF01>   <FF1B>Aki<FF03>¡Erusaer Tsymmom!<FF02><FF01> <FF1B>Chisato<FF03>¡E-Espera! ¿Voy a quedarme así<FF03>para siempre",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -39391,7 +39459,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>¡Bien! ¡Le seguiremos el juego! Vamos,<FF03><FF07>!<FF02><FF01>   <0044> La puerta está bien cerrada.<FF02><FF01> <FF1B>Maki<FF03>La mansión embrujada, ¿eh? Recuerdo<FF03>que me metía ahí de niño",
+  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>¡Bien! ¡Le seguiremos el juego! ¡Vamos,<FF03><FF07>!<FF02><FF01>   <0044> La puerta está bien cerrada.<FF02><FF01> <FF1B>Maki<FF03>La mansión embrujada, ¿eh? Recuerdo<FF03>que me metía ahí de niño",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -39594,7 +39662,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>¿Hm? Perdón, pero ahora estoy ocupado.<FF02><FF01> <FF1B>Elly<FF03>Vamos a la mansión<FF03>embrujada, <FF07>!<FF02><FF01>  <FF1B>Brown<FF03>La mansión embrujada está al sur,<FF03>¿verdad?<FF02><FF01><FF1B>Ayase<FF03>¡Rápido! ¡No hay tiempo que perder!<FF03>La mansión embrujada está al sur.<FF02><FF01><FF1B>Reiji<FF03>¿¡Crees que es momento de platicar!?<FF03>¡Hay que ir a darle a ese desgraciado!<FF02><FF01><2700> <4023> <E823> <2024> <4824> <9024> <8825> <D025> <3026> <B026> <3027> <B027> <1028> <6028> <3829> <E029> <402A> <A82A> <382B> <F02B> <982C> <C82C> <702D> <B02D> <F02D> <702E> <A82E> <D82F> <7830> <E830> <9031> <2032> <D832> <1833> <7835> <C035> <A836> <1837> <8037> <2038>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <FFFF><FFFF><FFFF><FFFF><FFFF><9900><FFFF><FFFF><FFFF><FFFF><4000><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><0300><FFFF><2811> <D810> <F810> <E010> <F810> <E810> <D810> <F010> <F810> <D80C>  <0A08>` <FFFF><FFFF>",
+  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>¿Hm? Perdón, pero ahora estoy ocupado.<FF02><FF01> <FF1B>Elly<FF03>¡Vamos a la mansión<FF03>embrujada, <FF07>!<FF02><FF01>  <FF1B>Brown<FF03>La mansión embrujada está al sur,<FF03>¿verdad?<FF02><FF01><FF1B>Ayase<FF03>¡Rápido! ¡No hay tiempo que perder!<FF03>La mansión embrujada está al sur.<FF02><FF01><FF1B>Reiji<FF03>¿¡Crees que es momento de platicar!?<FF03>¡Hay que ir a darle a ese desgraciado!<FF02><FF01><2700> <4023> <E823> <2024> <4824> <9024> <8825> <D025> <3026> <B026> <3027> <B027> <1028> <6028> <3829> <E029> <402A> <A82A> <382B> <F02B> <982C> <C82C> <702D> <B02D> <F02D> <702E> <A82E> <D82F> <7830> <E830> <9031> <2032> <D832> <1833> <7835> <C035> <A836> <1837> <8037> <2038>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <FFFF><FFFF><FFFF><FFFF><FFFF><9900><FFFF><FFFF><FFFF><FFFF><4000><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><0300><FFFF><2811> <D810> <F810> <E010> <F810> <E810> <D810> <F010> <F810> <D80C>  <0A08>` <FFFF><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -39784,7 +39852,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Nos volvemos a ver.<FF02><FF01>  <FF1B>Mark<FF03>Es la última vez que te burlas de nosotros.<FF02><FF01><FF1B>Maki<FF03>¡Aki! Él no es tu papi. ¿No lo<FF03>sabes!?<FF02><FF01> <FF1B>Elly<FF03>Parece que hasta aquí llegó, Sr. Kandori.<FF02><FF01> <FF1B>Brown<FF03>¡Cobarde rastrero! ¡Te haré tragar<FF03>tus trucos sucios!<FF02><FF01> <FF1B>Ayase<FF03>¡Oye, devuélvenos esa polvera!<FF03>La necesito para",
+  "texto_traducido": " Nos volvemos a ver.<FF02><FF01>  <FF1B>Mark<FF03>Es la última vez que te burlas de nosotros.<FF02><FF01><FF1B>Maki<FF03>¡Aki! Él no es tu papi. ¿¡No lo<FF03>sabes!?<FF02><FF01> <FF1B>Elly<FF03>Parece que hasta aquí llegó, Sr. Kandori.<FF02><FF01> <FF1B>Brown<FF03>¡Cobarde rastrero! ¡Te haré tragar<FF03>tus trucos sucios!<FF02><FF01> <FF1B>Ayase<FF03>¡Oye, devuélvenos esa polvera!<FF03>La necesito para",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -39868,7 +39936,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿Qué planeas hacer con<FF03>la polvera!?<FF02><FF01><FF1B>Kandori<FF03>Muéstrales, Aki.<FF02><FF01>  <FF1B>Aki<FF03>¡Sí, papi! ¡Erusaer Tsymmom!<FF02><FF01><FF1B>Maki<FF03>Qué es esto",
+  "texto_traducido": " ¿¡Qué planeas hacer con<FF03>la polvera!?<FF02><FF01><FF1B>Kandori<FF03>Muéstrales, Aki.<FF02><FF01>  <FF1B>Aki<FF03>¡Sí, papi! ¡Erusaer Tsymmom!<FF02><FF01><FF1B>Maki<FF03>Qué es esto",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -40105,8 +40173,25 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>Ponle bozal, Aki.<FF02><FF01><FF1B>Mark<FF03>¡Reiji!<FF02><FF01>  <FF1B>Mark<FF03>¡Ya te burlaste de nosotros demasiadas<FF03>veces!<FF02><FF01>   <FF1B>Maki<FF03>¿¡Esa es la polvera de Mai!?<FF02><FF01> <FF1B>Maki<FF03>¡Aki! Él no es tu papi. ¿No lo<FF03>sabes!?<FF02><FF04><FF1B>Maki<FF03>¡Devuelve esa polvera!<FF02><FF01><2100> <201C> <781C> <A81C> <F01C> <281D> <D01D> <001E> <481E> <A81E> <181F> <701F> <1820> <A820> <F820> <A021> <F821> <2822> <D022> <4023> <7823> <C023> <0824> <9024> <F824> <C826> <3027> <8828> <2029> <4829> <B029> <D029> <382A> <782A>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <FFFF><0300><FFFF>",
+  "texto_traducido": "<FF03>Ponle bozal, Aki.<FF02><FF01><FF1B>Mark<FF03>¡Reiji!<FF02><FF01>  <FF1B>Mark<FF03>¡Ya te burlaste de nosotros demasiadas<FF03>veces!<FF02><FF01>   <FF1B>Maki<FF03>¿¡Esa es la polvera de Mai!?<FF02><FF01> <FF1B>Maki<FF03>¡Aki! Él no es tu papi. ¿¡No lo<FF03>sabes!?<FF02><FF04><FF1B>Maki<FF03>¡Devuelve esa polvera!<FF02><FF01><2100> <201C> <781C> <A81C> <F01C> <281D> <D01D> <001E> <481E> <A81E> <181F> <701F> <1820> <A820> <F820> <A021> <F821> <2822> <D022> <4023> <7823> <C023> <0824> <9024> <F824> <C826> <3027> <8828> <2029> <4829> <B029> <D029> <382A> <782A>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <FFFF><0300><FFFF>",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e0_01674p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1348280,
+  "offset_fin": 1348302,
+  "longitud_original_bytes": 22,
+  "limite_chars": 11,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Mark<FF03>Q...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -40721,7 +40806,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " No tenemos forma de<FF03>volver a nuestro mundo!<FF02><FF01> <FF1B>Brown<FF03>¡No podemos! ¿Cómo rayos le ganamos a<FF03>un tipo con ese poder?<FF02><FF04><FF1B>Brown<FF03>Olvida eso, ¿cómo volvemos siquiera<FF03>a nuestro mundo!?<FF02><FF01>   <FF1B>Ayase<FF03>Así nomás, ¿eh? ¿Y cómo propones que<FF03>volvamos, en taxi!?<FF02><FF04><FF1B>Ayase<FF03>Y aunque lo hagamos",
+  "texto_traducido": " ¡No tenemos forma de<FF03>volver a nuestro mundo!<FF02><FF01> <FF1B>Brown<FF03>¡No podemos! ¿Cómo rayos le ganamos a<FF03>un tipo con ese poder?<FF02><FF04><FF1B>Brown<FF03>Olvida eso, ¿¡cómo volvemos siquiera<FF03>a nuestro mundo!?<FF02><FF01>   <FF1B>Ayase<FF03>Así nomás, ¿eh? ¿¡Y cómo propones que<FF03>volvamos, en taxi!?<FF02><FF04><FF1B>Ayase<FF03>Y aunque lo hagamos",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -40737,7 +40822,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " No hay nada que<FF03>podamos hacer contra él ahora! Se acabó",
+  "texto_traducido": " ¡No hay nada que<FF03>podamos hacer contra él ahora! Se acabó",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -40828,7 +40913,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " El lugar donde había<FF03>rumores de gente que desaparecía.<FF02><FF01> <FF1B>Mark<FF03>La <FF18><0700>mansión embrujada<FF18> !<FF02><FF04><FF1B>Mark<FF03>Me metía ahí todo el tiempo<FF03>de niño. Mi mamá se enojaba tanto",
+  "texto_traducido": " El lugar donde había<FF03>rumores de gente que desaparecía.<FF02><FF01> <FF1B>Mark<FF03>¡La <FF18><0700>mansión embrujada<FF18> !<FF02><FF04><FF1B>Mark<FF03>Me metía ahí todo el tiempo<FF03>de niño. Mi mamá se enojaba tanto",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -40898,7 +40983,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿cómo vamos<FF03>a pelear con Kandori tal como está!?<FF02><FF01>  <FF1B>Brown<FF03>¡Ay, ya ríndanse! ¡Hay cosas<FF03>imposibles por más que lo intentes!<FF02><FF04><FF1B>Brown<FF03>Hemos perdido el tiempo desde<FF03>el principio",
+  "texto_traducido": " ¿¡cómo vamos<FF03>a pelear con Kandori tal como está!?<FF02><FF01>  <FF1B>Brown<FF03>¡Ay, ya ríndanse! ¡Hay cosas<FF03>imposibles por más que lo intentes!<FF02><FF04><FF1B>Brown<FF03>Hemos perdido el tiempo desde<FF03>el principio",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -40941,7 +41026,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>   <FF1B>Ayase<FF03>¡Sí, claro! ¡Es imposible! ¿Para qué<FF03>me molesto siquiera!?<FF02><FF01><FF1B>Maki<FF03>¡No pueden rendirse! ¿No se trata de<FF03>su mundo? ¿De su futuro?<FF02><FF04><FF1B>Maki<FF03>¿Van a dejar que alguien<FF03>lo pisotee?<FF02><FF04><FF1B>Maki<FF03>¿Les da igual tirarlo todo?<FF02><FF04><FF1B>Maki<FF03>¡Pues a mí no!<FF02><FF04><FF1B>Maki<FF03>¡Me gusta este pueblo! ¡Me gustan ustedes!<FF03>Me gusto",
+  "texto_traducido": "<FF02><FF01>   <FF1B>Ayase<FF03>¡Sí, claro! ¡Es imposible! ¿¡Para qué<FF03>me molesto siquiera!?<FF02><FF01><FF1B>Maki<FF03>¡No pueden rendirse! ¿No se trata de<FF03>su mundo? ¿De su futuro?<FF02><FF04><FF1B>Maki<FF03>¿Van a dejar que alguien<FF03>lo pisotee?<FF02><FF04><FF1B>Maki<FF03>¿Les da igual tirarlo todo?<FF02><FF04><FF1B>Maki<FF03>¡Pues a mí no!<FF02><FF04><FF1B>Maki<FF03>¡Me gusta este pueblo! ¡Me gustan ustedes!<FF03>Me gusto",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -41067,7 +41152,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Parece que<FF03>nadie tiene más quejas.<FF02><FF04><FF1B>Mark<FF03>Vamos a la mansión embrujada ya,<FF03><FF07>!<FF02><FF01> <FF1B>Mark<FF03>¡Maldición! Qué pérdida de tiempo",
+  "texto_traducido": " Parece que<FF03>nadie tiene más quejas.<FF02><FF04><FF1B>Mark<FF03>¡Vamos a la mansión embrujada ya,<FF03><FF07>!<FF02><FF01> <FF1B>Mark<FF03>¡Maldición! Qué pérdida de tiempo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -41376,6 +41461,23 @@
   "raw_hex": null
  },
  {
+  "id": "e0_01740p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1379528,
+  "offset_fin": 1379552,
+  "longitud_original_bytes": 24,
+  "limite_chars": 12,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Mark<FF03>Tsk...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e0_01740",
   "archivo_origen": "e0.bin",
   "offset_inicio": 1379552,
@@ -41391,7 +41493,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡Así que sí era una trampa!<FF03>Hagámoslo, <FF07>!<FF02><FF01><FF1B>Hariti<FF03>Maki",
+  "texto_traducido": " ¡Así que sí era una trampa!<FF03>¡Hagámoslo, <FF07>!<FF02><FF01><FF1B>Hariti<FF03>Maki",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -41572,7 +41674,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Elly<FF03>¡Pero no hay que confiar! ¡Demos<FF03>el primer golpe, <FF07>!<FF02><FF01> <FF1B>Brown<FF03>Oye, <FF08>, ¿¡qué hacemos!?<FF02><FF04><FF1B>Brown<FF03>¡Ese demonio va a matar a Maki! ¡Hay que<FF03>vencerlo ya!<FF02><FF01><FF1B>Ayase<FF03>¿Y bien, qué hacemos, <FF07>!?<FF02><FF04><FF1B>Ayase<FF03>¡Ese monstruo podría matar a Maki! ¡Vamos<FF03>por él!<FF02><FF01>  <FF1B>Reiji<FF03>¿Está bien dejar así a Maki, <FF07>?<FF03>¡Hay que destruir a ese demonio!<FF02><FF01> <FF1B>Mark<FF03>Pero esa voz",
+  "texto_traducido": "<FF02><FF04><FF1B>Elly<FF03>¡Pero no hay que confiar! ¡Demos<FF03>el primer golpe, <FF07>!<FF02><FF01> <FF1B>Brown<FF03>Oye, <FF08>, ¿¡qué hacemos!?<FF02><FF04><FF1B>Brown<FF03>¡Ese demonio va a matar a Maki! ¡Hay que<FF03>vencerlo ya!<FF02><FF01><FF1B>Ayase<FF03>¿¡Y bien, qué hacemos, <FF07>!?<FF02><FF04><FF1B>Ayase<FF03>¡Ese monstruo podría matar a Maki! ¡Vamos<FF03>por él!<FF02><FF01>  <FF1B>Reiji<FF03>¿Está bien dejar así a Maki, <FF07>?<FF03>¡Hay que destruir a ese demonio!<FF02><FF01> <FF1B>Mark<FF03>Pero esa voz",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -41636,7 +41738,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>Guarda tu arma, <FF07>!<FF02><FF01>   <FF1B>Nanjo<FF03>",
+  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>¡Guarda tu arma, <FF07>!<FF02><FF01>   <FF1B>Nanjo<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -42908,6 +43010,23 @@
   "raw_hex": null
  },
  {
+  "id": "e0_01844p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1441392,
+  "offset_fin": 1441418,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Maki<FF03>Agh...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e0_01844",
   "archivo_origen": "e0.bin",
   "offset_inicio": 1441418,
@@ -43280,7 +43399,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Kandori<FF03>Y todo habrá terminado. Un final digno<FF03>para una especie de necios.<FF02><FF04><FF1B>Kandori<FF03>Nada más saldrá dañado. Solo la humanidad<FF03>será borrada de este planeta.<FF02><FF01> <FF1B>Maki<FF03>¿¡Pero por qué!? ¿Por qué quieres hacerle<FF03>esto a la gente!?<FF02><FF01><FF1B>Kandori<FF03>Ja",
+  "texto_traducido": "<FF02><FF04><FF1B>Kandori<FF03>Y todo habrá terminado. Un final digno<FF03>para una especie de necios.<FF02><FF04><FF1B>Kandori<FF03>Nada más saldrá dañado. Solo la humanidad<FF03>será borrada de este planeta.<FF02><FF01> <FF1B>Maki<FF03>¿¡Pero por qué!? ¿¡Por qué quieres hacerle<FF03>esto a la gente!?<FF02><FF01><FF1B>Kandori<FF03>Ja",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -43407,7 +43526,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Reiji<FF03>¡Claro que llegaremos, desgraciado!<FF03>Vamos, <FF07>.<FF02><FF01> <FF1B>Elly<FF03>¡Espera!<FF02><FF01>   <FF1B>Elly<FF03>Vamos, <FF07>!<FF02><FF01><FF1B>Brown<FF03>¡Espera, cobarde!<FF02><FF01>  <FF1B>Brown<FF03>¡Maldición! ¡Síganme todos!<FF02><FF01>   <FF1B>Ayase<FF03>¡Alto!<FF02><FF01>   <FF1B>Ayase<FF03>No te quedes mirando al vacío, <FF07>!<FF02><FF04><FF1B>Ayase<FF03>¡Hay que apurarnos o mi futuro<FF03>va a desaparecer!<FF02><FF04><FF1B>Ayase<FF03>¡Así que vamos tras él ya!<FF02><FF01>   <FF1B>Mark<FF03>Maki, Elly, ¿pueden levantarse?<FF02><FF01>   <FF1B>Maki<FF03>¿Estás bien, Elly?<FF02><FF01> <FF1B>Elly<FF03>Ngh",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Reiji<FF03>¡Claro que llegaremos, desgraciado!<FF03>Vamos, <FF07>.<FF02><FF01> <FF1B>Elly<FF03>¡Espera!<FF02><FF01>   <FF1B>Elly<FF03>¡Vamos, <FF07>!<FF02><FF01><FF1B>Brown<FF03>¡Espera, cobarde!<FF02><FF01>  <FF1B>Brown<FF03>¡Maldición! ¡Síganme todos!<FF02><FF01>   <FF1B>Ayase<FF03>¡Alto!<FF02><FF01>   <FF1B>Ayase<FF03>¡No te quedes mirando al vacío, <FF07>!<FF02><FF04><FF1B>Ayase<FF03>¡Hay que apurarnos o mi futuro<FF03>va a desaparecer!<FF02><FF04><FF1B>Ayase<FF03>¡Así que vamos tras él ya!<FF02><FF01>   <FF1B>Mark<FF03>Maki, Elly, ¿pueden levantarse?<FF02><FF01>   <FF1B>Maki<FF03>¿Estás bien, Elly?<FF02><FF01> <FF1B>Elly<FF03>Ngh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -43932,7 +44051,7 @@
    "<FF07>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿no pueden<FF03>rescatar a la hija de Sonomura?<FF02><FF04><FF1B>Dr. Nicholai<FF03>¡Haré lo posible por ajustar el sistema<FF03>para que puedan ir a rescatarla!<FF02><FF04><FF1B>Dr. Nicholai<FF03>Y después iré al destino que<FF03>me espere. ¡Se lo suplico, joven!<FF02><FF01>  <FF1B>Maki<FF03><FF07>! ¿¡A dónde vas!?<FF03>¡Tenemos que derrotar a Kandori!<FF02><FF01> <FF1B>Mark<FF03><FF07>! A dónde vas",
+  "texto_traducido": " ¿no pueden<FF03>rescatar a la hija de Sonomura?<FF02><FF04><FF1B>Dr. Nicholai<FF03>¡Haré lo posible por ajustar el sistema<FF03>para que puedan ir a rescatarla!<FF02><FF04><FF1B>Dr. Nicholai<FF03>Y después iré al destino que<FF03>me espere. ¡Se lo suplico, joven!<FF02><FF01>  <FF1B>Maki<FF03>¡<FF07>! ¿¡A dónde vas!?<FF03>¡Tenemos que derrotar a Kandori!<FF02><FF01> <FF1B>Mark<FF03>¡<FF07>! A dónde vas",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -45251,7 +45370,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>   <FF1B>Maki<FF03>¿Eh? ¿¡Qué estás diciendo!? ¿Qué<FF03>significa eso!?<FF02><FF01> <FF1B>Nanjo<FF03>Tú eres",
+  "texto_traducido": "<FF02><FF01>   <FF1B>Maki<FF03>¿Eh? ¿¡Qué estás diciendo!? ¿¡Qué<FF03>significa eso!?<FF02><FF01> <FF1B>Nanjo<FF03>Tú eres",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -45687,7 +45806,7 @@
    "<FF08>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡esto es demasiado!<FF02><FF01>   <FF1B>Mark<FF03>¡Maki!<FF02><FF01>   <FF1B>Elly<FF03><FF07>! ¡Hay que ir tras ella!<FF02><FF01> <FF1B>Brown<FF03>Esto está mal, <FF08>",
+  "texto_traducido": " ¡esto es demasiado!<FF02><FF01>   <FF1B>Mark<FF03>¡Maki!<FF02><FF01>   <FF1B>Elly<FF03>¡<FF07>! ¡Hay que ir tras ella!<FF02><FF01> <FF1B>Brown<FF03>Esto está mal, <FF08>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -45733,7 +45852,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Bueno, <FF07>!?<FF03>¿No vas a ir tras ella?<FF02><FF01>  <FF1B>Reiji<FF03>¿No vas a ir tras ella? Eres el<FF03>único que puede salvarla, ¿sabes?<FF02><FF01><FF1B>Kandori<FF03>Maki Sonomura",
+  "texto_traducido": " ¿¡Bueno, <FF07>!?<FF03>¿No vas a ir tras ella?<FF02><FF01>  <FF1B>Reiji<FF03>¿No vas a ir tras ella? Eres el<FF03>único que puede salvarla, ¿sabes?<FF02><FF01><FF1B>Kandori<FF03>Maki Sonomura",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -45827,7 +45946,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>   <FF1B>Mark<FF03><FF07>! ¡Hay que buscar a Maki!<FF02><FF01>  <FF1B>Mark<FF03>¡Tiene que ser mentira! ¡Es demasiado<FF03>para Maki",
+  "texto_traducido": "<FF02><FF01>   <FF1B>Mark<FF03>¡<FF07>! ¡Hay que buscar a Maki!<FF02><FF01>  <FF1B>Mark<FF03>¡Tiene que ser mentira! ¡Es demasiado<FF03>para Maki",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -46893,7 +47012,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡tonta! ¿¡Por qué, maldición!?<FF02><FF01> <FF1B>Mark<FF03><FF07>! ¡Volvamos al corazón<FF03>de Maki!<FF02><FF01> <FF1B>Nanjo<FF03>",
+  "texto_traducido": " ¡tonta! ¿¡Por qué, maldición!?<FF02><FF01> <FF1B>Mark<FF03>¡<FF07>! ¡Volvamos al corazón<FF03>de Maki!<FF02><FF01> <FF1B>Nanjo<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -46973,7 +47092,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿¡Cómo puedes hablar así<FF03>de una amiga!?<FF02><FF04><FF1B>Mark<FF03>Si destruimos esa cosa, qué le va<FF03>pasar a Maki?<FF02><FF01>   <FF1B>Nanjo<FF03>Por lo que se ve, el sistema<FF03>mantiene viva a Maki",
+  "texto_traducido": " ¿¡Cómo puedes hablar así<FF03>de una amiga!?<FF02><FF04><FF1B>Mark<FF03>Si destruimos esa cosa, ¿qué le va<FF03>a pasar a Maki?<FF02><FF01>   <FF1B>Nanjo<FF03>Por lo que se ve, el sistema<FF03>mantiene viva a Maki",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -47396,6 +47515,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e0_02073p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1549584,
+  "offset_fin": 1549612,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Mark<FF03>O-Oye...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -48460,7 +48596,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <0044> A <FF18><0700>fragmento del Espejo del Caos<FF18>  hay en<FF03>el suelo.<FF02><FF01><0044> ¿Recogerlo?<FF02><FF0E> <FF01>   <FF1B>Nanjo<FF03><FF07>?<FF05><5800><FF03>¿¡Es un fragmento del espejo de Kandori!?<FF02><FF04><FF1B>Nanjo<FF03>Este tamaño y esta forma",
+  "texto_traducido": "<FF02><FF01> <0044> A <FF18><0700>fragmento del Espejo del Caos<FF18>  hay en<FF03>el suelo.<FF02><FF01><0044> ¿Recogerlo?<FF02><FF0E> <FF01>   <FF1B>Nanjo<FF03>¿<FF07>?<FF05><5800><FF03>¿¡Es un fragmento del espejo de Kandori!?<FF02><FF04><FF1B>Nanjo<FF03>Este tamaño y esta forma",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -48506,7 +48642,7 @@
    "<0044>"
   ],
   "texto_original": null,
-  "texto_traducido": " Creo que podría<FF03>¡encajar en la polvera de Maki!<FF02><FF01>   <FF1B>Mark<FF03>¿¡En serio!? ¡Quizás con esto podamos<FF03>volver!<FF02><FF04><FF1B>Mark<FF03>Déjame verlo, <FF07>!<FF02><FF01> <FF1B>Mark<FF03>¡Encaja perfecto!<FF05><5800><FF04><FF1B>Mark<FF03>¡Wow!<FF02><FF01>   <0044> Obtuviste la <FF19><0300><FF18><0500>Fragmento del Espejo del Caos<FF18> .<FF02><FF01>  <0044> La verdadera Maki no despierta",
+  "texto_traducido": " Creo que podría<FF03>¡encajar en la polvera de Maki!<FF02><FF01>   <FF1B>Mark<FF03>¿¡En serio!? ¡Quizás con esto podamos<FF03>volver!<FF02><FF04><FF1B>Mark<FF03>¡Déjame verlo, <FF07>!<FF02><FF01> <FF1B>Mark<FF03>¡Encaja perfecto!<FF05><5800><FF04><FF1B>Mark<FF03>¡Wow!<FF02><FF01>   <0044> Obtuviste la <FF19><0300><FF18><0500>Fragmento del Espejo del Caos<FF18> .<FF02><FF01>  <0044> La verdadera Maki no despierta",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -49881,7 +50017,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " la Maki niña.<FF02><FF01> <FF1B>Elly<FF03>¡Bingo! ¡Es el bosque de la Maki niña!<FF02><FF01> <FF1B>Brown<FF03>¡Oye, funcionó! ¿No es este el bosque<FF03>donde estaba esa pequeña Maki!?<FF02><FF01> <FF1B>Ayase<FF03>¡Wow, qué suerte! ¿No es este el bosque<FF03>de esa pequeña Maki!?<FF02><FF01>   <FF1B>Setsuko Sonomura<FF03>¿¡Por qué volvieron todos!?<FF03>¿¡Y Kandori!?<FF02><FF01>   <FF1B>Mark<FF03>¡Lo mismo digo! ¿Por qué está USTED aquí?<FF02><FF01> <FF1B>Setsuko Sonomura<FF03>I",
+  "texto_traducido": " la Maki niña.<FF02><FF01> <FF1B>Elly<FF03>¡Bingo! ¡Es el bosque de la Maki niña!<FF02><FF01> <FF1B>Brown<FF03>¡Oye, funcionó! ¿¡No es este el bosque<FF03>donde estaba esa pequeña Maki!?<FF02><FF01> <FF1B>Ayase<FF03>¡Wow, qué suerte! ¿¡No es este el bosque<FF03>de esa pequeña Maki!?<FF02><FF01>   <FF1B>Setsuko Sonomura<FF03>¿¡Por qué volvieron todos!?<FF03>¿¡Y Kandori!?<FF02><FF01>   <FF1B>Mark<FF03>¡Lo mismo digo! ¿Por qué está USTED aquí?<FF02><FF01> <FF1B>Setsuko Sonomura<FF03>I",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -50562,7 +50698,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <FF1B>Elly<FF03>¡Rápido! ¡Hay que apurarnos e ir<FF03>al santuario!<FF02><FF01>   <FF1B>Elly<FF03>¡Apúrate! ¡Hay que movernos e ir<FF03>al santuario!<FF02><FF01> <FF1B>Brown<FF03>Oye, <FF08>! ¡Si crees que soy el<FF03>mismo de siempre, te equivocas!<FF02><FF04><FF1B>Brown<FF03>¡Ahora que maduré un poco, llámame<FF03>Brown Mk.II!<FF02><FF04><FF1B>Brown<FF03>¿Eh? ¿Cómo que suena ridículo?<FF03>¿Entonces cómo me llamo?<FF02><FF01>   <FF1B>Brown<FF03>Ahora vamos al santuario, ¿verdad?<FF03>Bueno, <0028>vísteme despacio que tengo prisa<0028>!<FF02><FF04><FF1B>Brown<FF03>¿Eh? Eso no significa eso",
+  "texto_traducido": "<FF02><FF01> <FF1B>Elly<FF03>¡Rápido! ¡Hay que apurarnos e ir<FF03>al santuario!<FF02><FF01>   <FF1B>Elly<FF03>¡Apúrate! ¡Hay que movernos e ir<FF03>al santuario!<FF02><FF01> <FF1B>Brown<FF03>¡Oye, <FF08>! ¡Si crees que soy el<FF03>mismo de siempre, te equivocas!<FF02><FF04><FF1B>Brown<FF03>¡Ahora que maduré un poco, llámame<FF03>Brown Mk.II!<FF02><FF04><FF1B>Brown<FF03>¿Eh? ¿Cómo que suena ridículo?<FF03>¿Entonces cómo me llamo?<FF02><FF01>   <FF1B>Brown<FF03>Ahora vamos al santuario, ¿verdad?<FF03>¡Bueno, <0028>vísteme despacio que tengo prisa<0028>!<FF02><FF04><FF1B>Brown<FF03>¿Eh? Eso no significa eso",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -50634,7 +50770,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Sabes, de cerca eres <FF03>bastante guapo, <FF07>!<FF02><FF01> <FF1B>Ayase<FF03>¿Te apunto en mi lista<FF03>de posibles esposos?<FF02><FF0E><1F00><FF01><FF1B>Ayase<FF03>¡Bip! ¡Listo! Bueno, sigue<FF03>matándote trabajando por mí!<FF02><FF01>  <FF1B>Ayase<FF03>¿¡Qué!? ¿¡Dices que no soy suficiente<FF03>para ti!?<FF02><FF04><FF1B>Ayase<FF03>¡Bien! ¡A mí qué! ¡Ahora te voy a echar<FF03>todavía más de mi trabajo!<FF02><FF01> <FF1B>Ayase<FF03>Vamos al santuario, ¿verdad?<FF02><FF04><FF1B>Ayase<FF03>Me pregunto si tanto caminar<FF03>cuenta como ejercicio.<FF02><FF01><FF1B>Setsuko Sonomura<FF03>Estoy",
+  "texto_traducido": " ¡Sabes, de cerca eres <FF03>bastante guapo, <FF07>!<FF02><FF01> <FF1B>Ayase<FF03>¿Te apunto en mi lista<FF03>de posibles esposos?<FF02><FF0E><1F00><FF01><FF1B>Ayase<FF03>¡Bip! ¡Listo! ¡Bueno, sigue<FF03>matándote trabajando por mí!<FF02><FF01>  <FF1B>Ayase<FF03>¿¡Qué!? ¿¡Dices que no soy suficiente<FF03>para ti!?<FF02><FF04><FF1B>Ayase<FF03>¡Bien! ¡A mí qué! ¡Ahora te voy a echar<FF03>todavía más de mi trabajo!<FF02><FF01> <FF1B>Ayase<FF03>Vamos al santuario, ¿verdad?<FF02><FF04><FF1B>Ayase<FF03>Me pregunto si tanto caminar<FF03>cuenta como ejercicio.<FF02><FF01><FF1B>Setsuko Sonomura<FF03>Estoy",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -51070,7 +51206,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Reiji<FF03>¿Entonces dónde encontramos a esa Pandora?<FF02><FF01>   <FF1B>Elly<FF03>¿¡Es cierto!? ¿Entonces dónde está<FF03>esa Pandora!?<FF02><FF01> <FF1B>Elly<FF03>¿¡Es cierto!? ¿Y dónde se puede<FF03>encontrar a Pandora?<FF02><FF01>   <FF1B>Brown<FF03>¿¡Qué!? ¿¡Y cómo llegamos con Pandora!?<FF02><FF01> <FF1B>Ayase<FF03>¡No puede ser! ¿¡En serio!? Entonces, eh,<FF03>¿¡dónde está Pandora!?<FF02><FF01>  <FF1B>Nanjo<FF03>La escuela",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Reiji<FF03>¿Entonces dónde encontramos a esa Pandora?<FF02><FF01>   <FF1B>Elly<FF03>¿¡Es cierto!? ¿¡Entonces dónde está<FF03>esa Pandora!?<FF02><FF01> <FF1B>Elly<FF03>¿¡Es cierto!? ¿Y dónde se puede<FF03>encontrar a Pandora?<FF02><FF01>   <FF1B>Brown<FF03>¿¡Qué!? ¿¡Y cómo llegamos con Pandora!?<FF02><FF01> <FF1B>Ayase<FF03>¡No puede ser! ¿¡En serio!? Entonces, eh,<FF03>¿¡dónde está Pandora!?<FF02><FF01>  <FF1B>Nanjo<FF03>La escuela",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -51197,7 +51333,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Solo nos falta<FF03>una más.<FF02><FF01>  <FF1B>Elly<FF03>Tienes dos, verdad <FF07>?<FF02><FF04><FF1B>Elly<FF03>Roja y verde",
+  "texto_traducido": " Solo nos falta<FF03>una más.<FF02><FF01>  <FF1B>Elly<FF03>Tienes dos, ¿verdad, <FF07>?<FF02><FF04><FF1B>Elly<FF03>Roja y verde",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -51714,7 +51850,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01> <FF1B>Reiji<FF03>¿Qué? <FF05><5800>Mi <0028>cara se ve tierna<0028>?<FF02><FF04><FF1B>Reiji<FF03>Si sigues bromeando, eso no<FF03>durará mucho.<FF02><FF01>   <FF1B>Reiji<FF03>¿Eh? ¿¡Estoy sonriendo!?<FF02><FF04><FF1B>Reiji<FF03>No te confundas",
+  "texto_traducido": "<FF02><FF01> <FF1B>Reiji<FF03>¿Qué? <FF05><5800>¿Mi <0028>cara se ve tierna<0028>?<FF02><FF04><FF1B>Reiji<FF03>Si sigues bromeando, eso no<FF03>durará mucho.<FF02><FF01>   <FF1B>Reiji<FF03>¿Eh? ¿¡Estoy sonriendo!?<FF02><FF04><FF1B>Reiji<FF03>No te confundas",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -51811,7 +51947,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Elly<FF03><FF07>? ¿Tú prefieres a las chicas<FF03>hogareñas?<FF02><FF01><FF1B>Elly<FF03>Yo también era muy linda a esa edad.<FF03>¿Quieres ver una foto un día?<FF02><FF01>   <FF1B>Elly<FF03>Yo era bastante linda a esa edad.<FF03>¿Te gustaría ver una foto algún día?<FF02><FF01>   <FF1B>Brown<FF03>La pequeña Maki es tan linda",
+  "texto_traducido": "<FF02><FF04><FF1B>Elly<FF03>¿<FF07>? ¿Tú prefieres a las chicas<FF03>hogareñas?<FF02><FF01><FF1B>Elly<FF03>Yo también era muy linda a esa edad.<FF03>¿Quieres ver una foto un día?<FF02><FF01>   <FF1B>Elly<FF03>Yo era bastante linda a esa edad.<FF03>¿Te gustaría ver una foto algún día?<FF02><FF01>   <FF1B>Brown<FF03>La pequeña Maki es tan linda",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -52533,7 +52669,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01><FF1B>Maki<FF03>Lo sabes, ¿verdad, <FF07>!?<FF02><FF01> <FF1B>Maki<FF03>¡Sabes que soy la peor chica del mundo!<FF02><FF0E><1300><FF01><FF1B>Nanjo<FF03>¡Contrólate! Tú sembraste esto<FF03>¡y ahora te toca cosecharlo!<FF02><FF04><FF1B>Nanjo<FF03>Si quieres morir, ¿por qué te quedas<FF03>lamentándote?<FF02><FF04><FF1B>Nanjo<FF03>¡No hagas amenazas vacías si no tienes<FF03>el valor de cumplirlas!<FF02><FF01> <FF1B>Maki<FF03>",
+  "texto_traducido": "<FF02><FF01><FF1B>Maki<FF03>Lo sabes, ¿¡verdad, <FF07>!?<FF02><FF01> <FF1B>Maki<FF03>¡Sabes que soy la peor chica del mundo!<FF02><FF0E><1300><FF01><FF1B>Nanjo<FF03>¡Contrólate! Tú sembraste esto<FF03>¡y ahora te toca cosecharlo!<FF02><FF04><FF1B>Nanjo<FF03>Si quieres morir, ¿por qué te quedas<FF03>lamentándote?<FF02><FF04><FF1B>Nanjo<FF03>¡No hagas amenazas vacías si no tienes<FF03>el valor de cumplirlas!<FF02><FF01> <FF1B>Maki<FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -52922,7 +53058,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>Volvamos, <FF07>!<FF02><FF01>   <FF1B>Nanjo<FF03><FF07> tiene razón! Tú sembraste<FF03>esto ¡y ahora te toca cosecharlo!<FF02><FF04><FF1B>Nanjo<FF03>Si quieres morir, ¿por qué te quedas<FF03>lamentándote?<FF02><FF04><FF1B>Nanjo<FF03>¡No hagas amenazas vacías si no tienes<FF03>el valor de cumplirlas!<FF02><FF01> <FF1B>Maki<FF03>Por fin entré en razón.<FF02><FF04><FF1B>Maki<FF03>Aunque sea un sueño, o una ilusión,<FF03>o una sombra, sigo siendo yo",
+  "texto_traducido": "<FF03>¡Volvamos, <FF07>!<FF02><FF01>   <FF1B>Nanjo<FF03>¡<FF07> tiene razón! Tú sembraste<FF03>esto ¡y ahora te toca cosecharlo!<FF02><FF04><FF1B>Nanjo<FF03>Si quieres morir, ¿por qué te quedas<FF03>lamentándote?<FF02><FF04><FF1B>Nanjo<FF03>¡No hagas amenazas vacías si no tienes<FF03>el valor de cumplirlas!<FF02><FF01> <FF1B>Maki<FF03>Por fin entré en razón.<FF02><FF04><FF1B>Maki<FF03>Aunque sea un sueño, o una ilusión,<FF03>o una sombra, sigo siendo yo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -53909,7 +54045,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "Te encargo a Maki.<FF02><FF01> <FF1B>Nanjo<FF03>Te esperamos aquí. No te arriesgues<FF03>de más.<FF02><FF01> <FF1B>Maki<FF03>Entonces nos vamos.<FF03>Vamos, <FF07>!<FF02><FF01> <FF1B>Mark<FF03>¡Oye, <FF07>! ¡No intentes nada raro<FF03>solo porque estás a solas con Maki!<FF02><FF01><FF1B>Maki<FF03>¿De qué platican ustedes dos?<FF02><FF01><FF1B>Mark<FF03>¡E--Eh, de nada! ¿Verdad, <FF07>?<FF02><FF04><FF1B>Mark<FF03>Jeje, son, ya sabes, cosas de hombres.<FF02><FF01>  <FF1B>Maki<FF03>Suena a cochinada. Pero olvida eso,<FF03>vamos, <FF07>! ¡Ándale!<FF02><FF01>  <FF1B>Mark<FF03>Maki parece",
+  "texto_traducido": "Te encargo a Maki.<FF02><FF01> <FF1B>Nanjo<FF03>Te esperamos aquí. No te arriesgues<FF03>de más.<FF02><FF01> <FF1B>Maki<FF03>Entonces nos vamos.<FF03>¡Vamos, <FF07>!<FF02><FF01> <FF1B>Mark<FF03>¡Oye, <FF07>! ¡No intentes nada raro<FF03>solo porque estás a solas con Maki!<FF02><FF01><FF1B>Maki<FF03>¿De qué platican ustedes dos?<FF02><FF01><FF1B>Mark<FF03>¡E--Eh, de nada! ¿Verdad, <FF07>?<FF02><FF04><FF1B>Mark<FF03>Jeje, son, ya sabes, cosas de hombres.<FF02><FF01>  <FF1B>Maki<FF03>Suena a cochinada. ¡Pero olvida eso,<FF03>vamos, <FF07>! ¡Ándale!<FF02><FF01>  <FF1B>Mark<FF03>Maki parece",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -54184,7 +54320,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": " Te dio miedo, ¿eh?<FF02><FF01>   <FF1B>Ayase<FF03>Todavía no te vas, <FF07>?<FF03>¡No me digas que eres gallina!<FF02><FF01> <FF1B>Ayase<FF03>Todavía no te vas, <FF08>?<FF03>¡No me digas que eres gallina!<FF02><FF01> <FF1B>Ayase<FF03><FF08>! Más vale que vayas a ver a Maki,<FF03>¡rápido!<FF02><FF01>  <FF1B>Ayase<FF03><FF07>! Más vale que vayas a ver a Maki,<FF03>¡rápido!<FF02><FF01><2200> <3026> <9027> <F827> <A828> <3829> <9029> <382A> <A82A> <102B> <D82B> <382C> <B02C> <002D> <982D> <E82D> <802E> <002F> <602F> <802F> <D02F> <4830> <E030> <8831> <2832> <6832> <E832> <7833> <E833> <7834> <C834> <6035> <E035> <6036> <B836>                                                     <FFFF><1600><FFFF>",
+  "texto_traducido": " Te dio miedo, ¿eh?<FF02><FF01>   <FF1B>Ayase<FF03>¿Todavía no te vas, <FF07>?<FF03>¡No me digas que eres gallina!<FF02><FF01> <FF1B>Ayase<FF03>¿Todavía no te vas, <FF08>?<FF03>¡No me digas que eres gallina!<FF02><FF01> <FF1B>Ayase<FF03>¡<FF08>! Más vale que vayas a ver a Maki,<FF03>¡rápido!<FF02><FF01>  <FF1B>Ayase<FF03>¡<FF07>! Más vale que vayas a ver a Maki,<FF03>¡rápido!<FF02><FF01><2200> <3026> <9027> <F827> <A828> <3829> <9029> <382A> <A82A> <102B> <D82B> <382C> <B02C> <002D> <982D> <E82D> <802E> <002F> <602F> <802F> <D02F> <4830> <E030> <8831> <2832> <6832> <E832> <7833> <E833> <7834> <C834> <6035> <E035> <6036> <B836>                                                     <FFFF><1600><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -54287,7 +54423,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " <E801>a,`<FF00>d<00FF>  <0302><00FF>  <0301><0001>`<0301><00FF>   <FF4D><5A00><FF60> <FF67><0401><FF55> <5014> <FF68> <FF67><0301><FF55> <C014> <FF68> <FF67><0201><FF55> <6815> <FF68> <FF26><1700><3814> <FF55> <D815> <FF61> <FF2B><B400>  <FF21> <FF55> <0817> <FF61> <FF2B><B400>  <FF21> <FF1B>Yukino<FF03><FF07>! ¡Esta sigue viva!<FF03>¡Ayúdame!<FF02><FF01> <FF1B>Nanjo<FF03>No tenemos tiempo que perder, <FF07>!<FF03>¡Para ella es tarde, pero no para nosotros!<FF02><FF01>   <FF1B>Mark<FF03>¡Oye, <FF07>! ¡Los monstruos están<FF03>a la vuelta de la esquina!<FF02><FF01> <FF1B><FF08>Voz de<FF03>¿Recuerdas esto? Dejaste morir a esa<FF03>pobre mujer",
+  "texto_traducido": " <E801>a,`<FF00>d<00FF>  <0302><00FF>  <0301><0001>`<0301><00FF>   <FF4D><5A00><FF60> <FF67><0401><FF55> <5014> <FF68> <FF67><0301><FF55> <C014> <FF68> <FF67><0201><FF55> <6815> <FF68> <FF26><1700><3814> <FF55> <D815> <FF61> <FF2B><B400>  <FF21> <FF55> <0817> <FF61> <FF2B><B400>  <FF21> <FF1B>Yukino<FF03>¡<FF07>! ¡Esta sigue viva!<FF03>¡Ayúdame!<FF02><FF01> <FF1B>Nanjo<FF03>¡No tenemos tiempo que perder, <FF07>!<FF03>¡Para ella es tarde, pero no para nosotros!<FF02><FF01>   <FF1B>Mark<FF03>¡Oye, <FF07>! ¡Los monstruos están<FF03>a la vuelta de la esquina!<FF02><FF01> <FF1B><FF08>Voz de<FF03>¿Recuerdas esto? Dejaste morir a esa<FF03>pobre mujer",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -54617,7 +54753,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>Guarda tu arma, <FF07>!<FF02><FF01>   <FF1B><FF08>Voz de<FF03>Te faltó visión para ver<FF03>la verdad",
+  "texto_traducido": "<FF02><FF04><FF1B>Mark<FF03>¡Guarda tu arma, <FF07>!<FF02><FF01>   <FF1B><FF08>Voz de<FF03>Te faltó visión para ver<FF03>la verdad",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -54906,7 +55042,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "`<FF00><FF4D><5A00><FF60> <FF67><0D01><FF55> <B812> <FF68> <FF26><6B00><A012> <FF55> <4813> <FF61> <FF2B><C700>` <FF21> <FF55> <C014> <FF61> <FF2B><C700>` <FF21> <FF1B>Maki<FF03>Lo sabes, ¿verdad, <FF07>!?<FF03>¡Sabes que soy la peor chica del mundo!<FF02><FF01>  <FF1B><FF08>Voz de<FF03>¿Y qué respondiste a eso?<FF02><FF04><FF1B><FF08>Voz de<FF03>No pudiste decirle que no huyera,<FF03>porque tú también huías, ¿verdad?<FF02><FF04><FF1B><FF08>Voz de<FF03>¿Puedes mirarme a los ojos y negarlo,<FF03>yo?<FF02><FF01> <FF1B><FF08>Voz de<FF03>Respondiste bien. Es fácil huir de<FF03>los problemas, sí",
+  "texto_traducido": "`<FF00><FF4D><5A00><FF60> <FF67><0D01><FF55> <B812> <FF68> <FF26><6B00><A012> <FF55> <4813> <FF61> <FF2B><C700>` <FF21> <FF55> <C014> <FF61> <FF2B><C700>` <FF21> <FF1B>Maki<FF03>Lo sabes, ¿¡verdad, <FF07>!?<FF03>¡Sabes que soy la peor chica del mundo!<FF02><FF01>  <FF1B><FF08>Voz de<FF03>¿Y qué respondiste a eso?<FF02><FF04><FF1B><FF08>Voz de<FF03>No pudiste decirle que no huyera,<FF03>porque tú también huías, ¿verdad?<FF02><FF04><FF1B><FF08>Voz de<FF03>¿Puedes mirarme a los ojos y negarlo,<FF03>yo?<FF02><FF01> <FF1B><FF08>Voz de<FF03>Respondiste bien. Es fácil huir de<FF03>los problemas, sí",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -55393,7 +55529,7 @@
    "<FF07>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03><FF07>!?<FF02><FF01><FF1B>Maki<FF03><FF07>! ¡Hay dos de ti! Cómo",
+  "texto_traducido": "<FF03>¿¡<FF07>!?<FF02><FF01><FF1B>Maki<FF03>¡<FF07>! ¡Hay dos de ti! Cómo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -55418,7 +55554,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Maki<FF03>¿Por qué está aquí? ¿Y por qué<FF03>juega videojuegos!?<FF02><FF01><FF1B><FF08><FF03>",
+  "texto_traducido": "<FF02><FF04><FF1B>Maki<FF03>¿Por qué está aquí? ¿¡Y por qué<FF03>juega videojuegos!?<FF02><FF01><FF1B><FF08><FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -55636,7 +55772,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Nos vemos.<FF02><FF01> <FF1B>Maki<FF03>¿¡Por qué actúas así!?<FF03><FF07> ¡es un buen tipo!<FF02><FF04><FF1B>Maki<FF03>Vamos, <FF07>!<FF02><FF01>  <FF1B><FF08><FF03>",
+  "texto_traducido": " Nos vemos.<FF02><FF01> <FF1B>Maki<FF03>¿¡Por qué actúas así!?<FF03><FF07> ¡es un buen tipo!<FF02><FF04><FF1B>Maki<FF03>¡Vamos, <FF07>!<FF02><FF01>  <FF1B><FF08><FF03>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -56876,7 +57012,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Reiji<FF03>¿Qué te parece una pelea de práctica<FF03>para ver quién es más fuerte? ¿Te animas?<FF02><FF01>   <FF1B>Elly<FF03><FF07>! ¡Qué alegría que volvieras!<FF03>No estás herido, ¿verdad?<FF02><FF01>  <FF1B>Elly<FF03>Oh, <FF07>! Qué bueno tenerte<FF03>de vuelta",
+  "texto_traducido": "<FF02><FF04><FF1B>Reiji<FF03>¿Qué te parece una pelea de práctica<FF03>para ver quién es más fuerte? ¿Te animas?<FF02><FF01>   <FF1B>Elly<FF03>¡<FF07>! ¡Qué alegría que volvieras!<FF03>No estás herido, ¿verdad?<FF02><FF01>  <FF1B>Elly<FF03>¡Oh, <FF07>! Qué bueno tenerte<FF03>de vuelta",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -57683,7 +57819,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Demos<FF03>todo lo que tenemos, <FF07>!<FF02><FF01>   <FF1B>Nanjo<FF03>Hmm",
+  "texto_traducido": " ¡Demos<FF03>todo lo que tenemos, <FF07>!<FF02><FF01>   <FF1B>Nanjo<FF03>Hmm",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -57824,7 +57960,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Brown<FF03>¡Estoy emocionado!<FF02><FF04><FF1B>Brown<FF03>¡Al que se me ponga enfrente le doy<FF03>en la cara con mi Persona!<FF02><FF01><FF1B>Ayase<FF03>Mmm, un parque de diversiones. ¡Me muero<FF03>por subirme a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>La última vez me subí cinco veces seguidas--<FF03>¡esta vez voy por diez!<FF02><FF04><FF1B>Ayase<FF03>Y espero que estés conmigo,<FF03><FF07>!<FF02><FF01>  <FF1B>Ayase<FF03>Mmm, un parque de diversiones. ¡Me muero<FF03>por subirme a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>La última vez me subí cinco veces seguidas--<FF03>¡esta vez voy por diez!<FF02><FF04><FF1B>Ayase<FF03>Y espero que estés conmigo,<FF03><FF08>!<FF02><FF01>  <FF1B>Chisato<FF03>Cuídense.<FF02><FF04><FF1B>Chisato<FF03>Pero oye, qué suerte tienes, ¿eh?<FF03>Se nota quién le gusta a Maki",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Brown<FF03>¡Estoy emocionado!<FF02><FF04><FF1B>Brown<FF03>¡Al que se me ponga enfrente le doy<FF03>en la cara con mi Persona!<FF02><FF01><FF1B>Ayase<FF03>Mmm, un parque de diversiones. ¡Me muero<FF03>por subirme a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>La última vez me subí cinco veces seguidas--<FF03>¡esta vez voy por diez!<FF02><FF04><FF1B>Ayase<FF03>¡Y espero que estés conmigo,<FF03><FF07>!<FF02><FF01>  <FF1B>Ayase<FF03>Mmm, un parque de diversiones. ¡Me muero<FF03>por subirme a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>La última vez me subí cinco veces seguidas--<FF03>¡esta vez voy por diez!<FF02><FF04><FF1B>Ayase<FF03>¡Y espero que estés conmigo,<FF03><FF08>!<FF02><FF01>  <FF1B>Chisato<FF03>Cuídense.<FF02><FF04><FF1B>Chisato<FF03>Pero oye, qué suerte tienes, ¿eh?<FF03>Se nota quién le gusta a Maki",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -57931,7 +58067,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": " Ten cuidado, <FF07>!<FF02><FF01><FF1B>Yosuke<FF03>Sigan así. No puedo hacer<FF03>mucho, pero les echo porras.<FF02><FF01><2400> <E824> <7025> <C825> <6026> <B827> <1028> <3828> <2029> <4829> <8029> <402B> <002C> <402C> <382E> <702E> <C82F> <E82F> <F030> <4831> <6831> <9831> <D031> <2032> <7032> <B032> <5833> <E033> <9835> <1036> <C036> <D837> <9838> <303A> <C83B> <983C> <F83D>                                                                                                   <FFFF><1600><FFFF>",
+  "texto_traducido": " ¡Ten cuidado, <FF07>!<FF02><FF01><FF1B>Yosuke<FF03>Sigan así. No puedo hacer<FF03>mucho, pero les echo porras.<FF02><FF01><2400> <E824> <7025> <C825> <6026> <B827> <1028> <3828> <2029> <4829> <8029> <402B> <002C> <402C> <382E> <702E> <C82F> <E82F> <F030> <4831> <6831> <9831> <D031> <2032> <7032> <B032> <5833> <E033> <9835> <1036> <C036> <D837> <9838> <303A> <C83B> <983C> <F83D>                                                                                                   <FFFF><1600><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -59939,7 +60075,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Uf, eso fue un infierno.<FF02><FF04><FF1B>Mark<FF03><FF07> y yo perdimos el segundo botón<FF03>en el camino!<FF02><FF04><FF1B>Mark<FF03>Esas chicas se nos echaron encima",
+  "texto_traducido": " Uf, eso fue un infierno.<FF02><FF04><FF1B>Mark<FF03>¡<FF07> y yo perdimos el segundo botón<FF03>en el camino!<FF02><FF04><FF1B>Mark<FF03>Esas chicas se nos echaron encima",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -60239,7 +60375,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": " <FF07> Lo entendería con,<FF03>¿pero Masao?<FF02><FF01>   <FF1B>Ayase<FF03>Recuerda la promesa, <FF08>?<FF03>¡Vamos a subirnos 10 veces a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>¡Una y otra vez hasta vomitar!<FF02><FF01>  <FF1B>Ayase<FF03>Recuerda la promesa, <FF07>?<FF03>¡Vamos a subirnos 10 veces a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>¡Una y otra vez hasta vomitar!<FF02><FF01><1800> <701B> <E81B> <381C> <801C> <281D> <E01D> <D01F> <5020> <9820> <1821> <8821> <2822> <9022> <F022> <D823> <1824> <6824> <6025> <F825> <5826> <B826> <1027> <6827> <4828>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             <FFFF><2600><FFFF>",
+  "texto_traducido": " <FF07> Lo entendería con,<FF03>¿pero Masao?<FF02><FF01>   <FF1B>Ayase<FF03>¿Recuerda la promesa, <FF08>?<FF03>¡Vamos a subirnos 10 veces a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>¡Una y otra vez hasta vomitar!<FF02><FF01>  <FF1B>Ayase<FF03>¿Recuerda la promesa, <FF07>?<FF03>¡Vamos a subirnos 10 veces a la caída libre!<FF02><FF04><FF1B>Ayase<FF03>¡Una y otra vez hasta vomitar!<FF02><FF01><1800> <701B> <E81B> <381C> <801C> <281D> <E01D> <D01F> <5020> <9820> <1821> <8821> <2822> <9022> <F022> <D823> <1824> <6824> <6025> <F825> <5826> <B826> <1027> <6827> <4828>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             <FFFF><2600><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -60600,7 +60736,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Bien, entonces, <FF07>, ¿nos vamos?<FF02><FF01> <FF1B>Reiji<FF03>Oye, ¿qué quisiste decir con eso?<FF02><FF01><FF1B>Voz de Maki<FF03>Apúrate, <FF07>!<FF02><FF01><FF1B>Mark<FF03>Oigan, parece que el Señor Pantalones<FF03>Apestosos ya llegó.<FF02><FF01><FF1B>Brown<FF03>Jeje",
+  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Bien, entonces, <FF07>, ¿nos vamos?<FF02><FF01> <FF1B>Reiji<FF03>Oye, ¿qué quisiste decir con eso?<FF02><FF01><FF1B>Voz de Maki<FF03>¡Apúrate, <FF07>!<FF02><FF01><FF1B>Mark<FF03>Oigan, parece que el Señor Pantalones<FF03>Apestosos ya llegó.<FF02><FF01><FF1B>Brown<FF03>Jeje",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -60758,7 +60894,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>¿Qué pasa, chicos?<FF02><FF01><FF1B>Brown<FF03><FF08>! ¡Maki! Justo a tiempo.<FF02><FF04><FF1B>Brown<FF03>¡Mark te quería decir lo<FF03>emocionado que está por la caída libre!<FF02><FF01>  <FF1B>Maki<FF03>¿Oh, en serio? ¡Entonces vámonos!<FF02><FF01>  <FF1B>Mark<FF03>Hidehiko, tarado",
+  "texto_traducido": "<FF03>¿Qué pasa, chicos?<FF02><FF01><FF1B>Brown<FF03>¡<FF08>! ¡Maki! Justo a tiempo.<FF02><FF04><FF1B>Brown<FF03>¡Mark te quería decir lo<FF03>emocionado que está por la caída libre!<FF02><FF01>  <FF1B>Maki<FF03>¿Oh, en serio? ¡Entonces vámonos!<FF02><FF01>  <FF1B>Mark<FF03>Hidehiko, tarado",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -61393,7 +61529,7 @@
   "offset_fin": 692514,
   "longitud_original_bytes": 1524,
   "texto_original": null,
-  "texto_traducido": " <FFFF><FFFF>  <FF26><3400><E816> <FF4D><3C00><FF60> <FF67><1800><FF55> <0818> <FF55> <D037> <FF68> <FF24><ED00><FF56><0C00><FF67><0200><FF55> <E818> <FF68> <FF67><1800><FF55> <9019> <FF68> <FF67><0302><FF55> <A81A> <FF68> <FF67><1800><FF55> <881B> <FF68> <FF67><0302><FF55> <681E> <FF68> <FF67><0200><FF55> <301F> <FF68> <FF26><2900><E813> <FF26><2800><0014> <FF26><2A00><1814> <FF22> <3014> <FF67><0700><FF55> <9020> <FF68> <FF22> <3014> <FF67><0600><FF55> <0822> <FF68> <FF22> <3014> <FF67><0501><FF55> <3021> <FF68> <FF22> <3014> <FF67><0302><FF55> <8822> <FF68> <FF67><1800><FF55> <3823> <FF68> <FF67><0200><FF55> <0824> <FF68> <FF67>`<FF55> <C824> <FF68> <FF67><0302><FF55> <3026> <FF68> <FF67>`<FF55> <B026> <FF68> <FF67><0200><FF55> <B027> <FF68> <FF67>`<FF55> <D828> <FF68> <FF26><7501><E814> <FF67><0200><FF55> <B82A> <FF68> <FF67><1800><FF55> <382B> <FF68> <FF61> <FF22> <1815>   <FF67><0200><FF55> <9038> <FF68> <FF67><1802><FF55> <2839> <FF68> <FF61> <FF22> <1815>   <FF6C><0700><FF26><2900><7015> <FF26><2800><C015> <FF26><2A00><1016> <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0500><FF60> <FF22> <6016>   <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0400><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0400><FF7A><0500><FF60> <FF67><0700><FF55> <002C> <FF68> <FF22> <6016> <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0400><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0400><FF7A><0500><FF60> <FF67><0600><FF55> <C82B> <FF68> <FF22> <6016> <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0400><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0400><FF7A><0500><FF60> <FF67><0500><FF55> <582C> <FF68> <FF22> <6016> <FF67>`<FF55> <E02C> <FF68> <FF61> <FF4D><3C00><FF6D><0700><FF60> <FF55> <402D> <FF67><1800><FF55> <902E> <FF81><4100><FF55> <C02F> <FF68> <FF67>`<FF55> <0030> <FF68> <FF67><0201><FF55> <D030> <FF68> <FF61> <FF25><4401><FF25><7B01><FF24><1601><FF24><3400><FF53><0200><FF4C> <FF21>   <FF21>   <FF60> <FF67><1801><FF55> <A831> <FF68> <FF61> <FF21>   <FF60> <FF67>a<FF55> <6833> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <7834> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <8035> <FF68> <FF61> <FF21>   <FF26><2900><E817> <FF26><2800><A817> <FF26><2A00><C817> <FF60> <FF67><0801><FF55> <9039> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <6836> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <E036> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <3037> <FF68> <FF61> <FF21>   <FF1B>Chico herido<FF03><FF07>? ¿De verdad eres tú?<FF02><FF04><FF1B>Chico herido<FF03>¡No pensé que vería aquí a gente del<FF03>mundo original!<FF02><FF01>   <FF1B>Mark<FF03>¿Qué? Oh, no me digas",
+  "texto_traducido": " <FFFF><FFFF>  <FF26><3400><E816> <FF4D><3C00><FF60> <FF67><1800><FF55> <0818> <FF55> <D037> <FF68> <FF24><ED00><FF56><0C00><FF67><0200><FF55> <E818> <FF68> <FF67><1800><FF55> <9019> <FF68> <FF67><0302><FF55> <A81A> <FF68> <FF67><1800><FF55> <881B> <FF68> <FF67><0302><FF55> <681E> <FF68> <FF67><0200><FF55> <301F> <FF68> <FF26><2900><E813> <FF26><2800><0014> <FF26><2A00><1814> <FF22> <3014> <FF67><0700><FF55> <9020> <FF68> <FF22> <3014> <FF67><0600><FF55> <0822> <FF68> <FF22> <3014> <FF67><0501><FF55> <3021> <FF68> <FF22> <3014> <FF67><0302><FF55> <8822> <FF68> <FF67><1800><FF55> <3823> <FF68> <FF67><0200><FF55> <0824> <FF68> <FF67>`<FF55> <C824> <FF68> <FF67><0302><FF55> <3026> <FF68> <FF67>`<FF55> <B026> <FF68> <FF67><0200><FF55> <B027> <FF68> <FF67>`<FF55> <D828> <FF68> <FF26><7501><E814> <FF67><0200><FF55> <B82A> <FF68> <FF67><1800><FF55> <382B> <FF68> <FF61> <FF22> <1815>   <FF67><0200><FF55> <9038> <FF68> <FF67><1802><FF55> <2839> <FF68> <FF61> <FF22> <1815>   <FF6C><0700><FF26><2900><7015> <FF26><2800><C015> <FF26><2A00><1016> <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0500><FF60> <FF22> <6016>   <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0400><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0400><FF7A><0500><FF60> <FF67><0700><FF55> <002C> <FF68> <FF22> <6016> <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0400><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0400><FF7A><0500><FF60> <FF67><0600><FF55> <C82B> <FF68> <FF22> <6016> <FF69> <FF69>`<FF69><0200><FF69><0300><FF69><0400><FF69><0500><FF4D><3C00><FF7A> <FF7A>`<FF7A><0200><FF7A><0300><FF7A><0400><FF7A><0500><FF60> <FF67><0500><FF55> <582C> <FF68> <FF22> <6016> <FF67>`<FF55> <E02C> <FF68> <FF61> <FF4D><3C00><FF6D><0700><FF60> <FF55> <402D> <FF67><1800><FF55> <902E> <FF81><4100><FF55> <C02F> <FF68> <FF67>`<FF55> <0030> <FF68> <FF67><0201><FF55> <D030> <FF68> <FF61> <FF25><4401><FF25><7B01><FF24><1601><FF24><3400><FF53><0200><FF4C> <FF21>   <FF21>   <FF60> <FF67><1801><FF55> <A831> <FF68> <FF61> <FF21>   <FF60> <FF67>a<FF55> <6833> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <7834> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <8035> <FF68> <FF61> <FF21>   <FF26><2900><E817> <FF26><2800><A817> <FF26><2A00><C817> <FF60> <FF67><0801><FF55> <9039> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <6836> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <E036> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <3037> <FF68> <FF61> <FF21>   <FF1B>Chico herido<FF03>¿<FF07>? ¿De verdad eres tú?<FF02><FF04><FF1B>Chico herido<FF03>¡No pensé que vería aquí a gente del<FF03>mundo original!<FF02><FF01>   <FF1B>Mark<FF03>¿Qué? Oh, no me digas",
   "notas": "carácter repetido dominante (probable relleno gráfico)",
   "estado": "retraducido",
   "raw_hex": null,
@@ -61731,7 +61867,7 @@
   "offset_fin": 419408,
   "longitud_original_bytes": 612,
   "texto_original": null,
-  "texto_traducido": " <EF01><FF78><0500><FF7C><0506><0201> <FF26><2000><7815> <FF26><1F00><A014> <FF69><0500><FF4D><2000><FF7A><0500><FF60> <FF67><1601><FF55> <E815> <FF26><FD00><8014> <FF55> <E021> <FF68> <FF24><FD00><FF22> <5014> <FF21>   <FF67><1500><FF55> <2017> <FF26><FC00><9014> <FF55> <A022> <FF68> <FF61> <FF24><FC00><FF78> <FF21> <FF68> <FF22> <5014> <FF21> <FF68> <FF61> <FF78> <FF21> <FF60> <FF67><1601><FF55> <A019> <FF26><FD00><4815> <FF55> <E021> <FF68> <FF61> <FF24><FD00><FF22> <D814> <FF21> <FF69><0700><FF60> <FF67><1500><FF55> <C01D> <FF7A><0700><FF68> <FF67><1601><FF55> <301E> <FF68> <FF61> <FF7C><0704><0201> <FF60> <FF67><1501><FF55> <2021> <FF26><FC00><6015> <FF55> <A022> <FF68> <FF61> <FF24><FC00><FF24><2000><FF78> <FF21> <FF68> <FF61> <FF22> <D814> <FF21>   <FF68> <FF61> <FF24><2000><FF78> <FF21>   <FF78><0500><FF7C><0506><0201> <FF60> <FF67><1601><FF55> <E024> <FF68> <FF61> <FF78> <FF21>   <FF60> <FF67><1601><FF55> <7023> <FF68> <FF61> <FF21>   <FF60> <FF67><1501><FF55> <3024> <FF68> <FF61> <FF21>   <FF1B>Directora Ooishi<FF03><FF07>! Qué alivio que estén<FF03>bien",
+  "texto_traducido": " <EF01><FF78><0500><FF7C><0506><0201> <FF26><2000><7815> <FF26><1F00><A014> <FF69><0500><FF4D><2000><FF7A><0500><FF60> <FF67><1601><FF55> <E815> <FF26><FD00><8014> <FF55> <E021> <FF68> <FF24><FD00><FF22> <5014> <FF21>   <FF67><1500><FF55> <2017> <FF26><FC00><9014> <FF55> <A022> <FF68> <FF61> <FF24><FC00><FF78> <FF21> <FF68> <FF22> <5014> <FF21> <FF68> <FF61> <FF78> <FF21> <FF60> <FF67><1601><FF55> <A019> <FF26><FD00><4815> <FF55> <E021> <FF68> <FF61> <FF24><FD00><FF22> <D814> <FF21> <FF69><0700><FF60> <FF67><1500><FF55> <C01D> <FF7A><0700><FF68> <FF67><1601><FF55> <301E> <FF68> <FF61> <FF7C><0704><0201> <FF60> <FF67><1501><FF55> <2021> <FF26><FC00><6015> <FF55> <A022> <FF68> <FF61> <FF24><FC00><FF24><2000><FF78> <FF21> <FF68> <FF61> <FF22> <D814> <FF21>   <FF68> <FF61> <FF24><2000><FF78> <FF21>   <FF78><0500><FF7C><0506><0201> <FF60> <FF67><1601><FF55> <E024> <FF68> <FF61> <FF78> <FF21>   <FF60> <FF67><1601><FF55> <7023> <FF68> <FF61> <FF21>   <FF60> <FF67><1501><FF55> <3024> <FF68> <FF61> <FF21>   <FF1B>Directora Ooishi<FF03>¡<FF07>! Qué alivio que estén<FF03>bien",
   "notas": "carácter repetido dominante (probable relleno gráfico)",
   "estado": "retraducido",
   "raw_hex": null,
@@ -62180,6 +62316,23 @@
   "limite_chars": 12
  },
  {
+  "id": "e0_01942p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1488840,
+  "offset_fin": 1488870,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Kandori<FF03>Ja...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e0_01942",
   "archivo_origen": "e0.bin",
   "offset_inicio": 1488870,
@@ -62204,6 +62357,23 @@
   "estado": "retraducido",
   "raw_hex": null,
   "limite_chars": 11
+ },
+ {
+  "id": "e0_01996p",
+  "archivo_origen": "e0.bin",
+  "offset_inicio": 1508736,
+  "offset_fin": 1508762,
+  "longitud_original_bytes": 26,
+  "limite_chars": 13,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Maki<FF03>Esto...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
  },
  {
   "id": "e0_01996",

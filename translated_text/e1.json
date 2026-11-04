@@ -24,6 +24,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00031p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 17528,
+  "offset_fin": 17556,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Ayase<FF03>Auuu...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00031",
   "archivo_origen": "e1.bin",
   "offset_inicio": 17556,
@@ -1268,7 +1285,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " como quieras.<FF02><FF04><FF1B>Yukino<FF03>Si nos metemos en un aprieto,<FF03>seguro nos ayudas a aligerar el ambiente.<FF02><FF01>  <FF1B>Yukino<FF03>¡Oye! ¡Santo cielo, Yuka! ¿De dónde<FF03>sacaste un arma!?<FF02><FF01>   <FF1B>Ayase<FF03>Me la dio Kei. Él y Masao fueron<FF03>por armas a la estación de policía.<FF02><FF04><FF1B>Ayase<FF03>Pero Kei salió herido, así que volvieron<FF03>a la escuela.<FF02><FF04><FF1B>Ayase<FF03>Me dio unas armas y me dijo que se las<FF03>guardara mientras iba a la enfermería",
+  "texto_traducido": " como quieras.<FF02><FF04><FF1B>Yukino<FF03>Si nos metemos en un aprieto,<FF03>seguro nos ayudas a aligerar el ambiente.<FF02><FF01>  <FF1B>Yukino<FF03>¡Oye! ¡Santo cielo, Yuka! ¿¡De dónde<FF03>sacaste un arma!?<FF02><FF01>   <FF1B>Ayase<FF03>Me la dio Kei. Él y Masao fueron<FF03>por armas a la estación de policía.<FF02><FF04><FF1B>Ayase<FF03>Pero Kei salió herido, así que volvieron<FF03>a la escuela.<FF02><FF04><FF1B>Ayase<FF03>Me dio unas armas y me dijo que se las<FF03>guardara mientras iba a la enfermería",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1788,7 +1805,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿Se repitió aquí el fenómeno<FF03>que vimos en el hospital!?<FF02><FF01>  <FF1B>Elly<FF03>Me temo que sí.<FF02><FF04><FF1B>Elly<FF03>Con una diferencia importante",
+  "texto_traducido": " ¿¡Se repitió aquí el fenómeno<FF03>que vimos en el hospital!?<FF02><FF01>  <FF1B>Elly<FF03>Me temo que sí.<FF02><FF04><FF1B>Elly<FF03>Con una diferencia importante",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -3556,6 +3573,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00169p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 102360,
+  "offset_fin": 102392,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Brown<FF03>¿Qué...?",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00169",
   "archivo_origen": "e1.bin",
   "offset_inicio": 102392,
@@ -3973,7 +4007,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " de verdad, de verdad quieres<FF03>Hidehiko?<FF02><FF0E> <FF01>   <FF1B>Brown<FF03>¿¡Qué dices!?<FF02><FF04><FF1B>Brown<FF03>¡Vamos, chicos! ¡Sé que todos quieren<FF03>que los acompañe! ¡No hace falta esconderlo!<FF02><FF01>  <FF1B>Brown<FF03>¡Vamos, sean sinceros!<FF02><FF04><FF1B>Brown<FF03>¡La señorita Yukino me rogó que me uniera!<FF03>¿Cómo voy a decir que no?<FF02><FF04><FF1B>Brown<FF03>Además, oí que es tu culpa que la<FF03>escuela esté así.<FF02><FF04><FF1B>Brown<FF03>¡Conmigo de líder, no podemos perder!<FF03>¡Confíen en mí!<FF02><FF04><FF1B>Brown<FF03>Muajajajaja",
+  "texto_traducido": " ¿de verdad, de verdad quieres<FF03>Hidehiko?<FF02><FF0E> <FF01>   <FF1B>Brown<FF03>¿¡Qué dices!?<FF02><FF04><FF1B>Brown<FF03>¡Vamos, chicos! ¡Sé que todos quieren<FF03>que los acompañe! ¡No hace falta esconderlo!<FF02><FF01>  <FF1B>Brown<FF03>¡Vamos, sean sinceros!<FF02><FF04><FF1B>Brown<FF03>¡La señorita Yukino me rogó que me uniera!<FF03>¿Cómo voy a decir que no?<FF02><FF04><FF1B>Brown<FF03>Además, oí que es tu culpa que la<FF03>escuela esté así.<FF02><FF04><FF1B>Brown<FF03>¡Conmigo de líder, no podemos perder!<FF03>¡Confíen en mí!<FF02><FF04><FF1B>Brown<FF03>Muajajajaja",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -5994,6 +6028,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00237p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 150416,
+  "offset_fin": 150438,
+  "longitud_original_bytes": 22,
+  "limite_chars": 11,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Elly<FF03>Mm...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00237",
   "archivo_origen": "e1.bin",
   "offset_inicio": 150438,
@@ -7202,6 +7253,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e1_00321p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 286024,
+  "offset_fin": 286062,
+  "longitud_original_bytes": 38,
+  "limite_chars": 19,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>Pero qué...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -8807,6 +8875,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00442p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 390840,
+  "offset_fin": 390882,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>¿Estamos...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00442",
   "archivo_origen": "e1.bin",
   "offset_inicio": 390882,
@@ -9057,7 +9142,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Subdirectora Ooishi<FF03>¿Suele <0028>inventar<0028> reglamentos<FF03>sin pensarlos nada!?<FF02><FF01>   <FF1B>Nanjo<FF03>Esto es completamente ridículo. Ya no<FF03>soporto verlo.<FF02><FF04><FF1B>Nanjo<FF03>¿Un verdadero educador debería<FF03>decir estas cosas?<FF02><FF01><FF1B>Elly<FF03>El deseo de poder del subdirector<FF03>Hanya debe ser muy fuerte",
+  "texto_traducido": "<FF02><FF04><FF1B>Subdirectora Ooishi<FF03>¿¡Suele <0028>inventar<0028> reglamentos<FF03>sin pensarlos nada!?<FF02><FF01>   <FF1B>Nanjo<FF03>Esto es completamente ridículo. Ya no<FF03>soporto verlo.<FF02><FF04><FF1B>Nanjo<FF03>¿Un verdadero educador debería<FF03>decir estas cosas?<FF02><FF01><FF1B>Elly<FF03>El deseo de poder del subdirector<FF03>Hanya debe ser muy fuerte",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -9296,6 +9381,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e1_00464p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 408688,
+  "offset_fin": 408724,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>Este es...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -10231,6 +10333,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00507p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 437080,
+  "offset_fin": 437120,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>¿Qué...?",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00507",
   "archivo_origen": "e1.bin",
   "offset_inicio": 437120,
@@ -11077,6 +11196,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00541p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 457936,
+  "offset_fin": 457964,
+  "longitud_original_bytes": 28,
+  "limite_chars": 14,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>Ah...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00541",
   "archivo_origen": "e1.bin",
   "offset_inicio": 457964,
@@ -11301,7 +11437,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "Los demás<0028>? Hmph, sin duda<FF03>has tenido una vida fácil.<FF02><FF04><FF1B>Nanjo<FF03>¡Solo culpas a <0028>los demás<0028> de<FF03>todo mientras huyes!<FF02><FF04><FF1B>Nanjo<FF03>¿Y ahora, harta de eso, decidiste<FF03>divertirte sola en tu sueño?<FF02><FF04><FF1B>Nanjo<FF03>Eres una cobarde, te da miedo enfrentar<FF03>la vida real y a la gente real.<FF02><FF01> <FF1B>Elly<FF03><0028>Los demás,<0028> ¿verdad?<FF02><FF04><FF1B>Elly<FF03>Tu vida parece muy fácil",
+  "texto_traducido": "¿Los demás<0028>? Hmph, sin duda<FF03>has tenido una vida fácil.<FF02><FF04><FF1B>Nanjo<FF03>¡Solo culpas a <0028>los demás<0028> de<FF03>todo mientras huyes!<FF02><FF04><FF1B>Nanjo<FF03>¿Y ahora, harta de eso, decidiste<FF03>divertirte sola en tu sueño?<FF02><FF04><FF1B>Nanjo<FF03>Eres una cobarde, te da miedo enfrentar<FF03>la vida real y a la gente real.<FF02><FF01> <FF1B>Elly<FF03><0028>Los demás,<0028> ¿verdad?<FF02><FF04><FF1B>Elly<FF03>Tu vida parece muy fácil",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -11861,6 +11997,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e1_00588p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 528128,
+  "offset_fin": 528174,
+  "longitud_original_bytes": 46,
+  "limite_chars": 23,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Tadashi<FF03>No temas...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -14124,6 +14277,23 @@
   "texto_original": null,
   "texto_traducido": " Su presencia es bienvenida.<FF02><FF01> <FF1B>Árbol Agastya<FF03>¿Inscribirán su historia en mí?<FF02><FF0E> <FF01>   <FF1B>Árbol Agastya<FF03>Cuídense en su viaje, jóvenes",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e1_00687p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 601440,
+  "offset_fin": 601502,
+  "longitud_original_bytes": 62,
+  "limite_chars": 31,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>¿¡Q-Qué!? Estamos...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -17119,7 +17289,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Son mis compañeros, y no puedo<FF03>abandonarlos.<FF02><FF04><FF1B>Nanjo<FF03>Ahora dame la llave de sus cadenas.<FF02><FF01><FF1B>Brown<FF03>¿¡Quién DEMONIOS te crees!?<FF02><FF04><FF1B>Brown<FF03>¡Maldita creída! ¿¡Cómo te atreves a hacerles<FF03>esto a Toro y al Chico Diablo!?<FF02><FF04><FF1B>Brown<FF03>¡Había un límite, y te lo<FF03>acabas de brincar!<FF02><FF04><FF1B>Brown<FF03>¡Ya basta y quítales esas cadenas<FF03>ahora mismo!<FF02><FF01><FF1B>Michiko<FF03>Oh, quieren mucho a sus amigos, ¿mm?<FF02><FF04><FF1B>Michiko<FF03>Qué bonita amistad, ¿no?<FF02><FF04><FF1B>Michiko<FF03>¡Ojojojo! ¡Qué espléndido!<FF02><FF04><FF1B>Michiko<FF03>¡Ja! <0028>Amistad<0028>!<FF02><FF04><FF1B>Michiko<FF03>Entonces, en honor a su admirable<FF03>amistad",
+  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Son mis compañeros, y no puedo<FF03>abandonarlos.<FF02><FF04><FF1B>Nanjo<FF03>Ahora dame la llave de sus cadenas.<FF02><FF01><FF1B>Brown<FF03>¿¡Quién DEMONIOS te crees!?<FF02><FF04><FF1B>Brown<FF03>¡Maldita creída! ¿¡Cómo te atreves a hacerles<FF03>esto a Toro y al Chico Diablo!?<FF02><FF04><FF1B>Brown<FF03>¡Había un límite, y te lo<FF03>acabas de brincar!<FF02><FF04><FF1B>Brown<FF03>¡Ya basta y quítales esas cadenas<FF03>ahora mismo!<FF02><FF01><FF1B>Michiko<FF03>Oh, quieren mucho a sus amigos, ¿mm?<FF02><FF04><FF1B>Michiko<FF03>Qué bonita amistad, ¿no?<FF02><FF04><FF1B>Michiko<FF03>¡Ojojojo! ¡Qué espléndido!<FF02><FF04><FF1B>Michiko<FF03>¡Ja! <0028>¡Amistad<0028>!<FF02><FF04><FF1B>Michiko<FF03>Entonces, en honor a su admirable<FF03>amistad",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -18466,7 +18636,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Me hiciste enojar.<FF02><FF04><FF1B>Nanjo<FF03>¿En serio creíste que podías burlarte<FF03>de mí y salir ilesa?<FF02><FF04><FF1B>Nanjo<FF03>¡Kei Nanjo no es mascota de nadie!<FF02><FF04><FF1B>Nanjo<FF03>Pagarás tu insulto con la<FF03>vida. ¡Prepárate!<FF02><FF01><FF1B>Brown<FF03>¡Yo nunca le daría la espalda a mis amigos!<FF03>¡Es malo para mi reputación!<FF02><FF04><FF1B>Brown<FF03>¡Y DEFINITIVAMENTE nunca perdonaría<FF03>a una bruja como tú!<FF02><FF04><FF1B>Brown<FF03>¡Esto es por torturar a Toro y Tsutomu!<FF03>Por decirnos a todos <0028>cachorros<0028>!<FF02><FF04><FF1B>Brown<FF03>Pero sobre todo",
+  "texto_traducido": "<FF02><FF04><FF1B>Nanjo<FF03>Me hiciste enojar.<FF02><FF04><FF1B>Nanjo<FF03>¿En serio creíste que podías burlarte<FF03>de mí y salir ilesa?<FF02><FF04><FF1B>Nanjo<FF03>¡Kei Nanjo no es mascota de nadie!<FF02><FF04><FF1B>Nanjo<FF03>Pagarás tu insulto con la<FF03>vida. ¡Prepárate!<FF02><FF01><FF1B>Brown<FF03>¡Yo nunca le daría la espalda a mis amigos!<FF03>¡Es malo para mi reputación!<FF02><FF04><FF1B>Brown<FF03>¡Y DEFINITIVAMENTE nunca perdonaría<FF03>a una bruja como tú!<FF02><FF04><FF1B>Brown<FF03>¡Esto es por torturar a Toro y Tsutomu!<FF03>¡Por decirnos a todos <0028>cachorros<0028>!<FF02><FF04><FF1B>Brown<FF03>Pero sobre todo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -20101,6 +20271,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_00954p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 744448,
+  "offset_fin": 744478,
+  "longitud_original_bytes": 30,
+  "limite_chars": 15,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Yukino<FF03>Bah...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_00954",
   "archivo_origen": "e1.bin",
   "offset_inicio": 744478,
@@ -21521,7 +21708,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF05><1E00><FF03>Per-<FF05><1E00>so-<FF05><1E00>¡na!<FF02><FF04><FF1B>Yuriko<FF03>¡Gracias! ¡Jijijijiji! ¡Nos vemos!<FF02><FF01>   <FF1B>Yukino<FF03>¡Rayos! ¿¡Qué le pasa a esa tonta!?<FF02><FF04><FF1B>Yukino<FF03>¿Y eso qué fue? <0028>Me llevo<FF03>tu otra vida<0028>?<FF02><FF04><FF1B>Yukino<FF03>¿Qué quiso decir?<FF02><FF01><0044> ¿Apagar la vela?<FF02><FF0E> <FF01>  <FF1B>Yuriko<FF03>¡Jijiji! ¡Los atrapé!<FF02><FF04><FF1B>Yuriko<FF03>¡Jijijijijiji!<FF02><FF04><FF1B>Yuriko<FF03>¿De verdad creyeron que podían pasar<FF03>gratis? ¡Qué tontitos!<FF02><FF04><FF1B>Yuriko<FF03>¡Aquí se trata de dar y recibir!<FF02><FF04><FF1B>Yuriko<FF03>¡Si quieren algo en esta torre,<FF03>tienen que dar algo a cambio!<FF02><FF04><FF1B>Yuriko<FF03>La vida es dura, ¿no?<FF02><FF04><FF1B>Yuriko<FF03>Bueno, me llevo tu otra vida",
+  "texto_traducido": "<FF05><1E00><FF03>Per-<FF05><1E00>so-<FF05><1E00>¡na!<FF02><FF04><FF1B>Yuriko<FF03>¡Gracias! ¡Jijijijiji! ¡Nos vemos!<FF02><FF01>   <FF1B>Yukino<FF03>¡Rayos! ¿¡Qué le pasa a esa tonta!?<FF02><FF04><FF1B>Yukino<FF03>¿Y eso qué fue? <0028>¿Me llevo<FF03>tu otra vida<0028>?<FF02><FF04><FF1B>Yukino<FF03>¿Qué quiso decir?<FF02><FF01><0044> ¿Apagar la vela?<FF02><FF0E> <FF01>  <FF1B>Yuriko<FF03>¡Jijiji! ¡Los atrapé!<FF02><FF04><FF1B>Yuriko<FF03>¡Jijijijijiji!<FF02><FF04><FF1B>Yuriko<FF03>¿De verdad creyeron que podían pasar<FF03>gratis? ¡Qué tontitos!<FF02><FF04><FF1B>Yuriko<FF03>¡Aquí se trata de dar y recibir!<FF02><FF04><FF1B>Yuriko<FF03>¡Si quieren algo en esta torre,<FF03>tienen que dar algo a cambio!<FF02><FF04><FF1B>Yuriko<FF03>La vida es dura, ¿no?<FF02><FF04><FF1B>Yuriko<FF03>Bueno, me llevo tu otra vida",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -22706,7 +22893,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¡el Fragmento de Espejo no está<FF03>en este cofre! ¡Qué penita!<FF02><FF04><FF1B>Yuriko<FF03>¡Nos vemos luego! ¡Bai-bai!<FF02><FF01> <FF1B>Ayase<FF03>¡Estoy! ¡SÚPER! ¡ENOJADA!<FF02><FF04><FF1B>Ayase<FF03>¡Uf! ¡No PUEDO creer que caí!<FF02><FF04><FF1B>Ayase<FF03>Oye, <FF07>! ¿¡Por qué no<FF03>abriste el cofre de la izquierda!?<FF02><FF04><FF1B>Ayase<FF03>¡Es, o sea, tu culpa que no<FF03>consiguiéramos un fragmento!<FF02><FF04><FF1B>Ayase<FF03>¡No mía!<FF02><FF01><2000> <301E> <F81F> <7821> <5822> <6823> <8824> <8825> <3026> <E026> <E02A> <082D> <F02D> <E82E> <902F> <2031> <1032> <7034> <A034> <0835> <E835> <E836> <1837> <1038> <083A> <503A> <A03A> <D03A> <483B> <F03C> <D03F> <6842> <2046>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <FFFF><0200><FFFF><FFFF><FFFF><9D00><FFFF><FFFF><FFFF><FFFF><AA00><FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><0500><FFFF><CA2C> <D810> <5011> <E010> <5011> <E810> <F010> <4811> <5011> <D80C> <0200><100B>` <9812>  <FFFF>",
+  "texto_traducido": " ¡el Fragmento de Espejo no está<FF03>en este cofre! ¡Qué penita!<FF02><FF04><FF1B>Yuriko<FF03>¡Nos vemos luego! ¡Bai-bai!<FF02><FF01> <FF1B>Ayase<FF03>¡Estoy! ¡SÚPER! ¡ENOJADA!<FF02><FF04><FF1B>Ayase<FF03>¡Uf! ¡No PUEDO creer que caí!<FF02><FF04><FF1B>Ayase<FF03>¡Oye, <FF07>! ¿¡Por qué no<FF03>abriste el cofre de la izquierda!?<FF02><FF04><FF1B>Ayase<FF03>¡Es, o sea, tu culpa que no<FF03>consiguiéramos un fragmento!<FF02><FF04><FF1B>Ayase<FF03>¡No mía!<FF02><FF01><2000> <301E> <F81F> <7821> <5822> <6823> <8824> <8825> <3026> <E026> <E02A> <082D> <F02D> <E82E> <902F> <2031> <1032> <7034> <A034> <0835> <E835> <E836> <1837> <1038> <083A> <503A> <A03A> <D03A> <483B> <F03C> <D03F> <6842> <2046>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <FFFF><0200><FFFF><FFFF><FFFF><9D00><FFFF><FFFF><FFFF><FFFF><AA00><FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><0500><FFFF><CA2C> <D810> <5011> <E010> <5011> <E810> <F010> <4811> <5011> <D80C> <0200><100B>` <9812>  <FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -27174,6 +27361,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_01299p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 1171544,
+  "offset_fin": 1171580,
+  "longitud_original_bytes": 36,
+  "limite_chars": 18,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Ayase<FF03>N-No...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_01299",
   "archivo_origen": "e1.bin",
   "offset_inicio": 1171580,
@@ -29495,7 +29699,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Yukino<FF03>Es como si por primera vez entendiera<FF03>por qué estoy viva.<FF02><FF01>  <FF1B>Ayase<FF03>¡Órale, eso sonó MUY padre!<FF02><FF01> <FF1B>Yukino<FF03>C-<FF05><1E00>¡Cállate!<FF03>Vamos, <FF07>!<FF02><FF04><FF1B>Yukino<FF03>¡Con Reina de la Noche o sin ella, este<FF03>equipo no tiene nada que temer!<FF02><FF01> <FF1B>Profesora Saeko<FF03>Jaja",
+  "texto_traducido": "<FF02><FF04><FF1B>Yukino<FF03>Es como si por primera vez entendiera<FF03>por qué estoy viva.<FF02><FF01>  <FF1B>Ayase<FF03>¡Órale, eso sonó MUY padre!<FF02><FF01> <FF1B>Yukino<FF03>C-<FF05><1E00>¡Cállate!<FF03>¡Vamos, <FF07>!<FF02><FF04><FF1B>Yukino<FF03>¡Con Reina de la Noche o sin ella, este<FF03>equipo no tiene nada que temer!<FF02><FF01> <FF1B>Profesora Saeko<FF03>Jaja",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -29516,7 +29720,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Dejo a todos en tus<FF03>manos, <FF07>!<FF02><FF01> <FF1B>Yukino<FF03>¿Q",
+  "texto_traducido": " ¡Dejo a todos en tus<FF03>manos, <FF07>!<FF02><FF01> <FF1B>Yukino<FF03>¿Q",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30241,7 +30445,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Esa es una cosa<FF03>muy bonita.<FF02><FF04><FF1B>Reiho<FF03>¡Hee! ¡Tienes razón! Tiene <FF18><0500>Ambrosía<FF18> !<FF02><FF04><FF1B>Raiho<FF03>¡Hee-qué padre! ¡Quiero una!<FF02><FF04><FF1B>Reiho<FF03>¡Dámela! ¡Ya! ¿¡Hee-me oyes!?<FF02><FF04><FF1B>Raiho<FF03>Este",
+  "texto_traducido": " Esa es una cosa<FF03>muy bonita.<FF02><FF04><FF1B>Reiho<FF03>¡Hee! ¡Tienes razón! ¡Tiene <FF18><0500>Ambrosía<FF18> !<FF02><FF04><FF1B>Raiho<FF03>¡Hee-qué padre! ¡Quiero una!<FF02><FF04><FF1B>Reiho<FF03>¡Dámela! ¡Ya! ¿¡Hee-me oyes!?<FF02><FF04><FF1B>Raiho<FF03>Este",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30302,7 +30506,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Reiho<FF03>Aaay, las reglas humanas son un fastidio.<FF03>¿Entonces hee-qué tal un cambio, ho?<FF02><FF04><FF1B>Raiho<FF03>¡Hee-ho!<FF02><FF04><FF1B>Raiho<FF03>Cambio uno de mis <FF18><0700>tótems<FF18>  por un<FF03>poco de <FF18><0500>Ambrosía<FF18> !<FF02><FF01><FF1B>Reiho<FF03>Ho-dicen que si fusionas los tótems con<FF03>demonios, hee-pasa algo bueno.<FF02><FF04><FF1B>Raiho<FF03>Yo tengo cinco tótems, y ustedes son<FF03>cinco",
+  "texto_traducido": "<FF02><FF04><FF1B>Reiho<FF03>Aaay, las reglas humanas son un fastidio.<FF03>¿Entonces hee-qué tal un cambio, ho?<FF02><FF04><FF1B>Raiho<FF03>¡Hee-ho!<FF02><FF04><FF1B>Raiho<FF03>¡Cambio uno de mis <FF18><0700>tótems<FF18>  por un<FF03>poco de <FF18><0500>Ambrosía<FF18> !<FF02><FF01><FF1B>Reiho<FF03>Ho-dicen que si fusionas los tótems con<FF03>demonios, hee-pasa algo bueno.<FF02><FF04><FF1B>Raiho<FF03>Yo tengo cinco tótems, y ustedes son<FF03>cinco",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30478,7 +30682,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿Estás de acuerdo<FF03>con esto, verdad?<FF02><FF0E> <FF01>  <FF1B>Raiho<FF03>¡Hee-ho! Aquí tienes tu <FF19><0200><FF18><0500>Tambor de Bisonte<FF18> !<FF02><FF01> <0044> Obtuviste la <FF19><0200><FF18><0500>Tambor de Bisonte<FF18> .<FF02><FF01> <FF1B>Yukino<FF03>Yo me quedo con esto.<FF02><FF01><FF1B>Ayase<FF03>Órale, lo trae completamente<FF03>de su lado.<FF02><FF01>   <FF1B>Ayase<FF03>Ehhh",
+  "texto_traducido": " ¿Estás de acuerdo<FF03>con esto, verdad?<FF02><FF0E> <FF01>  <FF1B>Raiho<FF03>¡Hee-ho! ¡Aquí tienes tu <FF19><0200><FF18><0500>Tambor de Bisonte<FF18> !<FF02><FF01> <0044> Obtuviste la <FF19><0200><FF18><0500>Tambor de Bisonte<FF18> .<FF02><FF01> <FF1B>Yukino<FF03>Yo me quedo con esto.<FF02><FF01><FF1B>Ayase<FF03>Órale, lo trae completamente<FF03>de su lado.<FF02><FF01>   <FF1B>Ayase<FF03>Ehhh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30537,7 +30741,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Ya tengo uno, ¿te acuerdas?<FF02><FF01>  <FF1B>Ayase<FF03>¿¡Por qué tenía que ser un CADÁVER disecado!?<FF03>¡Esto es horrible!<FF02><FF01>   <FF1B>Ayase<FF03>Los tótems son valiosos, ¿no?<FF02><FF01><FF1B>Ayase<FF03>¿Uh, me toca uno?<FF02><FF0E> <FF01> <FF1B>Ayase<FF03>¡Está bien! ¡Pesado!<FF02><FF01><FF1B>Ayase<FF03>¡Genial! ¿No es broma?<FF02><FF0E> <FF01> <FF1B>Raiho<FF03>¡Hee-ho! Aquí tienes tu <FF19><0200><FF18><0500>Ciervo de Peluche<FF18> !<FF02><FF01><0044> Obtuviste la <FF19><0200><FF18><0500>Ciervo de Peluche<FF18> .<FF02><FF01><FF1B>Ayase<FF03>E-E-Espera",
+  "texto_traducido": " Ya tengo uno, ¿te acuerdas?<FF02><FF01>  <FF1B>Ayase<FF03>¿¡Por qué tenía que ser un CADÁVER disecado!?<FF03>¡Esto es horrible!<FF02><FF01>   <FF1B>Ayase<FF03>Los tótems son valiosos, ¿no?<FF02><FF01><FF1B>Ayase<FF03>¿Uh, me toca uno?<FF02><FF0E> <FF01> <FF1B>Ayase<FF03>¡Está bien! ¡Pesado!<FF02><FF01><FF1B>Ayase<FF03>¡Genial! ¿No es broma?<FF02><FF0E> <FF01> <FF1B>Raiho<FF03>¡Hee-ho! ¡Aquí tienes tu <FF19><0200><FF18><0500>Ciervo de Peluche<FF18> !<FF02><FF01><0044> Obtuviste la <FF19><0200><FF18><0500>Ciervo de Peluche<FF18> .<FF02><FF01><FF1B>Ayase<FF03>E-E-Espera",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30687,7 +30891,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF0E> <FF01><FF1B>Raiho<FF03>¡Hee-ho! Aquí tienes tu <FF19><0200><FF18><0500>Lentes de Ámbar<FF18> !<FF02><FF01>   <0044> Obtuviste la <FF19><0200><FF18><0500>Lentes de Ámbar<FF18> .<FF02><FF01>   <FF1B>Nanjo<FF03>Estos son",
+  "texto_traducido": "<FF02><FF0E> <FF01><FF1B>Raiho<FF03>¡Hee-ho! ¡Aquí tienes tu <FF19><0200><FF18><0500>Lentes de Ámbar<FF18> !<FF02><FF01>   <0044> Obtuviste la <FF19><0200><FF18><0500>Lentes de Ámbar<FF18> .<FF02><FF01>   <FF1B>Nanjo<FF03>Estos son",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30794,7 +30998,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Elly<FF03>Estos demonios no parecen hostiles.<FF02><FF01><FF1B>Elly<FF03>Yo cuido bien el mío.<FF02><FF01>   <FF1B>Elly<FF03>¡Gracias!<FF02><FF01>  <FF1B>Elly<FF03>Los tótems son muy valiosos. Lo mejor es<FF03>dárselos a quien más los necesite.<FF02><FF01>  <FF1B>Elly<FF03>¿Quieres que yo tenga uno?<FF02><FF0E> <FF01><FF1B>Elly<FF03>Por favor, tómate tu tiempo<FF03>para decidir.<FF02><FF01>   <FF1B>Elly<FF03>¿Estás seguro?<FF02><FF0E> <FF01>  <FF1B>Raiho<FF03>¡Hee-ho! Aquí tienes tu <FF19><0200><FF18><0500>Contrato del Juicio<FF18> !<FF02><FF01>  <0044> Obtuviste la <FF19><0200><FF18><0500>Contrato del Juicio<FF18> .<FF02><FF01>  <FF1B>Elly<FF03>¡Gracias!<FF02><FF01>  <FF1B>Brown<FF03>Pobre",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Elly<FF03>Estos demonios no parecen hostiles.<FF02><FF01><FF1B>Elly<FF03>Yo cuido bien el mío.<FF02><FF01>   <FF1B>Elly<FF03>¡Gracias!<FF02><FF01>  <FF1B>Elly<FF03>Los tótems son muy valiosos. Lo mejor es<FF03>dárselos a quien más los necesite.<FF02><FF01>  <FF1B>Elly<FF03>¿Quieres que yo tenga uno?<FF02><FF0E> <FF01><FF1B>Elly<FF03>Por favor, tómate tu tiempo<FF03>para decidir.<FF02><FF01>   <FF1B>Elly<FF03>¿Estás seguro?<FF02><FF0E> <FF01>  <FF1B>Raiho<FF03>¡Hee-ho! ¡Aquí tienes tu <FF19><0200><FF18><0500>Contrato del Juicio<FF18> !<FF02><FF01>  <0044> Obtuviste la <FF19><0200><FF18><0500>Contrato del Juicio<FF18> .<FF02><FF01>  <FF1B>Elly<FF03>¡Gracias!<FF02><FF01>  <FF1B>Brown<FF03>Pobre",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -30957,7 +31161,7 @@
    "<FFFF>"
   ],
   "texto_original": null,
-  "texto_traducido": " ¿no lo reconsideras?<FF02><FF01> <FF1B>Brown<FF03>¿D-De verdad? ¿No te importa?<FF02><FF0E> <FF01><FF1B>Raiho<FF03>¡Hee-ho! Aquí tienes tu <FF19><0200><FF18><0500>Runa Victoriana<FF18> !<FF02><FF01>  <0044> Obtuviste la <FF19><0200><FF18><0500>Runa Victoriana<FF18> .<FF02><FF01>  <FF1B>Brown<FF03>Muajaja, ese sí es un tótem con clase.<FF03>Muy apropiado para mí.<FF02><FF01><3F00> <601B> <B01D> <6020> <0021> <4821> <B824> <5028> <7028> <B028> <E828> <4829> <F029> <402A> <B02A> <102B> <482B> <882B> <302C> <782C> <F02C> <782D> <E02D> <302E> <702E> <E02E> <302F> <B82F> <0030> <4030> <6830> <A830> <0831> <5031> <4832> <C032> <E832> <1033> <9833> <1834> <6834> <A034> <0835> <5835> <2836> <7836> <C836> <F036> <A037> <E837> <5838> <9038> <0039> <5839> <8039> <E039> <183A> <583A> <F03A> <303B> <803B> <C83B> <303C> <803C>                                                                                                                                                                                                                                                               <FFFF><1600><FFFF>",
+  "texto_traducido": " ¿no lo reconsideras?<FF02><FF01> <FF1B>Brown<FF03>¿D-De verdad? ¿No te importa?<FF02><FF0E> <FF01><FF1B>Raiho<FF03>¡Hee-ho! ¡Aquí tienes tu <FF19><0200><FF18><0500>Runa Victoriana<FF18> !<FF02><FF01>  <0044> Obtuviste la <FF19><0200><FF18><0500>Runa Victoriana<FF18> .<FF02><FF01>  <FF1B>Brown<FF03>Muajaja, ese sí es un tótem con clase.<FF03>Muy apropiado para mí.<FF02><FF01><3F00> <601B> <B01D> <6020> <0021> <4821> <B824> <5028> <7028> <B028> <E828> <4829> <F029> <402A> <B02A> <102B> <482B> <882B> <302C> <782C> <F02C> <782D> <E02D> <302E> <702E> <E02E> <302F> <B82F> <0030> <4030> <6830> <A830> <0831> <5031> <4832> <C032> <E832> <1033> <9833> <1834> <6834> <A034> <0835> <5835> <2836> <7836> <C836> <F036> <A037> <E837> <5838> <9038> <0039> <5839> <8039> <E039> <183A> <583A> <F03A> <303B> <803B> <C83B> <303C> <803C>                                                                                                                                                                                                                                                               <FFFF><1600><FFFF>",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -33096,6 +33300,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_01607p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 1559888,
+  "offset_fin": 1559928,
+  "longitud_original_bytes": 40,
+  "limite_chars": 20,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Reina<FF03>Jeje...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_01607",
   "archivo_origen": "e1.bin",
   "offset_inicio": 1559928,
@@ -33923,7 +34144,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>Así me siento con amigos como estos.<FF02><FF04><FF1B>Nanjo<FF03>¡Esté tranquila, profesora Saeko,<FF03>encontraremos a Masao y a Maki!<FF02><FF04><FF1B>Nanjo<FF03>Vamos, <FF07>!<FF02><FF01> <FF1B>Ayase<FF03>¿Sabe? Hasta ahora solo he hecho<FF03>lo que se me antoja",
+  "texto_traducido": "<FF03>Así me siento con amigos como estos.<FF02><FF04><FF1B>Nanjo<FF03>¡Esté tranquila, profesora Saeko,<FF03>encontraremos a Masao y a Maki!<FF02><FF04><FF1B>Nanjo<FF03>¡Vamos, <FF07>!<FF02><FF01> <FF1B>Ayase<FF03>¿Sabe? Hasta ahora solo he hecho<FF03>lo que se me antoja",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -34009,7 +34230,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Nos vemos luego, ¿sí?<FF02><FF01>  <FF1B>Profesora Saeko<FF03>Gracias por todo, <FF07>!<FF02><FF04><FF1B>Profesora Saeko<FF03>Parece que ellos ya piensan en su<FF03>futuro. ¿Y tú?<FF02><FF01>  <FF1B>Profesora Saeko<FF03>¿Ya tienes un futuro en mente?<FF02><FF0E> <FF01><FF1B>Profesora Saeko<FF03>¡Qué bien!<FF02><FF04><FF1B>Profesora Saeko<FF03>Hiciste algo increíble aquí.<FF03>¡Disfruta esa sensación y échale ganas!<FF02><FF01><FF1B>Profesora Saeko<FF03>Ya veo",
+  "texto_traducido": " Nos vemos luego, ¿sí?<FF02><FF01>  <FF1B>Profesora Saeko<FF03>¡Gracias por todo, <FF07>!<FF02><FF04><FF1B>Profesora Saeko<FF03>Parece que ellos ya piensan en su<FF03>futuro. ¿Y tú?<FF02><FF01>  <FF1B>Profesora Saeko<FF03>¿Ya tienes un futuro en mente?<FF02><FF0E> <FF01><FF1B>Profesora Saeko<FF03>¡Qué bien!<FF02><FF04><FF1B>Profesora Saeko<FF03>Hiciste algo increíble aquí.<FF03>¡Disfruta esa sensación y échale ganas!<FF02><FF01><FF1B>Profesora Saeko<FF03>Ya veo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -34383,6 +34604,23 @@
   "raw_hex": null
  },
  {
+  "id": "e1_01673p",
+  "archivo_origen": "e1.bin",
+  "offset_inicio": 1637064,
+  "offset_fin": 1637096,
+  "longitud_original_bytes": 32,
+  "limite_chars": 16,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Ayase<FF03>Dios...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e1_01673",
   "archivo_origen": "e1.bin",
   "offset_inicio": 1637096,
@@ -34443,7 +34681,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Es una broma, ¿no,<FF03>enfermera!?<FF02><FF04><FF1B>Ayase<FF03>¡Tsutomu! ¡Te hablo!<FF02><FF04><FF1B>Ayase<FF03>Porfa",
+  "texto_traducido": " Es una broma, ¿¡no,<FF03>enfermera!?<FF02><FF04><FF1B>Ayase<FF03>¡Tsutomu! ¡Te hablo!<FF02><FF04><FF1B>Ayase<FF03>Porfa",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -37252,7 +37490,7 @@
   "offset_fin": 611068,
   "longitud_original_bytes": 3616,
   "texto_original": null,
-  "texto_traducido": " ¿¡es la Persona de Kumi!?<FF02><FF04><FF1B>Elly<FF03>¡Entonces el Hypnos que vimos en el Mundo<FF03>de los Sueños no era producto de su sueño!<FF02><FF01>   <FF1B>Kumi<FF03>¡Señor Hypnos!<FF02><FF04><FF1B>Kumi<FF03>¡Invadieron mi sueño para molestarme!<FF03>¡Por favor, aplástelos!<FF02><FF01><FF1B>Yukino<FF03>¡Hmph! Si usa una Persona, no hay<FF03>por qué contenernos!<FF02><FF04><FF1B>Yukino<FF03>¡Bien, chicos, vamos!<FF02><FF01><1400> <6015> <2816> <1019> <581B> <981C> <981D> <D01F> <E020> <A821> <C022> <9823> <A824> <C825> <B027> <A029> <A02A> <C02B> <B02C> <A82D> <502E>                                                               <FFFF><2600><FFFF><FFFF><FFFF><3000><FFFF><FFFF><FFFF><FFFF><8A00><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF> <FFFF><9827> <D810> <0811> <E010> <0811> <E810> <0811> <F010> <0811> <D80C> <0200><100B>` <6812>  <FFFF><FF00>   <F810> <1811> <9011> <B011> <2812>                                                                                                                                                                                       <FFFF> <FFFF><FFFF><0301>`i<0680>  <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF><0301>`g<0580>  <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF><0301>`d<0880>  <FFFF><FFFF>  <FF00>   <8900> <FFFF><FFFF>  <FF00>   <FFFF><FFFF><0301>`e<0680>  <2800> <FFFF><FFFF>  <FF00>   <FFFF><FFFF><0301>`g<0780>  <2900> <FFFF><FFFF>  <FF00>   <FFFF><FFFF><0301>`d<0480>  <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>",
+  "texto_traducido": " ¿¡es la Persona de Kumi!?<FF02><FF04><FF1B>Elly<FF03>¡Entonces el Hypnos que vimos en el Mundo<FF03>de los Sueños no era producto de su sueño!<FF02><FF01>   <FF1B>Kumi<FF03>¡Señor Hypnos!<FF02><FF04><FF1B>Kumi<FF03>¡Invadieron mi sueño para molestarme!<FF03>¡Por favor, aplástelos!<FF02><FF01><FF1B>Yukino<FF03>¡Hmph! ¡Si usa una Persona, no hay<FF03>por qué contenernos!<FF02><FF04><FF1B>Yukino<FF03>¡Bien, chicos, vamos!<FF02><FF01><1400> <6015> <2816> <1019> <581B> <981C> <981D> <D01F> <E020> <A821> <C022> <9823> <A824> <C825> <B027> <A029> <A02A> <C02B> <B02C> <A82D> <502E>                                                               <FFFF><2600><FFFF><FFFF><FFFF><3000><FFFF><FFFF><FFFF><FFFF><8A00><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF> <FFFF><9827> <D810> <0811> <E010> <0811> <E810> <0811> <F010> <0811> <D80C> <0200><100B>` <6812>  <FFFF><FF00>   <F810> <1811> <9011> <B011> <2812>                                                                                                                                                                                       <FFFF> <FFFF><FFFF><0301>`i<0680>  <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF><0301>`g<0580>  <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF><0301>`d<0880>  <FFFF><FFFF>  <FF00>   <8900> <FFFF><FFFF>  <FF00>   <FFFF><FFFF><0301>`e<0680>  <2800> <FFFF><FFFF>  <FF00>   <FFFF><FFFF><0301>`g<0780>  <2900> <FFFF><FFFF>  <FF00>   <FFFF><FFFF><0301>`d<0480>  <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>  <FF00>   <FFFF><FFFF>  <FF00>   <FFFF> <FFFF><FFFF>",
   "notas": "carácter repetido dominante (probable relleno gráfico)",
   "estado": "retraducido",
   "raw_hex": null,

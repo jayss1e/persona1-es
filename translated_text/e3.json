@@ -480,7 +480,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " <FFFF><FFFF>  <FF26><9400><5813> <FF60> <FF55> <3015> <FF61> <FF21>   <FF60> <FF55> <8816> <FF61> <FF21>   <FF26><9500><B013> <FF26><8B00><9813> <FF60> <FF55> <3818> <FF61> <FF21>   <FF60> <FF55> <501A> <FF61> <FF21>   <FF60> <FF55> <D01B> <FF61> <FF21>   <FF26><9500><F013> <FF60> <FF67><0401><FF55> <E81D> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <301E> <FF68> <FF61> <FF21>   <FF26><9500><3814> <FF60> <FF67><0501><FF55> <E01E> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <3020> <FF68> <FF61> <FF21>   <FF26><9500><8014> <FF60> <FF67><0301><FF55> <6820> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <0021> <FF68> <FF61> <FF21>   <FF26><9500><C814> <FF60> <FF67><0701><FF55> <A022> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <4823> <FF68> <FF61> <FF21>   <FF26><9500><1015> <FF60> <FF67><0601><FF55> <6021> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <0022> <FF68> <FF61> <FF21>   <FF1B>Estudiante ludopata<FF03><FF07>! ¡El salón frente<FF03>a la biblioteca se volvió un casino!<FF02><FF04><FF1B>Estudiante ludopata<FF03>¡Estoy súper emocionado! ¡Tú también<FF03>deberías ir a verlo!<FF02><FF01>   <FF1B>Estudiante ludopata<FF03>Mientras no estaban, este, me gasté<FF03>todo el presupuesto del club en póker",
+  "texto_traducido": " <FFFF><FFFF>  <FF26><9400><5813> <FF60> <FF55> <3015> <FF61> <FF21>   <FF60> <FF55> <8816> <FF61> <FF21>   <FF26><9500><B013> <FF26><8B00><9813> <FF60> <FF55> <3818> <FF61> <FF21>   <FF60> <FF55> <501A> <FF61> <FF21>   <FF60> <FF55> <D01B> <FF61> <FF21>   <FF26><9500><F013> <FF60> <FF67><0401><FF55> <E81D> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <301E> <FF68> <FF61> <FF21>   <FF26><9500><3814> <FF60> <FF67><0501><FF55> <E01E> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <3020> <FF68> <FF61> <FF21>   <FF26><9500><8014> <FF60> <FF67><0301><FF55> <6820> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <0021> <FF68> <FF61> <FF21>   <FF26><9500><C814> <FF60> <FF67><0701><FF55> <A022> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <4823> <FF68> <FF61> <FF21>   <FF26><9500><1015> <FF60> <FF67><0601><FF55> <6021> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <0022> <FF68> <FF61> <FF21>   <FF1B>Estudiante ludopata<FF03>¡<FF07>! ¡El salón frente<FF03>a la biblioteca se volvió un casino!<FF02><FF04><FF1B>Estudiante ludopata<FF03>¡Estoy súper emocionado! ¡Tú también<FF03>deberías ir a verlo!<FF02><FF01>   <FF1B>Estudiante ludopata<FF03>Mientras no estaban, este, me gasté<FF03>todo el presupuesto del club en póker",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1762,7 +1762,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " <ED01><FF26><9200><B812> <FF60> <FF55> <0816> <FF61> <FF21>   <FF60> <FF55> <6016> <FF61> <FF21>   <FF26><9500><6013> <FF60> <FF55> <C81D> <FF26><6E01><F812> <FF24><6E01><FF22> <2813> <FF26><6F01><1013> <FF24><6F01><FF22> <2813>   <FF26><7001><5013> <FF24><7001><FF22> <2813>   <FF3B><1A00><E813> <FF3C><1A00>` <FF81><0600><FF55> <281F> <FF61> <FF21>   <FF55> <8821> <FF61> <FF21> <FF60> <FF55> <4023> <FF26><6E01><8013> <FF24><6E01><FF22> <B013> <FF26><6F01><9813> <FF24><6F01><FF22> <B013>   <FF26><7001><D813> <FF24><7001><FF22> <B013>   <FF3B><0500><E813> <FF3C><0500>` <FF81><0600><FF55> <9025> <FF61> <FF21>   <FF55> <8026> <FF61> <FF21> <FF55> <5020> <FF61> <FF21> <FF26><9500><8014> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0A00><FF21> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0A00><FF21> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0A00><FF21> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0B00><FF21> <FF60> <FF67><3901><FF55> <1818> <FF68> <FF61> <FF2A><0B00><FF21> <FF26><9200><C814> <FF60> <FF67><0401><FF55> <7818> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <9819> <FF68> <FF61> <FF21>   <FF26><9200><1015> <FF60> <FF67><0501><FF55> <F019> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <481A> <FF68> <FF61> <FF21>   <FF26><9200><5815> <FF60> <FF67><0301><FF55> <A81A> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <001B> <FF68> <FF61> <FF21>   <FF26><9200><A015> <FF60> <FF67><0601><FF55> <601B> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <F01B> <FF68> <FF61> <FF21>   <FF26><9200><E815> <FF60> <FF67><0701><FF55> <A01C> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <481D> <FF68> <FF61> <FF21>   <FF1B>Alumno<FF03>¿Eh? ¿¡Qué onda con esta canción!?<FF02><FF01><FF1B>Alumno<FF03>Afuera todo se está yendo al diablo, pero<FF03>cuesta ponerse nervioso con esta tienda aquí.<FF02><FF01> <FF1B>Vendedor<FF03>Hola. Gracias por siempre ser amable<FF03>con mi bisnieto.<FF02><FF04><FF1B>Vendedor<FF03>Siempre lo estoy cuidando desde allá arriba.<FF03>¡Jijiji!<FF02><FF01><FF1B>Vendedor<FF03>¡Vaya! Hace bastante frío afuera, ¿verdad?<FF02><FF01> <FF1B>Yukino<FF03>¿Qué onda con el viejito? ¿Y qué quiere<FF03>decir con <0028>allá arriba<0028>?<FF02><FF04><FF1B>Yukino<FF03>Y aparte de eso, ¿por qué hay una<FF03>farmacia aquí en la escuela!?<FF02><FF01>   <FF1B>Yukino<FF03>¿De dónde salió esta tienda?<FF02><FF01>   <FF1B>Ayase<FF03>¡Uuuuuh! ¡Una rana! ¡Qué liiinda!<FF02><FF01>   <FF1B>Ayase<FF03>Quiero esta rana. ¡Cómpramela, papi!<FF02><FF01><FF1B>Nanjo<FF03>¿Por qué hay una farmacia aquí?",
+  "texto_traducido": " <ED01><FF26><9200><B812> <FF60> <FF55> <0816> <FF61> <FF21>   <FF60> <FF55> <6016> <FF61> <FF21>   <FF26><9500><6013> <FF60> <FF55> <C81D> <FF26><6E01><F812> <FF24><6E01><FF22> <2813> <FF26><6F01><1013> <FF24><6F01><FF22> <2813>   <FF26><7001><5013> <FF24><7001><FF22> <2813>   <FF3B><1A00><E813> <FF3C><1A00>` <FF81><0600><FF55> <281F> <FF61> <FF21>   <FF55> <8821> <FF61> <FF21> <FF60> <FF55> <4023> <FF26><6E01><8013> <FF24><6E01><FF22> <B013> <FF26><6F01><9813> <FF24><6F01><FF22> <B013>   <FF26><7001><D813> <FF24><7001><FF22> <B013>   <FF3B><0500><E813> <FF3C><0500>` <FF81><0600><FF55> <9025> <FF61> <FF21>   <FF55> <8026> <FF61> <FF21> <FF55> <5020> <FF61> <FF21> <FF26><9500><8014> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0A00><FF21> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0A00><FF21> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0A00><FF21> <FF60> <FF67><3901><FF55> <2817> <FF68> <FF61> <FF2A><0B00><FF21> <FF60> <FF67><3901><FF55> <1818> <FF68> <FF61> <FF2A><0B00><FF21> <FF26><9200><C814> <FF60> <FF67><0401><FF55> <7818> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <9819> <FF68> <FF61> <FF21>   <FF26><9200><1015> <FF60> <FF67><0501><FF55> <F019> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <481A> <FF68> <FF61> <FF21>   <FF26><9200><5815> <FF60> <FF67><0301><FF55> <A81A> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <001B> <FF68> <FF61> <FF21>   <FF26><9200><A015> <FF60> <FF67><0601><FF55> <601B> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <F01B> <FF68> <FF61> <FF21>   <FF26><9200><E815> <FF60> <FF67><0701><FF55> <A01C> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <481D> <FF68> <FF61> <FF21>   <FF1B>Alumno<FF03>¿Eh? ¿¡Qué onda con esta canción!?<FF02><FF01><FF1B>Alumno<FF03>Afuera todo se está yendo al diablo, pero<FF03>cuesta ponerse nervioso con esta tienda aquí.<FF02><FF01> <FF1B>Vendedor<FF03>Hola. Gracias por siempre ser amable<FF03>con mi bisnieto.<FF02><FF04><FF1B>Vendedor<FF03>Siempre lo estoy cuidando desde allá arriba.<FF03>¡Jijiji!<FF02><FF01><FF1B>Vendedor<FF03>¡Vaya! Hace bastante frío afuera, ¿verdad?<FF02><FF01> <FF1B>Yukino<FF03>¿Qué onda con el viejito? ¿Y qué quiere<FF03>decir con <0028>allá arriba<0028>?<FF02><FF04><FF1B>Yukino<FF03>Y aparte de eso, ¿¡por qué hay una<FF03>farmacia aquí en la escuela!?<FF02><FF01>   <FF1B>Yukino<FF03>¿De dónde salió esta tienda?<FF02><FF01>   <FF1B>Ayase<FF03>¡Uuuuuh! ¡Una rana! ¡Qué liiinda!<FF02><FF01>   <FF1B>Ayase<FF03>Quiero esta rana. ¡Cómpramela, papi!<FF02><FF01><FF1B>Nanjo<FF03>¿Por qué hay una farmacia aquí?",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -5371,7 +5371,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <0044> ¿Tocar la esfera de luz?<FF02><FF0E> <FF01>  <FF1B>Ayase<FF03>¡Oye! ¿Qué hiciste, <FF07>!?<FF02><FF01>  <FF1B>Yukino<FF03>¡Wow!<FF02><FF01> <FF1B>Yukino<FF03>¿Qué es esto?",
+  "texto_traducido": "<FF02><FF01>  <0044> ¿Tocar la esfera de luz?<FF02><FF0E> <FF01>  <FF1B>Ayase<FF03>¡Oye! ¿¡Qué hiciste, <FF07>!?<FF02><FF01>  <FF1B>Yukino<FF03>¡Wow!<FF02><FF01> <FF1B>Yukino<FF03>¿Qué es esto?",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -8670,7 +8670,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF04><FF1B>Mariko<FF03>Pero, tal como pensé, ya estoy<FF03>bastante cansada.<FF02><FF04><FF1B>Mariko<FF03>¡Pero esto es tan emocionante!<FF02><FF04><FF1B>Mariko<FF03><0028>Una escuela misteriosamente congelada<0028>!<FF03><0028>El regreso de los demonios<0028>!<FF02><FF04><FF1B>Mariko<FF03><0028>Las torres extrañas y la escuela que<FF03>se volvió laberinto<0028>!<FF02><FF04><FF1B>Mariko<FF03>¿Qué te parece?<FF02><FF04><FF1B>Mariko<FF03>Yo digo que es una conspiración secreta<FF03>para conquistar el mundo con brujería",
+  "texto_traducido": "<FF02><FF04><FF1B>Mariko<FF03>Pero, tal como pensé, ya estoy<FF03>bastante cansada.<FF02><FF04><FF1B>Mariko<FF03>¡Pero esto es tan emocionante!<FF02><FF04><FF1B>Mariko<FF03>¡<0028>Una escuela misteriosamente congelada<0028>!<FF03>¡<0028>El regreso de los demonios<0028>!<FF02><FF04><FF1B>Mariko<FF03>¡<0028>Las torres extrañas y la escuela que<FF03>se volvió laberinto<0028>!<FF02><FF04><FF1B>Mariko<FF03>¿Qué te parece?<FF02><FF04><FF1B>Mariko<FF03>Yo digo que es una conspiración secreta<FF03>para conquistar el mundo con brujería",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -10961,6 +10961,23 @@
   "raw_hex": null
  },
  {
+  "id": "e3_00387p",
+  "archivo_origen": "e3.bin",
+  "offset_inicio": 486088,
+  "offset_fin": 486146,
+  "longitud_original_bytes": 58,
+  "limite_chars": 29,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Brown<FF03>¡No... no, no, no...!",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e3_00387",
   "archivo_origen": "e3.bin",
   "offset_inicio": 486146,
@@ -11176,7 +11193,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF02><FF01>  <FF1B>Espíritu del estudiante<FF03>¡Por favor, huyan! ¡Tienen que seguir viviendo!<FF02><FF01> <FF1B>Ayase<FF03>¿H-Huir? ¿¡Pero cómo!?<FF02><FF01>  <FF1B>Espíritu del estudiante<FF03>Usaremos el poder que nos queda para<FF03>sacarlos a todos de la escuela.<FF02><FF01><FF1B>Yukino<FF03>¡No podemos huir así nada más con la cola<FF03>entre las patas! ¡Ni loca, yo me quedo...!<FF02><FF01> <FF1B>Profesora Saeko<FF03>¡Ya regresa! ¡No hay tiempo!<FF03>¿Estás lista?<FF02><FF04><FF1B>Profesora Saeko<FF03><FF07>! ¡Dejo a todos en<FF03>tus manos! Por favor",
+  "texto_traducido": "<FF02><FF01>  <FF1B>Espíritu del estudiante<FF03>¡Por favor, huyan! ¡Tienen que seguir viviendo!<FF02><FF01> <FF1B>Ayase<FF03>¿H-Huir? ¿¡Pero cómo!?<FF02><FF01>  <FF1B>Espíritu del estudiante<FF03>Usaremos el poder que nos queda para<FF03>sacarlos a todos de la escuela.<FF02><FF01><FF1B>Yukino<FF03>¡No podemos huir así nada más con la cola<FF03>entre las patas! ¡Ni loca, yo me quedo...!<FF02><FF01> <FF1B>Profesora Saeko<FF03>¡Ya regresa! ¡No hay tiempo!<FF03>¿Estás lista?<FF02><FF04><FF1B>Profesora Saeko<FF03>¡<FF07>! ¡Dejo a todos en<FF03>tus manos! Por favor",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -12898,6 +12915,23 @@
   "texto_original": null,
   "texto_traducido": "Bueno, supongo que es parte de esas<FF03>pequeñeces que no hay que preocuparse.<FF02><FF01>  <FF1B>Elly<FF03>Dicen que ese niño es un mercader<FF03>de la muerte del mundo de los demonios.<FF02><FF01><0800> <6815> <F81B> <881C> <901D> <181E> <601E> <D81E> <0020>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     <FFFF><FFFF><FFFF><FFFF><FFFF><9D00><FFFF><FFFF><FFFF><FFFF><7C00><FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><0300><FFFF><DE17> <D810> <0811> <E010> <0811> <E810> <F010> <0011> <0811> <D80C>  <0A08>` <FFFF><FFFF> ",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e3_00500p",
+  "archivo_origen": "e3.bin",
+  "offset_inicio": 640176,
+  "offset_fin": 640218,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Vendedor<FF03>Pasen...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -15166,6 +15200,23 @@
   "raw_hex": null
  },
  {
+  "id": "e3_00616p",
+  "archivo_origen": "e3.bin",
+  "offset_inicio": 775344,
+  "offset_fin": 775386,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Vendedor<FF03>Pasen...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
   "id": "e3_00616",
   "archivo_origen": "e3.bin",
   "offset_inicio": 775386,
@@ -17078,6 +17129,23 @@
   "texto_original": null,
   "texto_traducido": "<FF02><FF01>   <FF1B>Elly<FF03>Me pregunto qué piensa hacer ese niño<FF03>con las ganancias",
   "notas": "",
+  "estado": "retraducido",
+  "raw_hex": null
+ },
+ {
+  "id": "e3_00710p",
+  "archivo_origen": "e3.bin",
+  "offset_inicio": 910512,
+  "offset_fin": 910554,
+  "longitud_original_bytes": 42,
+  "limite_chars": 21,
+  "tokens_protegidos": [
+   "<FF1B>",
+   "<FF03>"
+  ],
+  "texto_original": null,
+  "texto_traducido": "<FF1B>Vendedor<FF03>Pasen...",
+  "notas": "inicio de mensaje fuera del extractor (tools/registros_previos.py)",
   "estado": "retraducido",
   "raw_hex": null
  },
@@ -20759,7 +20827,7 @@
   "offset_fin": 176458,
   "longitud_original_bytes": 1158,
   "texto_original": null,
-  "texto_traducido": " <E801><FF81><8100><FF81><8600><FF81><6700><FF21> <FF26><2401><1015> <FF60> <FF67><0401><FF55> <2019> <FF68> <FF67><0001><FF55> <5819> <FF54> <3015> <FF54>`<2816> <FF60> <FF67><0001><FF55> <5819> <FF54> <3015> <FF54>`<2816> <FF68> <FF61> <FF4D><1E00><FF81><4500><FF6C><0700><FF4D><3C00><FF26><2401><7015> <FF60> <FF67><0501><FF55> <9819> <FF68> <FF61> <FF22> <7015> <FF6D><0700><FF6C><0800><FF4D><1E00><FF6D><0800><FF6C><0900><FF4D><3C00><FF26><2401><B015> <FF60> <FF67><0402><FF55> <E019> <FF68> <FF61> <FF22> <B015> <FF81><3E00><FF6C><0F00><FF24><2401><FF66> <FF66>`<FF66><0200><FF26><8900><E015> <FF66><0400><FF66><0500><FF22> <0816> <FF26><2900><F815> <FF66><0300><FF66><0400><FF22> <0816> <FF66><0300><FF66><0500><FF22> <0816> <FF6C><0A00><FF6C>`<FF27><0300><FF81><F200><FF2B><2203><0200> <FF21>   <FF68> <FF61> <FF27><0300><FF21> <FF26><2401><6016> <FF60> <FF67><0401><FF55> <001A> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <381A> <FF68> <FF61> <FF21>   <FF26><2401><A816> <FF60> <FF67><0501><FF55> <E01A> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <201B> <FF68> <FF61> <FF21>   <FF26><8900><E816> <FF22> <2817> <FF26><2401><0817> <FF22> <E816> <FF60> <FF67><0301><FF55> <781B> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <F81B> <FF68> <FF61> <FF21>   <FF26><2A01><7017> <FF3B><AA00><7017> <FF60> <FF67><0301><FF55> <781C> <FF3C><AA00>` <FF24><2A01><FF68> <FF81><0600><FF55> <781E> <FF61> <FF21>   <FF24><2A01><FF60> <FF67><0301><FF55> <C01E> <FF68> <FF61> <FF21> <FF26><2800><B017> <FF22> <F017> <FF26><2401><D017> <FF22> <B017> <FF60> <FF67><0601><FF55> <B81F> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <4820> <FF68> <FF61> <FF21>   <FF26><2A01><3818> <FF3B><3700><3818> <FF60> <FF67><0601><FF55> <D820> <FF68> <FF3C><3700>` <FF24><2A01><FF81><0600><FF55> <8023> <FF61> <FF21>   <FF24><2A01><FF60> <FF67><0601><FF55> <C823> <FF68> <FF61> <FF21> <FF26><2900><7818> <FF22> <B818> <FF26><2401><9818> <FF22> <7818> <FF60> <FF67><0701><FF55> <6024> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <9824> <FF68> <FF61> <FF21>   <FF26><2A01><0019> <FF3B><5400><0019> <FF60> <FF67><0701><FF55> <C824> <FF68> <FF3C><5400>` <FF24><2A01><FF81><0600><FF55> <C026> <FF61> <FF21>   <FF24><2A01><FF60> <FF67><0701><FF55> <0827> <FF68> <FF61> <FF21> <FF1B>Yukino<FF03><FF07>! Ten cuidado",
+  "texto_traducido": " <E801><FF81><8100><FF81><8600><FF81><6700><FF21> <FF26><2401><1015> <FF60> <FF67><0401><FF55> <2019> <FF68> <FF67><0001><FF55> <5819> <FF54> <3015> <FF54>`<2816> <FF60> <FF67><0001><FF55> <5819> <FF54> <3015> <FF54>`<2816> <FF68> <FF61> <FF4D><1E00><FF81><4500><FF6C><0700><FF4D><3C00><FF26><2401><7015> <FF60> <FF67><0501><FF55> <9819> <FF68> <FF61> <FF22> <7015> <FF6D><0700><FF6C><0800><FF4D><1E00><FF6D><0800><FF6C><0900><FF4D><3C00><FF26><2401><B015> <FF60> <FF67><0402><FF55> <E019> <FF68> <FF61> <FF22> <B015> <FF81><3E00><FF6C><0F00><FF24><2401><FF66> <FF66>`<FF66><0200><FF26><8900><E015> <FF66><0400><FF66><0500><FF22> <0816> <FF26><2900><F815> <FF66><0300><FF66><0400><FF22> <0816> <FF66><0300><FF66><0500><FF22> <0816> <FF6C><0A00><FF6C>`<FF27><0300><FF81><F200><FF2B><2203><0200> <FF21>   <FF68> <FF61> <FF27><0300><FF21> <FF26><2401><6016> <FF60> <FF67><0401><FF55> <001A> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <381A> <FF68> <FF61> <FF21>   <FF26><2401><A816> <FF60> <FF67><0501><FF55> <E01A> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <201B> <FF68> <FF61> <FF21>   <FF26><8900><E816> <FF22> <2817> <FF26><2401><0817> <FF22> <E816> <FF60> <FF67><0301><FF55> <781B> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <F81B> <FF68> <FF61> <FF21>   <FF26><2A01><7017> <FF3B><AA00><7017> <FF60> <FF67><0301><FF55> <781C> <FF3C><AA00>` <FF24><2A01><FF68> <FF81><0600><FF55> <781E> <FF61> <FF21>   <FF24><2A01><FF60> <FF67><0301><FF55> <C01E> <FF68> <FF61> <FF21> <FF26><2800><B017> <FF22> <F017> <FF26><2401><D017> <FF22> <B017> <FF60> <FF67><0601><FF55> <B81F> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <4820> <FF68> <FF61> <FF21>   <FF26><2A01><3818> <FF3B><3700><3818> <FF60> <FF67><0601><FF55> <D820> <FF68> <FF3C><3700>` <FF24><2A01><FF81><0600><FF55> <8023> <FF61> <FF21>   <FF24><2A01><FF60> <FF67><0601><FF55> <C823> <FF68> <FF61> <FF21> <FF26><2900><7818> <FF22> <B818> <FF26><2401><9818> <FF22> <7818> <FF60> <FF67><0701><FF55> <6024> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <9824> <FF68> <FF61> <FF21>   <FF26><2A01><0019> <FF3B><5400><0019> <FF60> <FF67><0701><FF55> <C824> <FF68> <FF3C><5400>` <FF24><2A01><FF81><0600><FF55> <C026> <FF61> <FF21>   <FF24><2A01><FF60> <FF67><0701><FF55> <0827> <FF68> <FF61> <FF21> <FF1B>Yukino<FF03>¡<FF07>! Ten cuidado",
   "notas": "carácter repetido dominante (probable relleno gráfico)",
   "estado": "retraducido",
   "raw_hex": null,

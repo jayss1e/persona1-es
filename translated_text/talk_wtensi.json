@@ -1870,7 +1870,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " saludo?<FFFD><5FFF><F500> El Señor puede tener alguna razón oculta<FF03>para tus actos",
+  "texto_traducido": " ¿saludo?<FFFD><5FFF><F500> El Señor puede tener alguna razón oculta<FF03>para tus actos",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1950,7 +1950,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": " saludo?<FFFD><62FF><F500> Rebosas de confianza.<FF03>Si alguna vez surge la ocasión,<FF03>quisiera medirme contigo.<FFF5> Ahora entiendo tu fuerza",
+  "texto_traducido": " ¿saludo?<FFFD><62FF><F500> Rebosas de confianza.<FF03>Si alguna vez surge la ocasión,<FF03>quisiera medirme contigo.<FFF5> Ahora entiendo tu fuerza",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -3502,7 +3502,7 @@
    "<FFEC>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5> <FFEB>Soy <FFF3>!<FF03>¿Y bien? Ya debes estar dispuesto a dar<FF03>una ofrenda.<FFF1><FFF5>  <FFEC>Ah",
+  "texto_traducido": "<FFF5> <FFEB>¡Soy <FFF3>!<FF03>¿Y bien? Ya debes estar dispuesto a dar<FF03>una ofrenda.<FFF1><FFF5>  <FFEC>Ah",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -7445,7 +7445,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5>   ¡Ah! Así que te asusta el rostro<FF03>de un <FFF3>!<FFF5>Agh",
+  "texto_traducido": "<FFF5>   ¡Ah! ¡Así que te asusta el rostro<FF03>de un <FFF3>!<FFF5>Agh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -7499,7 +7499,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": " me equivoqué? Entonces deberías hacer<FF03>una ofrenda.<FFF1><FFF5>¡Es deplorable seguir con estas mentiras<FF03>después de todo! ¡Avergüénzate!<FFF5>Ay, vaya",
+  "texto_traducido": " ¿me equivoqué? Entonces deberías hacer<FF03>una ofrenda.<FFF1><FFF5>¡Es deplorable seguir con estas mentiras<FF03>después de todo! ¡Avergüénzate!<FFF5>Ay, vaya",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -8165,7 +8165,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5> Ya veo.<FFF5> ¡Gaaaaaaaaah!<FFF5>   ¡Gaaaaaaaaah!<FFF5>   Déjame en paz.<FFF5>¿Te sorprendí?<FFF5> No es magia.<FFF5>  Entonces te escucho.<FFF5>  Entonces te escucho.<FFF5>  No es asunto tuyo.<FFF5> Está bien.<FFF5> No lo oigo.<FFF5>   Vencer demonios<FFF5>  Rezar<FFF5>   Rezar<FFF5>   Recoger basura<FFF5>  Moverse<FFF5>   No moverse<FFF5> Arrodillarse<FFF5>  Arrodillarse<FFF5>  Acercarse<FFF5> Obedecer<FFF5>   Sonrisa burlona<FFF5>  Sonrisa burlona<FFF5>  ¡Entonces haz un donativo!<FFF5>  ¡Entonces haz un donativo!<FFF5>  Está bien.<FFF5> ¡No!<FFF5>Sí.<FFF5>  No.<FFF5>   Lo olvidé.<FFF5>  Lo olvidé.<FFF5>  Hazlo, por favor.<FFF5>  Entonces olvídalo.<FFF5>¡Cállate!<FFF5>   Yo también lo creo.<FFF5>   Yo también lo creo.<FFF5>   No creo.<FFF5>  No entiendo.<FFF5>Voy de paso.<FFF5>   Entonces me rindo.<FFF5>   Qué <0028>antigua serpiente<0028>?<FFF5>Así que te enteraste.<FFF5>  Qué cruel",
+  "texto_traducido": "<FFF5> Ya veo.<FFF5> ¡Gaaaaaaaaah!<FFF5>   ¡Gaaaaaaaaah!<FFF5>   Déjame en paz.<FFF5>¿Te sorprendí?<FFF5> No es magia.<FFF5>  Entonces te escucho.<FFF5>  Entonces te escucho.<FFF5>  No es asunto tuyo.<FFF5> Está bien.<FFF5> No lo oigo.<FFF5>   Vencer demonios<FFF5>  Rezar<FFF5>   Rezar<FFF5>   Recoger basura<FFF5>  Moverse<FFF5>   No moverse<FFF5> Arrodillarse<FFF5>  Arrodillarse<FFF5>  Acercarse<FFF5> Obedecer<FFF5>   Sonrisa burlona<FFF5>  Sonrisa burlona<FFF5>  ¡Entonces haz un donativo!<FFF5>  ¡Entonces haz un donativo!<FFF5>  Está bien.<FFF5> ¡No!<FFF5>Sí.<FFF5>  No.<FFF5>   Lo olvidé.<FFF5>  Lo olvidé.<FFF5>  Hazlo, por favor.<FFF5>  Entonces olvídalo.<FFF5>¡Cállate!<FFF5>   Yo también lo creo.<FFF5>   Yo también lo creo.<FFF5>   No creo.<FFF5>  No entiendo.<FFF5>Voy de paso.<FFF5>   Entonces me rindo.<FFF5>   ¿Qué <0028>antigua serpiente<0028>?<FFF5>Así que te enteraste.<FFF5>  Qué cruel",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null

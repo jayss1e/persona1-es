@@ -51,7 +51,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5> ¡No es fácil conquistarme, sabes!<FF03>No soy un <FFF0>!<FFF5>  Jiu",
+  "texto_traducido": "<FFF5> ¡No es fácil conquistarme, sabes!<FF03>¡No soy un <FFF0>!<FFF5>  Jiu",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -369,7 +369,7 @@
   "limite_chars": 18,
   "tokens_protegidos": [],
   "texto_original": null,
-  "texto_traducido": " Qué truco tan viejo",
+  "texto_traducido": " Qué truco viejo",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -407,7 +407,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": " Eso no es<FF03>muy bueno, señor.<FFFD><0AFF><F500>  ¡Jiu jiu! ¿Eh? ¿Qué es eso? ¡Se ve<FF03>más rico que las piedras de vida!<FFF5>   ¡Uuuurrrgh! ¡No te burles de mí, rico<FF03>tonto! ¡No quiero esas cosas!<FF02><FF04>¡Quiero otra cosa!<FFF1><FFF5>  Uuuh, eso me gusta. ¿Me lo vas a<FF03>dar? ¡Uujejeje!<FFFD><0BFF><F500>   ¡Jiu jiu! Debes ser racionalista,<FF03>señor. Me caen bien esos tipos.<FFF5>   ¡Uuuurrrrgh! Cómo te atreves a hablar<FF03>tanto de <FFF0>!?<FFFD><0CFF><F500>  ¡Uujejeje! ¡Tienes toda la razón, señor!<FFF5>¡Jiu jiu! E-Eso fue genial",
+  "texto_traducido": " Eso no es<FF03>muy bueno, señor.<FFFD><0AFF><F500>  ¡Jiu jiu! ¿Eh? ¿Qué es eso? ¡Se ve<FF03>más rico que las piedras de vida!<FFF5>   ¡Uuuurrrgh! ¡No te burles de mí, rico<FF03>tonto! ¡No quiero esas cosas!<FF02><FF04>¡Quiero otra cosa!<FFF1><FFF5>  Uuuh, eso me gusta. ¿Me lo vas a<FF03>dar? ¡Uujejeje!<FFFD><0BFF><F500>   ¡Jiu jiu! Debes ser racionalista,<FF03>señor. Me caen bien esos tipos.<FFF5>   ¡Uuuurrrrgh! ¿¡Cómo te atreves a hablar<FF03>tanto de <FFF0>!?<FFFD><0CFF><F500>  ¡Uujejeje! ¡Tienes toda la razón, señor!<FFF5>¡Jiu jiu! E-Eso fue genial",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -616,7 +616,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": " <0056>escalofrío<0056><FFF5>  ¡Doy más miedo que esa historia! Oye,<FF03>cuéntame otra.<FFFD><12FF><F500>   ¡Vaya, señora! ¡Qué buen acento<FF03>estadounidense! ¿Vienes del mismo<FF03>lugar que yo?<FFF5>  ¡Uuuurrrrgh! ¡No me gusta nada<FF03>más que el rap! ¡Anda, suelta rimas!<FFFD><13FF><F500>   ¡Uujejejeje! ¡Qué linda canción!<FFF5> ¡Jiu jiu! Dices cosas muy<FF03>lindas, señora.<FFF5>  ¡Uuuurrrgh! ¡No soy un niño como<FF03>crees!<FFF5>  ¡Uuujejejeje! ¿Quieres portarte como bebé<FF03>también? ¡Entre más, mejor!<FFFD><14FF><F500>  ¡Jiu jiu! También debe ser duro para ti,<FF03>señora. Quizá la próxima, si estoy libre,<FF03>me animo.<FFF5>¡No es fácil conquistarme, sabes!<FF03>No soy un <FFF0>!<FFF5>  ¡Uujejeje! ¡Parece que aún sirvo!<FF03>¡Uujejejejejeje!<FFF5>  ¡Jiu jiu! ¡Tienes estilo, señora!<FF02><FF04>¡No <FFF0> podría decir cosas<FF03>tan horribles!<FFF5>  ¡No te burles de mí, tonta!<FFF5>   Ay",
+  "texto_traducido": " <0056>escalofrío<0056><FFF5>  ¡Doy más miedo que esa historia! Oye,<FF03>cuéntame otra.<FFFD><12FF><F500>   ¡Vaya, señora! ¡Qué buen acento<FF03>estadounidense! ¿Vienes del mismo<FF03>lugar que yo?<FFF5>  ¡Uuuurrrrgh! ¡No me gusta nada<FF03>más que el rap! ¡Anda, suelta rimas!<FFFD><13FF><F500>   ¡Uujejejeje! ¡Qué linda canción!<FFF5> ¡Jiu jiu! Dices cosas muy<FF03>lindas, señora.<FFF5>  ¡Uuuurrrgh! ¡No soy un niño como<FF03>crees!<FFF5>  ¡Uuujejejeje! ¿Quieres portarte como bebé<FF03>también? ¡Entre más, mejor!<FFFD><14FF><F500>  ¡Jiu jiu! También debe ser duro para ti,<FF03>señora. Quizá la próxima, si estoy libre,<FF03>me animo.<FFF5>¡No es fácil conquistarme, sabes!<FF03>¡No soy un <FFF0>!<FFF5>  ¡Uujejeje! ¡Parece que aún sirvo!<FF03>¡Uujejejejejeje!<FFF5>  ¡Jiu jiu! ¡Tienes estilo, señora!<FF02><FF04>¡No <FFF0> podría decir cosas<FF03>tan horribles!<FFF5>  ¡No te burles de mí, tonta!<FFF5>   Ay",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1300,7 +1300,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Eres de esos tipos<FF03>que",
+  "texto_traducido": " ¿Eres de esos tipos<FF03>que",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null

@@ -88,7 +88,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": " Qué ganas con<FF03>desafiar a <FFF3>?<FFF5> ¡Uuuurh! ¡Siento ira! <FFF3><FF03>hará que ese cuerpo sea de<FF03><FFF3>!<FFF5>   Es divertido amenazar a <FFF3><FF03>sin un lugar al cual llamar hogar",
+  "texto_traducido": " ¿Qué ganas con<FF03>desafiar a <FFF3>?<FFF5> ¡Uuuurh! ¡Siento ira! <FFF3><FF03>hará que ese cuerpo sea de<FF03><FFF3>!<FFF5>   Es divertido amenazar a <FFF3><FF03>sin un lugar al cual llamar hogar",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -763,7 +763,7 @@
    "<FFF3>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5>   ¡No des por hecho el cuerpo vivo!<FF03><FFF3> sabe de inmediato cuando<FF03>¡el cuerpo vivo miente!<FFF5> ¡Uiii! ¡Hombre vivo tiene razón!<FF03><FFF3> es <0028>genial<0028>!<FFF5>   <FFF3> ve",
+  "texto_traducido": "<FFF5>   ¡No des por hecho el cuerpo vivo!<FF03><FFF3> sabe de inmediato cuando<FF03>¡el cuerpo vivo miente!<FFF5> ¡Uiii! ¡Hombre vivo tiene razón!<FF03>¡<FFF3> es <0028>genial<0028>!<FFF5>   <FFF3> ve",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -934,7 +934,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5>¡Uuuurhh! ¡No mientas, hombre vivo!<FF03>No menosprecies a <FFF3>!<FFF5>¡Uiii! ¡De eso sí vale la pena hablar!<FF03>Debería engañar a los recién muertos.<FFF5>  ¡Uuuurhh!<FF03><FFF3> ¡no le teme a nada!<FF03>¡Urrhh! ¡No subestimes!<FFF5>  Augh",
+  "texto_traducido": "<FFF5>¡Uuuurhh! ¡No mientas, hombre vivo!<FF03>¡No menosprecies a <FFF3>!<FFF5>¡Uiii! ¡De eso sí vale la pena hablar!<FF03>Debería engañar a los recién muertos.<FFF5>  ¡Uuuurhh!<FF03><FFF3> ¡no le teme a nada!<FF03>¡Urrhh! ¡No subestimes!<FFF5>  Augh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1190,7 +1190,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5>   ¡Uuuurhhh!<FF03>Qué quieres de <FFF3>?<FF03>¡No lo dirá!<FFF5> ¡Uiii! ¡Creía imposible conquistar<FF03>a una mujer viva!<FFF5>  Mujer viva",
+  "texto_traducido": "<FFF5>   ¡Uuuurhhh!<FF03>¿Qué quieres de <FFF3>?<FF03>¡No lo dirá!<FFF5> ¡Uiii! ¡Creía imposible conquistar<FF03>a una mujer viva!<FFF5>  Mujer viva",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1319,7 +1319,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>Es divertido amenazar a <FFF3>?<FFF5>   Deja de provocar <FFF3>!<FF03>¡Esto no es distinto de cuando<FF03><FFF3> vivía!<FFF5>   Augh",
+  "texto_traducido": "<FF03>¿Es divertido amenazar a <FFF3>?<FFF5>   ¡Deja de provocar <FFF3>!<FF03>¡Esto no es distinto de cuando<FF03><FFF3> vivía!<FFF5>   Augh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -1877,7 +1877,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>Pero <FFF3> tiene frío.<FF03>Dale algo cálido.<FFF1><FFF5>   ¡Uuuurhh! El cuerpo vivo no tiene<FF03>que meterse con <FFF3>!<FFF5>  ¡Uuurh! No le interesa esa historia.<FF03>¡Le interesa el calor! ¡Dale calor!<FFF1><FFF5> Augh",
+  "texto_traducido": "<FF03>Pero <FFF3> tiene frío.<FF03>Dale algo cálido.<FFF1><FFF5>   ¡Uuuurhh! ¡El cuerpo vivo no tiene<FF03>que meterse con <FFF3>!<FFF5>  ¡Uuurh! No le interesa esa historia.<FF03>¡Le interesa el calor! ¡Dale calor!<FFF1><FFF5> Augh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -2027,7 +2027,7 @@
    "<FF03>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5> <FFF3> ¡será útil!<FF03>¡De verdad!<FFF5>   Los vivos se atreven a enojar a <FFF3>?<FF03>Hombre vivo es raro",
+  "texto_traducido": "<FFF5> <FFF3> ¡será útil!<FF03>¡De verdad!<FFF5>   ¿Los vivos se atreven a enojar a <FFF3>?<FF03>Hombre vivo es raro",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -2072,7 +2072,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": " <FFF3><FF03>aceptará algo que muestre cuánto<FF03>quieren los vivos a <FFF3>.<FFF1><FFF5> ¡Uuuurhhh!<FF03>Provocar a <FFF3>!?<FF03>¡Jamás perdonará!<FFF5>  ¡Uuurrhh! <FFF3> ¡está enojado!<FF03>Se acaba el tiempo para suplicar.<FFF1><FFF5>Augh",
+  "texto_traducido": " <FFF3><FF03>aceptará algo que muestre cuánto<FF03>quieren los vivos a <FFF3>.<FFF1><FFF5> ¡Uuuurhhh!<FF03>¿¡Provocar a <FFF3>!?<FF03>¡Jamás perdonará!<FFF5>  ¡Uuurrhh! <FFF3> ¡está enojado!<FF03>Se acaba el tiempo para suplicar.<FFF1><FFF5>Augh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -2185,7 +2185,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FF03>Mejor tomará algo.<FFF1><FFF5>  ¡Uuuuurh! ¿Y qué?<FF03>¡Fue aburrido y desagradable!<FFF5>   ¿Los vivos quieren ver la<FF03>ira de <FFF3>!?<FF03>¡Ahora, paga por desviarlo!<FFF1><FFF5>   Augh",
+  "texto_traducido": "<FF03>Mejor tomará algo.<FFF1><FFF5>  ¡Uuuuurh! ¿Y qué?<FF03>¡Fue aburrido y desagradable!<FFF5>   ¿¡Los vivos quieren ver la<FF03>ira de <FFF3>!?<FF03>¡Ahora, paga por desviarlo!<FFF1><FFF5>   Augh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -3488,7 +3488,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5>   No subestimen a <FFF3>!<FFF5> Augh",
+  "texto_traducido": "<FFF5>   ¡No subestimen a <FFF3>!<FFF5> Augh",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -3564,7 +3564,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": "<FFF5> ¡Los vivos!<FF03>No subestimen a <FFF3>!<FFF5> No",
+  "texto_traducido": "<FFF5> ¡Los vivos!<FF03>¡No subestimen a <FFF3>!<FFF5> No",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
@@ -3632,7 +3632,7 @@
    "<FFF5>"
   ],
   "texto_original": null,
-  "texto_traducido": " Los vivos son raros.<FFF5>  ¡Los vivos son tan codiciosos!<FFF5>  Los vivos deben amar a <FFF4>!<FFF5><FFF3> quiere la energía vital<FF03>de la carne viva. Se conformará con<FF03>una sola porción.<FFEF>   ¡Uiiii! ¡Qué cálido! ¡Qué delicioso!<FFF5>  ¿¡Los vivos creen que no es posible<FF03>para <FFF0>!? ¡Humanos malvados!<FFF5>  Solo quería un poco",
+  "texto_traducido": " Los vivos son raros.<FFF5>  ¡Los vivos son tan codiciosos!<FFF5>  ¡Los vivos deben amar a <FFF4>!<FFF5><FFF3> quiere la energía vital<FF03>de la carne viva. Se conformará con<FF03>una sola porción.<FFEF>   ¡Uiiii! ¡Qué cálido! ¡Qué delicioso!<FFF5>  ¿¡Los vivos creen que no es posible<FF03>para <FFF0>!? ¡Humanos malvados!<FFF5>  Solo quería un poco",
   "notas": "",
   "estado": "retraducido",
   "raw_hex": null
