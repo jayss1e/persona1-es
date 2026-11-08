@@ -1,0 +1,54 @@
+name: Reportar un error
+description: Texto mal traducido, cortado o en inglés, o algo que falla en el juego.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Gracias por reportar. No subas la ISO ni archivos del juego, con una captura basta."
+  - type: dropdown
+    id: version_juego
+    attributes:
+      label: Versión del juego
+      options:
+        - USA (ULUS-10432)
+        - Europa de PSN (NPEH-00069)
+    validations:
+      required: true
+  - type: input
+    id: version_parche
+    attributes:
+      label: Versión del parche
+      placeholder: "v1.4"
+    validations:
+      required: true
+  - type: dropdown
+    id: plataforma
+    attributes:
+      label: Dónde lo juegas
+      options:
+        - PPSSPP
+        - PSP
+        - PS Vita
+        - Otro
+    validations:
+      required: true
+  - type: textarea
+    id: que_paso
+    attributes:
+      label: Qué pasó
+      description: Si es un texto, escribe cómo sale y, si puedes, cómo debería decir.
+    validations:
+      required: true
+  - type: textarea
+    id: donde
+    attributes:
+      label: Dónde pasó
+      description: Lugar del juego, personaje o menú, para poder encontrarlo.
+      placeholder: "En la escuela, hablando con..."
+    validations:
+      required: true
+  - type: textarea
+    id: captura
+    attributes:
+      label: Captura
+      description: Arrastra aquí la imagen. Ayuda mucho a encontrar el texto.
