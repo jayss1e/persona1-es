@@ -81,6 +81,10 @@ La retraducción, las herramientas nuevas y los arreglos se hicieron con ayuda d
 - Persona y Shin Megami Tensei son propiedad de Atlus y SEGA. Este proyecto no está afiliado a ellos ni lo respaldan.
 - Si Atlus o SEGA piden quitar algo, se quita.
 
+## Si te gustó
+
+Puedes darle una estrella al repo, arriba a la derecha. Ayuda a que más gente lo encuentre. Y si ves algo raro jugando, [abre un issue](https://github.com/jayss1e/persona1-es/issues/new/choose) con una captura.
+
 ## Créditos
 
 - **Traducción original y herramientas base:** [Jose-Chavez96](https://github.com/Jose-Chavez96) (`Quete_importa`).
