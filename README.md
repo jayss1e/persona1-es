@@ -17,6 +17,7 @@ Este proyecto continúa la [traducción de Jose-Chavez96](https://github.com/Jos
 - **Acentos, ñ, ¿ y ¡.** La fuente del juego no los traía. Se dibujaron las letras nuevas y se agregaron al EBOOT.
 - **Interfaz:** menús, nombres de objetos, equipo y habilidades, descripciones y mensajes de sistema.
 - **Texto dibujado en imágenes**, como las etiquetas de los menús, la tienda y los resultados de batalla.
+- **Subtítulos en las cinemáticas**, como parche aparte. Las 11 escenas animadas con diálogo (unos 9 minutos) traen subtítulos en español.
 - **Bugs del parche original arreglados:** pedazos de diálogo en inglés entre frases, punteros de diálogo descuadrados, frases cortadas en las negociaciones, entre otros.
 
 Algunos nombres van abreviados ("Inc. Fue.") o se quedan en inglés (la serie Jagd, Sturm y Spiegel), porque el juego solo deja escribir cada nombre en el espacio que ocupaba el inglés.
@@ -33,6 +34,8 @@ Algunos nombres van abreviados ("Inc. Fue.") o se quedan en inglés (la serie Ja
    Si el MD5 no coincide con ninguno, el parche no aplica. Las dos versiones llevan la misma traducción.
 
 2. Descarga el parche de tu versión desde [Releases](https://github.com/jayss1e/persona1-es/releases/latest).
+
+   **Si quieres las cinemáticas con subtítulos**, baja en su lugar `persona_es_usa_subtitulos.xdelta` o `persona_es_full_subtitulos.xdelta`. Traen la misma traducción más los videos subtitulados, y se aplican igual, a la ISO original. Pesan unos 190 MB porque llevan los videos completos. Con el parche normal, las cinemáticas se oyen en inglés sin subtítulos, como en el juego original.
 
 3. Aplícalo con xdelta:
    - **Windows:** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) o xdelta UI. Eliges la ISO original, el parche y dónde guardar la nueva.
@@ -58,6 +61,8 @@ bash tools/compilar_todo.sh
 
 `restaurar` lee de tu ISO el texto original de cada registro, los archivos de menú y fuente, el EBOOT y el inglés de las tablas de la interfaz y de los calabozos. `compilar_todo.sh` arma `rebuilt/persona_es_full.iso` y `patches/persona_es_full.xdelta`. La traducción se trabaja sobre la versión europea, así que para compilar siempre hace falta esa ISO. Si además defines `PERSONA_ISO_USA`, al final `tools/port_usa.py` pasa los cambios a la versión USA y arma `patches/persona_es_usa.xdelta`.
 
+Al final arma también los parches con subtítulos (`*_subtitulos.xdelta`). Para eso necesitas `ffmpeg` con `libx264` y `libass`. La primera vez tarda unos minutos porque recodifica los videos, y luego los guarda en `rebuilt/videos/`. Con `PERSONA_SIN_SUBTITULOS=1` se omite este paso.
+
 ### Dónde está cada cosa
 
 | Carpeta | Qué tiene |
@@ -67,6 +72,7 @@ bash tools/compilar_todo.sh
 | `_eboot/` | Traducción de la interfaz: menús, objetos, habilidades y mensajes |
 | `_dng/tabla.tsv` | Mensajes de los calabozos y mapas, como puertas cerradas |
 | `_tex/imagenes_es.json` | Etiquetas de las imágenes de los menús |
+| `subtitulos/es/` | Subtítulos de las cinemáticas, en `.srt` |
 | `scripts/`, `tools/` | Herramientas para extraer, reinsertar, verificar y compilar |
 | `glossary.json`, `glosario_hablantes.json` | Nombres y términos fijos |
 

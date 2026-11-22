@@ -17,6 +17,11 @@
 # Si además está PERSONA_ISO_USA con la ruta de la ISO USA (ULUS-10432), al final
 # corre tools/port_usa.py, que deja rebuilt/persona_es_usa.iso y
 # patches/persona_es_usa.xdelta.
+#
+# Después arma los parches con las cinemáticas subtituladas, aparte porque pesan
+# unos 190 MB: patches/persona_es_full_subtitulos.xdelta y, con PERSONA_ISO_USA,
+# patches/persona_es_usa_subtitulos.xdelta. Los videos se codifican una vez y se
+# guardan en rebuilt/videos/. Con PERSONA_SIN_SUBTITULOS=1 se omiten.
 set -euo pipefail
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 ISO_EN="${PERSONA_ISO_EU:?falta PERSONA_ISO_EU con la ruta de la ISO europea}"
@@ -55,4 +60,18 @@ ls -l "$XD"
 if [ -n "${PERSONA_ISO_USA:-}" ]; then
   echo "== port a la versión USA"
   python3 tools/port_usa.py
+fi
+
+# Parches con subtítulos: copia de cada ISO terminada con los videos recodificados.
+if [ -z "${PERSONA_SIN_SUBTITULOS:-}" ]; then
+  echo "== parches con subtítulos en las cinemáticas"
+  for v in full usa; do
+    if [ "$v" = full ]; then ORIG="$ISO_EN"; else ORIG="${PERSONA_ISO_USA:-}"; fi
+    [ -n "$ORIG" ] && [ -f "rebuilt/persona_es_$v.iso" ] || continue
+    \cp -f "rebuilt/persona_es_$v.iso" "rebuilt/persona_es_${v}_subtitulos.iso"
+    python3 tools/subtitular.py "rebuilt/persona_es_${v}_subtitulos.iso" | tail -1
+    xdelta3 -e -9 -f -s "$ORIG" "rebuilt/persona_es_${v}_subtitulos.iso" "patches/persona_es_${v}_subtitulos.xdelta"
+    md5sum "rebuilt/persona_es_${v}_subtitulos.iso"
+    ls -l "patches/persona_es_${v}_subtitulos.xdelta"
+  done
 fi

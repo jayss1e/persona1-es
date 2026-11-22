@@ -37,6 +37,8 @@ _dng/pendientes.tsv
 # El parche SÍ se publica (son solo diferencias, no datos originales)
 !patches/persona_es_full.xdelta
 !patches/persona_es_usa.xdelta
+# Los parches con subtítulos pesan ~190 MB: van solo en el release, no en el repo
+patches/*_subtitulos.xdelta
 
 # Python
 __pycache__/
@@ -50,3 +52,6 @@ xdelta3
 *.tmp
 *.log
 *.bak
+
+# Transcripción en inglés de las cinemáticas (texto del juego)
+subtitulos/en/

@@ -1,0 +1,24 @@
+1
+00:00:10,550 --> 00:00:11,800
+Bienvenido.
+
+2
+00:00:11,850 --> 00:00:13,950
+Es un placer conocerte.
+
+3
+00:00:14,800 --> 00:00:16,500
+Soy Philemon,
+
+4
+00:00:17,150 --> 00:00:21,800
+el que mora entre la conciencia
+y el inconsciente.
+
+5
+00:00:21,850 --> 00:00:24,650
+Y ahora, una simple prueba.
+
+6
+00:00:24,700 --> 00:00:26,850
+¿Puedes decirme tu nombre?
